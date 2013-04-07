@@ -1,0 +1,12 @@
+Data Sources
+
+- Canadian frequency allocation:
+  http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf09686.html
+  
+- CB frequencies
+  http://en.wikipedia.org/wiki/Citizens_Band_radio
+  
+- Radio controlled aircraft frequencies
+  http://en.wikipedia.org/wiki/Radio-controlled_aircraft#Frequencies_and_sub-channels  
+  
+  
