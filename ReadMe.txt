@@ -12,4 +12,9 @@ This should NOT be considered a primary source for this information. You
 should always check official sources for accurate data about allocation and
 usage requirements.
 
+Also remember, that any radio transmission requires an appropriate license
+and in all cases you should be are of local regulation of the air waves.
+
+Contributions are welcome and are appreciated.
+
 

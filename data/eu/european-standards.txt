@@ -1,0 +1,113 @@
+EN 300 065 NAVTEX
+EN 300 066 e.i.r.p.s operating in the 406.0 to 406.1 MHz
+EN 300 086 Radio equipment with an internal or external RF connector intended primarily for analogue speech
+EN 300 113 Radio equipment intended for the transmission of data (and speech) and having an antenna connector
+EN 300 135 Angle-modulated Citizens Band radio equipment (CEPT PR 27 Radio Equipment)
+EN 300 152 Maritime EPIRBs intended for use on freq 121.5 MHz or freqs 121.5 MHz and 243 MHz for homing purposes only
+EN 300 162 Radiotelephone transmitters and receivers for the maritime mobile service operating in VHF bands
+EN 300 219 Radio equipment transmitting signals to initiate a specific response in the receiver
+EN 300 220 Radio equipment to be used in the 25 to 1000 MHz frequency range with power levels ranging up to 500 mW
+EN 300 224 Electromagnetic compatibility and Radio spectrum Matters (ERM); On-site paging service
+EN 300 296 Land Mobile Service; Radio equipment using integral antennas intended primarily for analogue speech
+EN 300 328 Data transmission equipment operating in the 2.4 GHz ISM band and using spread spectrum modulation techniques
+EN 300 330 Radio equipment in 9 kHz to 25 MHz and inductive loop systems in 9 kHz to 30 MHz
+EN 300 341 Radio equipm using an integral antenna transmitting signals to initiate a specific response in the receiver
+EN 300 373 Maritime mobile transmitters and receivers for use in the MF and HF bands
+EN 300 390 Radio equipment intended for the transmission of data (and speech) and using an integral antenna
+EN 300 422 Wireless microphones in the 25 MHz to 3 GHz frequency range
+EN 300 433 Double Side Band and/or Single Side Band amplitude modulated citizen's band radio equipment
+EN 300 440 Radio equipment to be used in the 1 to 40 GHz frequency range
+EN 300 471 Rules for Access and the Sharing of common used channels by equipment complying with EN ... ...
+EN 300 609 (GSM); Base Station System (BSS) equipment specification
+EN 300 674 DSRC transmission equipment (500 kbit/s/250 kbit/s) operating in the 5.8 GHz
+EN 300 676 Ground-based VHF hand-held, mobile/fixed radio transmitters, receivers/transceivers for the VHF aeronautical
+EN 300 698 Radio telephone transmitters/receivers for the maritime mobile service operating in the VHF bands
+EN 300 718 Avalanche Beacons; Transmitter-receiver systems
+EN 300 720 Electromagnetic compatibility and Radio Spectrum Matters, UHF on-board communications systems and equipment
+EN 300 761 Automatic Vehicle Identification (AVI) for railways operating in the 2.45 GHz frequency range
+EN 301 025 VHF radiotelephone equipment for general communications and associated equipment for Class "D" DSC
+EN 301 091 Radar equipment operating in the 76 GHz to 77 GHz range
+EN 301 166 Radio equipment for analogue and/or digital comm (speech and/or data) and operating on narrow band channels
+EN 301 178 VHF radiotelephone equipment for the maritime mobile service operating in VHF (non-GMDSS appls only)
+EN 301 357 Cordless audio devices in the range 25 MHz to 2000 MHz
+EN 301 360 SIT and SUT transmitting towards geostationary satellites in the 27.5-29.5 GHz
+EN 301 406 Digital Enhanced Cordless Telecommunications (DECT)
+EN 301 426 LMES and MMES not intended for distress and safety communications operating in the 1.5/1.6 GHz
+EN 301 427 Low data rate MESs except aeronautical mobile satellite earth stations, operating in the 11/12/14 GHz
+EN 301 428 (VSAT) Transmit-only, transmit/receive or receive-only satellite earth stations operating in the 11/12/14 GHz
+EN 301 430 Satellite News Gathering Transportable Earth Stations (SNG TES) operating in the 11-12/13-14 GHz
+EN 301 441 MESs, including handheld earth stations, for S-PCN in the 1.6/2.4 GHz bands under MSS
+EN 301 442 MESs, including handheld earth stations, for S-PCN in the 2.0 GHz bands under MSS
+EN 301 443 Transmit-only, transmit-and-receive, receive-only satellite earth stations operating in the 4 GHz and 6 GHz
+EN 301 444 LMES operating in the 1.5 GHz and 1.6 GHz bands providing voice and/or data communications
+EN 301 447 Satellite Earth Stations on board Vessels (ESVs) operating in the 4/6 GHz frequency bands allocated to FSS
+EN 301 449 CDMA spread spectrum base stations operating in 450 MHz cellular band (CDMA 450) & 410, 450, 870 MHz PAMR
+EN 301 459 SIT and SUT transmitting towards satellites in geostationary orbit in the 29.5 to 30.0 GHz
+EN 301 473 AES operating under AMSS/MSS and/or the AMS(R)S), MSS
+EN 301 502 Global System for Mobile communications (GSM); Base Station and Repeater equipment
+EN 301 511 Harmonized EN for mobile stations in the GSM 900 and GSM 1800 bands covering essential requirements
+EN 301 526 CDMA spread spectrum mobile stations operating in 450 MHz cellular band and 410, 450, 870 MHz PAMR
+EN 301 559 LP-AMI operating in the frequency range 2483.5 to 2500 MHz
+EN 301 681 MESs of Geostationary mobile sat systs, incl handheld earth stations, for SPCN in the 1.5/1.6 GHz under MSS
+EN 301 721 MES providing Low Bit Rate Data Communications using LEO satellites operating below 1 GHz
+EN 301 783 Land Mobile Service; Commercially available amateur radio equipment
+EN 301 839 ULP-AMI and Peripherals operating in the frequency range 402-405 MHz
+EN 301 893 Broadband Radio Access Networks (BRAN); 5 GHz high performance RLAN
+EN 301 908 Base Stations (BS), Repeaters and User Equipment (UE) for IMT-2000 ThirdGeneration cellular networks
+EN 301 929 VHF transmitters and receivers as Coast Stations for GMDSS and other appls in the maritime mobile service
+EN 301 997 Radio equipment for use in Multimedia Wireless Systems (MWS) in the frequency band 40.5 GHz to 43.5 GHz
+EN 302 017 Transmitting equipment for the Amplitude Modulated (AM) sound broadcasting service
+EN 302 018 Transmitting equipment for the Amplitude Modulated (AM) sound broadcasting service
+EN 302 054 Radiosondes to be used in the 400.15 to 406 MHz frequency range with power levels ranging up to 200 mW
+EN 302 064 Wireless Video Links (WVL) operating in the 1.3 GHz to 50 GHz
+EN 302 065 SRD using Ultra Wide Band technology (UWB) for communications purposes
+EN 302 077 Transmitting equipment for the Terrestrial - Digital Audio Broadcasting (T-DAB) service
+EN 302 152 Satellite Personal Locator Beacons (PLBs) operating in the 406.0 MHz to 406.1 MHz
+EN 302 186 Satellite mobile Aircraft Earth Stations (AESs) operating in the 11/12/14 GHz
+EN 302 194 Navigation radar used on inland waterways
+EN 302 195 Radio equipment in the frequency range 9 kHz to 315 kHz for ULP-AMI and accessories
+EN 302 208 Radio Frequency Identification Equipment operating in the band 865 to 868 MHz with power levels up to 2 W
+EN 302 217 Characteristics and requirements for point-to-point equipment and antennas
+EN 302 245 Transmitting equipment for the Digital Radio Mondiale (DRM) broadcasting service
+EN 302 248 Navigation radar for use on non-SOLAS vessels
+EN 302 264 Short Range Radar equipment operating in 77-81 GHz
+EN 302 288 Short range radar equipment operating in the 24 GHz range
+EN 302 296 Digital television broadcast service, terrestrial (DVB-T)
+EN 302 297 Transmitting equipment for the analogue television broadcasting service
+EN 302 326 Multipoint Equipment and Antennas
+EN 302 340 Satellite Earth Stations on board Vessels (ESVs) operating in the 11/12/14 GHz bands allocated to FSS
+EN 302 372 Tank Level Probing Radar (TLPR) operating in the frequency bands 5.8 GHz, 10 GHz, 25 GHz, 61 GHz and 77 GHz
+EN 302 426 CDMA spread spectrum repeaters operating in 450 MHz cellular band and 410 MHz, 450 MHz, 870 MHz PAMR
+EN 302 448 Earth Stations on Trains (ESTs) operating in the 14/12 GHz frequency bands
+EN 302 454 Radiosondes to be used in the 1 668.4 MHz to 1 690 MHz frequency range
+EN 302 480 GSM onboard aircraft system
+EN 302 502 5.8 GHz fixed broadband data transmitting systems
+EN 302 510 Radio equipment in the range 30-37.5 MHz for Ultra Low Power Active Medical Membrane Implants and Accessories
+EN 302 536 Radio equipment in the frequency range 315 kHz to 600 kHz
+EN 302 537 Ultra Low Power Medical Data Service Systems operating in the frequency range 401-402 MHz and 405-406 MHz
+EN 302 544 Broadband Data Transmission systems operating in the 2500-2690 MHz frequency band
+EN 302 561 Using constant or non-constant envelope modulation in a channel bandwith of 25 kHz, 50 kHz, 100 kHz, 150 kHz
+EN 302 567 60 GHz Multiple-Gigabit WAS/RLAN Systems
+EN 302 571 Radiocommunications equipment operating in the 5855 MHz to 5925 MHz frequency band
+EN 302 574 Satellite earth station for MSS operating in 1980-2010 MHz (E/s) and 2170-2200 MHz (s/E) frequency bands
+EN 302 608 Radio equipment for Eurobalise railway systems
+EN 302 609 Radio equipment for Euroloop railway systems
+EN 302 617 Ground-based UHF radio transmitters, receivers and transceivers for the UHF aeronautical mobile service
+EN 302 623 BWA equipment in the 3.4-3.8 GHz frequency range
+EN 302 625 5 GHz BroadBand Disaster Relief applications (BBDR)
+EN 302 645 Short Range Devices; Global Navigation Satellite Systems (GNSS) Repeaters
+EN 302 686 ITS; Radiocommunications equipment operating in the 63 to 64 GHz frequency band
+EN 302 729 LPR equipment operating in the frequency ranges 6.0-8.5 GHz, 24.05-26.5 GHz, 57-64 GHz, 75-85 GHz
+EN 302 752 Active Radar Target Enchancers
+EN 302 774 BWA in the 3400-3800 MHz frequency band
+EN 302 858 SRR equipment in the 24.05-24.25 GHz range for automotive application
+EN 302 961 Maritime Personal Homing Beacon for search and rescue purposes intended for use on the frequency 121.5 MHz
+EN 302 977 Vehicle-Mounted Earth stations (VMES) operating 14/12 GHz frequency bands
+EN 302 998 Transmitting equipment for terrestrial mobile TV provide multimedia multicast service
+EN 303 084 Ground Based Augmentation System (GBAS) VHF ground-air Data Broadcast (VDB)
+EN 303 098 Maritime low power personal locating devices employing AIS
+EN 303 135 Coastal Survelliance, Vessel Traffic Systems and Harbour Radars
+EN 303 203 Medical Body Area Network Systems (MBANS) operating in the 2483.5 MHz to 2500 MHz range
+EN 303 213 Advanced Surface Movement Guidance and Control System
+EN 303 978 ESOMP transmitting towards satellites in geostationary orbit in the 27.5-30.0 GHz frequency bands
+EN 305 550 Radio equipment to be used in the 40 GHz to 246 GHz frequency range

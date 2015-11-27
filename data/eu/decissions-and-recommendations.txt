@@ -1,0 +1,104 @@
+ECC/DEC/(13)03 on the harmonised use of the frequency band 1452-1492 MHz for Mobile/Fixed Communications Networks Supplemental Downlink (MFCN SDL)
+ECC/DEC/(13)01 on the use, free circulation, and exemption from individual licensing of Earth stations on mobile platforms (ESOMPs) in the frequency bands available for use by uncoordinated FSS Earth stations within the ranges 17.3-20.2 GHz and 27.5-30.0 GHz
+ECC/DEC/(12)03 on the harmonised conditions for UWB applications onboard aircraft
+ECC/DEC/(11)06 on harmonised frequency arrangements for mobile/fixed communications networks (MFCN operating in the bands 3400-3600 MHz and 3600-3800 MHz
+ECC/DEC/(11)04 on Exemption from individual licensing of digital terminals of narrowband and wideband PMR/PAMR/PPDR systems and free circulation and use of digital terminals of narrowband and wideband PPDR systems operating in the 80 MHz, 160 MHz, 380-470 MHz and 800/900 MHz bands
+ECC/DEC/(11)03 on the harmonised use of frequencies for Citizen' Band (CB) radio equipment
+ECC/DEC/(11)02 on industrial Level Probing Radars (LPR) operating in frequency bands 6 - 8.5 GHz, 24.05 - 26.5 GHz, 57 - 64 GHz and 75 - 85 GHz
+ECC/DEC/(11)01 on the protection of the Earth exploration satellite service (passive) in the 1400-1427 MHz band
+ECC/DEC/(10)02 on compatibility between the fixed satellite service in the 30-31 GHz band and the Earth exploration satellite service (passive) in the 31.3-31.5 GHz band
+ECC/DEC/(10)01 on sharing conditions in the 10.6-10.68 GHz band between the fixed service, mobile service and Earth exploration satellite service (passive)
+ECC/DEC/(09)04 on exemption from individual licensing and the free circulation and use of transmit-only mobile satellite terminals operating in the Mobile-Satellite Service allocations in the 1613.8-1626.5 MHz band
+ECC/DEC/(09)03 on harmonised conditions for Mobile/Fixed Communications Networks (MFCN) operating in the band 790-862 MHz
+ECC/DEC/(09)02 on the harmonisation of the bands 1610-1626.5 MHz and 2483.5-2500 MHz for use by systems in the Mobile-Satellite Service
+ECC/DEC/(09)01 on the harmonised use of the 63-64 GHz frequency band for Intelelligent Transport Systems (ITS)
+ECC/DEC/(08)08 on the harmonised use of GSM system on board vessels in the frequency bands 880-915/925-960 MHz and 1710-1785/1805-1880 MHz
+ECC/DEC/(08)05 on the harmonisation of frequency bands for the implementation of digital Public Protection and Disaster Relief (PPDR) radio applications in bands within the 380-470 MHz range
+ECC/DEC/(08)01 on the harmonised use of the 5875-5925 MHz frequency band for Intelligent Transport Systems (ITS)
+ECC/DEC/(07)02 on availability of frequency bands between 3400-3800 MHz for the Harmonised implementation of Broadband Wireless Access systems (BWA)
+ECC/DEC/(06)13 on designation of the bands 880-915 MHz, 925-960 MHz, 1710-1785 MHz and 1805-1880 MHz for terrestrial IMT-2000/UMTS systems
+ECC/DEC/(06)10 on transitional arrangements for the Fixed Service and tactical radio relay systems in the bands 1980-2010 MHz and 2170-2200 MHz in order to facilitate the harmonised introduction and development of systems in the Mobile Satellite Service including those supplemented by a Complementary Ground Component
+ECC/DEC/(06)09 on the designation of the bands 1980-2010 MHz and 2170-2200 MHz for use by systems in the Mobile-Satellite Service including those supplemented by a Complementary Ground Component (CGC)
+ECC/DEC/(06)07 on the harmonised use of airborne GSM systems in the frequency bands 1710-1785 MHz and 1805-1880 MHz
+ECC/DEC/(06)06 on the availability of frequency bands for the introduction of Narrow Band Digital Land Mobile PMR/PAMR in the 80 MHz, 160 MHz and 400 MHz bands
+ECC/DEC/(06)05 on the harmonised frequency bands to be designated for Air-Ground-Air operation (AGA) of the Digital Land Mobile Systems for the Emergency Services ECC/DEC/(06)04 on the harmonised conditions for devices using Ultra-Wideband (UWB) technology in bands below 10.6 GHz
+ECC/DEC/(06)03 on Exemption from Individual Licensing of High e.i.r.p. Satellite Terminals (HEST) with e.i.r.p. above 34 dBW operating within the frequency bands 10.70 - 12.75 GHz or 19.70 - 20.20 GHz space-to-Earth and 14.00 - 14.25 GHz or 29.50 - 30.00 GHz Earth-to-space
+ECC/DEC/(06)02 on Exemption from Individual Licensing of Low e.i.r.p. Satellite Terminals (LEST) operating within the frequency bands 10.70–12.75 GHz or 19.70–20.20 GHz space-to-Earth and 14.00–14.25 GHz or 29.50–30.00 GHz Earth-to-Space
+ECC/DEC/(06)01 on the harmonised utilisation of spectrum for terrestrial IMT-2000/UMTS systems operating within the bands1900-1980 MHz, 2010-2025 MHz and 2110-2170 MHz
+ECC/DEC/(05)12 on harmonised frequencies, technical characteristics, exemption from individual licensing and free carriage and use of digital PMR 446 applications operating in the frequency band 446.1-446.2 MHz
+ECC/DEC/(05)11 on the free circulation and use of Aircraft Earth Stations (AES) in the frequency bands 14-14.5 GHz (Earth-to-space), 10.7-11.7GHz (space-to-Earth) and 12.5-12.75 GHz (space-to-Earth)
+ECC/DEC/(05)10 on the free circulation and use of Earth Stations on board Vessels operating in fixed satellite service networks in the frequency bands 14-14.5 GHz (Earth-tospace), 10.7-11.7 GHz (space-to-Earth) and 12.5-12.75 GHz (space-to-Earth)
+ECC/DEC/(05)09 on the free circulation and use of Earth Stations on board Vessels operating in Fixed Satellite service networks in the frequency bands 5925-6425 MHz (Earthto-space) and 3700-4200 MHz (space-to-Earth)
+ECC/DEC/(05)08 on the availability of frequency bands for high density applications in the FixedSatellite Service (space-to-Earth and Earth-to-space)
+ECC/DEC/(05)02 - A harmonised frequency plan for the use of the band 169.4-169.8125 MHz
+ECC/DEC/(05)01 on the use of the band 27.5-29.5 GHz by the Fixed Service and uncoordinated Earth stations of the Fixed-Satellite Service (Earth-to-space)
+ECC/DEC/(04)10 on the frequency bands to be designated for the temporary introduction of Automotive Short Range Radars (SRR)
+ECC/DEC/(04)09 on designation of the bands 1518-1525 MHz and 1670-1675 MHz for the Mobile Satellitte Service
+ECC/DEC/(04)08 on the harmonised use of the 5 GHz frequency bands for the implementation of Wireless Access Systems including Radio Local Area Networks (WAS/RLANs)
+ECC/DEC/(04)06 on the availability of frequency bands for the introduction of Wide Band Digital Land Mobile PMR/PAMR in the 400 MHz and 800/900 MHz bands
+ECC/DEC/(04)03 on the frequency band 77-81 GHz to be designated for the use of Automotive Short Range Radars
+ECC/DEC/(02)05 on the designation and availability of frequency bands for railway purposes in the 876-880 MHz and 921-925 MHz bands
+ECC/DEC/(02)04 on the use of the band 40.5 – 42.5 GHz by terrestrial (fixed service/ broadcasting service) systems and uncoordinated Earth stations in the fixed satellite service and broadcasting-satellite service (space to Earth)
+ERC/DEC/(99)17 on the Automatic Identification and Surveillance system (AIS) channels in the maritime VHF band
+ERC/DEC/(99)15 on the designation of the harmonised frequency band 40.5 to 43.5 GHz for the introduction of Multimedia Wireless Systems (MWS) and Point-to-Point (P-P) Fixed Wireless Systems
+ERC/DEC/(99)06 on the harmonised introduction of satellite personal communication systems operating in the bands below 1 GHz (S-PCS<1GHz)
+ERC/DEC/(98)25 on the harmonised frequency band to be designated for PMR 446
+ERC/DEC/(97)02 on the extended frequency bands to be used for the GSM Digital Pan-European Communications system
+ERC/DEC/(95)03 on the frequency bands to be designated for the introduction of DCS 1800
+ERC/DEC/(94)03 on the frequency band to be designated for the coordinated introduction of the Digital European Cordless Telecommunications system
+ERC/DEC/(94)01 on the frequency bands to be designated for the coordinated introduction of the GSM digital pan-European communications system
+ERC/DEC/(01)19 on harmonised frequency bands to be designated for the Direct Mode Operation (DMO) of the Digital Land Mobile Systems for the Emergency Services
+ERC/DEC/(01)17 on harmonised frequencies, technical characteristics and exemption from individual licensing of Ultra Low Power Active Medical Implant (ULP-AMI) communication systems operating in the frequency band 401-406 MHz on a secondary basis
+ERC/DEC/(01)12 on harmonised frequencies, technical characteristics and exemption from individual licensing of Short Range Devices used for Model control operating in the frequencies 40.665, 40.675, 40.685 and 40.695 MHz
+ERC/DEC/(01)11 on harmonised frequencies, technical characteristics and exemption from individual licensing of Short Range Devices used for Flying Model control operating in the frequency band 34.995-35.225 MHz
+ERC/DEC/(01)08 on harmonised frequencies, technical characteristics and exemption from individual licensing of Short Range Devices used for Movement Detection and Alert operating in the frequency band 2400-2483.5 MHz
+ERC/DEC/(00)08 on the use of the band 10.7 - 12.5 GHz by the fixed service and Earth stations of the broadcasting-satellite and fixed-satellite Service (space-to-Earth)
+ERC/DEC/(00)07 on the shared use of the band 17.7 - 19.7 GHz by the fixed service and Earth stations of the fixed-satellite service (space-to-Earth)
+ERC/DEC/(00)02 on the use of the band 37.5 - 40.5 GHz by the fixed service and Earth stations of the fixed - satellite service (space to Earth)
+ECC/REC/(14)06 IImplementation of Fixed Service Point-to-Point narrow channels (3.5 MHz, 1.75 MHz, 0.5 MHz, 0.25 MHz, 0.025 MHz) in the guard bands and center gaps of the lower 6 GHz (5925-6425 MHz) and upper 6 GHz (6425-7125 MHz) bands
+ECC/REC/(14)04 Cross-border coordination for mobile/fixed communications networks (MFCN) and between MFCN and other systems in the frequency band 2300-2400 MHz
+ECC/REC/(14)01 Radio frequency channel arrangements for fixed service systems operating in the band 92-95 GHz
+ECC/REC/(11)10 Location Tracking Application for emergency and disaster situations
+ECC/REC/(11)09 UWB Location Tracking Systems Type 2 (LT2)
+ECC/REC/(11)08 Framework for authorisation regime of indoor global navigation satellite system (GNSS) pseudolites in the band 1559-1610 MHz
+ECC/REC/(11)05 Frequency planning and frequency coordination for terrestrial systems for Mobile/Fixed Communication Networks (MFCN) capable of providing electronic communications services in the frequency band 2500-2690 MHz
+ECC/REC/(11)01 Guidelines for assignment of frequency blocks for Fixed Wireless Systems in the bands 24.5-26.5 GHz, 27.5-29.5 GHz and 31.8-33.4 GHz
+ECC/REC/(10)02 A framework for authorisation regime of Global Navigation Satellite System (GNSS) repeaters
+ECC/REC/(10)01 Guidelines for compatibility between Complementary Ground Components (CGC) operating in the band 2170-2200 MHz and EESS/SOS/SRS earth stations operating in the band 2200-2290 MHz
+ECC/REC/(09)01 Use of the 57-64 GHz frequency band for point-to-point Fixed Wireless Systems
+ECC/REC/(08)04 The identification of frequency bands for the implementation of Broad Band Disaster Relief (BBDR) radio applications in the 5 GHz frequency range
+ECC/REC/(08)02 Frequency planning and frequency coordination for GSM / UMTS / LTE / WiMAX Land Mobile systems operating within the 900 and 1800 MHz bands
+ECC/REC/(08)01 Use of the band 5855-5875 MHz for Intelligent Transport Systems (ITS)
+ECC/REC/(06)04 Use of the band 5725-5875 MHz for Broadband Fixed Wireless Access (BFWA)
+ECC/REC/(05)08 Frequency planning and frequency coordination for the GSM 900, GSM 1800, E-GSM and GSM-R Land Mobile Systems
+ECC/REC/(05)07 Radio frequency channel arrangements for Fixed Service Systems operating in the bands 71-76 GHz and 81-86 GHz
+ECC/REC/(05)02 Use of the 64-66 GHz frequency band for Fixed Service
+ECC/REC/(04)05 Guidelines for accommodation and assignment of Multipoint Fixed Wireless systems in frequency bands 3.4-3-6 GHz and 3.6-3-8 GHz
+ECC/REC/(02)09 Protection of Aeronautical Radio Navigation Service in the band 2700-2900 MHz from interference caused by the operation of Digital Cordless Cameras
+ECC/REC/(02)06 Preferred channel arrangements for digital Fixed Service Systems operating in the frequency range 7125-8500 MHz
+ECC/REC/(02)02 Preferred channel arrangements for fixed service systems (point-to-point and point-to-multipoint) operating in the frequency band 31.0-31.3 GHz
+ECC/REC/(01)04 Recommended guidelines for the accommodation and assignment of multimedia wireless systems (MWS) and point-to-point (P-P) fixed wireless systems in the frequency band 40.5 - 43.5 GHz
+ERC/REC/(01)02 Preferred channel arrangement for digital FS systems operating in the band 31.8-33.4 GHz
+ERC/REC/(01)01 Border coordination of UMTS
+ERC/REC/(00)04 Harmonised frequencies and free circulation and use for meteor scatter applications
+ERC/REC 70-03 Relating to the Use of Short Range Devices (SRD)
+ERC/REC 62-02 Harmonised frequency band for civil and military airborne telemetry applications
+ERC/REC 25-10 Frequency ranges for the use of temporary terrestrial Audio and Video SAP/SAB links (incl. ENG/OB)
+ERC/REC 14-03 Harmonised radio frequency channel arrangements for low and medium capacity systems in the band 3400 MHz to 3600 MHz
+ERC/REC 14-02 Radio-frequency channel arrangements for high, medium and low capacity digital Fixed Service systems operating in the band 6425-7125 MHz
+ERC/REC 14-01 Radio-frequency channel arrangements for high capacity analogue and digital radio-relay systems operating in the band 5925-6425 MHz
+ERC/REC 13-03 The use of the band 14.0 - 14.5 GHz for Very Small Aperture Terminals (VSAT) and Satellite News Gathering (SNG)
+ERC/REC 12-12 Radio frequency channel arrangement for fixed service systems operating in the band 55.78-57.0 GHz
+ERC/REC 12-11 Radio frequency channel arrangement for fixed service systems operating in the band 51.4-52.6 GHz
+ERC/REC 12-10 Harmonised radio frequency arrangements for digital systems operating in the band 48.5-50.2 GHz
+ERC/REC 12-08 Harmonised radio frequency channel arrangements and block allocations for low, medium and high capacity systems in the band 3600 MHz to 4200 MHz
+ERC/REC 12-07 Harmonised radio frequency channel arrangements for digital terrestrial fixed systems operating in the band 14.5 - 14.62 GHz paired with 15.23 - 15.35 GHz
+ERC/REC 12-06 Preferred channel arrangements for fixed service systems operating in the frequency band 10.7-11.7 GHz
+ERC/REC 12-05 Harmonised radio frequency channel arrangements for digital terrestrial fixed systems operating in the band 10.0 - 10.68 GHz
+ERC/REC 12-03 Harmonised radio frequency channel arrangements for digital terrestrial fixed systems operating in the band 17.7 GHz to 19.7 GHz
+ERC/REC 12-02 Harmonised radio frequency channel arrangements for analogue and digital terrestrial fixed systems operating in the band 12.75 GHz to 13.25 GHz
+T/R 32-02 on frequencies to be used by on-board communication stations
+T/R 25-08 on planning criteria and coordination of frequencies in the land mobile service in the range 29.7-921 MHz
+T/R 13-02 Preferred channel arrangements for fixed service systems in the frequency range 22.0-29.5 GHz
+T/R 13-01 on preferred channel arrangements for fixed service systems operating in the frequency range 1-2-3 GHz
+T/R 12-01 Harmonised radio frequency channel arrangements for analogue/digital terrestrial FS operating in 37-39.5 GHz

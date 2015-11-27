@@ -1,0 +1,5 @@
+region	sub-regions
+itu	itu-region1, itu-region2, itu-region3
+itu-region1	al, dz, ad, ao, am, at, az, bh, by, be, bj, ba, bw, bg, bf, bi, cm, cv, cf, td, km, cg, ci, hr, cy, cz,  dk, dj, eg, gq, er, ee, et, fi, fr, ga, gm, ge, de, gh, gr, gn, gw, hu, is, iq, ie, il, it, jo, ke, kw, kg, lv, lb, ls, lr, ly, li, lt, lu, mg, mw, ml, mt, mr, mu, md, mc, mn, ma, mz, na, nl, ne, ng, no, om, pl, pt, qa, ro, ru, rw, sm, st, sa, sn, sl, sk, si, so, za, es, sd, sz, se, ch, sy, tj, tz, tg, tn, tr, tm, ug, ua, ae, gb, uz, va, ye, zm, zw
+itu-region2	ag, ar, bs, bb, bz, bo, br, ca, cl, co, dm, cr, cu, do, ec, sv, gd, gt, gy, ht, hn, jm, mx, ni, pa, py, pe, vc, sr, tt, us, uy, ve
+itu-region3	af, au, bd, bt, bn, kh, cn, fj, in, id, ir, jp, ki, kp, la, my, mv, mh, fm, mm, nr, np, nz, pk, pg, ph, sg, sb, lk, th, to, tv, vu, vn, ws

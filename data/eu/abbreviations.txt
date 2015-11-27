@@ -1,0 +1,137 @@
+(OR) Off-Route
+(R) Route
+1800 Global System for Mobile Communications using 1800 MHz band
+AGA Air Ground Air
+AIS Automatic Identification System
+AMS(R)S Aeronautical Mobile Satellite (Route) Services
+APP Appendix of the ITU Radio Regulations
+AVI Automatic Vehicle Idenfication
+BBDR Broad Band Disaster Relief
+BFWA Broadband Fixed Wireless Access
+BMA Building Material Analysis
+BSS Broadcasting Satellite Service
+BWA Broadband Wireless Access
+CB Citizen Band
+CEPT European Conference of Postal and Telecommunications
+Administrations
+CGC Complementary Ground Component
+CRS Central Radio Station
+DEC Decision
+DECT Digital Enhanced Cordless Telecommunication
+DME Distance Measuring Equipment
+DMO Direct Mode Operation
+DSC Digital Selective Calling
+DSI Detailed Spectrum Investigation
+DVB-T Terrestrial Digital Video Broadcasting
+E/s Earth-to-space direction
+ECA European Common Allocation
+ECC Electronic Communications Committee
+ECM Electronic Countermeasures
+ECP European Common Proposal
+EESS Earth Exploration-Satellite Service
+EFIS European Frequency Information System
+EGSM Extended GSM
+EISCAT European Incoherent SCATter facility
+ENG Electronic News Gathering
+EPIRB Emergency Position-Indicating Radiobeacon
+ERC European Radiocommunications Committee
+ERO European Radiocommunications Office
+ESOMPs Earth Stations On Mobile Platforms
+EST Earth Stations on Trains
+EU EUropean footnote
+FB Base station (fixed base)
+FDD Frequency Division Duplex
+FM Frequency Modulation
+FSS Fixed-Satellite Service
+FWA Fixed Wireless Access
+GE75 Geneva 1975 Agreement
+GE85 Geneva 1985 Agreement
+GLONASS Global Navigation Satellite System
+GMDSS Global Maritime Distress and Safety System
+GNSS Global Navigation Satellite System
+GPR/WPR Ground Probing Radar / Wall Probing Radar
+GPS Global Positioning System
+GSM Global System for Mobile Communications
+GSM 1800 Global System for Mobile Communications using 1800 MHz band
+GSM-R GSM for Railways
+HAPS High Altitude Platform Systems
+HDFS High Density Fixed Service
+HDFSS High Density Fixed-Satellite Service
+HDTV High Definition Television
+HEST High E.i.r.p. Satellite Terminals
+HF High Frequency
+HIPERLAN High Performance Radio Local Area Network
+IALA International Association of Lighthouse Authorities
+IBCN Integrated Broadband Communications Network
+ILS Instrument Landing System
+IMO International Maritime Organisation
+IMT International Mobile Telecommunications
+ISM Industrial, Scientific and Medical
+ITS Intelligent Transport Systems
+ITU International Telecommunication Union
+JTIDS Joint Tactical Information Distribution System
+LAES Location Application for Emergency Services
+LDC Low Duty Cycle
+LEST Low E.i.r.p. Satellite Terminals
+LP-AMI Low Power Active Medical Implants
+LPR Level Probing Radar
+LT2 Location Tracking Type 2
+MBANS Medical Body Area Network Systems
+MCA Mobile Communications Services on Board Aircraft
+MCV Mobile Communication Services on Board Vessels
+MES Mobile Earth Stations
+MFCN Mobile/Fixed Communications Networks
+MIDS Multifunctional Information Distribution System
+ML Mobile Link (Mobile station transmits)
+MLS Microwave Landing System
+MSI Maritime Safety Information
+MSS Mobile-Satellite Service
+MWS Multimedia Wireless System
+NATO North Atlantic Treaty Organisation
+NAVTEX Narrow-band direct-printing telegraphy system for transmission of navigational and meteorological warnings and urgent information to ships
+NDB Non-Directional Beacon
+NJFA NATO Joint Civil/Military Frequency Agreement
+OB Outside Broadcasting
+ODC Object Discrimination and Characterisation
+PAMR Public Access Mobile Radio
+PKO Peace Keeping Operations
+PMR Professional Mobile Radio, Private Mobile Radio
+PPDR Public Protection and Disaster Relief
+PWAP Private Wide Area Paging
+RA Radio Astronomy
+REC Recommendation
+RFID Radio Frequency Identification
+RLANS Radio Local Area Network System
+RR ITU Radio Regulations
+s/E space-to-Earth direction
+SAB Services Ancillary to Broadcasting
+SAP Services Ancillary to Programming
+SAR(communications) Search and Rescue
+S-DAB Satellite Digital Audio Broadcasting
+SIT Satellite Interactive Terminal
+SNG Satellite News Gathering
+S-PCS Satellite Personal Communication System
+SRD Short Range Device
+SRR Short Range Radar
+SRS Space Research Service
+SSR Secondary Surveillance Radar
+SUT Satellite User Terminal
+TACAN Tactical Air Navigation
+T-DAB Terrestrial Digital Audio Broadcasting
+TDD Time Division Duplex
+TETRA Terrestrial Trunked Radio
+TLPR Tank Level Probing Radar
+TRR Tactical Radio Relays
+TS Terminal Station
+TV Television
+UIC International Union for Railways
+ULP-AMI Ultra Low Power Active Medical Implants
+UMTS Universal Mobile Telecommunications System
+UWB Ultra – Wideband
+VLBI Very Long Baseline Interferometry (Radio Astronomy)
+VOR VHF Omni-directional Range
+VSAT Very Small Aperture Terminal
+VTS Vessel Traffic System (radar)
+WARC World Administrative Radio Conference
+WAS Wireless Access System
+WRC World Radiocommunication Conference
