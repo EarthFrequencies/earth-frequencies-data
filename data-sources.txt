@@ -1,5 +1,7 @@
 Allocation Charts by Region:
 
+- itu
+  http://www.itu.int/pub/R-REG-RR-2012 
 - au
   http://www.acma.gov.au/webwr/radcomm/frequency_planning/spectrum_plan/aust_rf_spectrum_allocations_chart.pdf
 - br
@@ -26,7 +28,8 @@ Allocation Charts by Region:
 - uk
   http://stakeholders.ofcom.org.uk/binaries/spectrum/spectrum-information/UKFAT_2013.pdf
 - us
-  http://transition.fcc.gov/oet/spectrum/table/fcctable.pdf
+  https://transition.fcc.gov/oet/spectrum/table/
+  https://www.fcc.gov/encyclopedia/radio-spectrum-allocation
 - ws
   http://www.regulator.gov.ws/files/documents/National-Frequency-Allocation-Table.pdf
 
