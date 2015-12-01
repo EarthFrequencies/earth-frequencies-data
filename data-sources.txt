@@ -1,4 +1,5 @@
-Allocation Charts by Region:
+Allocation Charts by Region
+===========================
 
 - itu
   http://www.itu.int/pub/R-REG-RR-2012 
@@ -33,15 +34,25 @@ Allocation Charts by Region:
 - ws
   http://www.regulator.gov.ws/files/documents/National-Frequency-Allocation-Table.pdf
 
-Describing specific uses:
-  
-- CB frequencies
-  http://en.wikipedia.org/wiki/Citizens_Band_radio
+Describing specific uses
+========================  
+
+Citizen Band (CB), aka General Radio Service (GRS)
+
+  - ca
+    http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf01016.html
+  - uk
+    http://www.ofcom.org.uk/static/archive/ra/publication/ra_info/ra246/ra246.htm
+  - us
+    https://www.fcc.gov/encyclopedia/citizens-band-cb-service    
+  - other related refs
+    http://en.wikipedia.org/wiki/Citizens_Band_radio
   
 - Radio controlled aircraft frequencies
   http://en.wikipedia.org/wiki/Radio-controlled_aircraft#Frequencies_and_sub-channels  
   
-Other references:
+Other references
+================
 
 - https://en.wikipedia.org/wiki/Frequency_allocation
 - http://www.iarums-r1.org/iarums/itu.pdf
@@ -51,6 +62,7 @@ Other references:
 - https://en.wikipedia.org/wiki/Amateur_radio_frequency_allocations
 - http://8ch9azbsfifz.github.io/bandplan/
 - http://www.spectrumwiki.com/Links.aspx
+- http://www.infocellar.com/networks/wireless/spectrum.htm
 
   
   

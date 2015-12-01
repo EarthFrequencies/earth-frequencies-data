@@ -1,0 +1,7 @@
+Band Name	Frequency Start	Frequency End
+Microwaves	1 GHz	110 GHz
+Infrared radiation	300 GHz	400 GHz
+Visible radiation (light)	405 THz	790 THz
+Ultraviolet light	1000 THz	100 PHz
+X-rays	30 PHz	60 EHz
+Gamma rays	60 EHz	
