@@ -1,3 +1,4 @@
+Region	Sub-table	Start Frequency	End Frequency	Allocations	Footnotes
 CA		0	8300	-	
 CA		8300	9000	-	
 CA		8300	9000		C1,C2
