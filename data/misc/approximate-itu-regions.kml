@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Approximate ITU Regions</name>
+	<open>1</open>
+	<description>Originally found on Google Maps: https://www.google.com/maps/d/viewer?msa=0&amp;mid=zIzxgtmWHqKo.kdVTFxdBaVxg</description>
+	<Style id="icon-22">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+			</Icon>
+			<hotSpot x="16" y="31" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="line-0000FF-5">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Line 1</name>
+		<styleUrl>#line-0000FF-5</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-170.859375,81.87364100000001,0 -169.453125,65.366837,0 159.257813,47.517201,0 145.546875,43.068888,0 140.976563,46.55886,0 130.78125,42.293564,0 134.296875,47.98992200000001,0 124.453125,53.54030699999999,0 119.179688,53.54030699999999,0 115.3125,47.754098,0 107.578125,43.068888,0 89.296875,45.58329,0 86.132813,49.61071,0 78.75,42.55308,0 71.71875,36.879621,0 61.523438,36.315125,0 53.085938,39.095963,0 44.296875,39.368279,0 46.757813,26.74561,0 59.765625,22.917923,0 60.117188,-85.22980099999999,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Line 2</name>
+		<styleUrl>#line-0000FF-5</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				159.082031,47.63578399999999,0 -168.398437,12.554564,0 -124.453125,12.554564,0 -123.75,-85.051129,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Line 3</name>
+		<styleUrl>#line-0000FF-5</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-6.328125,82.765373,0 -6.328125,73.82482,0 -55.546875,47.517201,0 -18.984375,2.108899,0 -19.6875,-85.345325,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Region 1</name>
+		<description>comprises Europe , Africa, the Middle East west of the Persian Gulf and including Iraq, the former Soviet Union and Mongolia.</description>
+		<styleUrl>#icon-22</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>49.921875,54.572062,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Region 2</name>
+		<description>covers the Americas and Greenland and some of the eastern Pacific Islands.</description>
+		<styleUrl>#icon-22</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-107.578125,47.04018200000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Region 3</name>
+		<description>contains most of non-former-Soviet-Union Asia, east of and including Iran, and most of Oceania.</description>
+		<styleUrl>#icon-22</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>113.90625,20.632784,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
