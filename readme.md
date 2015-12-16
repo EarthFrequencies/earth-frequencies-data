@@ -1,4 +1,4 @@
-Earth Fequencies
+Earth Frequencies
 ================
 
 This is a collection of machine parasable data files, intended for use in an
