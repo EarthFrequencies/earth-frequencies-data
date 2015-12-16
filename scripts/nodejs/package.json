@@ -1,0 +1,13 @@
+{
+  "name"         : "earth-frequency-tools",
+  "version"      : "0.0.1",
+  "description"  : "Node JS based tools used by the Earth Frequencies project",
+  "main"         : "convert-uk.js",
+  "author"       : "Andre Mas",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "javascript-natural-sort": "latest"
+  }
+}

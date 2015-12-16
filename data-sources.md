@@ -13,6 +13,9 @@ Allocation Charts by Region
   - http://www.teleco.com.br/en/en_freq_no_brasil.asp  
 - ca
   - https://www.ic.gc.ca/eic/site/smt-gst.nsf/vwapj/spectallocation-08.pdf/$FILE/spectallocation-08.pdf
+- gb
+  - http://stakeholders.ofcom.org.uk/binaries/spectrum/spectrum-information/UKFAT_2013.pdf
+  - http://www.ofcom.org.uk/static/spectrum/data/fatMapping.json  
 - dk
   - http://www.erodocdb.dk/Docs/doc98/official/pdf/ercrep025.pdf
 - eu 
@@ -29,8 +32,6 @@ Allocation Charts by Region
   - http://www.cept.org/files/1050/Tools%20and%20Services/EFIS%20-%20ECO%20Frequency%20Information%20System/National%20frequency%20tables/Moldova%20national%20table.pdf  
 - mx
   - http://www.cft.gob.mx/wb/Cofetel_2008/Cofe_imagenes_del_cnaf_2007
-- uk
-  - http://stakeholders.ofcom.org.uk/binaries/spectrum/spectrum-information/UKFAT_2013.pdf
 - us
   - https://transition.fcc.gov/oet/spectrum/table/
   - https://www.fcc.gov/encyclopedia/radio-spectrum-allocation
