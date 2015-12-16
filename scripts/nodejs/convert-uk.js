@@ -10,7 +10,7 @@ var app     = express();
 
 var defaultFootnoteRegexes = [/^UK.*/];
 
-var sourceUrl = 'http://localhost/~ajmas/data/fatMapping.json';//'http://www.ofcom.org.uk/static/spectrum/data/fatMapping.json';
+var sourceUrl = 'http://www.ofcom.org.uk/static/spectrum/data/fatMapping.json';
 var defaultOutputFolder = __dirname + '/../../data/allocation-tables/gb/';
 var defaultAllocationsFilename = 'allocations.txt';
 var defaultFootnotesFilename = 'footnotes.txt';
@@ -64,7 +64,7 @@ function generateAllocationsFile(data, outputFolder, filename) {
     fs.truncateSync(outputFolder + '/' + filename, 0, function (error) { } );
     
     
-    fs.appendFileSync(outputFolder + '/' + filename, 'Region\tSub-table\tStart Frequency\tEnd Frequency\tCategory\tAllocations\tFootnotes\n');
+    fs.appendFileSync(outputFolder + '/' + filename, 'Region\tSub-table\tStart Frequency\tEnd Frequency\tCategory\Service\tFootnotes\n');
     bands = data.bands;
     for (i=0; i<bands.length; i++) {
         outputLine =

@@ -1,4 +1,4 @@
-Region	Sub-table	Start Frequency	End Frequency	Allocations	Footnotes
+Region	Sub-table	Start Frequency	End Frequency	Service	Footnotes
 US	Federal Government	0	9000	-	5.53  5.54
 US	Federal Government	9000	14000	-	US2
 US	Federal Government	9000	14000	RADIONAVIGATION	US18

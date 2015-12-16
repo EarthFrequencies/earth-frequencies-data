@@ -17,6 +17,9 @@ about allocation and usage requirements.
 Also remember, that any radio transmission requires an appropriate license
 and in all cases you should be aware of local regulation of the air waves.
 
+If you find errors, please open a bug report in the project's issue tracker,
+or provide a pull-request with the fix.
+
 Contributions are welcome and are appreciated.
 
 

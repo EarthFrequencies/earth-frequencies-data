@@ -12,6 +12,8 @@ Allocation Charts by Region
   - http://www.anatel.gov.br/grandeseventos/en/spectrum.html
   - http://www.teleco.com.br/en/en_freq_no_brasil.asp  
 - ca
+  - http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/h_sf01678.html
+  - http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10759.html
   - https://www.ic.gc.ca/eic/site/smt-gst.nsf/vwapj/spectallocation-08.pdf/$FILE/spectallocation-08.pdf
 - gb
   - http://stakeholders.ofcom.org.uk/binaries/spectrum/spectrum-information/UKFAT_2013.pdf

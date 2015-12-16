@@ -1,13 +1,13 @@
 Aeronautical Mobile
-Aeronautical Mobile Satellite
+Aeronautical Mobile-Satellite
 Aeronautical Radionavigation
 Amateur
-Amateur Satellite
+Amateur-Satellite
 Broadcasting
-Broadcasting Satellite
-Earth Exploration Satellite
+Broadcasting-Satellite
+Earth Exploration-Satellite
 Fixed
-Fixed Satellite
+Fixed-Satellite
 Inter-Satellite
 Land Mobile
 Land Mobile Satellite
@@ -15,16 +15,17 @@ Maritime Mobile
 Maritime Mobile Satellite
 Maritime Radionavigation
 Meteorological
-Meteorological Satellite
+Meteorological Aids
+Meteorological-Satellite
 Mobile
-Mobile Satellite
+Mobile-Satellite
 Radio Astronomy
-Radiodetermination Satellite
+Radiodetermination-Satellite
 Radiolocation
-Radiolocation Satellite
+Radiolocation-Satellite
 Radionavigation
-Radionavigation Satellite
+Radionavigation-Satellite
 Space Operation
 Space Research
 Standard Frequency And Time Signal
-Standard Frequency And Time Signal Satellite
+Standard Frequency And Time Signal-Satellite
