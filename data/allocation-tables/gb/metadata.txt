@@ -1,0 +1,7 @@
+name	value
+iso2	gb
+name_en	United Kingdom
+official	http://www.ofcom.org.uk/static/spectrum/fat.html
+edition	2015
+parentRegions	itu1, eu
+

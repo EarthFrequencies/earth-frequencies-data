@@ -1,0 +1,4 @@
+name	value
+name_en	ITU Region 2
+official	http://www.itu.int/pub/R-REG-RR-2012
+edition	2012

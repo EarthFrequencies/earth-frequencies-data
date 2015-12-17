@@ -1,0 +1,7 @@
+name	value
+iso2	ca
+name_en	Canada
+official	http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/h_sf01678.html
+edition	2014
+parentRegions	itu2
+

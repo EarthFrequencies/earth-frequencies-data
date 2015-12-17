@@ -1,0 +1,7 @@
+name	value
+iso2	eu
+name_en	European Union
+official	http://www.erodocdb.dk/docs/doc98/official/pdf/ERCRep025.pdf
+edition	2015
+parentRegions	itu1
+

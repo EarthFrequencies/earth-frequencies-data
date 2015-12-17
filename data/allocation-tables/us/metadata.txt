@@ -1,0 +1,7 @@
+name	value
+iso2	us
+name_en	United States of America
+official	https://www.fcc.gov/engineering-technology/policy-and-rules-division/general/radio-spectrum-allocation
+edition	2015
+parentRegions	itu2
+
