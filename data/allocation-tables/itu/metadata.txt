@@ -1,0 +1,6 @@
+name	value
+iso2	itu
+name_en	ITU
+official	http://www.itu.int/pub/R-REG-RR-2012
+edition	2012
+

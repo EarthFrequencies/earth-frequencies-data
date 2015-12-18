@@ -9,6 +9,7 @@
     "request"    : "latest",
     "cheerio"    : "latest",
     "path"       : "latest",
+    "freemarker.js" : "latest",
     "javascript-natural-sort": "latest"
   }
 }
