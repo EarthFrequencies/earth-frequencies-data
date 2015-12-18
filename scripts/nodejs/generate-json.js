@@ -14,7 +14,7 @@ var defaultFootnoteRegexes = [/^UK.*/];
 
 var sourceUrl = 'http://www.ofcom.org.uk/static/spectrum/data/fatMapping.json';
 var allocationsTablesDir = __dirname + '/../../data/allocation-tables/';
-var baseOutputDir = __dirname + '/../../json/';
+var baseOutputDir = __dirname + '/../../rest';
 var defaultAllocationsFilename = 'allocations.txt';
 var defaultFootnotesFilename = 'footnotes.txt';
 
@@ -79,7 +79,7 @@ function createBaseOutputDirectoryTree(outputPath) {
 }
 
 function processDirectories (basePath, outputPath) {
-    var availableFootnotes = [], availableAllocations = [], allMetadata = {};
+    var availableFootnotes = [], availableAllocationTables = [], allMetadata = {};
     
     
 	createBaseOutputDirectoryTree(outputPath);
@@ -115,6 +115,9 @@ function processDirectories (basePath, outputPath) {
 			mkdirSync(fsOutDir);
 						
 			if (isFileExists(path.join(childPath, '/allocations.txt'))) {
+			
+			    availableAllocationTables.push(file);
+			    
 				fsOutFile= path.join(fsOutDir, 'index.json');					
 				generateJsonAllocations ( fsInFile,  metadata, fsOutFile );
 				
@@ -150,7 +153,9 @@ function processDirectories (basePath, outputPath) {
      
      });
      
-     console.log('cccc');
+     generateHtmlAllocationsIndex(     
+     	outputPath +  '/tables/' + 'index.html', availableAllocationTables, allMetadata);
+     	
      generateHtmlFootnotesIndex(     
      	outputPath +  '/footnotes/' + 'index.html', availableFootnotes, allMetadata);
      
@@ -213,7 +218,6 @@ function generateHtmlFootnotesIndex (outputFilePath, availableFootnotes, allMeta
     });
     
     fs.writeFileSync(outputFilePath, html);
-
 }
 
 function generateJsonFootnotes (inputFilepath, outputFilePath, regionName) {
@@ -275,6 +279,39 @@ function generateHtmlFootnotes (inputFilepath, outputFilePath, metadata) {
     console.log('writing out: ' + outputFilePath);
     fs.writeFileSync(outputFilePath, html);
 
+}
+
+
+
+
+
+function generateHtmlAllocationsIndex (outputFilePath, availableAllocationTables, allMetadata) {
+    var html, rows = '', i, name;
+        
+    for (i=0; i<availableAllocationTables.length; i++) {
+        name = '';
+        
+        if (allMetadata[availableAllocationTables[i]]) {
+        	if (allMetadata[availableAllocationTables[i]].name_en) {
+        		name = allMetadata[availableAllocationTables[i]].name_en;
+        	} else if (allMetadata[availableAllocationTables[i]].name) {
+        		name = allMetadata[availableAllocationTables[i]].name;
+        	}        
+        } 
+        
+    	rows += '<tr>' +
+    	    '<td>' + name + '</td>' +    	
+    	    '<td>' + availableAllocationTables[i] + '</td>' +
+    	    '<td><a href="' + availableAllocationTables[i] + '/index.html">html</a>, ' +
+    	    '<a href="' + availableAllocationTables[i] + '/index.json">json</a></td>' +
+    	    '</tr>';
+    }    
+    
+    html = render('allocationtables-index.html', {
+        rows: rows
+    });
+    
+    fs.writeFileSync(outputFilePath, html);
 }
 
 function generateHtmlAllocations(allocationsFilePath, metadata, outputFilePath) {
