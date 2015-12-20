@@ -85,14 +85,17 @@ function processAllocationsFile (filePath) {
    			        service = matchedService + service.substring(matchedService.length, service.length);			        
 			    }
 			    
-			    if (matchedService || service === '-' || service === '(not allocated)') {
-			        fields[fieldNames['Service']] = service;
-			        fields[fieldNames['Footnotes']] = fields[fieldNames['Footnotes']].split('  ').join(',');
-			        fields.splice(fieldNames['End Frequency'] + 1, 0, category);
-			        console.log(fields.join('\t'));
-			    } else {			      
-			        console.error('ERROR', 'Unknown service', lineIdx, line);
+			    if ( ! (matchedService || service === '-' || service === '(not allocated)') ) {
+			        console.warn('warning', 'Unknown service', lineIdx, line);			    
 			    }
+				fields[fieldNames['Service']] = service;
+				fields[fieldNames['Footnotes']] = fields[fieldNames['Footnotes']].split('  ').join(',');
+				fields.splice(fieldNames['End Frequency'] + 1, 0, category);
+				console.log(fields.join('\t'));
+			    // } 
+// 			    else {			      
+// 			        console.error('ERROR', 'Unknown service', lineIdx, line);
+// 			    }
     		}
 	    }	
 	    
