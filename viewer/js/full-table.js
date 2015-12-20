@@ -1,13 +1,15 @@
 ﻿'use strict'
 
 var baseRestPath = '../rest';
+var allocationTable = {};
 
 function hzToHuman(value, fixedPlaces) {
 	return valueToMagnitude(value, 'Hz', fixedPlaces);
 }
 
 function valueToMagnitude(value, unit, fixedPlaces) {
-	var idx = 0, i, sign;
+	var idx = 0,
+		i, sign;
 	var unitExponents = [
 		[0, ''],
 		[3, 'k'],
@@ -24,7 +26,7 @@ function valueToMagnitude(value, unit, fixedPlaces) {
 
 	sign = (value < 0 ? -1 : 1);
 	value = Math.abs(value);
-	
+
 	for (i = unitExponents.length - 1; i >= 0; i--) {
 		if (value >= Math.pow(10, unitExponents[i][0])) {
 			idx = i;
@@ -92,7 +94,8 @@ function loadAvailableRegions() {
 }
 
 function capitaliseService(text) {
-	var candidate = '', i;
+	var candidate = '',
+		i;
 	for (i = 0; i < services.length; i++) {
 		if (text.startsWith(services[i]) && services[i].length > candidate.length) {
 			candidate = services[i];
@@ -115,52 +118,16 @@ function footnoteLink(footnote, region) {
 
 function loadAllocationTable(region) {
 	var url = baseRestPath + '/tables/' + region + '/index.json';
-	
+
 	$.getJSON(url, function(data) {
-		var i, j, k, cellText, services, service, primary, footnotes;
+
+		allocationTable = data;
 
 		$('#official').html('<a href="' + data.metadata.official + '">' + data.metadata.official + '</a>');
 		$('#message').html('Displaying information for region: ' + data.metadata.name_en);
+		$('#edition').html(data.metadata.edition);
 
-		for (i = 0; i < data.bands.length; i++) {
-			cellText = '';
-			services = data.bands[i].services;
-			if (services) {
-				for (j = 0; j < services.length; j++) {
-					primary = false;
-					service = services[j].desc;
-					if (services[j].cat === 'p') {
-						service = capitaliseService(service);
-						primary = true;
-					}
-					cellText += '<span class="' + (primary ? 'primary' : 'secondary') + '">' + service + '</span>';
-
-					footnotes = data.bands[i].services[j].footnotes;
-
-					if (footnotes && footnotes.length > 0) {
-						for (k = 0; k < footnotes.length; k++) {
-							cellText += ' <a href="' + footnoteLink(footnotes[k]) + '">' + footnotes[k] + '</a>'
-						}
-					}
-
-					cellText += '<br/>';
-				}
-			}
-
-			footnotes = data.bands[i].footnotes;
-			if (footnotes && footnotes.length > 0) {
-				for (j = 0; j < footnotes.length; j++) {
-					cellText += '<a href="' + footnoteLink(footnotes[j]) + '">' + footnotes[j] + '</a> ';
-				}
-			}
-
-			$('#bands tbody').append('<tr><td>' +
-				'<span title="' + spacify(data.bands[i].lf, ' ') + ' Hz" >' + valueToMagnitude(data.bands[i].lf, 'Hz', 2) + '</span>' +
-				' - ' +
-				'<span title="' + spacify(data.bands[i].uf, ' ') + ' Hz" >' + valueToMagnitude(data.bands[i].uf, 'Hz', 2) + '</span>' +
-				'</td><td>' + cellText + '</td></tr>');
-		}
-
+		renderAllocationsTable();
 	});
 }
 
@@ -175,7 +142,88 @@ function spacify(num, separator) {
 	return str.join('.');
 }
 
+function isInFilteredRange(band, startFreq, endFreq) {
+	return (band.uf > startFreq && band.lf < endFreq);
+}
+
+function renderAllocationsTable() {
+	var startFreq, endFreq;
+	var i, j, k, cellText, services, service, primary, footnotes, freqBand;
+
+	startFreq = $('input[name=\'startFreq\']').val();
+
+	if (!startFreq || startFreq.trim().length === 0) {
+		startFreq = 0;
+	} else {
+		startFreq = parseInt(startFreq.trim());
+		startFreq = startFreq * 1000;
+	}
+
+	endFreq = $('input[name=\'endFreq\']').val();
+
+	if (!endFreq || endFreq.trim().length === 0) {
+		endFreq = 1000000000000;
+	} else {
+		endFreq = parseInt(endFreq.trim());
+		endFreq = endFreq * 1000;
+	}
+
+	highlightDisplayedRange(startFreq, endFreq);
+
+	$('#bands tbody').html('');
+
+	for (i = 0; i < allocationTable.bands.length; i++) {
+		freqBand = allocationTable.bands[i];
+
+		if (!isInFilteredRange(freqBand, startFreq, endFreq)) {
+			continue;
+		}
+
+		cellText = '';
+		services = freqBand.services;
+		if (services) {
+			for (j = 0; j < services.length; j++) {
+				primary = false;
+				service = services[j].desc;
+				if (services[j].cat === 'p') {
+					service = capitaliseService(service);
+					primary = true;
+				}
+				cellText += '<span class="' + (primary ? 'primary' : 'secondary') + '">' + service + '</span>';
+
+				footnotes = freqBand.services[j].footnotes;
+
+				if (footnotes && footnotes.length > 0) {
+					for (k = 0; k < footnotes.length; k++) {
+						cellText += ' <a href="' + footnoteLink(footnotes[k]) + '">' + footnotes[k] + '</a>'
+					}
+				}
+
+				cellText += '<br/>';
+			}
+		}
+
+		footnotes = freqBand.footnotes;
+		if (footnotes && footnotes.length > 0) {
+			for (j = 0; j < footnotes.length; j++) {
+				cellText += '<a href="' + footnoteLink(footnotes[j]) + '">' + footnotes[j] + '</a> ';
+			}
+		}
+
+		$('#bands tbody').append('<tr><td>' +
+			'<span title="' + spacify(freqBand.lf, ' ') + ' Hz" >' + valueToMagnitude(freqBand.lf, 'Hz', 2) + '</span>' +
+			' - ' +
+			'<span title="' + spacify(freqBand.uf, ' ') + ' Hz" >' + valueToMagnitude(freqBand.uf, 'Hz', 2) + '</span>' +
+			'</td><td>' + cellText + '</td></tr>');
+	}
+
+}
+
 $(document).ready(function() {
 	loadAvailableRegions();
 	drawSpectrum('spectrum');
+
+	$('#applyFilter').on('click', function() {
+		renderAllocationsTable();
+	});
 });
