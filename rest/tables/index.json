@@ -13,4 +13,7 @@
 },{
    "path": "gb",
    "region": "United Kingdom"
+},{
+   "path": "us",
+   "region": "United States of America"
 }]
