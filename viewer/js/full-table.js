@@ -3,46 +3,7 @@
 var baseRestPath = '../rest';
 var allocationTable = {};
 
-function hzToHuman(value, fixedPlaces) {
-	return valueToMagnitude(value, 'Hz', fixedPlaces);
-}
 
-function valueToMagnitude(value, unit, fixedPlaces) {
-	var idx = 0,
-		i, sign;
-	var unitExponents = [
-		[0, ''],
-		[3, 'k'],
-		[6, 'M'],
-		[9, 'G'],
-		[12, 'T'],
-		[15, 'P'],
-		[18, 'E'],
-		[21, 'Y']
-	];
-
-	// For high precision or very small numbers you may want
-	// to look at https://gist.github.com/ajmas/4193ac6911f5445ced37
-
-	sign = (value < 0 ? -1 : 1);
-	value = Math.abs(value);
-
-	for (i = unitExponents.length - 1; i >= 0; i--) {
-		if (value >= Math.pow(10, unitExponents[i][0])) {
-			idx = i;
-			break;
-		}
-	}
-	value = (value / Math.pow(10, unitExponents[idx][0]));
-
-	value = value * sign;
-
-	if (fixedPlaces !== undefined) {
-		value = (value * 1.0).toFixed(fixedPlaces);
-	}
-
-	return value + ' ' + unitExponents[idx][1] + unit;
-}
 
 function populateRegionSelector(regionList) {
 	$('#regionSelector').append('<optgroup label="ITU Regions" id="itu-regions-optgroup"/>');
@@ -127,28 +88,19 @@ function loadAllocationTable(region) {
 		$('#message').html('Displaying information for region: ' + data.metadata.name_en);
 		$('#edition').html(data.metadata.edition);
 
-		renderAllocationsTable();
+		renderAllocationsTable(true);
 	});
 }
 
-function spacify(num, separator) {
-	var str = num.toString().split('.');
-	if (str[0].length >= 5) {
-		str[0] = str[0].replace(/(\d)(?=(\d{3})+$)/g, '$1' + separator);
-	}
-	if (str[1] && str[1].length >= 5) {
-		str[1] = str[1].replace(/(\d{3})/g, '$1 ');
-	}
-	return str.join('.');
-}
+
 
 function isInFilteredRange(band, startFreq, endFreq) {
 	return (band.uf > startFreq && band.lf < endFreq);
 }
 
-function renderAllocationsTable() {
-	var startFreq, endFreq;
-	var i, j, k, cellText, services, service, primary, footnotes, freqBand;
+function renderAllocationsTable(reloaded) {
+	var startFreq, endFreq, bands, filteredActvitities, filteredServices, tableIdx, displayBand;
+	var i, j, k, cellText, services, service, primary, footnotes, freqBand, activity, activities = [];
 
 	startFreq = $('input[name=\'startFreq\']').val();
 
@@ -168,62 +120,129 @@ function renderAllocationsTable() {
 		endFreq = endFreq * 1000;
 	}
 
+	if ( endFreq < startFreq ) {
+	    endFreq = 0;
+	    startFreq = 0;
+	}
+
+    filteredActvitities = $('select[name=\'activity\']').val();
+    filteredServices = $('select[name=\'service\']').val();
+
 	highlightDisplayedRange(startFreq, endFreq);
 
 	$('#bands tbody').html('');
 
-	for (i = 0; i < allocationTable.bands.length; i++) {
-		freqBand = allocationTable.bands[i];
+    for (tableIdx = 0; tableIdx < allocationTable.tables.length; tableIdx++) {
 
-		if (!isInFilteredRange(freqBand, startFreq, endFreq)) {
-			continue;
-		}
+        activity =  allocationTable.tables[tableIdx].name;
 
-		cellText = '';
-		services = freqBand.services;
-		if (services) {
-			for (j = 0; j < services.length; j++) {
-				primary = false;
-				service = services[j].desc;
-				if (services[j].cat === 'p') {
-					service = capitaliseService(service);
-					primary = true;
-				}
-				cellText += '<span class="' + (primary ? 'primary' : 'secondary') + '">' + service + '</span>';
+        if ( allocationTable.tables[tableIdx].name ) {
+        	activities.push(allocationTable.tables[tableIdx].name);
+        } else {
+            activities.push('Activity ' + (tableIdx+1) );
+        }
 
-				footnotes = freqBand.services[j].footnotes;
+		// if we are filtering on activity, then apply the filter. Assumes single select
+        if (!reloaded && (filteredActvitities && filteredActvitities.trim().length > 0)) {
+			if (parseInt(filteredActvitities) !== tableIdx) {
+			     continue;
+			}
+        }
 
-				if (footnotes && footnotes.length > 0) {
-					for (k = 0; k < footnotes.length; k++) {
-						cellText += ' <a href="' + footnoteLink(footnotes[k]) + '">' + footnotes[k] + '</a>'
+
+		bands = allocationTable.tables[tableIdx].bands;
+
+		for (i = 0; i < bands.length; i++) {
+		    displayBand = true;
+			freqBand = bands[i];
+
+			if (!isInFilteredRange(freqBand, startFreq, endFreq)) {
+				continue;
+			}
+
+			if (filteredServices && filteredServices.trim().length > 0) {
+			    displayBand = false;
+			}
+
+			cellText = '';
+			services = freqBand.services;
+			if (services) {
+				for (j = 0; j < services.length; j++) {
+					primary = false;
+					service = services[j].desc;
+					if (services[j].cat === 'p') {
+						service = capitaliseService(service);
+						primary = true;
 					}
+
+					if (filteredServices && filteredServices.trim().length > 0) {
+						if (service === filteredServices.toUpperCase()) {
+							displayBand = true;
+						}
+					}
+
+					cellText += '<span class="' + (primary ? 'primary' : 'secondary') + '">' + service + '</span>';
+
+					footnotes = freqBand.services[j].footnotes;
+
+					if (footnotes && footnotes.length > 0) {
+						for (k = 0; k < footnotes.length; k++) {
+							cellText += ' <a href="' + footnoteLink(footnotes[k]) + '">' + footnotes[k] + '</a>'
+						}
+					}
+
+					cellText += '<br/>';
 				}
+			}
 
-				cellText += '<br/>';
+			footnotes = freqBand.footnotes;
+			if (footnotes && footnotes.length > 0) {
+				for (j = 0; j < footnotes.length; j++) {
+					cellText += '<a href="' + footnoteLink(footnotes[j]) + '">' + footnotes[j] + '</a> ';
+				}
+			}
+
+			if (displayBand) {
+				$('#bands tbody').append(
+					'<tr class="activity-' + (activities.length + 1) +'"><td>' +
+					'<span title="' + spacify(freqBand.lf, ' ') + ' Hz" >' + valueToMagnitude(freqBand.lf, 'Hz', 2) + '</span>' +
+					' - ' +
+					'<span title="' + spacify(freqBand.uf, ' ') + ' Hz" >' + valueToMagnitude(freqBand.uf, 'Hz', 2) + '</span>' +
+					'</td>' +
+					'<td>' + activity + '</td>' +
+					'<td>' + cellText + '</td></tr>');
 			}
 		}
-
-		footnotes = freqBand.footnotes;
-		if (footnotes && footnotes.length > 0) {
-			for (j = 0; j < footnotes.length; j++) {
-				cellText += '<a href="' + footnoteLink(footnotes[j]) + '">' + footnotes[j] + '</a> ';
-			}
-		}
-
-		$('#bands tbody').append('<tr><td>' +
-			'<span title="' + spacify(freqBand.lf, ' ') + ' Hz" >' + valueToMagnitude(freqBand.lf, 'Hz', 2) + '</span>' +
-			' - ' +
-			'<span title="' + spacify(freqBand.uf, ' ') + ' Hz" >' + valueToMagnitude(freqBand.uf, 'Hz', 2) + '</span>' +
-			'</td><td>' + cellText + '</td></tr>');
 	}
 
+    if (reloaded) {
+        $('select[name=\'activity\']').html('<option value="">All</option>');
+        if (activities.length > 1) {
+            for (i=0; i<activities.length; i++) {
+	            $('select[name=\'activity\']').append('<option value="'  + i + '">' + activities[i] + '</option>');
+	        }
+        } else {
+        	$('select[name=\'activity\'] option').attr('title', 'only one activity table available');
+        }
+        $('select[name=\'activity\']').attr('disabled',  activities.length < 2);
+    }
+}
+
+
+function applyFilter () {
+    renderAllocationsTable(false);
 }
 
 $(document).ready(function() {
+ 	var i;
 	loadAvailableRegions();
 	drawSpectrum('spectrum');
 
+	for (i=0; i<services.length; i++) {
+		$('select[name=\'service\']').append('<option value="'  + services[i] + '">' + services[i] + '</option>');
+	}
+
 	$('#applyFilter').on('click', function() {
-		renderAllocationsTable();
+		applyFilter();
 	});
 });
