@@ -1,4 +1,4 @@
-Region	Sub-table	Start Frequency	End Frequency	Category	Service	Footnotes
+Region	Activity	Start Frequency	End Frequency	Category	Service	Footnotes
 US	Federal Government	0	9000		-	5.53,5.54
 US	Federal Government	9000	14000		-	US2
 US	Federal Government	9000	14000	p	Radionavigation	US18
@@ -1291,7 +1291,6 @@ US	Federal Government	265000000000	275000000000	p	Fixed-Satellite (Earth-to-spac
 US	Federal Government	265000000000	275000000000	p	Mobile	
 US	Federal Government	265000000000	275000000000	p	Radio Astronomy	
 US	Federal Government	275000000000	1000000000000		-	5.565
-Region	Sub-table	Start Frequency	End Frequency		Service	Footnotes
 US	Non-Federal-Government	0	9000		-	5.53,5.54
 US	Non-Federal-Government	9000	14000		-	US2
 US	Non-Federal-Government	9000	14000	p	Radionavigation	US18
