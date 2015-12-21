@@ -55,9 +55,9 @@
       }
       
       label {
-         /* width: 125px; */
+          width: 100px;
           display: inline-block;
-          text-align: right;
+          
           margin-bottom: 5px;
       }
       
@@ -112,13 +112,50 @@
           font-size: 80%;
           margin-bottom: 20px;
       }
+      
+      rect.labelledRange {
+          fill: rgba(0,0,0,0);
+          stroke: rgba(0,0,0,0);      
+      }
+      
+      rect.labelledRange:hover {
+          fill: rgba(150,240,150,1);
+          fill-opacity: 0.5;    
+
+          stroke: rgba(150,240,150,1);
+          stroke-opacity: 1;    
+      }      
+      
+      rect.regulatedspectrum {
+          fill: rgb(200,200,255);
+          stroke: rgb(200,200,255);
+      }
+      
+      div.regulatedspectrum {
+          background-color: rgb(200,200,255);
+          width: 10px;
+          height: 10px; 
+          display: inline-block;
+          border: solid 1px black;
+      }
+      
+      .hidden {
+          display: none;
+      }
+           
             
    </style>
    
    <script type="text/javascript" src="js/jquery-1.11.2.js"></script>  
+   <script type="text/javascript" src="js/raphael-min.js"></script>
+
    <script type="text/javascript" src="js/services.js"></script>
+   <script type="text/javascript" src="js/labelled-bands.js"></script>
+
+   <script type="text/javascript" src="js/utility-functions.js"></script>
    <script type="text/javascript" src="js/full-table.js"></script>
    <script type="text/javascript" src="js/spectrum.js"></script>
+
    
 </head>
 
@@ -135,20 +172,36 @@
 
         <div id="spectrumbox">	
 	    <div id="spectrum"></div>
-	    Radio Spectrum, with regulated spectrum highlighted in <span style="color: rgba(240,240,240,1.0)">gray</span>
+	    Radio Spectrum, with displayed spectrum highlighted <div class="regulatedspectrum"></div>
 	    </div>
 	
+	    
 		<label>Region:</label> <select id="regionSelector"></select></br>
 		
 		<div id="message"></div>
 		<div class="row">Official Source: <span id="official"></span></div>
+		<div class="row">Edition: <span id="edition"></span></div>
+		
+		<h4>Filter</h4>
+		<div class="row">
+		<label>Bands:</label> <input type="text" name="startFreq" id="startFreq" size="6"/> - <input type="text" name="endFreq" id="endFreq" size="6"/> KHz 
+		</div>
+		<div class="row">
+		<label>Actvity:</label> <select name="activity" disabled=""><option>All</option></select>
+		</div>
+		<div class="row">
+		<label>Service:</label> <select name="service"><option value="">All</option></select>
+		</div>		
+		<div class="row">
+		<input type="button" value="Apply" id="applyFilter"/>
+		</div>			
 		<!--
         <div class="row">Footnotes: <a href="rest/footnotes/itu">International Telephony Union</a>, <a href="rest/footnotes/eu">European Union</a>, <a href="rest/footnotes/gb">United Kingdom</a></span></div>
         -->
         
 		<table id="bands">
 		<thead>
-		   <tr><th>Band</th><th>Services</th></tr>
+		   <tr><th>Band</th><th>Activity</th><th>Services</th></tr>
 		</thead>
 		<tbody>
 		</tbody>
