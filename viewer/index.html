@@ -26,12 +26,38 @@
       table {
          border-collapse: collapse;  
          margin-top: 20px;
-         width: 800px;
+         width: 900px;
       }
       
       table a {
          color: #4782F7;
       }
+     
+      td {
+         padding: 5px;
+         padding-left: 10px; 
+         border-bottom: solid 1px black;         
+         vertical-align: top;              
+      }
+       
+      td:nth-child(1) {
+         width: 200px;
+      }
+      
+      td:nth-child(2) {
+         width: 100px;
+      }  
+      
+      th {
+         border-left: 1px solid white;
+          color: white;
+          background-color: darkblue;         
+      }
+      
+      th:nth-child(1) {
+         border-left: none;
+      }   
+          
       
       .band {
          font-weight: bold;
@@ -70,17 +96,7 @@
           color: #555;
       }
       
-      th {
-          color: white;
-          background-color: darkblue;
-      
-      }
-      
-      td {
-          border-bottom: solid 1px black;
-          padding: 5px;
-          vertical-align: top;
-      }
+
       
       tbody {
           overflow: scroll;
@@ -102,7 +118,7 @@
       }
       
       #spectrum {
-          width: 800px;
+          width: 900px;
           height: 80px;
           border: 1px #aaa solid;
           margin-bottom: 5px;
@@ -143,6 +159,9 @@
           display: none;
       }
            
+      .error {
+          background-color: pink;
+      }
             
    </style>
    
@@ -184,7 +203,14 @@
 		
 		<h4>Filter</h4>
 		<div class="row">
-		<label>Bands:</label> <input type="text" name="startFreq" id="startFreq" size="6"/> - <input type="text" name="endFreq" id="endFreq" size="6"/> KHz 
+		<label>Bands:</label> <input type="text" name="startFreq" id="startFreq" size="6" value="0"/> - <input type="text" name="endFreq" id="endFreq" size="6" value="300"/> 
+		    <select name="unit">
+		    <option value="0">Hz</option>
+		    <option value="3">kHz</option>
+		    <option value="6">MHz</option>
+		    <option value="12" selected="">GHz</option>
+		     <option value="15">THz</option>
+		    </select>
 		</div>
 		<div class="row">
 		<label>Actvity:</label> <select name="activity" disabled=""><option>All</option></select>
@@ -206,6 +232,7 @@
 		<tbody>
 		</tbody>
 		</table>
+
     </div>
 </body>
 </html> 

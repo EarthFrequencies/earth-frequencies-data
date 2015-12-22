@@ -17,52 +17,13 @@ function drawSpectrum(elementId) {
 	paper = Raphael(elementId);
 
 
-	// http://www.infocellar.com/networks/wireless/spectrum.htm
-    var labelledBands = [{
-		   lf: 3,
-		   uf: 300 * Math.pow(10,9),
-		   text: 'Radio Frequency, or RF Spectrum (3 Hz to 300 GHz)'
-       }, {
-		   lf: 1 * Math.pow(10,9),
-		   uf: 110 * Math.pow(10,9),
-		   text: 'Microwaves (1 to 110 GHz)'
-       }, {
-		   lf: 300 * Math.pow(10,9),
-		   uf: 400 * Math.pow(10,12),
-		   text: 'Infrared radiation (300 GHz to 400 THz)'
-       }, {
-		   lf: 405 * Math.pow(10,12),
-		   uf: 790 * Math.pow(10,12),
-		   text: 'Visible radiation (light)'
-       }, {
-		   lf: 8 * Math.pow(10,14),
-		   uf: 3 * Math.pow(10,15),
-		   text: 'Ultraviolet light (10 to 380 nm)'
-       }, {
-		   lf: 30 * Math.pow(10,15),
-		   uf: 60 * Math.pow(10,18),
-		   text: 'X-rays (30PHz-60EHz or 5pm-10 nm)'
-       }, {
-		   lf: 60 * Math.pow(10,18),
-		   uf: Infinity,
-		   text: 'Gamma Rays (60 EHz to Infinity or 10 nm to 0 nm)'
-       }
-    ];
+
 
 	highlightRegulatedBand(paper, 0, 1000000000000);
 
 	for (i=0; i<labelledBands.length; i++) {
 	    highlight(paper, labelledBands[i].lf, labelledBands[i].uf, 'rgba(0,0,0,0.1)', undefined, labelledBands[i].text, 'labelledRange');
 	}
-
-//     highlight(paper, 300 * Math.pow(10,9), 300 * Math.pow(10,12), 'rgba(0,0,0,0.1)', undefined, 'Infrared radiation (300 GHz to 400 THz)', 'labelledRange');
-//     highlight(paper, 405 * Math.pow(10,12), 790 * Math.pow(10,12), 'rgba(0,0,0,0.1)', undefined, 'Infrared radiation (300 GHz to 400 THz)', 'labelledRange');
-//
-//     highlight(paper, 8 * Math.pow(10,14), 3 * Math.pow(10,15), 'rgba(0,0,0,0.1)', undefined, 'Ultraviolet light (10 to 380 nm)', 'labelledRange');
-//     highlight(paper, 30 * Math.pow(10,15), 60 * Math.pow(10,18), 'rgba(0,0,0,0.1)', undefined, 'X-rays (30PHz-60EHz or 5pm-10 nm)', 'labelledRange');
-//
-//     highlight(paper, 60 * Math.pow(10,18), Infinity, 'rgba(0,0,0,0.1)', undefined, 'Gamma Rays (60 EHz to Infinity or 10 nm to 0 nm)', 'labelledRange');
-
 
 	for (i = 0; i < 26; i += 1) {
 		if (i % 2 === 0) {
@@ -77,7 +38,7 @@ function drawSpectrum(elementId) {
 			textElem.attr('x', x + 3);
 
 			wavelength = frequencyToWavelength(Math.pow(10,i));
-			console.log(wavelength);
+			//console.log(wavelength);
 		} else {
 			// 				var x = (i * scale) + leftOffset;
 			// 				var waveLength = wavelengthInMetres(Math.pow(10,i));

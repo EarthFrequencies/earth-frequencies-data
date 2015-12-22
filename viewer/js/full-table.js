@@ -1,9 +1,8 @@
 ﻿'use strict'
 
+var currentRegion;
 var baseRestPath = '../rest';
 var allocationTable = {};
-
-
 
 function populateRegionSelector(regionList) {
 	$('#regionSelector').append('<optgroup label="ITU Regions" id="itu-regions-optgroup"/>');
@@ -42,6 +41,7 @@ function populateRegionSelector(regionList) {
 		region = window.location.hash.substring(1);
 	}
 
+
 	$('#regionSelector').val(region);
 
 	loadAllocationTable(region);
@@ -54,24 +54,45 @@ function loadAvailableRegions() {
 	});
 }
 
-function capitaliseService(text) {
-	var candidate = '',
-		i;
+function getService(text) {
+	var candidate = '' , i;
+
+	text = text + '';
+
 	for (i = 0; i < services.length; i++) {
-		if (text.startsWith(services[i]) && services[i].length > candidate.length) {
+		if (text.toLowerCase().startsWith(services[i].toLowerCase()) && services[i].length > candidate.length) {
 			candidate = services[i];
 		}
 	}
-	return candidate.toUpperCase() + text.substring(candidate.length, text.length);
+	return (candidate?candidate:'');
 }
 
+function capitaliseService(text) {
+	var service = getService(text);
+	if (service) {
+		return service.toUpperCase() + text.substring(service.length, text.length);
+	}
+}
+
+
+// TODO look into moving this information into the metadata files
 function footnoteLink(footnote, region) {
+    if (!region) {
+    	region = currentRegion;
+    }
+
 	if (footnote.match(/C[0-9].*/)) {
 		return baseRestPath + '/footnotes/ca#' + footnote;
 	} else if (footnote.match(/UK[0-9].*/)) {
 		return baseRestPath + '/footnotes/gb#' + footnote;
 	} else if (footnote.match(/EU[0-9].*/)) {
 		return baseRestPath + '/footnotes/eu#' + footnote;
+	} else if (region === 'us'  && footnote.match(/US[0-9].*/)) {
+		return 'https://transition.fcc.gov/oet/spectrum/table/fcctable.pdf';
+	} else if (region === 'us'  && footnote.match(/G[0-9].*/)) {
+		return 'https://transition.fcc.gov/oet/spectrum/table/fcctable.pdf';
+	} else if (region === 'us'  && footnote.match(/NG[0-9].*/)) {
+		return 'https://transition.fcc.gov/oet/spectrum/table/fcctable.pdf';
 	}
 
 	return baseRestPath + '/footnotes/itu#' + footnote;
@@ -79,6 +100,8 @@ function footnoteLink(footnote, region) {
 
 function loadAllocationTable(region) {
 	var url = baseRestPath + '/tables/' + region + '/index.json';
+
+    currentRegion = region;
 
 	$.getJSON(url, function(data) {
 
@@ -99,8 +122,15 @@ function isInFilteredRange(band, startFreq, endFreq) {
 }
 
 function renderAllocationsTable(reloaded) {
-	var startFreq, endFreq, bands, filteredActvitities, filteredServices, tableIdx, displayBand;
+	var startFreq, endFreq, bands, filteredActvitities, filteredServices, tableIdx, displayBand, region;
 	var i, j, k, cellText, services, service, primary, footnotes, freqBand, activity, activities = [];
+
+    // Clear error states
+
+	$('input[name=\'startFreq\']').removeClass('error');
+	$('input[name=\'endFreq\']').removeClass('error');
+
+    // Deal with the start/lower Frequency
 
 	startFreq = $('input[name=\'startFreq\']').val();
 
@@ -108,29 +138,41 @@ function renderAllocationsTable(reloaded) {
 		startFreq = 0;
 	} else {
 		startFreq = parseInt(startFreq.trim());
-		startFreq = startFreq * 1000;
+		startFreq = startFreq * Math.pow(10,$('select[name=\'unit\']').val());
 	}
+
+    // Deal with the end/upper Frequency
 
 	endFreq = $('input[name=\'endFreq\']').val();
 
 	if (!endFreq || endFreq.trim().length === 0) {
-		endFreq = 1000000000000;
+		endFreq = Infinity;
 	} else {
 		endFreq = parseInt(endFreq.trim());
-		endFreq = endFreq * 1000;
+		endFreq = endFreq * Math.pow(10,$('select[name=\'unit\']').val());
 	}
 
-	if ( endFreq < startFreq ) {
-	    endFreq = 0;
-	    startFreq = 0;
-	}
+    // Deal with the selects
 
     filteredActvitities = $('select[name=\'activity\']').val();
     filteredServices = $('select[name=\'service\']').val();
 
+    // Adjust the displayed highlighted range
+
 	highlightDisplayedRange(startFreq, endFreq);
 
+	// Clear the table rows
+
 	$('#bands tbody').html('');
+
+    // Highlight any erros in the manually inputed values
+
+	if ( endFreq < startFreq ) {
+	    $('input[name=\'startFreq\']').addClass('error');
+	    $('input[name=\'endFreq\']').addClass('error');
+	}
+
+    // Now display the data
 
     for (tableIdx = 0; tableIdx < allocationTable.tables.length; tableIdx++) {
 
@@ -167,6 +209,20 @@ function renderAllocationsTable(reloaded) {
 			cellText = '';
 			services = freqBand.services;
 			if (services) {
+
+			    // Sort the entries, so the primary services are displayed first
+			    services.sort(function (x, y) {
+			        if (y.cat === 'p') {
+			            return 1;
+			        }
+
+			        if (x.cat === 'p') {
+			            return -1;
+			        }
+
+			        return 0;
+			    });
+
 				for (j = 0; j < services.length; j++) {
 					primary = false;
 					service = services[j].desc;
@@ -176,7 +232,7 @@ function renderAllocationsTable(reloaded) {
 					}
 
 					if (filteredServices && filteredServices.trim().length > 0) {
-						if (service === filteredServices.toUpperCase()) {
+						if (getService(services[j].desc).toLowerCase() === filteredServices.toLowerCase()) {
 							displayBand = true;
 						}
 					}
