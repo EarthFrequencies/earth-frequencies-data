@@ -14,9 +14,17 @@ function hzToHuman(value, fixedPlaces) {
  see: https://en.wikipedia.org/wiki/Order_of_magnitude
  */
 function valueToMagnitude(value, unit, fixedPlaces) {
-	var idx = 0,
-		i, sign;
+	var entry, i, sign;
+
 	var unitExponents = [
+		[-24, 'y'],
+		[-21, 'z'],
+		[-18, 'a'],
+		[-15, 'n'],
+		[-12, 'p'],
+		[-9, 'n'],
+		[-6, 'µ'],
+		[-3, 'm'],
 		[0, ''],
 		[3, 'k'],
 		[6, 'M'],
@@ -26,68 +34,41 @@ function valueToMagnitude(value, unit, fixedPlaces) {
 		[18, 'E'],
 		[21, 'Y']
 	];
-
 	// For high precision or very small numbers you may want
 	// to look at https://gist.github.com/ajmas/4193ac6911f5445ced37
 
-	sign = (value < 0 ? -1 : 1);
-	value = Math.abs(value);
+    entry = [0,''];
 
-	for (i = unitExponents.length - 1; i >= 0; i--) {
-		if (value >= Math.pow(10, unitExponents[i][0])) {
-			idx = i;
-			break;
-		}
-	}
-	value = (value / Math.pow(10, unitExponents[idx][0]));
+    if (value !== 0) {
 
-	value = value * sign;
+    	sign = (value < 0 ? -1 : 1);
+	    value = Math.abs(value);
+
+        for (i = unitExponents.length - 1; i >= 0; i--) {
+            if (value >= Math.pow(10, unitExponents[i][0])) {
+                entry = unitExponents[i];
+                break;
+            }
+        }
+
+     	value = (value / Math.pow(10, entry[0]));
+
+    	value = value * sign;
+
+    }
+
+
 
 	if (fixedPlaces !== undefined) {
 		value = (value * 1.0).toFixed(fixedPlaces);
 	}
 
-	return value + ' ' + unitExponents[idx][1] + unit;
+
+	return value + '' + entry[1] + unit;
 }
 
 
-function valueToSmallMagnitude(value, unit, fixedPlaces) {
-	var idx = 0,
-		i, sign;
-	var unitExponents = [
-		[0, ''],
-		[-3, 'm'],
-		[-6, 'µ'],
-		[-9, 'n'],
-		[-12, 'p'],
-		[-15, 'n'],
-		[-18, 'a'],
-		[-21, 'z'],
-		[-24, 'y']
-	];
 
-	// For high precision or very small numbers you may want
-	// to look at https://gist.github.com/ajmas/4193ac6911f5445ced37
-
-	sign = (value < 0 ? -1 : 1);
-	value = Math.abs(value);
-
-	for (i = unitExponents.length - 1; i >= 0; i--) {
-		if (value >= Math.pow(10, unitExponents[i][0])) {
-			idx = i;
-			break;
-		}
-	}
-	value = (value / Math.pow(10, unitExponents[idx][0]));
-
-	value = value * sign;
-
-	if (fixedPlaces !== undefined) {
-		value = (value * 1.0).toFixed(fixedPlaces);
-	}
-
-	return value + ' ' + unitExponents[idx][1] + unit;
-}
 
 /**
  Converts the frequency in Hz to wavelength in meters
