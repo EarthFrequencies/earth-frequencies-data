@@ -3,56 +3,8 @@
 var currentRegion;
 var baseRestPath = '../rest';
 var allocationTable = {};
+var spectrum;
 
-function populateRegionSelector(regionList) {
-	$('#regionSelector').append('<optgroup label="ITU Regions" id="itu-regions-optgroup"/>');
-
-	$.each(regionList, function(idx, entry) {
-		if (entry.path.startsWith('itu')) {
-			$('#itu-regions-optgroup')
-				.append($("<option></option>")
-				.attr("value", entry.path)
-				.text(entry.region));
-		}
-	});
-
-	$('#regionSelector').append('<optgroup label="Countries" id="countries-optgroup"/>');
-
-	$.each(regionList, function(idx, entry) {
-		if (!entry.path.startsWith('itu')) {
-			$('#countries-optgroup')
-				.append($("<option></option>")
-				.attr("value", entry.path)
-				.text(entry.region));
-		}
-	});
-
-	$('#regionSelector').on('change', function(event, v) {
-		$('#bands tbody').html('');
-		loadAllocationTable($(this).val());
-		document.location = '#' + $(this).val();
-	});
-
-
-	// Get the hash value, so we automatically load the right table
-
-	var region = 'itu1';
-	if (window.location.hash) {
-		region = window.location.hash.substring(1);
-	}
-
-
-	$('#regionSelector').val(region);
-
-	loadAllocationTable(region);
-}
-
-function loadAvailableRegions() {
-	var url = baseRestPath + '/tables/index.json';
-	$.getJSON(url, function(data) {
-		populateRegionSelector(data);
-	});
-}
 
 function getService(text) {
 	var candidate = '' , i;
@@ -137,7 +89,7 @@ function renderAllocationsTable(reloaded) {
 	if (!startFreq || startFreq.trim().length === 0) {
 		startFreq = 0;
 	} else {
-		startFreq = parseInt(startFreq.trim());
+		startFreq = parseFloat(startFreq.trim());
 		startFreq = startFreq * Math.pow(10,$('select[name=\'unit\']').val());
 	}
 
@@ -148,7 +100,7 @@ function renderAllocationsTable(reloaded) {
 	if (!endFreq || endFreq.trim().length === 0) {
 		endFreq = Infinity;
 	} else {
-		endFreq = parseInt(endFreq.trim());
+		endFreq = parseFloat(endFreq.trim());
 		endFreq = endFreq * Math.pow(10,$('select[name=\'unit\']').val());
 	}
 
@@ -159,7 +111,7 @@ function renderAllocationsTable(reloaded) {
 
     // Adjust the displayed highlighted range
 
-	highlightDisplayedRange(startFreq, endFreq);
+	spectrum.highlightDisplayedRange(startFreq, endFreq);
 
 	// Clear the table rows
 
@@ -289,10 +241,15 @@ function applyFilter () {
     renderAllocationsTable(false);
 }
 
+var spectrum;
+
 $(document).ready(function() {
  	var i;
-	loadAvailableRegions();
-	drawSpectrum('spectrum');
+
+	spectrum = Spectrum('spectrum', [ 3 * Math.pow(10,0), Math.pow(10,23)]);
+    console.log(spectrum);
+
+	loadAvailableRegions('#regionSelector', loadAllocationTable);
 
 	for (i=0; i<services.length; i++) {
 		$('select[name=\'service\']').append('<option value="'  + services[i] + '">' + services[i] + '</option>');

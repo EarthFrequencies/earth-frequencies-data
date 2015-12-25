@@ -19,7 +19,6 @@
       }
       
       #spectrumview {
-         /* width: 400px; height: 100px; overflow-x: scroll; overflow-y: hidden; */
          margin-bottom:20px; 
       }
       
@@ -119,7 +118,7 @@
       
       #spectrum {
           width: 900px;
-          height: 80px;
+          height: 130px;
           border: 1px #aaa solid;
           margin-bottom: 5px;
       }
@@ -165,13 +164,15 @@
             
    </style>
    
-   <script type="text/javascript" src="js/jquery-1.11.2.js"></script>  
-   <script type="text/javascript" src="js/raphael-min.js"></script>
+   <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>  
+   <script type="text/javascript" src="js/snap.svg-min.js"></script>
 
    <script type="text/javascript" src="js/services.js"></script>
    <script type="text/javascript" src="js/labelled-bands.js"></script>
 
    <script type="text/javascript" src="js/utility-functions.js"></script>
+   <script type="text/javascript" src="js/common.js"></script>
+
    <script type="text/javascript" src="js/full-table.js"></script>
    <script type="text/javascript" src="js/spectrum.js"></script>
 
@@ -191,10 +192,17 @@
 
         <div id="spectrumbox">	
 	    <div id="spectrum"></div>
-	    Radio Spectrum, with displayed spectrum highlighted <div class="regulatedspectrum"></div>
+	    Radio Spectrum, with selected frequency allocation range highlighted <div class="regulatedspectrum"></div>
 	    </div>
 	
-
+        <div class="row">
+        <label>View:</label> <select>
+           <option>Band Names</option>
+           <option>Frequency Letter bands</option>
+           <option>Spectrum Categories</option>
+           <option>Frequency Allocations</option>
+           </select>
+        </div>
 	    
 	    <h2>Frequency Allocations, by Region</h2>
 		<label>Region:</label> <select id="regionSelector"></select></br>
@@ -206,13 +214,13 @@
 		<div class="row">&nbsp;</div>
 
 			<div class="row">
-		<label>Bands:</label> <input type="text" name="startFreq" id="startFreq" size="6" value="0"/> - <input type="text" name="endFreq" id="endFreq" size="6" value="300"/> 
+		<label>Bands:</label> <input type="text" name="startFreq" id="startFreq" size="6" value="3"/> - <input type="text" name="endFreq" id="endFreq" size="6" value="300"/> 
 		    <select name="unit">
 		    <option value="0">Hz</option>
 		    <option value="3">kHz</option>
 		    <option value="6">MHz</option>
-		    <option value="12" selected="">GHz</option>
-		     <option value="15">THz</option>
+		    <option value="9" selected="">GHz</option>
+		    <option value="12">THz</option>
 		    </select>
 		    
 		</div>
