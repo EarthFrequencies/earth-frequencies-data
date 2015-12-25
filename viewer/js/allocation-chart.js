@@ -167,7 +167,8 @@ var SpectrumChart = (function(containerElementId, bands) {
 				} else {
 					snap.rect(offsetX, boundingBox.y, width, height).attr({
 						stroke: 'black',
-						fill: 'white'
+						fill: 'white',
+						'class': 'service'
 					});
 				}
 
@@ -189,10 +190,9 @@ var SpectrumChart = (function(containerElementId, bands) {
 			fillColor = serviceAndColor[1];
 			serviceName = serviceAndColor[0];
 		} else {
-		    if (service !== '-') {
+		    if (service.desc !== '-') {
 		        serviceName = service.desc;
 		    }
-
 		}
 
 		rect = snap.rect(x, y, width, height).attr({
