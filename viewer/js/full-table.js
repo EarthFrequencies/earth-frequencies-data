@@ -90,7 +90,7 @@ function renderAllocationsTable(reloaded) {
 		startFreq = 0;
 	} else {
 		startFreq = parseFloat(startFreq.trim());
-		startFreq = startFreq * Math.pow(10,$('select[name=\'unit\']').val());
+		startFreq = startFreq * Math.pow(10,$('select[name=\'unitLF\']').val());
 	}
 
     // Deal with the end/upper Frequency
@@ -101,7 +101,7 @@ function renderAllocationsTable(reloaded) {
 		endFreq = Infinity;
 	} else {
 		endFreq = parseFloat(endFreq.trim());
-		endFreq = endFreq * Math.pow(10,$('select[name=\'unit\']').val());
+		endFreq = endFreq * Math.pow(10,$('select[name=\'unitUF\']').val());
 	}
 
     // Deal with the selects
@@ -247,7 +247,6 @@ $(document).ready(function() {
  	var i;
 
 	spectrum = Spectrum('spectrum', [ 3 * Math.pow(10,0), Math.pow(10,23)]);
-    console.log(spectrum);
 
 	loadAvailableRegions('#regionSelector', loadAllocationTable);
 

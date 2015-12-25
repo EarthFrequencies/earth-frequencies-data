@@ -169,7 +169,7 @@ var Spectrum = (function (elementId, frequencyRange) {
     // console.log('zzz', displayFreqRange[0], displayFreqRange[1], startFreq, endFreq);
 
 
-        console.log(startFreq, endFreq, valueToMagnitude(startFreq,'Hz',2), valueToMagnitude(endFreq,'Hz',2));
+//         console.log(startFreq, endFreq, valueToMagnitude(startFreq,'Hz',2), valueToMagnitude(endFreq,'Hz',2));
 
         if (!boundingBox) {
             boundingBox = graphBoundingBox;

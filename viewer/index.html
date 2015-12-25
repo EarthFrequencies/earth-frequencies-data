@@ -19,6 +19,7 @@
       }
       
       #spectrumview {
+         /* width: 400px; height: 100px; overflow-x: scroll; overflow-y: hidden; */
          margin-bottom:20px; 
       }
       
@@ -94,9 +95,7 @@
       span.secondary {
           color: #555;
       }
-      
-
-      
+            
       tbody {
           overflow: scroll;
           height: 200px;
@@ -160,8 +159,7 @@
            
       .error {
           background-color: pink;
-      }
-            
+      }          
    </style>
    
    <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>  
@@ -214,8 +212,19 @@
 		<div class="row">&nbsp;</div>
 
 			<div class="row">
-		<label>Bands:</label> <input type="text" name="startFreq" id="startFreq" size="6" value="3"/> - <input type="text" name="endFreq" id="endFreq" size="6" value="300"/> 
-		    <select name="unit">
+		    <label>Bands:</label> 
+		    <input type="text" name="startFreq" id="startFreq" size="6" value="3"/> 
+		    <select name="unitLF">
+		    <option value="0"selected="">Hz</option>
+		    <option value="3">kHz</option>
+		    <option value="6">MHz</option>
+		    <option value="9" >GHz</option>
+		    <option value="12">THz</option>
+		    </select>		    
+		    - 
+		    
+		    <input type="text" name="endFreq" id="endFreq" size="6" value="300"/> 
+		    <select name="unitUF">
 		    <option value="0">Hz</option>
 		    <option value="3">kHz</option>
 		    <option value="6">MHz</option>
