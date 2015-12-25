@@ -8,7 +8,7 @@
 
       
       #allocationChart {
-          width: 2048px;
+          width: 1600px;
           height: 1024px;
           margin-bottom: 5px;
       }
@@ -47,6 +47,24 @@
           white-space: wrap;
       }
           
+      .legendItemActive div:nth-child(1){
+          border: solid 1px black;
+      }
+      
+      .legendItemActive {
+          font-weight: bold;
+      }      
+      
+ 
+      .outline {
+          stroke: grey;
+      }
+
+      
+      .outlineActive {
+          stroke: black;      
+      }
+      
       .rectHighlight {
           /* stroke: yellow; */
           stroke: black;
@@ -57,6 +75,15 @@
       .rectHidden {
           display: none;
       }      
+      
+      .row {
+          margin-bottom: 5px;
+      }
+      
+      .blankAllocation {
+          background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4IiBoZWlnaHQ9IjgiPjxwYXRoIGQ9Ik0tMiAxMEwxMCAtMlpNMTAgNkw2IDEwWk0tMiAyTDIgLTIiIHN0cm9rZT0iIzIyMiIgc3Ryb2tlLXdpZHRoPSI0LjUiPjwvcGF0aD4KPC9zdmc+"),url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiPgo8bGluZWFyR3JhZGllbnQgaWQ9ImciIHgyPSIxIiB5Mj0iMSI+CjxzdG9wIHN0b3AtY29sb3I9IiNGMTkiPjwvc3RvcD4KPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMENGIj48L3N0b3A+CjwvbGluZWFyR3JhZGllbnQ+CjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZykiPjwvcmVjdD4KPC9zdmc+");
+      }
+      
    </style>
    
    <script type="text/javascript">
@@ -84,8 +111,13 @@
     <p>Project home: <a href="http://github.com/ajmas/EarthFrequencies">http://github.com/ajmas/EarthFrequencies</a></p>
     <div id="content">
                 
-   		<label>Region:</label> <select id="regionSelector"></select></br>
-
+        <div class="row">
+   		<label>Region:</label> <select id="regionSelector"></select>
+        </div>
+		<div class="row">
+		<label>Actvity:</label> <select name="activity" disabled=""><option>All</option></select>
+		</div>
+		
         <h2>Service Allocation Chart, for region <span class="region">-</span></h2>
 
         <div id="allocationChartBox">	
