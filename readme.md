@@ -22,4 +22,11 @@ or provide a pull-request with the fix.
 
 Contributions are welcome and are appreciated.
 
+Earth Frequencies Viewer
+------------------------
+
+Given this project is focusing purely on the data, the viewer that was
+once part of this project has been moved out to its own project:
+
+https://github.com/ajmas/EarthFrequenciesViewer
 
