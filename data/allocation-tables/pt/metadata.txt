@@ -1,0 +1,4 @@
+name	value
+iso2	pt
+name_en	Portugal
+parentRegions	itu1, eu

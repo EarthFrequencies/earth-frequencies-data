@@ -1,0 +1,4 @@
+name	value
+iso2	ci
+name_en	Croatia
+parentRegions	itu1, eu

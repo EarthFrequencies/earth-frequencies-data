@@ -1,3 +1,4 @@
+ref	description
 EU1 	Within the frequency band 20-108 MHz the common military tuning range is 30-87.5 MHz, however, some equipment types use the lower (20 MHz) and upper (108 MHz) limits, regulated on a national basis. The harmonised military bands are: -30.30-30.50 MHz; 32.15-32.45 MHz; 41.00-47.00 MHz; 73.30-74.10 MHz; 79.0-79.70 MHz. When providing for additional requirements, further blocks of frequencies should be spread out over the whole common military tuning range in order to supply frequencies for frequency hopping equipment and to support a larger force (corps size, three divisions). This should be done by the national frequency management organisation(s) concerned.   
 EU2 	Civil-military sharing   
 EU3 	CEPT administrations are urged to take all practical steps to clear the band 47-68 MHz of assignments to the broadcasting service. The broadcasting assignments according to Stockholm Agreement 1961 shall be protected.   

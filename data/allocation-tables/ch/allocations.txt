@@ -1,0 +1,2549 @@
+region	sub-table	lower_frequency	upper_frequency	service	category	footnotes	applications
+ch		0	0	-			
+ch		0	0	Not allocated	s		
+ch		8300	8300	-			Lightning detection systems
+ch		8300	8300	METEOROLOGICAL AIDS	p		
+ch		9000	9000	-			Inductive applications,  ULP-AMI,  Lightning detection systems
+ch		9000	9000	METEOROLOGICAL AIDS	p		
+ch		9000	9000	RADIONAVIGATION	p		
+ch		11300	11300	-			Inductive applications,  ULP-AMI
+ch		11300	11300		p		
+ch		11300	11300	-			
+ch		11300	11300	RADIONAVIGATION	p		
+ch		14000	14000	-			
+ch		14000	14000	FIXED	p		
+ch		16000	16000	-			Inductive applications,  ULP-AMI,  On-site paging
+ch		16000	16000		p		
+ch		19950	19950	-			Inductive applications,  ULP-AMI,  On-site paging
+ch		19950	19950	STANDARD FREQUENCY AND TIME SIGNAL (20 KHZ)	p		
+ch		20050	20050	-			
+ch		20050	20050	FIXED	p		
+ch		20050	20050	-			Inductive applications,  ULP-AMI,  On-site paging
+ch		20050	20050		p		
+ch		40000	40000	-			Inductive applications,  ULP-AMI
+ch		40000	40000		p		
+ch		70000	70000	-			
+ch		70000	70000	RADIONAVIGATION	p		
+ch		72000	72000	-			
+ch		72000	72000	FIXED	p		
+ch		72000	72000	RADIONAVIGATION	p		
+ch		72000	72000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+ch		72000	72000	-			Inductive applications,  ULP-AMI
+ch		72000	72000		p		
+ch		74950	74950	-			Inductive applications,  ULP-AMI
+ch		74950	74950		p		
+ch		75050	75050	-			Inductive applications,  ULP-AMI
+ch		75050	75050		p		
+ch		84000	84000	-			Inductive applications,  ULP-AMI
+ch		84000	84000		p		
+ch		84000	84000	-			
+ch		84000	84000	RADIONAVIGATION	p		
+ch		86000	86000	-			
+ch		86000	86000	FIXED	p		
+ch		86000	86000	RADIONAVIGATION	p		
+ch		90000	90000	-			
+ch		90000	90000	RADIONAVIGATION	p		
+ch		90000	90000	Fixed	s		
+ch		110000	110000	-			
+ch		110000	110000	FIXED	p		
+ch		110000	110000	RADIONAVIGATION	p		
+ch		112000	112000	-			
+ch		112000	112000	RADIONAVIGATION	p		
+ch		115000	115000	-			
+ch		115000	115000	RADIONAVIGATION	p		
+ch		115000	115000	Fixed	s		
+ch		117600	117600	-			
+ch		117600	117600	FIXED	p		
+ch		117600	117600	RADIONAVIGATION	p		
+ch		126000	126000	-			
+ch		126000	126000	RADIONAVIGATION	p		
+ch		129000	129000	-			
+ch		129000	129000	FIXED	p		
+ch		129000	129000	RADIONAVIGATION	p		
+ch		130000	130000	-			
+ch		130000	130000	FIXED	p		
+ch		135000	135000	-			Inductive applications,  ULP-AMI
+ch		135000	135000		p		
+ch		135700	135700	-			Amateur,  Inductive applications,  ULP-AMI
+ch		135700	135700	Amateur	s		
+ch		135700	135700	FIXED	p		
+ch		137800	137800	-			Inductive applications,  ULP-AMI
+ch		137800	137800	FIXED	p		
+ch		148500	148500	-			Inductive applications,  ULP-AMI
+ch		148500	148500	BROADCASTING	p		
+ch		255000	255000	-			Inductive applications,  ULP-AMI
+ch		255000	255000	BROADCASTING	p		
+ch		255000	255000	AERONAUTICAL RADIONAVIGATION	p		
+ch		283500	283500	-			
+ch		283500	283500	AERONAUTICAL RADIONAVIGATION	p		
+ch		283500	283500	-			Inductive applications,  ULP-AMI
+ch		283500	283500		p		
+ch		300000	300000	-			Beacons (aeronautical),  Inductive applications,  ULP-AMI
+ch		300000	300000		p		
+ch		315000	315000	-			Beacons (aeronautical),  Inductive applications,  ULP-AID
+ch		315000	315000		p		
+ch		405000	405000	-			Inductive applications,  RFID,  ULP-AID
+ch		405000	405000	RADIONAVIGATION	p		
+ch		415000	415000	-			Inductive applications,  RFID,  ULP-AID
+ch		415000	415000	AERONAUTICAL RADIONAVIGATION	p		
+ch		435000	435000	-			
+ch		435000	435000	Aeronautical Radionavigation	s		
+ch		435000	435000	-			Inductive applications,  RFID,  ULP-AID
+ch		435000	435000		p		
+ch		456900	456900	-			Emergency detection,  Inductive applications,  RFID,  ULP-AID
+ch		456900	456900		p		
+ch		457100	457100	-			Inductive applications,  RFID,  ULP-AID
+ch		457100	457100		p		
+ch		472000	472000	-			Amateur,  Inductive applications,  RFID,  ULP-AID
+ch		472000	472000	Amateur	s		
+ch		472000	472000	Aeronautical Radionavigation	s		
+ch		479000	479000	-			Inductive applications,  RFID,  ULP-AID
+ch		479000	479000	Aeronautical Radionavigation	s		
+ch		495000	495000	-			Inductive applications,  RFID,  ULP-AID
+ch		495000	495000	MARITIME MOBILE	p		
+ch		505000	505000	-			
+ch		505000	505000	AERONAUTICAL RADIONAVIGATION	p		
+ch		505000	505000	-			Beacons (aeronautical),  Inductive applications,  RFID,  ULP-AID
+ch		505000	505000		p		
+ch		516000	516000	-			Beacons (aeronautical),  Inductive applications,  RFID,  ULP-AID,  Euroloop
+ch		516000	516000		p		
+ch		526500	526500	-			
+ch		526500	526500	BROADCASTING	p		
+ch		526500	526500	-			AM sound analogue,  Inductive applications,  RFID,  ULP-AID,  Euroloop
+ch		526500	526500		p		
+ch		600000	600000	-			AM sound analogue,  Inductive applications,  Railway applications
+ch		600000	600000		p		
+ch		1606500	1606500	-			Land military systems,  Inductive applications,  Euroloop,  Eurobalise
+ch		1606500	1606500	MARITIME MOBILE	p		
+ch		1606500	1606500	LAND MOBILE	p		
+ch		1625000	1625000	-			Inductive applications,  Euroloop,  Eurobalise
+ch		1625000	1625000	RADIOLOCATION	p		
+ch		1635000	1635000	-			Land military systems,  Inductive applications,  Euroloop,  Eurobalise
+ch		1635000	1635000	MARITIME MOBILE	p		
+ch		1635000	1635000	LAND MOBILE	p		
+ch		1800000	1800000	-			Inductive applications,  Euroloop,  Eurobalise
+ch		1800000	1800000	RADIOLOCATION	p		
+ch		1810000	1810000	-			Amateur,  Inductive applications,  Euroloop,  Eurobalise
+ch		1810000	1810000	AMATEUR	p		
+ch		1850000	1850000	-			Amateur,  Land military systems,  Inductive applications,  Euroloop,  Eurobalise
+ch		1850000	1850000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		2000000	2000000	-			Land military systems,  AGA communications (military),  Inductive applications,  Euroloop,  Eurobalise
+ch		2000000	2000000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+ch		2025000	2025000	-			Land military systems,  AGA communications (military),  Inductive applications,  Euroloop,  Eurobalise
+ch		2025000	2025000	FIXED	p		
+ch		2025000	2025000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+ch		2045000	2045000	-			Land military systems,  Inductive applications,  Euroloop,  Eurobalise
+ch		2045000	2045000	FIXED	p		
+ch		2045000	2045000	MARITIME MOBILE	p		
+ch		2045000	2045000	LAND MOBILE	p		
+ch		2160000	2160000	-			Inductive applications,  Euroloop,  Eurobalise
+ch		2160000	2160000	RADIOLOCATION	p		
+ch		2170000	2170000	-			Inductive applications,  Euroloop,  Eurobalise
+ch		2170000	2170000	MARITIME MOBILE	p		
+ch		2173500	2173500	-			GMDSS,  Inductive applications,  Euroloop,  Eurobalise
+ch		2173500	2173500	MOBILE (DISTRESS AND CALLING)	p		
+ch		2190500	2190500	-			Inductive applications,  Euroloop,  Eurobalise
+ch		2190500	2190500	MARITIME MOBILE	p		
+ch		2194000	2194000	-			Land military systems,  AGA communications (military),  Inductive applications,  Euroloop,  Eurobalise
+ch		2194000	2194000	FIXED	p		
+ch		2194000	2194000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+ch		2300000	2300000	-			Land military systems,  AGA communications (military),  Inductive applications,  Euroloop,  Eurobalise
+ch		2300000	2300000	FIXED	p		
+ch		2300000	2300000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+ch		2498000	2498000	-			Inductive applications,  Euroloop,  Eurobalise,  Standard frequency and time signal
+ch		2498000	2498000		p		
+ch		2498000	2498000	-			
+ch		2498000	2498000	STANDARD FREQUENCY AND TIME SIGNAL (2 500 KHZ)	p		
+ch		2501000	2501000	-			
+ch		2501000	2501000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+ch		2501000	2501000	Space Research	s		
+ch		2502000	2502000	-			Land military systems,  AGA communications (military),  Inductive applications,  Euroloop,  Eurobalise
+ch		2502000	2502000	FIXED	p		
+ch		2502000	2502000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+ch		2625000	2625000	-			Inductive applications,  Euroloop,  Eurobalise
+ch		2625000	2625000	MARITIME MOBILE	p		
+ch		2625000	2625000	MARITIME RADIONAVIGATION	p		
+ch		2650000	2650000	-			Land military systems,  AGA communications (military),  Inductive applications,  Euroloop,  Eurobalise
+ch		2650000	2650000	FIXED	p		
+ch		2650000	2650000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+ch		2850000	2850000	-			Aeronautical communications,  Inductive applications,  Euroloop,  Eurobalise
+ch		2850000	2850000	AERONAUTICAL MOBILE (R)	p		
+ch		3025000	3025000	-			AGA communications (military),  Inductive applications,  Euroloop,  Eurobalise
+ch		3025000	3025000	AERONAUTICAL MOBILE (OR)	p		
+ch		3155000	3155000	-			Fixed,  AGA communications (military),  Land military systems,  Inductive applications,  Euroloop,  Eurobalise
+ch		3155000	3155000	FIXED	p		
+ch		3155000	3155000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+ch		3200000	3200000	-			AGA communications (military),  Land military systems,  Inductive applications,  Euroloop,  Eurobalise
+ch		3200000	3200000	FIXED	p		
+ch		3200000	3200000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+ch		3230000	3230000	-			Fixed,  Land military systems,  Inductive applications,  Euroloop,  Eurobalise
+ch		3230000	3230000	FIXED	p		
+ch		3230000	3230000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		3400000	3400000	-			AGA communications (civil),  Inductive applications,  Euroloop,  Eurobalise
+ch		3400000	3400000	AERONAUTICAL MOBILE (R)	p		
+ch		3500000	3500000	-			Amateur,  Inductive applications,  Euroloop,  Eurobalise
+ch		3500000	3500000	Amateur	s		
+ch		3500000	3500000	FIXED	p		
+ch		3500000	3500000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		3800000	3800000	-			Fixed,  Land military systems,  AGA communications (military),  Inductive applications,  Euroloop,  Eurobalise
+ch		3800000	3800000	FIXED	p		
+ch		3800000	3800000	AERONAUTICAL MOBILE (OR)	p		
+ch		3800000	3800000	LAND MOBILE	p		
+ch		3900000	3900000	-			AGA communications (military),  Inductive applications,  Euroloop,  Eurobalise
+ch		3900000	3900000	AERONAUTICAL MOBILE (OR)	p		
+ch		3950000	3950000	-			Broadcasting,  Inductive applications,  Euroloop,  Eurobalise
+ch		3950000	3950000	BROADCASTING	p		
+ch		4000000	4000000	-			Fixed,  Land military systems,  Inductive applications,  Euroloop,  Eurobalise
+ch		4000000	4000000	FIXED	p		
+ch		4000000	4000000	MARITIME MOBILE	p		
+ch		4063000	4063000	-			DSC,  Euroloop,  Eurobalise,  Inductive applications
+ch		4063000	4063000	MARITIME MOBILE	p		
+ch		4438000	4438000	-			Fixed,  Euroloop,  Eurobalise,  Land military systems,  AGA communications (military),  Inductive applications
+ch		4438000	4438000	FIXED	p		
+ch		4438000	4438000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+ch		4438000	4438000	Radiolocation	s		
+ch		4488000	4488000	-			Fixed,  Euroloop,  Eurobalise,  Land military systems,  AGA communications (military),  Inductive applications
+ch		4488000	4488000	FIXED	p		
+ch		4488000	4488000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+ch		4650000	4650000	-			Aeronautical communications,  Inductive applications,  Euroloop,  Eurobalise
+ch		4650000	4650000	AERONAUTICAL MOBILE (R)	p		
+ch		4700000	4700000	-			AGA communications (military),  Inductive applications,  Euroloop,  Eurobalise
+ch		4700000	4700000	AERONAUTICAL MOBILE (OR)	p		
+ch		4750000	4750000	-			Fixed,  Land military systems,  AGA communications (military),  Inductive applications,  Euroloop,  Eurobalise
+ch		4750000	4750000	AERONAUTICAL MOBILE (OR)	p		
+ch		4750000	4750000	FIXED	p		
+ch		4750000	4750000	LAND MOBILE	p		
+ch		4850000	4850000	-			Fixed,  Land military systems,  Inductive applications,  Euroloop,  Eurobalise
+ch		4850000	4850000	FIXED	p		
+ch		4850000	4850000	LAND MOBILE	p		
+ch		4995000	4995000	-			Inductive applications,  Euroloop,  Eurobalise,  Standard frequency and time signal
+ch		4995000	4995000		p		
+ch		4995000	4995000	-			
+ch		4995000	4995000	STANDARD FREQUENCY AND TIME SIGNAL (5 000 KHZ)	p		
+ch		5003000	5003000	-			
+ch		5003000	5003000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+ch		5003000	5003000	Space Research	s		
+ch		5005000	5005000	-			Fixed,  Land military systems,  Inductive applications,  Euroloop,  Eurobalise
+ch		5005000	5005000	FIXED	p		
+ch		5060000	5060000	-			Fixed,  Land military systems,  Inductive applications,  Euroloop,  Eurobalise
+ch		5060000	5060000	FIXED	p		
+ch		5060000	5060000	Mobile except aeronautical mobile	s		
+ch		5250000	5250000	-			Fixed,  Land military systems,  Inductive applications,  Euroloop,  Eurobalise
+ch		5250000	5250000	FIXED	p		
+ch		5250000	5250000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		5250000	5250000	Radiolocation	s		
+ch		5275000	5275000	-			Fixed,  Land military systems,  Inductive applications,  Euroloop,  Eurobalise
+ch		5275000	5275000	FIXED	p		
+ch		5275000	5275000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		5450000	5450000	-			Fixed,  Land military systems,  AGA communications (military),  Inductive applications,  Euroloop,  Eurobalise
+ch		5450000	5450000	AERONAUTICAL MOBILE (OR)	p		
+ch		5450000	5450000	FIXED	p		
+ch		5450000	5450000	LAND MOBILE	p		
+ch		5480000	5480000	-			AGA communications (civil),  Inductive applications,  Euroloop,  Eurobalise
+ch		5480000	5480000	AERONAUTICAL MOBILE (R)	p		
+ch		5680000	5680000	-			GMDSS,  AGA communications (military),  Inductive applications,  Euroloop,  Eurobalise
+ch		5680000	5680000	AERONAUTICAL MOBILE (OR)	p		
+ch		5730000	5730000	-			Fixed,  Land military systems,  Inductive applications,  Euroloop,  Eurobalise
+ch		5730000	5730000	FIXED	p		
+ch		5730000	5730000	LAND MOBILE	p		
+ch		5900000	5900000	-			Broadcasting,  Inductive applications,  Euroloop,  Eurobalise
+ch		5900000	5900000		p		
+ch		5900000	5900000	-			
+ch		5900000	5900000	BROADCASTING	p		
+ch		5950000	5950000	-			
+ch		5950000	5950000	BROADCASTING	p		
+ch		6200000	6200000	-			Fixed,  Inductive applications,  Euroloop,  Eurobalise
+ch		6200000	6200000	MARITIME MOBILE	p		
+ch		6525000	6525000	-			AGA communications (civil),  Inductive applications,  Euroloop,  Eurobalise
+ch		6525000	6525000	AERONAUTICAL MOBILE (R)	p		
+ch		6685000	6685000	-			AGA communications (military),  Inductive applications,  Euroloop,  Eurobalise
+ch		6685000	6685000	AERONAUTICAL MOBILE (OR)	p		
+ch		6765000	6765000	-			Fixed,  ISM,  Inductive applications,  Non-specific SRDs,  Land military systems,  Euroloop,  Eurobalise
+ch		6765000	6765000	FIXED	p		
+ch		6765000	6765000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+ch		7000000	7000000	-			Amateur,  Amateur-satellite,  Inductive applications,  Euroloop,  Eurobalise
+ch		7000000	7000000	AMATEUR	p		
+ch		7000000	7000000	AMATEUR-SATELLITE	p		
+ch		7100000	7100000	-			Amateur,  Inductive applications,  Euroloop,  Eurobalise
+ch		7100000	7100000	AMATEUR	p		
+ch		7200000	7200000	-			Broadcasting,  Inductive applications,  Euroloop,  Eurobalise
+ch		7200000	7200000	BROADCASTING	p		
+ch		7300000	7300000	-			Broadcasting,  Inductive applications,  Euroloop,  Eurobalise
+ch		7300000	7300000	BROADCASTING	p		
+ch		7350000	7350000	-			Broadcasting,  Inductive applications,  Euroloop,  Eurobalise
+ch		7350000	7350000	BROADCASTING	p		
+ch		7400000	7400000	-			Broadcasting,  Inductive applications,  Euroloop,  Eurobalise
+ch		7400000	7400000	BROADCASTING	p		
+ch		7450000	7450000	-			Fixed,  Inductive applications,  Land military systems,  AGA communications (military),  Railway applications
+ch		7450000	7450000	FIXED	p		
+ch		7450000	7450000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+ch		8100000	8100000	-			Fixed,  Inductive applications,  Land military systems,  Euroloop
+ch		8100000	8100000	FIXED	p		
+ch		8100000	8100000	MARITIME MOBILE	p		
+ch		8195000	8195000	-			Maritime communications,  Inductive applications,  Euroloop
+ch		8195000	8195000	MARITIME MOBILE	p		
+ch		8815000	8815000	-			Aeronautical communications,  AGA communications (civil),  Inductive applications,  Euroloop
+ch		8815000	8815000	AERONAUTICAL MOBILE (R)	p		
+ch		8965000	8965000	-			AGA communications (military),  Inductive applications,  Euroloop
+ch		8965000	8965000	AERONAUTICAL MOBILE (OR)	p		
+ch		9040000	9040000	-			Fixed,  Land military systems,  Inductive applications,  Euroloop
+ch		9040000	9040000	FIXED	p		
+ch		9305000	9305000	-			Fixed,  Land military systems,  Inductive applications,  Euroloop
+ch		9305000	9305000	FIXED	p		
+ch		9305000	9305000	Radiolocation	s		
+ch		9355000	9355000	-			Fixed,  Land military systems,  Inductive applications,  Euroloop
+ch		9355000	9355000	FIXED	p		
+ch		9400000	9400000	-			Broadcasting,  Inductive applications,  Euroloop
+ch		9400000	9400000		p		
+ch		9400000	9400000	-			
+ch		9400000	9400000	BROADCASTING	p		
+ch		9500000	9500000	-			
+ch		9500000	9500000	BROADCASTING	p		
+ch		9900000	9900000	-			Fixed,  Land military systems,  Inductive applications,  Euroloop
+ch		9900000	9900000	FIXED	p		
+ch		9995000	9995000	-			Inductive applications,  Euroloop,  Standard frequency and time signal
+ch		9995000	9995000		p		
+ch		9995000	9995000	-			
+ch		9995000	9995000	STANDARD FREQUENCY AND TIME SIGNAL (10 000 KHZ)	p		
+ch		10003000	10003000	-			
+ch		10003000	10003000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+ch		10003000	10003000	Space Research	s		
+ch		10005000	10005000	-			AGA communications (civil),  Inductive applications,  Euroloop
+ch		10005000	10005000	AERONAUTICAL MOBILE (R)	p		
+ch		10100000	10100000	-			Amateur,  Fixed,  Inductive applications,  Euroloop
+ch		10100000	10100000	FIXED	p		
+ch		10100000	10100000	Amateur	s		
+ch		10150000	10150000	-			Fixed,  Land military systems,  AGA communications (military),  Inductive applications,  Euroloop
+ch		10150000	10150000	FIXED	p		
+ch		10150000	10150000	Mobile except aeronautical mobile (R)	s		
+ch		11175000	11175000	-			Land military systems,  AGA communications (military),  Inductive applications,  Euroloop
+ch		11175000	11175000	AERONAUTICAL MOBILE (OR)	p		
+ch		11275000	11275000	-			AGA communications (civil),  Inductive applications,  Euroloop
+ch		11275000	11275000	AERONAUTICAL MOBILE (R)	p		
+ch		11400000	11400000	-			Fixed,  Land military systems,  Inductive applications,  Euroloop
+ch		11400000	11400000	FIXED	p		
+ch		11600000	11600000	-			Broadcasting,  Inductive applications,  Euroloop
+ch		11600000	11600000	BROADCASTING	p		
+ch		11650000	11650000	-			
+ch		11650000	11650000	BROADCASTING	p		
+ch		11650000	11650000	-			Broadcasting,  Inductive applications,  Euroloop
+ch		11650000	11650000		p		
+ch		12000000	12000000	-			Broadcasting,  Inductive applications,  Euroloop
+ch		12000000	12000000		p		
+ch		12050000	12050000	-			
+ch		12050000	12050000	BROADCASTING	p		
+ch		12100000	12100000	-			Fixed,  Land military systems,  Inductive applications,  Euroloop
+ch		12100000	12100000	FIXED	p		
+ch		12230000	12230000	-			
+ch		12230000	12230000	MARITIME MOBILE	p		
+ch		12230000	12230000	-			Maritime communications,  Inductive applications,  Euroloop
+ch		12230000	12230000		p		
+ch		12500000	12500000	-			Maritime communications,  ULP-AID,  Inductive applications,  Euroloop
+ch		12500000	12500000		p		
+ch		13200000	13200000	-			AGA communications (military),  ULP-AID,  Inductive applications,  Euroloop
+ch		13200000	13200000	AERONAUTICAL MOBILE (OR)	p		
+ch		13260000	13260000	-			AGA communications (civil),  ULP-AID,  Inductive applications,  Euroloop
+ch		13260000	13260000	AERONAUTICAL MOBILE (R)	p		
+ch		13360000	13360000	-			Radio astronomy,  ULP-AID,  Inductive applications,  Euroloop
+ch		13360000	13360000	FIXED	p		
+ch		13360000	13360000	RADIO ASTRONOMY	p		
+ch		13410000	13410000	-			Fixed,  ULP-AID,  Inductive applications,  Euroloop,  Land military systems,  AGA communications (military)
+ch		13410000	13410000	FIXED	p		
+ch		13410000	13410000	Mobile except aeronautical mobile (R)	s		
+ch		13450000	13450000	-			Fixed,  ULP-AID,  Inductive applications,  Euroloop,  Land military systems,  AGA communications (military)
+ch		13450000	13450000	FIXED	p		
+ch		13450000	13450000	Mobile except aeronautical mobile (R)	s		
+ch		13450000	13450000	Radiolocation	s		
+ch		13550000	13550000	-			Fixed,  ISM,  Short Range Devices,  Non-specific SRDs,  Inductive applications,  Euroloop,  ULP-AID,  RFID,  Land military systems,  AGA communications (military)
+ch		13550000	13550000	FIXED	p		
+ch		13550000	13550000	Mobile except aeronautical mobile (R)	s		
+ch		13570000	13570000	-			Broadcasting,  ULP-AID,  Inductive applications,  Euroloop
+ch		13570000	13570000		p		
+ch		13570000	13570000	-			
+ch		13570000	13570000	BROADCASTING	p		
+ch		13600000	13600000	-			
+ch		13600000	13600000	BROADCASTING	p		
+ch		13800000	13800000	-			
+ch		13800000	13800000	BROADCASTING	p		
+ch		13870000	13870000	-			Fixed,  Land military systems,  AGA communications (military),  ULP-AID,  Inductive applications,  Euroloop
+ch		13870000	13870000	FIXED	p		
+ch		13870000	13870000	Mobile except aeronautical mobile (R)	s		
+ch		14000000	14000000	-			Amateur,  Amateur-satellite,  ULP-AID,  Inductive applications,  Euroloop
+ch		14000000	14000000	AMATEUR	p		
+ch		14000000	14000000	AMATEUR-SATELLITE	p		
+ch		14250000	14250000	-			Amateur,  ULP-AID,  Inductive applications,  Euroloop
+ch		14250000	14250000	AMATEUR	p		
+ch		14350000	14350000	-			Fixed,  AGA communications (military),  Land military systems,  ULP-AID,  Inductive applications,  Euroloop
+ch		14350000	14350000	FIXED	p		
+ch		14350000	14350000	Mobile except aeronautical mobile (R)	s		
+ch		14990000	14990000	-			Standard frequency and time signal,  ULP-AID,  Inductive applications,  Euroloop
+ch		14990000	14990000		p		
+ch		14990000	14990000	-			
+ch		14990000	14990000	STANDARD FREQUENCY AND TIME SIGNAL (15 000 KHZ)	p		
+ch		15005000	15005000	-			
+ch		15005000	15005000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+ch		15005000	15005000	Space Research	s		
+ch		15010000	15010000	-			AGA communications (military),  ULP-AID,  Inductive applications,  Euroloop
+ch		15010000	15010000	AERONAUTICAL MOBILE (OR)	p		
+ch		15100000	15100000	-			Broadcasting,  ULP-AID,  Inductive applications,  Euroloop
+ch		15100000	15100000		p		
+ch		15100000	15100000	-			
+ch		15100000	15100000	BROADCASTING	p		
+ch		15600000	15600000	-			
+ch		15600000	15600000	BROADCASTING	p		
+ch		15800000	15800000	-			Fixed,  Land military systems,  ULP-AID,  Inductive applications,  Euroloop
+ch		15800000	15800000		p		
+ch		15800000	15800000	-			
+ch		15800000	15800000	FIXED	p		
+ch		16100000	16100000	-			
+ch		16100000	16100000	FIXED	p		
+ch		16100000	16100000	Radiolocation	s		
+ch		16200000	16200000	-			
+ch		16200000	16200000	FIXED	p		
+ch		16360000	16360000	-			Maritime communications,  ULP-AID,  Inductive applications,  Euroloop
+ch		16360000	16360000	MARITIME MOBILE	p		
+ch		17410000	17410000	-			Fixed,  ULP-AID,  Inductive applications,  Euroloop,  Land military systems
+ch		17410000	17410000	FIXED	p		
+ch		17480000	17480000	-			Broadcasting,  ULP-AID,  Inductive applications,  Euroloop
+ch		17480000	17480000		p		
+ch		17480000	17480000	-			
+ch		17480000	17480000	BROADCASTING	p		
+ch		17550000	17550000	-			
+ch		17550000	17550000	BROADCASTING	p		
+ch		17900000	17900000	-			AGA communications (civil),  ULP-AID,  Inductive applications,  Euroloop
+ch		17900000	17900000	AERONAUTICAL MOBILE (R)	p		
+ch		17970000	17970000	-			Land military systems,  AGA communications (military),  ULP-AID,  Inductive applications,  Euroloop
+ch		17970000	17970000	AERONAUTICAL MOBILE (OR)	p		
+ch		18030000	18030000	-			Fixed,  Land military systems,  ULP-AID,  Inductive applications,  Euroloop
+ch		18030000	18030000		p		
+ch		18030000	18030000	-			
+ch		18030000	18030000	FIXED	p		
+ch		18052000	18052000	-			
+ch		18052000	18052000	FIXED	p		
+ch		18052000	18052000	Space Research	s		
+ch		18068000	18068000	-			Amateur,  Amateur-satellite,  ULP-AID,  Inductive applications,  Euroloop
+ch		18068000	18068000	AMATEUR	p		
+ch		18068000	18068000	AMATEUR-SATELLITE	p		
+ch		18168000	18168000	-			Fixed,  Land military systems,  ULP-AID,  Inductive applications,  Euroloop
+ch		18168000	18168000	FIXED	p		
+ch		18168000	18168000	Mobile except aeronautical mobile	s		
+ch		18780000	18780000	-			Maritime communications,  Fixed,  ULP-AID,  Inductive applications,  Euroloop
+ch		18780000	18780000	MARITIME MOBILE	p		
+ch		18900000	18900000	-			Broadcasting,  Fixed,  ULP-AID,  Inductive applications,  Euroloop
+ch		18900000	18900000	BROADCASTING	p		
+ch		19020000	19020000	-			Fixed,  Land military systems,  ULP-AID,  Inductive applications,  Euroloop
+ch		19020000	19020000	FIXED	p		
+ch		19680000	19680000	-			Maritime communications,  Fixed,  ULP-AID,  Inductive applications,  Euroloop
+ch		19680000	19680000	MARITIME MOBILE	p		
+ch		19800000	19800000	-			Fixed,  Land military systems,  ULP-AID,  Inductive applications,  Euroloop
+ch		19800000	19800000	FIXED	p		
+ch		19990000	19990000	-			Standard frequency and time signal,  ULP-AID,  Inductive applications,  Euroloop
+ch		19990000	19990000		p		
+ch		19990000	19990000	-			
+ch		19990000	19990000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+ch		19990000	19990000	Space Research	s		
+ch		19995000	19995000	-			
+ch		19995000	19995000	STANDARD FREQUENCY AND TIME SIGNAL (20 000 KHZ)	p		
+ch		20000000	20000000	-			Standard frequency and time signal,  Inductive applications,  Euroloop
+ch		20000000	20000000		p		
+ch		20010000	20010000	-			Fixed,  Land military systems,  AGA communications (military),  Inductive applications,  Euroloop
+ch		20010000	20010000	FIXED	p		
+ch		20010000	20010000	Mobile	s		
+ch		21000000	21000000	-			Amateur,  Amateur-satellite,  Inductive applications,  Euroloop
+ch		21000000	21000000	AMATEUR	p		
+ch		21000000	21000000	AMATEUR-SATELLITE	p		
+ch		21450000	21450000	-			Broadcasting,  Inductive applications,  Euroloop
+ch		21450000	21450000	BROADCASTING	p		
+ch		21850000	21850000	-			Fixed,  Land military systems,  Inductive applications,  Euroloop
+ch		21850000	21850000	FIXED	p		
+ch		21870000	21870000	-			Fixed,  Land military systems,  Inductive applications,  Euroloop
+ch		21870000	21870000	FIXED	p		
+ch		21924000	21924000	-			AGA communications (civil),  Inductive applications,  Euroloop
+ch		21924000	21924000	AERONAUTICAL MOBILE (R)	p		
+ch		22000000	22000000	-			Maritime communications,  Inductive applications,  Euroloop
+ch		22000000	22000000	MARITIME MOBILE	p		
+ch		22855000	22855000	-			Fixed,  Inductive applications,  Euroloop,  Land military systems
+ch		22855000	22855000	FIXED	p		
+ch		23000000	23000000	-			Fixed,  Land military systems,  AGA communications (military),  Inductive applications
+ch		23000000	23000000	FIXED	p		
+ch		23000000	23000000	Mobile except aeronautical mobile (R)	s		
+ch		23200000	23200000	-			Fixed,  AGA communications (military),  Land military systems,  Inductive applications
+ch		23200000	23200000	FIXED	p		
+ch		23200000	23200000	AERONAUTICAL MOBILE (OR)	p		
+ch		23350000	23350000	-			Fixed,  Land military systems,  Inductive applications
+ch		23350000	23350000	FIXED	p		
+ch		23350000	23350000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		24000000	24000000	-			Fixed,  Land military systems,  Inductive applications
+ch		24000000	24000000		p		
+ch		24000000	24000000	-			
+ch		24000000	24000000	FIXED	p		
+ch		24000000	24000000	LAND MOBILE	p		
+ch		24450000	24450000	-			
+ch		24450000	24450000	FIXED	p		
+ch		24450000	24450000	LAND MOBILE	p		
+ch		24450000	24450000	Radiolocation	s		
+ch		24600000	24600000	-			
+ch		24600000	24600000	FIXED	p		
+ch		24600000	24600000	LAND MOBILE	p		
+ch		24890000	24890000	-			Amateur,  Amateur-satellite,  Inductive applications
+ch		24890000	24890000	AMATEUR	p		
+ch		24890000	24890000	AMATEUR-SATELLITE	p		
+ch		24990000	24990000	-			Standard frequency and time signal,  Inductive applications
+ch		24990000	24990000		p		
+ch		24990000	24990000	-			
+ch		24990000	24990000	STANDARD FREQUENCY AND TIME SIGNAL (25 000 KHZ)	p		
+ch		25005000	25005000	-			
+ch		25005000	25005000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+ch		25005000	25005000	Space Research	s		
+ch		25010000	25010000	-			Fixed,  Land military systems,  Inductive applications
+ch		25010000	25010000	FIXED	p		
+ch		25010000	25010000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		25070000	25070000	-			Maritime communications,  Inductive applications
+ch		25070000	25070000	MARITIME MOBILE	p		
+ch		25210000	25210000	-			Fixed,  Land mobile,  Land military systems,  Inductive applications
+ch		25210000	25210000	FIXED	p		
+ch		25210000	25210000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		25550000	25550000	-			Radio astronomy,  Inductive applications
+ch		25550000	25550000	RADIO ASTRONOMY	p		
+ch		25670000	25670000	-			Broadcasting,  Inductive applications
+ch		25670000	25670000	BROADCASTING	p		
+ch		26100000	26100000	-			Maritime communications,  GMDSS,  Inductive applications
+ch		26100000	26100000	MARITIME MOBILE	p		
+ch		26175000	26175000	-			Fixed,  Land military systems,  Inductive applications
+ch		26175000	26175000		p		
+ch		26175000	26175000	-			
+ch		26175000	26175000	FIXED	p		
+ch		26175000	26175000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		26200000	26200000	-			
+ch		26200000	26200000	FIXED	p		
+ch		26200000	26200000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		26200000	26200000	Radiolocation	s		
+ch		26350000	26350000	-			
+ch		26350000	26350000	FIXED	p		
+ch		26350000	26350000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		26550000	26550000	-			Fixed,  Land mobile,  On-site paging,  Inductive applications
+ch		26550000	26550000		p		
+ch		26957000	26957000	-			Fixed,  ISM,  Non-specific SRDs,  Inductive applications,  Railway applications,  Model control,  CB radio
+ch		26957000	26957000		p		
+ch		27283000	27283000	-			Fixed,  Short Range Devices,  Inductive applications,  CB radio
+ch		27283000	27283000		p		
+ch		27420000	27420000	-			Fixed,  Short Range Devices,  Inductive applications,  PMR/PAMR
+ch		27420000	27420000		p		
+ch		27500000	27500000	-			
+ch		27500000	27500000	METEOROLOGICAL AIDS	p		
+ch		27500000	27500000	FIXED	p		
+ch		27500000	27500000	LAND MOBILE	p		
+ch		27500000	27500000	-			PMR/PAMR,  Meteorology,  Short Range Devices,  Inductive applications,  Fixed
+ch		27500000	27500000		p		
+ch		27800000	27800000	-			PMR/PAMR,  Meteorology,  Wireless audio/multimedia,  Inductive applications,  Fixed
+ch		27800000	27800000		p		
+ch		28000000	28000000	-			Amateur,  Amateur-satellite,  Inductive applications
+ch		28000000	28000000	AMATEUR	p		
+ch		28000000	28000000	AMATEUR-SATELLITE	p		
+ch		29700000	29700000	-			Land military systems,  Inductive applications
+ch		29700000	29700000	MOBILE	p		
+ch		30000000	30000000	-			Land military systems,  UWB applications,  ULP-MMI
+ch		30000000	30000000		p		
+ch		30000000	30000000	-			
+ch		30000000	30000000	MOBILE	p		
+ch		30005000	30005000	-			
+ch		30005000	30005000	MOBILE	p		
+ch		30010000	30010000	-			
+ch		30010000	30010000	MOBILE	p		
+ch		30010000	30010000	-			Land military systems,  UWB applications,  ULP-MMI
+ch		30010000	30010000		p		
+ch		31400000	31400000	-			Radio microphones,  Land military systems,  UWB applications,  ULP-MMI
+ch		31400000	31400000		p		
+ch		31600000	31600000	-			Land military systems,  UWB applications,  ULP-MMI
+ch		31600000	31600000		p		
+ch		32400000	32400000	-			Radio microphones,  Land military systems,  UWB applications,  ULP-MMI
+ch		32400000	32400000		p		
+ch		32600000	32600000	-			Land military systems,  UWB applications,  ULP-MMI
+ch		32600000	32600000		p		
+ch		34995000	34995000	-			Flying model control,  UWB applications,  ULP-MMI
+ch		34995000	34995000		p		
+ch		35225000	35225000	-			Land military systems,  UWB applications,  ULP-MMI
+ch		35225000	35225000		p		
+ch		36000000	36000000	-			Radio microphones,  Land military systems,  UWB applications,  ULP-MMI
+ch		36000000	36000000		p		
+ch		36200000	36200000	-			Land military systems,  UWB applications,  ULP-MMI
+ch		36200000	36200000		p		
+ch		36600000	36600000	-			Radio microphones,  Land military systems,  UWB applications,  ULP-MMI
+ch		36600000	36600000		p		
+ch		36800000	36800000	-			Land military systems,  UWB applications,  ULP-MMI
+ch		36800000	36800000		p		
+ch		37000000	37000000	-			Radio microphones,  Land military systems,  UWB applications,  ULP-MMI
+ch		37000000	37000000		p		
+ch		37400000	37400000	-			Land military systems,  UWB applications,  ULP-MMI
+ch		37400000	37400000		p		
+ch		37500000	37500000	-			
+ch		37500000	37500000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		37500000	37500000	Radio Astronomy	s		
+ch		37500000	37500000	-			Land military systems,  UWB applications,  Radio astronomy
+ch		37500000	37500000		p		
+ch		37800000	37800000	-			Land military systems,  UWB applications,  Radio astronomy,  Radio microphones
+ch		37800000	37800000		p		
+ch		38000000	38000000	-			Land military systems,  UWB applications,  Radio astronomy
+ch		38000000	38000000		p		
+ch		38250000	38250000	-			
+ch		38250000	38250000	MOBILE	p		
+ch		38250000	38250000	-			Land military systems,  UWB applications
+ch		38250000	38250000		p		
+ch		38400000	38400000	-			Radio microphones,  Land military systems,  UWB applications
+ch		38400000	38400000		p		
+ch		38600000	38600000	-			Land military systems,  UWB applications
+ch		38600000	38600000		p		
+ch		38900000	38900000	-			Radio microphones,  Land military systems,  UWB applications
+ch		38900000	38900000		p		
+ch		39000000	39000000	-			
+ch		39000000	39000000	MOBILE	p		
+ch		39000000	39000000	Radiolocation	s		
+ch		39000000	39000000	-			Radio microphones,  Meteor scatter communications,  Land military systems,  UWB applications
+ch		39000000	39000000		p		
+ch		39100000	39100000	-			Meteor scatter communications,  Land military systems,  UWB applications
+ch		39100000	39100000		p		
+ch		39200000	39200000	-			Land military systems,  UWB applications
+ch		39200000	39200000		p		
+ch		39400000	39400000	-			Radio microphones,  Land military systems,  UWB applications
+ch		39400000	39400000		p		
+ch		39500000	39500000	-			
+ch		39500000	39500000	MOBILE	p		
+ch		39500000	39500000	-			Radio microphones,  Land military systems,  UWB applications
+ch		39500000	39500000		p		
+ch		39600000	39600000	-			Land military systems,  UWB applications
+ch		39600000	39600000		p		
+ch		39986000	39986000	-			
+ch		39986000	39986000	MOBILE	p		
+ch		39986000	39986000	Space Research	s		
+ch		40020000	40020000	-			
+ch		40020000	40020000	MOBILE	p		
+ch		40660000	40660000	-			ISM,  Telemetry (civil),  Non-specific SRDs,  Model control,  UWB applications
+ch		40660000	40660000	MOBILE	p		
+ch		40700000	40700000	-			Model control,  Land military systems,  UWB applications
+ch		40700000	40700000		p		
+ch		40700000	40700000	-			
+ch		40700000	40700000	MOBILE	p		
+ch		40980000	40980000	-			
+ch		40980000	40980000	MOBILE	p		
+ch		40980000	40980000	Space Research	s		
+ch		40990000	40990000	-			Land military systems,  UWB applications
+ch		40990000	40990000		p		
+ch		41015000	41015000	-			Land military systems,  UWB applications
+ch		41015000	41015000		p		
+ch		41015000	41015000	-			
+ch		41015000	41015000	MOBILE	p		
+ch		42000000	42000000	-			
+ch		42000000	42000000	MOBILE	p		
+ch		42000000	42000000	Radiolocation	s		
+ch		42500000	42500000	-			
+ch		42500000	42500000	MOBILE	p		
+ch		44000000	44000000	-			
+ch		44000000	44000000	MOBILE	p		
+ch		46000000	46000000	-			Wind profilers,  Land military systems,  UWB applications
+ch		46000000	46000000		p		
+ch		46400000	46400000	-			
+ch		46400000	46400000	MOBILE	p		
+ch		47000000	47000000	-			Land military systems,  Wind profilers,  UWB applications
+ch		47000000	47000000	LAND MOBILE	p		
+ch		50000000	50000000	-			Amateur,  Wind profilers,  UWB applications
+ch		50000000	50000000	Amateur	s		
+ch		50000000	50000000	LAND MOBILE	p		
+ch		52000000	52000000	-			Land military systems,  Wind profilers,  UWB applications
+ch		52000000	52000000	LAND MOBILE	p		
+ch		68000000	68000000	-			PMR/PAMR,  Land military systems,  UWB applications
+ch		68000000	68000000	MOBILE	p		
+ch		70450000	70450000	-			PMR/PAMR,  Land military systems,  Short Range Devices,  UWB applications
+ch		70450000	70450000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		70450000	70450000	Radio Astronomy	s		
+ch		74800000	74800000	-			Beacons (aeronautical),  UWB applications
+ch		74800000	74800000	AERONAUTICAL RADIONAVIGATION	p		
+ch		75200000	75200000	-			PMR/PAMR,  Land military systems,  UWB applications
+ch		75200000	75200000	MOBILE	p		
+ch		87500000	87500000	-			FM sound analogue,  SAP/SAB and ENG/OB,  Band II LPD,  UWB applications
+ch		87500000	87500000	BROADCASTING	p		
+ch		87500000	87500000	Land Mobile	s		
+ch		108000000	108000000	-			
+ch		108000000	108000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		108000000	108000000	AERONAUTICAL MOBILE (R)	p		
+ch		108000000	108000000	-			ILS,  VOR,  UWB applications
+ch		108000000	108000000		p		
+ch		112000000	112000000	-			VOR,  UWB applications
+ch		112000000	112000000		p		
+ch		117975000	117975000	-			Aeronautical communications,  Aeronautical military systems,  UWB applications
+ch		117975000	117975000	AERONAUTICAL MOBILE (R)	p		
+ch		121450000	121450000	-			ELT,  PLB,  EPIRBs,  UWB applications
+ch		121450000	121450000	AERONAUTICAL MOBILE (R)	p		
+ch		121450000	121450000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		121550000	121550000	-			Aeronautical communications,  Aeronautical military systems,  UWB applications
+ch		121550000	121550000	AERONAUTICAL MOBILE (R)	p		
+ch		137000000	137000000	-			Weather satellites,  MSS Earth stations,  UWB applications
+ch		137000000	137000000		p		
+ch		137000000	137000000	-			
+ch		137000000	137000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+ch		137000000	137000000	MOBILE	p		
+ch		137000000	137000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		137000000	137000000	Space Operation (space-to-Earth)	s		
+ch		137000000	137000000	Space Research (space-to-Earth)	s		
+ch		137025000	137025000	-			
+ch		137025000	137025000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+ch		137025000	137025000	MOBILE	p		
+ch		137025000	137025000	Mobile-Satellite (space-to-Earth)	s		
+ch		137025000	137025000	Space Operation (space-to-Earth)	s		
+ch		137025000	137025000	Space Research (space-to-Earth)	s		
+ch		137175000	137175000	-			
+ch		137175000	137175000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+ch		137175000	137175000	MOBILE	p		
+ch		137175000	137175000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		137175000	137175000	Space Operation (space-to-Earth)	s		
+ch		137175000	137175000	Space Research (space-to-Earth)	s		
+ch		137825000	137825000	-			
+ch		137825000	137825000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+ch		137825000	137825000	MOBILE	p		
+ch		137825000	137825000	Mobile-Satellite (space-to-Earth)	s		
+ch		137825000	137825000	Space Operation (space-to-Earth)	s		
+ch		137825000	137825000	Space Research (space-to-Earth)	s		
+ch		138000000	138000000	-			Aeronautical military systems,  UWB applications
+ch		138000000	138000000		p		
+ch		138000000	138000000	-			
+ch		138000000	138000000	AERONAUTICAL MOBILE (OR)	p		
+ch		138000000	138000000	LAND MOBILE	p		
+ch		143600000	143600000	-			
+ch		143600000	143600000	AERONAUTICAL MOBILE (OR)	p		
+ch		143600000	143600000	LAND MOBILE	p		
+ch		143600000	143600000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+ch		143650000	143650000	-			
+ch		143650000	143650000	AERONAUTICAL MOBILE (OR)	p		
+ch		143650000	143650000	LAND MOBILE	p		
+ch		144000000	144000000	-			Amateur,  Amateur-satellite,  UWB applications
+ch		144000000	144000000	AMATEUR	p		
+ch		144000000	144000000	AMATEUR-SATELLITE	p		
+ch		146000000	146000000	-			Aeronautical military systems,  UWB applications
+ch		146000000	146000000	MOBILE	p		
+ch		146800000	146800000	-			
+ch		146800000	146800000	MOBILE	p		
+ch		146800000	146800000	-			PMR/PAMR,  UWB applications
+ch		146800000	146800000		p		
+ch		147287500	147287500	-			PMR/PAMR,  Paging,  UWB applications
+ch		147287500	147287500		p		
+ch		147412500	147412500	-			PMR/PAMR,  UWB applications
+ch		147412500	147412500		p		
+ch		147600000	147600000	-			
+ch		147600000	147600000	MOBILE	p		
+ch		147600000	147600000	-			Aeronautical military systems,  UWB applications
+ch		147600000	147600000		p		
+ch		147900000	147900000	-			PAMR,  Aeronautical military systems,  UWB applications
+ch		147900000	147900000		p		
+ch		148000000	148000000	-			
+ch		148000000	148000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		148000000	148000000	MOBILE	p		
+ch		148000000	148000000	-			PAMR,  MSS Earth stations,  Aeronautical military systems,  UWB applications
+ch		148000000	148000000		p		
+ch		148087500	148087500	-			PAMR,  MSS Earth stations,  Animal tracking,  Aeronautical military systems,  UWB applications
+ch		148087500	148087500		p		
+ch		148200000	148200000	-			MSS Earth stations,  Animal tracking,  Aeronautical military systems,  UWB applications
+ch		148200000	148200000		p		
+ch		148787500	148787500	-			MSS Earth stations,  Aeronautical military systems,  UWB applications
+ch		148787500	148787500		p		
+ch		149900000	149900000	-			MSS Earth stations,  UWB applications
+ch		149900000	149900000	RADIONAVIGATION-SATELLITE	p		
+ch		149900000	149900000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		149900000	149900000	MOBILE	p		
+ch		150050000	150050000	-			Land military systems,  UWB applications
+ch		150050000	150050000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		150050000	150050000	RADIO ASTRONOMY	p		
+ch		150400000	150400000	-			PMR/PAMR,  UWB applications
+ch		150400000	150400000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		150400000	150400000	RADIO ASTRONOMY	p		
+ch		151400000	151400000	-			
+ch		151400000	151400000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		151400000	151400000	RADIO ASTRONOMY	p		
+ch		151400000	151400000	-			Land military systems,  UWB applications
+ch		151400000	151400000		p		
+ch		152062500	152062500	-			Talkback pocket unit,  Land military systems,  UWB applications
+ch		152062500	152062500		p		
+ch		152087500	152087500	-			Land military systems,  UWB applications
+ch		152087500	152087500		p		
+ch		152500000	152500000	-			Land military systems,  PAMR,  UWB applications
+ch		152500000	152500000		p		
+ch		152562500	152562500	-			Talkback pocket unit,  PAMR,  Land military systems,  UWB applications
+ch		152562500	152562500		p		
+ch		152587500	152587500	-			PAMR,  Land military systems,  UWB applications
+ch		152587500	152587500		p		
+ch		152800000	152800000	-			Land military systems,  UWB applications
+ch		152800000	152800000		p		
+ch		153000000	153000000	-			Land military systems,  UWB applications
+ch		153000000	153000000		p		
+ch		153000000	153000000	-			
+ch		153000000	153000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		154000000	154000000	-			
+ch		154000000	154000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		155000000	155000000	-			PMR/PAMR,  UWB applications
+ch		155000000	155000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		156000000	156000000	-			PMR/PAMR,  UWB applications
+ch		156000000	156000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		156487500	156487500	-			Land mobile,  GMDSS,  UWB applications
+ch		156487500	156487500		p		
+ch		156487500	156487500	-			
+ch		156487500	156487500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		156487500	156487500	MARITIME MOBILE (DISTRESS AND CALLING VIA DSC)	p		
+ch		156537500	156537500	-			
+ch		156537500	156537500	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+ch		156537500	156537500	MARITIME MOBILE (DISTRESS AND CALLING VIA DSC)	p		
+ch		156562500	156562500	-			PMR/PAMR,  UWB applications
+ch		156562500	156562500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		156762500	156762500	-			Land mobile,  GMDSS,  UWB applications
+ch		156762500	156762500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		156762500	156762500	MARITIME MOBILE	p		
+ch		156762500	156762500	Mobile-Satellite (Earth-to-space)	s		
+ch		156787500	156787500	-			Land mobile,  GMDSS,  UWB applications
+ch		156787500	156787500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		156787500	156787500	MARITIME MOBILE (DISTRESS AND CALLING)	p		
+ch		156812500	156812500	-			Land mobile,  GMDSS,  UWB applications
+ch		156812500	156812500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		156812500	156812500	MARITIME MOBILE	p		
+ch		156812500	156812500	Mobile-Satellite (Earth-to-space)	s		
+ch		156837500	156837500	-			
+ch		156837500	156837500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		156837500	156837500	-			PMR/PAMR,  UWB applications
+ch		156837500	156837500		p		
+ch		156887500	156887500	-			Inland waterway communications,  PMR/PAMR,  UWB applications
+ch		156887500	156887500		p		
+ch		157362500	157362500	-			PMR/PAMR,  UWB applications
+ch		157362500	157362500		p		
+ch		157450000	157450000	-			
+ch		157450000	157450000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		160600000	160600000	-			
+ch		160600000	160600000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		160975000	160975000	-			
+ch		160975000	160975000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		161287500	161287500	-			PPDR,  UWB applications
+ch		161287500	161287500		p		
+ch		161312500	161312500	-			PMR/PAMR,  UWB applications
+ch		161312500	161312500		p		
+ch		161475000	161475000	-			
+ch		161475000	161475000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		161487500	161487500	-			Inland waterway communications,  PMR/PAMR,  UWB applications
+ch		161487500	161487500		p		
+ch		161962500	161962500	-			AIS,  UWB applications
+ch		161962500	161962500		p		
+ch		161962500	161962500	-			
+ch		161962500	161962500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		161962500	161962500	Mobile-Satellite (Earth-to-space)	s		
+ch		161987500	161987500	-			
+ch		161987500	161987500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		162012500	162012500	-			
+ch		162012500	162012500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		162012500	162012500	Mobile-Satellite (Earth-to-space)	s		
+ch		162037500	162037500	-			PMR/PAMR,  UWB applications
+ch		162037500	162037500		p		
+ch		162037500	162037500	-			
+ch		162037500	162037500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		162050000	162050000	-			
+ch		162050000	162050000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		165200000	165200000	-			PMR/PAMR,  UWB applications
+ch		165200000	165200000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		169400000	169400000	-			
+ch		169400000	169400000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		169400000	169400000	-			Personal hearing aids,  Public hearing aids,  Meter reading,  Asset tracking and tracing,  Non-specific SRDs,  UWB applications
+ch		169400000	169400000		p		
+ch		169412500	169412500	-			Personal hearing aids,  Public hearing aids,  Meter reading,  Asset tracking and tracing,  Non-specific SRDs,  Paging,  UWB applications
+ch		169412500	169412500		p		
+ch		169437500	169437500	-			Personal hearing aids,  Public hearing aids,  Meter reading,  Asset tracking and tracing,  Non-specific SRDs,  UWB applications
+ch		169437500	169437500		p		
+ch		169475000	169475000	-			Non-specific SRDs,  UWB applications
+ch		169475000	169475000		p		
+ch		169487500	169487500	-			Personal hearing aids,  Public hearing aids,  Non-specific SRDs,  Paging,  UWB applications
+ch		169487500	169487500		p		
+ch		169512500	169512500	-			Personal hearing aids,  Public hearing aids,  Non-specific SRDs,  UWB applications
+ch		169512500	169512500		p		
+ch		169587500	169587500	-			Non-specific SRDs,  UWB applications
+ch		169587500	169587500		p		
+ch		169600000	169600000	-			Non-specific SRDs,  UWB applications
+ch		169600000	169600000		p		
+ch		169612500	169612500	-			Asset tracking and tracing,  Non-specific SRDs,  UWB applications
+ch		169612500	169612500		p		
+ch		169637500	169637500	-			Paging,  Non-specific SRDs,  UWB applications
+ch		169637500	169637500		p		
+ch		169712500	169712500	-			Asset tracking and tracing,  Non-specific SRDs,  UWB applications
+ch		169712500	169712500		p		
+ch		169762500	169762500	-			Paging,  Non-specific SRDs,  UWB applications
+ch		169762500	169762500		p		
+ch		169787500	169787500	-			Asset tracking and tracing,  Non-specific SRDs,  UWB applications
+ch		169787500	169787500		p		
+ch		169812500	169812500	-			UWB applications
+ch		169812500	169812500		p		
+ch		169825000	169825000	-			
+ch		169825000	169825000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		169825000	169825000	-			PMR/PAMR,  UWB applications
+ch		169825000	169825000		p		
+ch		170487500	170487500	-			Alarms,  UWB applications
+ch		170487500	170487500		p		
+ch		170501250	170501250	-			PMR/PAMR,  UWB applications
+ch		170501250	170501250		p		
+ch		173087500	173087500	-			PMR/PAMR,  Non-specific SRDs,  UWB applications
+ch		173087500	173087500		p		
+ch		173362500	173362500	-			PMR/PAMR,  UWB applications
+ch		173362500	173362500		p		
+ch		174000000	174000000	-			T-DAB,  DVB-T,  Radio microphones,  Personal hearing aids,  Medical telemetry,  UWB applications
+ch		174000000	174000000	BROADCASTING	p		
+ch		174000000	174000000	Land Mobile	s		
+ch		216000000	216000000	-			T-DAB,  Radio microphones,  Personal hearing aids,  UWB applications
+ch		216000000	216000000	BROADCASTING	p		
+ch		216000000	216000000	Land Mobile	s		
+ch		223000000	223000000	-			T-DAB,  UWB applications
+ch		223000000	223000000	BROADCASTING	p		
+ch		230000000	230000000	-			Aeronautical military systems,  UWB applications
+ch		230000000	230000000		p		
+ch		230000000	230000000	-			
+ch		230000000	230000000	MOBILE	p		
+ch		235000000	235000000	-			
+ch		235000000	235000000	MOBILE	p		
+ch		240000000	240000000	-			
+ch		240000000	240000000	MOBILE	p		
+ch		242950000	242950000	-			ELT,  PLB,  EPIRBs,  UWB applications
+ch		242950000	242950000	AERONAUTICAL MOBILE	p		
+ch		243050000	243050000	-			Aeronautical military systems,  UWB applications
+ch		243050000	243050000		p		
+ch		243050000	243050000	-			
+ch		243050000	243050000	MOBILE	p		
+ch		267000000	267000000	-			
+ch		267000000	267000000	MOBILE	p		
+ch		272000000	272000000	-			
+ch		272000000	272000000	MOBILE	p		
+ch		273000000	273000000	-			
+ch		273000000	273000000	MOBILE	p		
+ch		312000000	312000000	-			
+ch		312000000	312000000	MOBILE	p		
+ch		315000000	315000000	-			
+ch		315000000	315000000	MOBILE	p		
+ch		322000000	322000000	-			
+ch		322000000	322000000	MOBILE	p		
+ch		322000000	322000000	RADIO ASTRONOMY	p		
+ch		328600000	328600000	-			ILS,  UWB applications
+ch		328600000	328600000	AERONAUTICAL RADIONAVIGATION	p		
+ch		335400000	335400000	-			Aeronautical military systems,  UWB applications
+ch		335400000	335400000	MOBILE	p		
+ch		380000000	380000000	-			PMR/PAMR,  PPDR,  UWB applications
+ch		380000000	380000000	MOBILE	p		
+ch		385000000	385000000	-			Aeronautical military systems,  UWB applications
+ch		385000000	385000000	MOBILE	p		
+ch		387000000	387000000	-			Aeronautical military systems,  UWB applications
+ch		387000000	387000000	MOBILE	p		
+ch		390000000	390000000	-			PMR/PAMR,  PPDR,  UWB applications
+ch		390000000	390000000	MOBILE	p		
+ch		395000000	395000000	-			Aeronautical military systems,  UWB applications
+ch		395000000	395000000	MOBILE	p		
+ch		399900000	399900000	-			Satellite navigation systems,  MSS Earth stations,  UWB applications
+ch		399900000	399900000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		399900000	399900000	RADIONAVIGATION-SATELLITE	p		
+ch		400050000	400050000	-			Standard frequency and time signal-satellite,  UWB applications
+ch		400050000	400050000	STANDARD FREQUENCY AND TIME SIGNAL-SATELLITE (400.1 MHZ)	p		
+ch		400150000	400150000	-			Meteorology,  Satellite systems (civil),  UWB applications
+ch		400150000	400150000	METEOROLOGICAL AIDS	p		
+ch		400150000	400150000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+ch		400150000	400150000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		400150000	400150000	SPACE OPERATION (SPACE-TO-EARTH)	p		
+ch		400150000	400150000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+ch		401000000	401000000	-			Meteorology,  Sondes,  Satellite systems (civil),  UWB applications,  ULP-AMI
+ch		401000000	401000000	EARTH EXPLORATION-SATELLITE (EARTH-TO-SPACE)	p		
+ch		401000000	401000000	METEOROLOGICAL AIDS	p		
+ch		401000000	401000000	METEOROLOGICAL-SATELLITE (EARTH-TO-SPACE)	p		
+ch		402000000	402000000	-			Meteorology,  Sondes,  ULP-AMI,  UWB applications
+ch		402000000	402000000	EARTH EXPLORATION-SATELLITE (EARTH-TO-SPACE)	p		
+ch		402000000	402000000	METEOROLOGICAL AIDS	p		
+ch		402000000	402000000	METEOROLOGICAL-SATELLITE (EARTH-TO-SPACE)	p		
+ch		403000000	403000000	-			Sondes,  ULP-AMI,  UWB applications
+ch		403000000	403000000	METEOROLOGICAL AIDS	p		
+ch		406000000	406000000	-			ELT,  PLB,  EPIRBs,  UWB applications
+ch		406000000	406000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		406100000	406100000	-			PMR/PAMR,  UWB applications
+ch		406100000	406100000	LAND MOBILE	p		
+ch		406100000	406100000	RADIO ASTRONOMY	p		
+ch		410000000	410000000	-			
+ch		410000000	410000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		410000000	410000000	-			PMR,  PAMR,  TETRA,  TETRAPOL,  UWB applications
+ch		410000000	410000000		p		
+ch		418000000	418000000	-			Land military systems,  UWB applications
+ch		418000000	418000000		p		
+ch		420000000	420000000	-			
+ch		420000000	420000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		420000000	420000000	Radiolocation	s		
+ch		420000000	420000000	-			PMR,  PAMR,  TETRA,  TETRAPOL,  UWB applications
+ch		420000000	420000000		p		
+ch		428000000	428000000	-			Land military systems,  UWB applications
+ch		428000000	428000000		p		
+ch		430000000	430000000	-			PMR,  Amateur,  UWB applications
+ch		430000000	430000000	AMATEUR	p		
+ch		430000000	430000000	Land Mobile	s		
+ch		432000000	432000000	-			Amateur,  UWB applications
+ch		432000000	432000000	AMATEUR	p		
+ch		432000000	432000000	Land Mobile	s		
+ch		432000000	432000000	Earth Exploration-Satellite (active)	s		
+ch		433050000	433050000	-			ISM,  Amateur,  Short Range Devices,  Non-specific SRDs,  Land mobile,  UWB applications
+ch		433050000	433050000	AMATEUR	p		
+ch		433050000	433050000	Land Mobile	s		
+ch		433050000	433050000	Earth Exploration-Satellite (active)	s		
+ch		434790000	434790000	-			Amateur,  Amateur-satellite,  UWB applications
+ch		434790000	434790000	AMATEUR	p		
+ch		434790000	434790000	AMATEUR-SATELLITE	p		
+ch		434790000	434790000	Earth Exploration-Satellite (active)	s		
+ch		438000000	438000000	-			
+ch		438000000	438000000	AMATEUR	p		
+ch		438000000	438000000	-			Amateur,  UWB applications
+ch		438000000	438000000		p		
+ch		439500000	439500000	-			Amateur,  Land military systems,  UWB applications
+ch		439500000	439500000		p		
+ch		439700000	439700000	-			Amateur,  UWB applications
+ch		439700000	439700000		p		
+ch		440000000	440000000	-			
+ch		440000000	440000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		440000000	440000000	-			PMR/PAMR,  Paging,  UWB applications
+ch		440000000	440000000		p		
+ch		446000000	446000000	-			PMR 446,  UWB applications
+ch		446000000	446000000		p		
+ch		446200000	446200000	-			PMR/PAMR,  Paging,  UWB applications
+ch		446200000	446200000		p		
+ch		449787500	449787500	-			On-site paging,  UWB applications
+ch		449787500	449787500		p		
+ch		449912500	449912500	-			PMR/PAMR,  Paging,  UWB applications
+ch		449912500	449912500		p		
+ch		450000000	450000000	-			PMR/PAMR,  Paging,  UWB applications
+ch		450000000	450000000	MOBILE	p		
+ch		460000000	460000000	-			PMR/PAMR,  Paging,  UWB applications
+ch		460000000	460000000	MOBILE	p		
+ch		470000000	470000000	-			
+ch		470000000	470000000	BROADCASTING	p		
+ch		470000000	470000000	Mobile	s		
+ch		470000000	470000000	-			DVB-T,  PMR,  Wireless audio/multimedia,  Radio microphones,  In-ear monitor systems,  UWB applications
+ch		470000000	470000000		p		
+ch		494000000	494000000	-			DVB-T,  PMR,  Wireless audio/multimedia,  Radio microphones,  In-ear monitor systems,  UWB applications
+ch		494000000	494000000		p		
+ch		608000000	608000000	-			Radio astronomy,  Radio microphones,  In-ear monitor systems,  UWB applications
+ch		608000000	608000000	BROADCASTING	p		
+ch		608000000	608000000	Radio Astronomy	s		
+ch		608000000	608000000	Mobile	s		
+ch		614000000	614000000	-			
+ch		614000000	614000000	BROADCASTING	p		
+ch		614000000	614000000	Mobile	s		
+ch		614000000	614000000	-			DVB-T,  Wireless audio/multimedia,  Radio microphones,  In-ear monitor systems,  UWB applications
+ch		614000000	614000000		p		
+ch		782000000	782000000	-			Radio microphones,  In-ear monitor systems,  UWB applications
+ch		782000000	782000000		p		
+ch		789000000	789000000	-			UWB applications
+ch		789000000	789000000		p		
+ch		790000000	790000000	-			
+ch		790000000	790000000	BROADCASTING	p		
+ch		790000000	790000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		790000000	790000000	-			UWB applications
+ch		790000000	790000000		p		
+ch		791000000	791000000	-			MFCN,  IMT,  UWB applications
+ch		791000000	791000000		p		
+ch		821000000	821000000	-			UWB applications
+ch		821000000	821000000		p		
+ch		823000000	823000000	-			Radio microphones and ALD,  UWB applications
+ch		823000000	823000000		p		
+ch		832000000	832000000	-			MFCN,  IMT,  UWB applications
+ch		832000000	832000000		p		
+ch		862000000	862000000	-			
+ch		862000000	862000000	MOBILE	p		
+ch		862000000	862000000	-			Land mobile,  UWB applications
+ch		862000000	862000000		p		
+ch		863000000	863000000	-			Wireless audio/multimedia,  Radio microphones,  Non-specific SRDs,  UWB applications
+ch		863000000	863000000		p		
+ch		865000000	865000000	-			RFID,  Non-specific SRDs,  UWB applications
+ch		865000000	865000000		p		
+ch		866885000	866885000	-			Emergency detection,  RFID,  Non-specific SRDs,  UWB applications
+ch		866885000	866885000		p		
+ch		866915000	866915000	-			RFID,  Non-specific SRDs,  UWB applications
+ch		866915000	866915000		p		
+ch		868000000	868000000	-			Non-specific SRDs,  UWB applications
+ch		868000000	868000000		p		
+ch		868600000	868600000	-			Alarms,  UWB applications
+ch		868600000	868600000		p		
+ch		868700000	868700000	-			Non-specific SRDs,  UWB applications
+ch		868700000	868700000		p		
+ch		869200000	869200000	-			Social alarms,  UWB applications
+ch		869200000	869200000		p		
+ch		869250000	869250000	-			Alarms,  UWB applications
+ch		869250000	869250000		p		
+ch		869300000	869300000	-			Non-specific SRDs,  Alarms,  UWB applications
+ch		869300000	869300000		p		
+ch		869400000	869400000	-			Non-specific SRDs,  UWB applications
+ch		869400000	869400000		p		
+ch		869650000	869650000	-			Alarms,  UWB applications
+ch		869650000	869650000		p		
+ch		869700000	869700000	-			Non-specific SRDs,  UWB applications
+ch		869700000	869700000		p		
+ch		870000000	870000000	-			
+ch		870000000	870000000	MOBILE	p		
+ch		870000000	870000000	-			Tracking, tracing and data acquisition,  Non-specific SRDs,  TTT,  UWB applications
+ch		870000000	870000000		p		
+ch		873000000	873000000	-			GSM-R,  UWB applications
+ch		873000000	873000000		p		
+ch		876000000	876000000	-			GSM-R,  UWB applications
+ch		876000000	876000000	MOBILE	p		
+ch		880000000	880000000	-			
+ch		880000000	880000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		880000000	880000000	-			GSM,  IMT,  UWB applications
+ch		880000000	880000000		p		
+ch		885000000	885000000	-			GSM,  IMT,  CT1+,  UWB applications
+ch		885000000	885000000		p		
+ch		887000000	887000000	-			GSM,  IMT,  UWB applications
+ch		887000000	887000000		p		
+ch		915000000	915000000	-			
+ch		915000000	915000000	LAND MOBILE	p		
+ch		915000000	915000000	-			Non-specific SRDs,  Aids for hearing impaired,  RFID,  UWB applications
+ch		915000000	915000000		p		
+ch		918000000	918000000	-			GSM-R,  UWB applications
+ch		918000000	918000000		p		
+ch		921000000	921000000	-			GSM-R,  UWB applications
+ch		921000000	921000000	LAND MOBILE	p		
+ch		925000000	925000000	-			
+ch		925000000	925000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		925000000	925000000	-			GSM,  IMT,  UWB applications
+ch		925000000	925000000		p		
+ch		930000000	930000000	-			GSM,  IMT,  CT1+,  UWB applications
+ch		930000000	930000000		p		
+ch		932000000	932000000	-			GSM,  IMT,  UWB applications
+ch		932000000	932000000		p		
+ch		960000000	960000000	-			Aeronautical navigation,  DME,  Aeronautical surveillance,  SSR,  Aeronautical military systems,  UWB applications
+ch		960000000	960000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		960000000	960000000	AERONAUTICAL MOBILE (R)	p		
+ch		1164000000	1164000000	-			Aeronautical navigation,  DME,  Satellite navigation systems,  GNSS Repeater,  Aeronautical military systems,  UWB applications
+ch		1164000000	1164000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		1164000000	1164000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+ch		1215000000	1215000000	-			
+ch		1215000000	1215000000	RADIONAVIGATION	p		
+ch		1215000000	1215000000	RADIOLOCATION	p		
+ch		1215000000	1215000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+ch		1215000000	1215000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ch		1215000000	1215000000	SPACE RESEARCH (ACTIVE)	p		
+ch		1215000000	1215000000	-			Satellite navigation systems,  GNSS Repeater,  UWB applications
+ch		1215000000	1215000000		p		
+ch		1220000000	1220000000	-			Defence systems,  Satellite navigation systems,  GNSS Repeater,  UWB applications
+ch		1220000000	1220000000		p		
+ch		1240000000	1240000000	-			Satellite navigation systems,  GNSS Repeater,  Defence systems,  Amateur,  UWB applications
+ch		1240000000	1240000000	RADIONAVIGATION	p		
+ch		1240000000	1240000000	RADIOLOCATION	p		
+ch		1240000000	1240000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+ch		1240000000	1240000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ch		1240000000	1240000000	SPACE RESEARCH (ACTIVE)	p		
+ch		1240000000	1240000000	Amateur	s		
+ch		1260000000	1260000000	-			Defence systems,  Amateur,  Amateur-satellite,  Satellite navigation systems,  GNSS Repeater,  UWB applications
+ch		1260000000	1260000000	RADIONAVIGATION	p		
+ch		1260000000	1260000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ch		1260000000	1260000000	RADIOLOCATION	p		
+ch		1260000000	1260000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+ch		1260000000	1260000000	SPACE RESEARCH (ACTIVE)	p		
+ch		1260000000	1260000000	Amateur	s		
+ch		1260000000	1260000000	Amateur-Satellite	s		
+ch		1270000000	1270000000	-			
+ch		1270000000	1270000000	RADIONAVIGATION	p		
+ch		1270000000	1270000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ch		1270000000	1270000000	RADIOLOCATION	p		
+ch		1270000000	1270000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+ch		1270000000	1270000000	SPACE RESEARCH (ACTIVE)	p		
+ch		1270000000	1270000000	Amateur	s		
+ch		1270000000	1270000000	-			Defence systems,  Amateur,  Wind profilers,  Satellite navigation systems,  GNSS Repeater,  UWB applications
+ch		1270000000	1270000000		p		
+ch		1295000000	1295000000	-			Defence systems,  Amateur,  Satellite navigation systems,  GNSS Repeater,  UWB applications
+ch		1295000000	1295000000		p		
+ch		1300000000	1300000000	-			Aeronautical surveillance,  Primary radar,  Defence systems,  UWB applications
+ch		1300000000	1300000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		1300000000	1300000000	RADIOLOCATION	p		
+ch		1300000000	1300000000	RADIONAVIGATION-SATELLITE (EARTH-TO-SPACE)	p		
+ch		1350000000	1350000000	-			
+ch		1350000000	1350000000	FIXED	p		
+ch		1350000000	1350000000	RADIOLOCATION	p		
+ch		1350000000	1350000000	MOBILE	p		
+ch		1350000000	1350000000	-			Point-to-Point,  UWB applications
+ch		1350000000	1350000000		p		
+ch		1375000000	1375000000	-			Defence systems,  UWB applications
+ch		1375000000	1375000000		p		
+ch		1389500000	1389500000	-			Point-to-Point,  UWB applications
+ch		1389500000	1389500000		p		
+ch		1400000000	1400000000	-			Passive sensors (satellite),  Radio astronomy,  Space research,  UWB applications
+ch		1400000000	1400000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		1400000000	1400000000	RADIO ASTRONOMY	p		
+ch		1400000000	1400000000	SPACE RESEARCH (PASSIVE)	p		
+ch		1427000000	1427000000	-			Defence systems,  UWB applications
+ch		1427000000	1427000000	SPACE OPERATION (EARTH-TO-SPACE)	p		
+ch		1427000000	1427000000	FIXED	p		
+ch		1427000000	1427000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		1429000000	1429000000	-			
+ch		1429000000	1429000000	FIXED	p		
+ch		1429000000	1429000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		1429000000	1429000000	-			Defence systems,  UWB applications
+ch		1429000000	1429000000		p		
+ch		1441500000	1441500000	-			Point-to-Point,  Defence systems,  UWB applications
+ch		1441500000	1441500000		p		
+ch		1452000000	1452000000	-			
+ch		1452000000	1452000000	BROADCASTING	p		
+ch		1452000000	1452000000	BROADCASTING-SATELLITE	p		
+ch		1452000000	1452000000	Fixed	s		
+ch		1452000000	1452000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		1452000000	1452000000	-			T-DAB,  Point-to-Point,  UWB applications
+ch		1452000000	1452000000		p		
+ch		1467500000	1467500000	-			T-DAB,  Point-to-Point,  UWB applications
+ch		1467500000	1467500000		p		
+ch		1476000000	1476000000	-			T-DAB,  UWB applications
+ch		1476000000	1476000000		p		
+ch		1479500000	1479500000	-			UWB applications
+ch		1479500000	1479500000		p		
+ch		1492000000	1492000000	-			Point-to-Point,  UWB applications
+ch		1492000000	1492000000	FIXED	p		
+ch		1492000000	1492000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		1517000000	1517000000	-			UWB applications
+ch		1517000000	1517000000	FIXED	p		
+ch		1517000000	1517000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		1518000000	1518000000	-			Point-to-Point,  UWB applications
+ch		1518000000	1518000000	FIXED	p		
+ch		1518000000	1518000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		1518000000	1518000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		1525000000	1525000000	-			MSS Earth stations,  UWB applications
+ch		1525000000	1525000000	SPACE OPERATION (SPACE-TO-EARTH)	p		
+ch		1525000000	1525000000	FIXED	p		
+ch		1525000000	1525000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		1530000000	1530000000	-			MSS Earth stations,  UWB applications
+ch		1530000000	1530000000	SPACE OPERATION (SPACE-TO-EARTH)	p		
+ch		1530000000	1530000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		1530000000	1530000000	Earth Exploration-Satellite	s		
+ch		1530000000	1530000000	Fixed	s		
+ch		1530000000	1530000000	Mobile except aeronautical mobile	s		
+ch		1533000000	1533000000	-			MSS Earth stations,  UWB applications
+ch		1533000000	1533000000	SPACE OPERATION (SPACE-TO-EARTH)	p		
+ch		1533000000	1533000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		1533000000	1533000000	Earth Exploration-Satellite	s		
+ch		1533000000	1533000000	Mobile except aeronautical mobile	s		
+ch		1535000000	1535000000	-			MSS Earth stations,  UWB applications
+ch		1535000000	1535000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		1544000000	1544000000	-			GMDSS,  UWB applications
+ch		1544000000	1544000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		1545000000	1545000000	-			MSS Earth stations,  UWB applications
+ch		1545000000	1545000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		1555000000	1555000000	-			MSS Earth stations,  UWB applications
+ch		1555000000	1555000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		1559000000	1559000000	-			
+ch		1559000000	1559000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		1559000000	1559000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+ch		1559000000	1559000000	-			Satellite navigation systems,  GNSS Repeater,  UWB applications
+ch		1559000000	1559000000		p		
+ch		1600000000	1600000000	-			Satellite navigation systems,  GNSS Repeater,  Altimeters,  UWB applications
+ch		1600000000	1600000000		p		
+ch		1610000000	1610000000	-			S-PCS,  Altimeters,  UWB applications
+ch		1610000000	1610000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		1610000000	1610000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		1610600000	1610600000	-			S-PCS,  Altimeters,  UWB applications
+ch		1610600000	1610600000	AERONAUTICAL RADIONAVIGATION	p		
+ch		1610600000	1610600000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		1610600000	1610600000	RADIO ASTRONOMY	p		
+ch		1613800000	1613800000	-			S-PCS,  Altimeters,  UWB applications
+ch		1613800000	1613800000	AERONAUTICAL RADIONAVIGATION	p		
+ch		1613800000	1613800000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		1613800000	1613800000	Mobile-Satellite (space-to-Earth)	s		
+ch		1626500000	1626500000	-			MSS Earth stations,  INMARSAT,  S-PCS,  GMDSS,  INMARSAT C,  UWB applications
+ch		1626500000	1626500000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		1631500000	1631500000	-			MSS Earth stations,  INMARSAT,  S-PCS,  GMDSS,  INMARSAT C,  UWB applications
+ch		1631500000	1631500000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		1636500000	1636500000	-			MSS Earth stations,  INMARSAT,  S-PCS,  GMDSS,  INMARSAT C,  UWB applications
+ch		1636500000	1636500000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		1645500000	1645500000	-			MSS Earth stations,  GMDSS,  UWB applications
+ch		1645500000	1645500000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		1646500000	1646500000	-			MSS Earth stations,  INMARSAT,  S-PCS,  UWB applications
+ch		1646500000	1646500000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		1656500000	1656500000	-			MSS Earth stations,  INMARSAT,  S-PCS,  UWB applications
+ch		1656500000	1656500000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		1660000000	1660000000	-			MSS Earth stations,  INMARSAT,  Radio astronomy,  S-PCS,  UWB applications
+ch		1660000000	1660000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		1660000000	1660000000	RADIO ASTRONOMY	p		
+ch		1660500000	1660500000	-			
+ch		1660500000	1660500000	RADIO ASTRONOMY	p		
+ch		1660500000	1660500000	SPACE RESEARCH (PASSIVE)	p		
+ch		1660500000	1660500000	Fixed	s		
+ch		1660500000	1660500000	Mobile except aeronautical mobile	s		
+ch		1660500000	1660500000	-			Radio astronomy,  UWB applications
+ch		1660500000	1660500000		p		
+ch		1665000000	1665000000	-			Radio astronomy,  UWB applications
+ch		1665000000	1665000000		p		
+ch		1668000000	1668000000	-			
+ch		1668000000	1668000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		1668000000	1668000000	RADIO ASTRONOMY	p		
+ch		1668000000	1668000000	SPACE RESEARCH (PASSIVE)	p		
+ch		1668000000	1668000000	Fixed	s		
+ch		1668000000	1668000000	Mobile except aeronautical mobile	s		
+ch		1668400000	1668400000	-			Radio astronomy,  UWB applications
+ch		1668400000	1668400000	FIXED	p		
+ch		1668400000	1668400000	METEOROLOGICAL AIDS	p		
+ch		1668400000	1668400000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		1668400000	1668400000	RADIO ASTRONOMY	p		
+ch		1668400000	1668400000	Mobile except aeronautical mobile	s		
+ch		1670000000	1670000000	-			Weather satellites,  MSS Earth stations,  UWB applications
+ch		1670000000	1670000000	METEOROLOGICAL AIDS	p		
+ch		1670000000	1670000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+ch		1670000000	1670000000	MOBILE	p		
+ch		1670000000	1670000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		1670000000	1670000000	Fixed	s		
+ch		1675000000	1675000000	-			
+ch		1675000000	1675000000	METEOROLOGICAL AIDS	p		
+ch		1675000000	1675000000	FIXED	p		
+ch		1675000000	1675000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+ch		1675000000	1675000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		1675000000	1675000000	-			Weather satellites,  Sondes,  UWB applications
+ch		1675000000	1675000000		p		
+ch		1683000000	1683000000	-			Weather satellites,  UWB applications
+ch		1683000000	1683000000		p		
+ch		1690000000	1690000000	-			Meteorology,  Weather satellites,  UWB applications
+ch		1690000000	1690000000	METEOROLOGICAL AIDS	p		
+ch		1690000000	1690000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+ch		1690000000	1690000000	Fixed	s		
+ch		1690000000	1690000000	Mobile except aeronautical mobile	s		
+ch		1700000000	1700000000	-			Meteorology,  UWB applications
+ch		1700000000	1700000000	FIXED	p		
+ch		1700000000	1700000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+ch		1700000000	1700000000	Mobile except aeronautical mobile	s		
+ch		1710000000	1710000000	-			Digital cellular,  UWB applications,  MCA,  MCV,  IMT,  GSM
+ch		1710000000	1710000000	MOBILE	p		
+ch		1785000000	1785000000	-			Radio microphones,  Wireless audio/multimedia,  UWB applications
+ch		1785000000	1785000000	MOBILE	p		
+ch		1800000000	1800000000	-			Radio microphones,  UWB applications
+ch		1800000000	1800000000	MOBILE	p		
+ch		1805000000	1805000000	-			Digital cellular,  UWB applications,  MCA,  MCV,  IMT,  GSM
+ch		1805000000	1805000000	MOBILE	p		
+ch		1880000000	1880000000	-			DECT,  UWB applications
+ch		1880000000	1880000000		p		
+ch		1880000000	1880000000	-			
+ch		1880000000	1880000000	MOBILE	p		
+ch		1885000000	1885000000	-			
+ch		1885000000	1885000000	MOBILE	p		
+ch		1900000000	1900000000	-			
+ch		1900000000	1900000000	MOBILE	p		
+ch		1900000000	1900000000	-			UWB applications
+ch		1900000000	1900000000		p		
+ch		1920000000	1920000000	-			MFCN,  IMT,  UWB applications
+ch		1920000000	1920000000		p		
+ch		1980000000	1980000000	-			MSS Earth stations,  IMT-2000 satellite component,  Cordless cameras,  UWB applications
+ch		1980000000	1980000000	MOBILE	p		
+ch		1980000000	1980000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		2010000000	2010000000	-			UWB applications,  Cordless cameras
+ch		2010000000	2010000000	MOBILE	p		
+ch		2025000000	2025000000	-			
+ch		2025000000	2025000000	FIXED	p		
+ch		2025000000	2025000000	MOBILE	p		
+ch		2025000000	2025000000	SPACE RESEARCH (EARTH-TO-SPACE) (SPACE-TO-SPACE)	p		
+ch		2025000000	2025000000	SPACE OPERATION (EARTH-TO-SPACE) (SPACE-TO-SPACE)	p		
+ch		2025000000	2025000000	EARTH EXPLORATION-SATELLITE (EARTH-TO-SPACE) (SPACE-TO-SPACE)	p		
+ch		2025000000	2025000000	-			Aeronautical military systems,  Telemetry (military),  UWB applications
+ch		2025000000	2025000000		p		
+ch		2105000000	2105000000	-			Aeronautical military systems,  UWB applications
+ch		2105000000	2105000000		p		
+ch		2110000000	2110000000	-			MFCN,  IMT,  MCA,  UWB applications
+ch		2110000000	2110000000	MOBILE	p		
+ch		2110000000	2110000000	SPACE RESEARCH (DEEP SPACE) (EARTH-TO-SPACE)	p		
+ch		2120000000	2120000000	-			MFCN,  IMT,  MCA,  UWB applications
+ch		2120000000	2120000000	FIXED	p		
+ch		2120000000	2120000000	MOBILE	p		
+ch		2170000000	2170000000	-			IMT,  Cordless cameras,  UWB applications
+ch		2170000000	2170000000	FIXED	p		
+ch		2170000000	2170000000	MOBILE	p		
+ch		2170000000	2170000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		2200000000	2200000000	-			Aeronautical military systems,  UWB applications
+ch		2200000000	2200000000	SPACE OPERATION (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+ch		2200000000	2200000000	EARTH EXPLORATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+ch		2200000000	2200000000	FIXED	p		
+ch		2200000000	2200000000	MOBILE	p		
+ch		2200000000	2200000000	SPACE RESEARCH (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+ch		2290000000	2290000000	-			Cordless cameras,  Defence systems,  UWB applications
+ch		2290000000	2290000000	FIXED	p		
+ch		2290000000	2290000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		2290000000	2290000000	SPACE RESEARCH (DEEP SPACE) (SPACE-TO-EARTH)	p		
+ch		2300000000	2300000000	-			
+ch		2300000000	2300000000	FIXED	p		
+ch		2300000000	2300000000	MOBILE	p		
+ch		2300000000	2300000000	Amateur	s		
+ch		2300000000	2300000000	Radiolocation	s		
+ch		2300000000	2300000000	-			Amateur,  Cordless cameras,  UWB applications
+ch		2300000000	2300000000		p		
+ch		2302000000	2302000000	-			Amateur,  Cordless cameras,  Defence systems,  UWB applications
+ch		2302000000	2302000000		p		
+ch		2322000000	2322000000	-			Amateur,  Cordless cameras,  UWB applications
+ch		2322000000	2322000000		p		
+ch		2400000000	2400000000	-			ISM,  Non-specific SRDs,  Wideband data transmission systems,  Detection of movement and alert,  DECT,  RFID,  Amateur,  Amateur-satellite,  Defence systems,  UWB applications
+ch		2400000000	2400000000	FIXED	p		
+ch		2400000000	2400000000	MOBILE	p		
+ch		2400000000	2400000000	Amateur	s		
+ch		2400000000	2400000000	Amateur-Satellite	s		
+ch		2450000000	2450000000	-			ISM,  Non-specific SRDs,  Wideband data transmission systems,  Detection of movement and alert,  DECT,  RFID,  Defence systems,  UWB applications
+ch		2450000000	2450000000	FIXED	p		
+ch		2450000000	2450000000	MOBILE	p		
+ch		2483500000	2483500000	-			ISM,  S-PCS,  Defence systems,  ULP-AMI,  MBANS,  UWB applications
+ch		2483500000	2483500000	FIXED	p		
+ch		2483500000	2483500000	MOBILE	p		
+ch		2483500000	2483500000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		2483500000	2483500000	RADIODETERMINATION-SATELLITE (SPACE-TO-EARTH)	p		
+ch		2500000000	2500000000	-			MFCN,  IMT,  UWB applications
+ch		2500000000	2500000000	Fixed	s		
+ch		2500000000	2500000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		2520000000	2520000000	-			MFCN,  IMT,  UWB applications
+ch		2520000000	2520000000	FIXED	p		
+ch		2520000000	2520000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		2655000000	2655000000	-			MFCN,  IMT,  UWB applications
+ch		2655000000	2655000000	FIXED	p		
+ch		2655000000	2655000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		2655000000	2655000000	Earth Exploration-Satellite (passive)	s		
+ch		2655000000	2655000000	Radio Astronomy	s		
+ch		2655000000	2655000000	Space Research (passive)	s		
+ch		2670000000	2670000000	-			MFCN,  IMT,  UWB applications
+ch		2670000000	2670000000	Fixed	s		
+ch		2670000000	2670000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		2670000000	2670000000	Radio Astronomy	s		
+ch		2690000000	2690000000	-			Passive sensors (satellite),  Radio astronomy,  UWB applications
+ch		2690000000	2690000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		2690000000	2690000000	RADIO ASTRONOMY	p		
+ch		2690000000	2690000000	SPACE RESEARCH (PASSIVE)	p		
+ch		2700000000	2700000000	-			Aeronautical surveillance,  Primary radar,  UWB applications
+ch		2700000000	2700000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		2700000000	2700000000	Radiolocation	s		
+ch		2900000000	2900000000	-			Radiolocation (military),  UWB applications
+ch		2900000000	2900000000	Radiolocation	s		
+ch		2900000000	2900000000	RADIONAVIGATION	p		
+ch		3100000000	3100000000	-			Earth exploration-satellite,  Radiolocation (military),  UWB applications
+ch		3100000000	3100000000	RADIOLOCATION	p		
+ch		3100000000	3100000000	Earth Exploration-Satellite (active)	s		
+ch		3100000000	3100000000	Space Research (active)	s		
+ch		3300000000	3300000000	-			Radiolocation (military),  UWB applications
+ch		3300000000	3300000000	RADIOLOCATION	p		
+ch		3400000000	3400000000	-			
+ch		3400000000	3400000000	FIXED	p		
+ch		3400000000	3400000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		3400000000	3400000000	MOBILE	p		
+ch		3400000000	3400000000	-			Radiolocation (military),  UWB applications
+ch		3400000000	3400000000		p		
+ch		3410000000	3410000000	-			BWA,  MFCN,  Point-to-Multipoint,  SAP/SAB and ENG/OB,  FSS Earth stations,  UWB applications
+ch		3410000000	3410000000		p		
+ch		3500000000	3500000000	-			BWA,  MFCN,  Point-to-Multipoint,  SAP/SAB and ENG/OB,  FSS Earth stations,  UWB applications
+ch		3500000000	3500000000	FIXED	p		
+ch		3500000000	3500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		3500000000	3500000000	MOBILE	p		
+ch		3600000000	3600000000	-			
+ch		3600000000	3600000000	FIXED	p		
+ch		3600000000	3600000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		3600000000	3600000000	MOBILE	p		
+ch		3600000000	3600000000	-			FSS Earth stations,  MFCN,  UWB applications,  SAP/SAB and ENG/OB
+ch		3600000000	3600000000		p		
+ch		3625000000	3625000000	-			FSS Earth stations,  MFCN,  UWB applications,  SAP/SAB and ENG/OB
+ch		3625000000	3625000000		p		
+ch		3800000000	3800000000	-			Point-to-Point,  FSS Earth stations,  UWB applications
+ch		3800000000	3800000000	FIXED	p		
+ch		3800000000	3800000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		4200000000	4200000000	-			Aeronautical navigation,  UWB applications
+ch		4200000000	4200000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		4400000000	4400000000	-			Fixed radio relay (military),  UWB applications
+ch		4400000000	4400000000	FIXED	p		
+ch		4400000000	4400000000	MOBILE	p		
+ch		4500000000	4500000000	-			Fixed radio relay (military),  FSS Earth stations,  UWB applications
+ch		4500000000	4500000000	FIXED	p		
+ch		4500000000	4500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		4500000000	4500000000	MOBILE	p		
+ch		4800000000	4800000000	-			Fixed radio relay (military),  UWB applications
+ch		4800000000	4800000000	FIXED	p		
+ch		4800000000	4800000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		4800000000	4800000000	Radio Astronomy	s		
+ch		4990000000	4990000000	-			Fixed radio relay (military),  UWB applications
+ch		4990000000	4990000000	FIXED	p		
+ch		4990000000	4990000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		4990000000	4990000000	RADIO ASTRONOMY	p		
+ch		5000000000	5000000000	-			GALILEO,  UWB applications
+ch		5000000000	5000000000		p		
+ch		5000000000	5000000000	-			
+ch		5000000000	5000000000	AERONAUTICAL MOBILE-SATELLITE (R)	p		
+ch		5000000000	5000000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		5000000000	5000000000	RADIONAVIGATION-SATELLITE (EARTH-TO-SPACE)	p		
+ch		5000000000	5000000000	Radio Astronomy	s		
+ch		5000000000	5000000000	Space Research (passive)	s		
+ch		5010000000	5010000000	-			
+ch		5010000000	5010000000	AERONAUTICAL MOBILE-SATELLITE (R)	p		
+ch		5010000000	5010000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		5010000000	5010000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+ch		5010000000	5010000000	Radio Astronomy	s		
+ch		5010000000	5010000000	Space Research (passive)	s		
+ch		5030000000	5030000000	-			UWB applications
+ch		5030000000	5030000000	AERONAUTICAL MOBILE (R)	p		
+ch		5030000000	5030000000	AERONAUTICAL MOBILE-SATELLITE (R)	p		
+ch		5030000000	5030000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		5091000000	5091000000	-			UWB applications
+ch		5091000000	5091000000	AERONAUTICAL MOBILE-SATELLITE (R)	p		
+ch		5091000000	5091000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		5150000000	5150000000	-			Feeder links,  Wideband data transmission systems,  BBDR,  UWB applications
+ch		5150000000	5150000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		5150000000	5150000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		5250000000	5250000000	-			Radiolocation (military),  Wideband data transmission systems,  UWB applications
+ch		5250000000	5250000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ch		5250000000	5250000000	RADIOLOCATION	p		
+ch		5250000000	5250000000	SPACE RESEARCH	p		
+ch		5250000000	5250000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		5255000000	5255000000	-			Radiolocation (military),  Wideband data transmission systems,  UWB applications
+ch		5255000000	5255000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ch		5255000000	5255000000	RADIOLOCATION	p		
+ch		5255000000	5255000000	SPACE RESEARCH (ACTIVE)	p		
+ch		5255000000	5255000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		5350000000	5350000000	-			
+ch		5350000000	5350000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		5350000000	5350000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ch		5350000000	5350000000	RADIOLOCATION	p		
+ch		5350000000	5350000000	SPACE RESEARCH (ACTIVE)	p		
+ch		5350000000	5350000000	Fixed	s		
+ch		5350000000	5350000000	-			Radiolocation (military),  UWB applications
+ch		5350000000	5350000000		p		
+ch		5400000000	5400000000	-			Radiolocation (military),  Defence systems,  UWB applications
+ch		5400000000	5400000000		p		
+ch		5420000000	5420000000	-			Radiolocation (military),  Weather radar,  UWB applications
+ch		5420000000	5420000000		p		
+ch		5450000000	5450000000	-			Weather radar,  Radiolocation (military),  Defence systems,  UWB applications
+ch		5450000000	5450000000		p		
+ch		5450000000	5450000000	-			
+ch		5450000000	5450000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		5450000000	5450000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ch		5450000000	5450000000	RADIOLOCATION	p		
+ch		5450000000	5450000000	SPACE RESEARCH (ACTIVE)	p		
+ch		5460000000	5460000000	-			
+ch		5460000000	5460000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ch		5460000000	5460000000	RADIOLOCATION	p		
+ch		5460000000	5460000000	RADIONAVIGATION	p		
+ch		5460000000	5460000000	SPACE RESEARCH (ACTIVE)	p		
+ch		5465000000	5465000000	-			Weather radar,  Radiolocation (military),  Defence systems,  UWB applications
+ch		5465000000	5465000000		p		
+ch		5470000000	5470000000	-			
+ch		5470000000	5470000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ch		5470000000	5470000000	MARITIME RADIONAVIGATION	p		
+ch		5470000000	5470000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		5470000000	5470000000	RADIOLOCATION	p		
+ch		5470000000	5470000000	SPACE RESEARCH (ACTIVE)	p		
+ch		5470000000	5470000000	-			Radiolocation (military),  Wideband data transmission systems,  UWB applications
+ch		5470000000	5470000000		p		
+ch		5500000000	5500000000	-			Radiolocation (military),  Wideband data transmission systems,  UWB applications
+ch		5500000000	5500000000		p		
+ch		5520000000	5520000000	-			Radiolocation (military),  Wideband data transmission systems,  UWB applications
+ch		5520000000	5520000000		p		
+ch		5550000000	5550000000	-			Radiolocation (military),  Wideband data transmission systems,  UWB applications
+ch		5550000000	5550000000		p		
+ch		5570000000	5570000000	-			Radiolocation (military),  Wideband data transmission systems,  UWB applications
+ch		5570000000	5570000000	MARITIME RADIONAVIGATION	p		
+ch		5570000000	5570000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		5570000000	5570000000	RADIOLOCATION	p		
+ch		5650000000	5650000000	-			
+ch		5650000000	5650000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		5650000000	5650000000	RADIOLOCATION	p		
+ch		5650000000	5650000000	Amateur	s		
+ch		5650000000	5650000000	Amateur-Satellite (Earth-to-space)	s		
+ch		5650000000	5650000000	-			Radiolocation (military),  Wideband data transmission systems,  Amateur,  Amateur-satellite,  UWB applications
+ch		5650000000	5650000000		p		
+ch		5670000000	5670000000	-			Radiolocation (military),  Wideband data transmission systems,  Amateur,  UWB applications
+ch		5670000000	5670000000		p		
+ch		5725000000	5725000000	-			
+ch		5725000000	5725000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		5725000000	5725000000	RADIOLOCATION	p		
+ch		5725000000	5725000000	Amateur	s		
+ch		5725000000	5725000000	Mobile	s		
+ch		5725000000	5725000000	Fixed	s		
+ch		5725000000	5725000000	-			ISM,  Non-specific SRDs,  BFWA,  Amateur,  Radiolocation (military),  UWB applications
+ch		5725000000	5725000000		p		
+ch		5795000000	5795000000	-			ISM,  Non-specific SRDs,  TTT,  Amateur,  Radiolocation (military),  UWB applications
+ch		5795000000	5795000000		p		
+ch		5815000000	5815000000	-			ISM,  Non-specific SRDs,  BFWA,  Amateur,  Radiolocation (military),  UWB applications
+ch		5815000000	5815000000		p		
+ch		5830000000	5830000000	-			ISM,  Non-specific SRDs,  BFWA,  Amateur,  Radiolocation (military),  UWB applications
+ch		5830000000	5830000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		5830000000	5830000000	RADIOLOCATION	p		
+ch		5830000000	5830000000	Amateur	s		
+ch		5830000000	5830000000	Amateur-Satellite (space-to-Earth)	s		
+ch		5830000000	5830000000	Mobile	s		
+ch		5830000000	5830000000	Fixed	s		
+ch		5850000000	5850000000	-			
+ch		5850000000	5850000000	FIXED	p		
+ch		5850000000	5850000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		5850000000	5850000000	MOBILE	p		
+ch		5850000000	5850000000	-			ISM,  Non-specific SRDs,  BFWA,  ITS,  VSAT,  SAP/SAB P to P video links,  UWB applications
+ch		5850000000	5850000000		p		
+ch		5875000000	5875000000	-			ITS,  VSAT,  SAP/SAB P to P video links,  UWB applications
+ch		5875000000	5875000000		p		
+ch		5925000000	5925000000	-			
+ch		5925000000	5925000000	FIXED	p		
+ch		5925000000	5925000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		5925000000	5925000000	-			Point-to-Point,  VSAT,  UWB applications
+ch		5925000000	5925000000		p		
+ch		6000000000	6000000000	-			Point-to-Point,  VSAT,  UWB applications
+ch		6000000000	6000000000		p		
+ch		6425000000	6425000000	-			
+ch		6425000000	6425000000	FIXED	p		
+ch		6425000000	6425000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		6425000000	6425000000	Earth Exploration-Satellite (passive)	s		
+ch		6425000000	6425000000	-			Point-to-Point,  VSAT,  UWB applications
+ch		6425000000	6425000000		p		
+ch		6650000000	6650000000	-			Point-to-Point,  UWB applications
+ch		6650000000	6650000000		p		
+ch		6700000000	6700000000	-			Point-to-Point,  UWB applications
+ch		6700000000	6700000000	FIXED	p		
+ch		6700000000	6700000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		6700000000	6700000000	Earth Exploration-Satellite (passive)	s		
+ch		7075000000	7075000000	-			Point-to-Point,  UWB applications
+ch		7075000000	7075000000	FIXED	p		
+ch		7075000000	7075000000	Earth Exploration-Satellite (passive)	s		
+ch		7145000000	7145000000	-			Point-to-Point,  UWB applications
+ch		7145000000	7145000000	FIXED	p		
+ch		7145000000	7145000000	MOBILE	p		
+ch		7145000000	7145000000	SPACE RESEARCH (EARTH-TO-SPACE)	p		
+ch		7145000000	7145000000	Space Operation (Earth-to-space)	s		
+ch		7145000000	7145000000	Earth Exploration-Satellite (Earth-to-space)	s		
+ch		7235000000	7235000000	-			Point-to-Point,  UWB applications
+ch		7235000000	7235000000	FIXED	p		
+ch		7235000000	7235000000	Earth Exploration-Satellite (Earth-to-space)	s		
+ch		7235000000	7235000000	Space Research (Earth-to-space)	s		
+ch		7250000000	7250000000	-			Point-to-Point,  UWB applications
+ch		7250000000	7250000000	FIXED	p		
+ch		7250000000	7250000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		7250000000	7250000000	MOBILE	p		
+ch		7300000000	7300000000	-			Point-to-Point,  UWB applications
+ch		7300000000	7300000000	FIXED	p		
+ch		7300000000	7300000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		7300000000	7300000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		7450000000	7450000000	-			Point-to-Point,  UWB applications
+ch		7450000000	7450000000	FIXED	p		
+ch		7450000000	7450000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		7450000000	7450000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+ch		7450000000	7450000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		7550000000	7550000000	-			
+ch		7550000000	7550000000	FIXED	p		
+ch		7550000000	7550000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		7550000000	7550000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		7550000000	7550000000	-			Point-to-Point,  UWB applications
+ch		7550000000	7550000000		p		
+ch		7725000000	7725000000	-			Land military systems,  UWB applications
+ch		7725000000	7725000000		p		
+ch		7750000000	7750000000	-			Land military systems,  UWB applications
+ch		7750000000	7750000000	FIXED	p		
+ch		7750000000	7750000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+ch		7750000000	7750000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		7900000000	7900000000	-			Land military systems,  UWB applications
+ch		7900000000	7900000000	FIXED	p		
+ch		7900000000	7900000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		7900000000	7900000000	MOBILE	p		
+ch		8025000000	8025000000	-			Land military systems,  UWB applications
+ch		8025000000	8025000000	EARTH EXPLORATION-SATELLITE (SPACE-TO-EARTH)	p		
+ch		8025000000	8025000000	FIXED	p		
+ch		8025000000	8025000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		8025000000	8025000000	MOBILE	p		
+ch		8175000000	8175000000	-			Land military systems,  UWB applications
+ch		8175000000	8175000000	EARTH EXPLORATION-SATELLITE (SPACE-TO-EARTH)	p		
+ch		8175000000	8175000000	FIXED	p		
+ch		8175000000	8175000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		8175000000	8175000000	METEOROLOGICAL-SATELLITE (EARTH-TO-SPACE)	p		
+ch		8175000000	8175000000	MOBILE	p		
+ch		8215000000	8215000000	-			
+ch		8215000000	8215000000	EARTH EXPLORATION-SATELLITE (SPACE-TO-EARTH)	p		
+ch		8215000000	8215000000	FIXED	p		
+ch		8215000000	8215000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		8215000000	8215000000	-			Land military systems,  UWB applications
+ch		8215000000	8215000000		p		
+ch		8275000000	8275000000	-			UWB applications,  Land military systems
+ch		8275000000	8275000000		p		
+ch		8400000000	8400000000	-			
+ch		8400000000	8400000000	FIXED	p		
+ch		8400000000	8400000000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+ch		8400000000	8400000000	Radiolocation	s		
+ch		8500000000	8500000000	-			Radiolocation (military),  UWB applications
+ch		8500000000	8500000000	RADIOLOCATION	p		
+ch		8550000000	8550000000	-			Radiolocation (military),  UWB applications
+ch		8550000000	8550000000	RADIOLOCATION	p		
+ch		8550000000	8550000000	SPACE RESEARCH (ACTIVE)	p		
+ch		8550000000	8550000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ch		8650000000	8650000000	-			Radiolocation (military),  UWB applications
+ch		8650000000	8650000000	RADIOLOCATION	p		
+ch		8750000000	8750000000	-			Airborne doppler navigation aids,  Radiolocation (military),  UWB applications
+ch		8750000000	8750000000	RADIOLOCATION	p		
+ch		8750000000	8750000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		8750000000	8750000000	Space Research	s		
+ch		8850000000	8850000000	-			Radiolocation (military),  UWB applications
+ch		8850000000	8850000000	RADIOLOCATION	p		
+ch		8850000000	8850000000	MARITIME RADIONAVIGATION	p		
+ch		8850000000	8850000000	Space Research	s		
+ch		9000000000	9000000000	-			Primary radar,  Radiolocation (military),  UWB applications
+ch		9000000000	9000000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		9000000000	9000000000	RADIOLOCATION	p		
+ch		9000000000	9000000000	Space Research	s		
+ch		9200000000	9200000000	-			Detection of movement and alert,  Defence systems,  Radiolocation (military),  UWB applications
+ch		9200000000	9200000000	RADIOLOCATION	p		
+ch		9200000000	9200000000	MARITIME RADIONAVIGATION	p		
+ch		9200000000	9200000000	Space Research	s		
+ch		9300000000	9300000000	-			
+ch		9300000000	9300000000	RADIONAVIGATION	p		
+ch		9300000000	9300000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ch		9300000000	9300000000	SPACE RESEARCH (ACTIVE)	p		
+ch		9300000000	9300000000	RADIOLOCATION	p		
+ch		9300000000	9300000000	-			Detection of movement and alert,  Radiolocation (civil),  Defence systems,  Radiolocation (military),  Inland waterway radar,  UWB applications
+ch		9300000000	9300000000		p		
+ch		9335000000	9335000000	-			Detection of movement and alert,  Radiolocation (civil),  Radiolocation (military),  Airborne weather radar,  Inland waterway radar,  UWB applications
+ch		9335000000	9335000000		p		
+ch		9415000000	9415000000	-			Detection of movement and alert,  Radiolocation (civil),  Defence systems,  Radiolocation (military),  Inland waterway radar,  UWB applications
+ch		9415000000	9415000000		p		
+ch		9500000000	9500000000	-			Detection of movement and alert,  Defence systems,  Radiolocation (military),  UWB applications
+ch		9500000000	9500000000	RADIOLOCATION	p		
+ch		9500000000	9500000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ch		9500000000	9500000000	SPACE RESEARCH (ACTIVE)	p		
+ch		9800000000	9800000000	-			Detection of movement and alert,  Radiolocation (military),  UWB applications
+ch		9800000000	9800000000	RADIOLOCATION	p		
+ch		9800000000	9800000000	Space Research (active)	s		
+ch		9800000000	9800000000	Earth Exploration-Satellite (active)	s		
+ch		9900000000	9900000000	-			
+ch		9900000000	9900000000	RADIOLOCATION	p		
+ch		9900000000	9900000000	-			Detection of movement and alert,  Radiolocation (military),  UWB applications
+ch		9900000000	9900000000		p		
+ch		9975000000	9975000000	-			Radiolocation (military),  UWB applications
+ch		9975000000	9975000000		p		
+ch		10000000000	10000000000	-			Radiolocation (civil),  Amateur,  Cordless cameras,  SAP/SAB P to P video links,  Radiolocation (military),  UWB applications
+ch		10000000000	10000000000	FIXED	p		
+ch		10000000000	10000000000	MOBILE	p		
+ch		10000000000	10000000000	RADIOLOCATION	p		
+ch		10000000000	10000000000	Amateur	s		
+ch		10150000000	10150000000	-			
+ch		10150000000	10150000000	FIXED	p		
+ch		10150000000	10150000000	MOBILE	p		
+ch		10150000000	10150000000	RADIOLOCATION	p		
+ch		10150000000	10150000000	Amateur	s		
+ch		10150000000	10150000000	-			Cordless cameras,  SAP/SAB P to P video links,  Point-to-Point,  Amateur,  UWB applications
+ch		10150000000	10150000000		p		
+ch		10250000000	10250000000	-			Cordless cameras,  SAP/SAB P to P video links,  Point-to-Point,  Amateur,  UWB applications
+ch		10250000000	10250000000		p		
+ch		10300000000	10300000000	-			
+ch		10300000000	10300000000	FIXED	p		
+ch		10300000000	10300000000	RADIOLOCATION	p		
+ch		10300000000	10300000000	Amateur	s		
+ch		10300000000	10300000000	Mobile	s		
+ch		10450000000	10450000000	-			Cordless cameras,  SAP/SAB P to P video links,  Detection of movement and alert,  Amateur,  Amateur-satellite,  Radiolocation (military),  UWB applications
+ch		10450000000	10450000000	FIXED	p		
+ch		10450000000	10450000000	RADIOLOCATION	p		
+ch		10450000000	10450000000	MOBILE	p		
+ch		10450000000	10450000000	Amateur	s		
+ch		10450000000	10450000000	Amateur-Satellite	s		
+ch		10500000000	10500000000	-			Point-to-Point,  Detection of movement and alert,  SAP/SAB P to P video links,  Cordless cameras,  Radiolocation (military),  UWB applications
+ch		10500000000	10500000000	FIXED	p		
+ch		10500000000	10500000000	MOBILE	p		
+ch		10500000000	10500000000	Radiolocation	s		
+ch		10550000000	10550000000	-			Point-to-Point,  Detection of movement and alert,  SAP/SAB P to P video links,  Cordless cameras,  UWB applications
+ch		10550000000	10550000000	FIXED	p		
+ch		10550000000	10550000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		10550000000	10550000000	Radiolocation	s		
+ch		10600000000	10600000000	-			Point-to-Point,  SAP/SAB P to P video links,  UWB applications
+ch		10600000000	10600000000	FIXED	p		
+ch		10600000000	10600000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		10600000000	10600000000	RADIO ASTRONOMY	p		
+ch		10600000000	10600000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		10600000000	10600000000	SPACE RESEARCH (PASSIVE)	p		
+ch		10600000000	10600000000	Radiolocation	s		
+ch		10650000000	10650000000	-			SAP/SAB P to P video links,  UWB applications
+ch		10650000000	10650000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		10650000000	10650000000	FIXED	p		
+ch		10650000000	10650000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		10650000000	10650000000	RADIO ASTRONOMY	p		
+ch		10650000000	10650000000	SPACE RESEARCH (PASSIVE)	p		
+ch		10680000000	10680000000	-			UWB applications
+ch		10680000000	10680000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		10680000000	10680000000	RADIO ASTRONOMY	p		
+ch		10680000000	10680000000	SPACE RESEARCH (PASSIVE)	p		
+ch		10700000000	10700000000	-			Broadcasting (satellite),  SNG,  SIT/SUT,  VSAT,  AES,  MSS Earth stations,  Point-to-Point,  UWB applications
+ch		10700000000	10700000000	FIXED	p		
+ch		10700000000	10700000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE)	p		
+ch		10700000000	10700000000	Mobile except aeronautical mobile	s		
+ch		10700000000	10700000000	Mobile-Satellite (space-to-Earth)	s		
+ch		11700000000	11700000000	-			
+ch		11700000000	11700000000	BROADCASTING-SATELLITE	p		
+ch		11700000000	11700000000	FIXED	p		
+ch		11700000000	11700000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		11700000000	11700000000	-			SIT/SUT,  UWB applications
+ch		11700000000	11700000000		p		
+ch		11746660000	11746660000	-			Broadcasting (satellite),  UWB applications
+ch		11746660000	11746660000		p		
+ch		12091900000	12091900000	-			SIT/SUT,  UWB applications
+ch		12091900000	12091900000		p		
+ch		12500000000	12500000000	-			VSAT,  SNG,  SIT/SUT,  AES,  MSS Earth stations
+ch		12500000000	12500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		12750000000	12750000000	-			SNG,  Point-to-Point
+ch		12750000000	12750000000	FIXED	p		
+ch		12750000000	12750000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		13250000000	13250000000	-			Aeronautical navigation
+ch		13250000000	13250000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		13250000000	13250000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ch		13250000000	13250000000	SPACE RESEARCH (ACTIVE)	p		
+ch		13400000000	13400000000	-			Detection of movement and alert
+ch		13400000000	13400000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ch		13400000000	13400000000	RADIOLOCATION	p		
+ch		13400000000	13400000000	SPACE RESEARCH	p		
+ch		13750000000	13750000000	-			Detection of movement and alert,  VSAT
+ch		13750000000	13750000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		13750000000	13750000000	Earth Exploration-Satellite	s		
+ch		13750000000	13750000000	RADIOLOCATION	p		
+ch		13750000000	13750000000	Space Research	s		
+ch		14000000000	14000000000	-			FSS Earth stations,  AES,  MSS Earth stations
+ch		14000000000	14000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		14000000000	14000000000	Mobile-Satellite (Earth-to-space)	s		
+ch		14000000000	14000000000	Space Research	s		
+ch		14250000000	14250000000	-			FSS Earth stations,  AES,  MSS Earth stations
+ch		14250000000	14250000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		14250000000	14250000000	Mobile-Satellite (Earth-to-space)	s		
+ch		14250000000	14250000000	Space Research	s		
+ch		14300000000	14300000000	-			FSS Earth stations,  AES,  MSS Earth stations
+ch		14300000000	14300000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		14300000000	14300000000	Mobile-Satellite (Earth-to-space)	s		
+ch		14400000000	14400000000	-			FSS Earth stations,  AES,  MSS Earth stations
+ch		14400000000	14400000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		14400000000	14400000000	Mobile-Satellite (Earth-to-space)	s		
+ch		14470000000	14470000000	-			FSS Earth stations,  AES,  MSS Earth stations
+ch		14470000000	14470000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		14470000000	14470000000	Mobile-Satellite (Earth-to-space)	s		
+ch		14470000000	14470000000	Radio Astronomy	s		
+ch		14500000000	14500000000	-			
+ch		14500000000	14500000000	FIXED	p		
+ch		14500000000	14500000000	MOBILE	p		
+ch		14500000000	14500000000	Radio Astronomy	s		
+ch		14500000000	14500000000	-			Fixed
+ch		14500000000	14500000000		p		
+ch		14620000000	14620000000	-			Fixed,  Defence systems
+ch		14620000000	14620000000		p		
+ch		14640000000	14640000000	-			Fixed,  Defence systems
+ch		14640000000	14640000000		p		
+ch		14800000000	14800000000	-			
+ch		14800000000	14800000000	FIXED	p		
+ch		14800000000	14800000000	MOBILE	p		
+ch		14800000000	14800000000	Radio Astronomy	s		
+ch		15210000000	15210000000	-			Fixed
+ch		15210000000	15210000000		p		
+ch		15230000000	15230000000	-			Fixed
+ch		15230000000	15230000000		p		
+ch		15350000000	15350000000	-			Passive sensors (satellite)
+ch		15350000000	15350000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		15350000000	15350000000	RADIO ASTRONOMY	p		
+ch		15350000000	15350000000	SPACE RESEARCH (PASSIVE)	p		
+ch		15400000000	15400000000	-			Airborne doppler navigation aids
+ch		15400000000	15400000000	RADIOLOCATION	p		
+ch		15400000000	15400000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		15430000000	15430000000	-			Airborne doppler navigation aids
+ch		15430000000	15430000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		15430000000	15430000000	RADIOLOCATION	p		
+ch		15430000000	15430000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		15630000000	15630000000	-			Airborne doppler navigation aids
+ch		15630000000	15630000000	RADIOLOCATION	p		
+ch		15630000000	15630000000	AERONAUTICAL RADIONAVIGATION	p		
+ch		15700000000	15700000000	-			Defence systems
+ch		15700000000	15700000000	RADIOLOCATION	p		
+ch		16600000000	16600000000	-			Defence systems
+ch		16600000000	16600000000	RADIOLOCATION	p		
+ch		16600000000	16600000000	Space Research (Earth-to-space)	s		
+ch		17100000000	17100000000	-			GBSAR
+ch		17100000000	17100000000		p		
+ch		17100000000	17100000000	-			
+ch		17100000000	17100000000	RADIOLOCATION	p		
+ch		17100000000	17100000000	Mobile	s		
+ch		17200000000	17200000000	-			
+ch		17200000000	17200000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ch		17200000000	17200000000	MOBILE	p		
+ch		17200000000	17200000000	RADIOLOCATION	p		
+ch		17200000000	17200000000	SPACE RESEARCH (ACTIVE)	p		
+ch		17300000000	17300000000	-			Feeder links,  Radiolocation (civil),  GSO ESOMPs
+ch		17300000000	17300000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE)	p		
+ch		17300000000	17300000000	Radiolocation	s		
+ch		17700000000	17700000000	-			Point-to-Point,  SIT/SUT,  Feeder links,  GSO ESOMPs
+ch		17700000000	17700000000	FIXED	p		
+ch		17700000000	17700000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE)	p		
+ch		18100000000	18100000000	-			Point-to-Point,  SIT/SUT,  GSO ESOMPs
+ch		18100000000	18100000000	FIXED	p		
+ch		18100000000	18100000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE)	p		
+ch		18100000000	18100000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+ch		18300000000	18300000000	-			Point-to-Point,  SIT/SUT,  GSO ESOMPs
+ch		18300000000	18300000000	FIXED	p		
+ch		18300000000	18300000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE)	p		
+ch		18300000000	18300000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+ch		18400000000	18400000000	-			Point-to-Point,  SIT/SUT,  GSO ESOMPs
+ch		18400000000	18400000000	FIXED	p		
+ch		18400000000	18400000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		18600000000	18600000000	-			Point-to-Point,  SIT/SUT,  GSO ESOMPs,  Earth exploration-satellite
+ch		18600000000	18600000000	FIXED	p		
+ch		18600000000	18600000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		18600000000	18600000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		18800000000	18800000000	-			Point-to-Point,  FSS Earth stations,  GSO ESOMPs
+ch		18800000000	18800000000	FIXED	p		
+ch		18800000000	18800000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		19300000000	19300000000	-			Point-to-Point,  FSS Earth stations,  GSO ESOMPs
+ch		19300000000	19300000000	FIXED	p		
+ch		19300000000	19300000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE)	p		
+ch		19700000000	19700000000	-			FSS Earth stations,  GSO ESOMPs,  HEST
+ch		19700000000	19700000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		19700000000	19700000000	Mobile-Satellite (space-to-Earth)	s		
+ch		20100000000	20100000000	-			FSS Earth stations,  GSO ESOMPs,  HEST
+ch		20100000000	20100000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		20100000000	20100000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		20200000000	20200000000	-			
+ch		20200000000	20200000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		20200000000	20200000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		21200000000	21200000000	-			Passive sensors (satellite),  Cordless cameras
+ch		21200000000	21200000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		21200000000	21200000000	FIXED	p		
+ch		21200000000	21200000000	MOBILE	p		
+ch		21200000000	21200000000	SPACE RESEARCH (PASSIVE)	p		
+ch		21400000000	21400000000	-			Point-to-Point,  Automotive SRR,  Broadcasting (satellite)
+ch		21400000000	21400000000	FIXED	p		
+ch		21400000000	21400000000	BROADCASTING-SATELLITE	p		
+ch		22000000000	22000000000	-			Point-to-Point,  Automotive SRR
+ch		22000000000	22000000000		p		
+ch		22000000000	22000000000	-			
+ch		22000000000	22000000000	FIXED	p		
+ch		22000000000	22000000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		22000000000	22000000000	RADIO ASTRONOMY	p		
+ch		22000000000	22000000000	SPACE RESEARCH (PASSIVE)	p		
+ch		22210000000	22210000000	-			
+ch		22210000000	22210000000	FIXED	p		
+ch		22210000000	22210000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		22210000000	22210000000	RADIO ASTRONOMY	p		
+ch		22210000000	22210000000	SPACE RESEARCH (PASSIVE)	p		
+ch		22210000000	22210000000	Earth Exploration-Satellite (passive)	s		
+ch		22500000000	22500000000	-			
+ch		22500000000	22500000000	FIXED	p		
+ch		22500000000	22500000000	MOBILE	p		
+ch		22500000000	22500000000	RADIO ASTRONOMY	p		
+ch		22500000000	22500000000	SPACE RESEARCH (PASSIVE)	p		
+ch		22550000000	22550000000	-			
+ch		22550000000	22550000000	FIXED	p		
+ch		22550000000	22550000000	INTER-SATELLITE	p		
+ch		22550000000	22550000000	MOBILE	p		
+ch		22550000000	22550000000	RADIO ASTRONOMY	p		
+ch		22550000000	22550000000	SPACE RESEARCH (EARTH-TO-SPACE)	p		
+ch		23150000000	23150000000	-			
+ch		23150000000	23150000000	FIXED	p		
+ch		23150000000	23150000000	INTER-SATELLITE	p		
+ch		23150000000	23150000000	MOBILE	p		
+ch		23550000000	23550000000	-			
+ch		23550000000	23550000000	FIXED	p		
+ch		23550000000	23550000000	INTER-SATELLITE	p		
+ch		23550000000	23550000000	MOBILE	p		
+ch		23600000000	23600000000	-			Passive sensors (satellite),  Radio astronomy,  Space research,  Automotive SRR
+ch		23600000000	23600000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		23600000000	23600000000	RADIO ASTRONOMY	p		
+ch		23600000000	23600000000	SPACE RESEARCH (PASSIVE)	p		
+ch		24000000000	24000000000	-			ISM,  Amateur,  Amateur-satellite,  Non-specific SRDs,  Radiolocation (civil),  Automotive SRR
+ch		24000000000	24000000000	AMATEUR	p		
+ch		24000000000	24000000000	AMATEUR-SATELLITE	p		
+ch		24050000000	24050000000	-			ISM,  Non-specific SRDs,  Amateur,  Radiolocation (civil),  Automotive SRR
+ch		24050000000	24050000000	RADIOLOCATION	p		
+ch		24050000000	24050000000	Amateur	s		
+ch		24050000000	24050000000	Earth Exploration-Satellite (active)	s		
+ch		24050000000	24050000000	Fixed	s		
+ch		24050000000	24050000000	Mobile	s		
+ch		24250000000	24250000000	-			Cordless cameras,  SAP/SAB P to P video links,  Automotive SRR
+ch		24250000000	24250000000		p		
+ch		24250000000	24250000000	-			
+ch		24250000000	24250000000	FIXED	p		
+ch		24250000000	24250000000	MOBILE	p		
+ch		24450000000	24450000000	-			
+ch		24450000000	24450000000	FIXED	p		
+ch		24450000000	24450000000	MOBILE	p		
+ch		24500000000	24500000000	-			Point-to-Point,  Automotive SRR
+ch		24500000000	24500000000		p		
+ch		24500000000	24500000000	-			
+ch		24500000000	24500000000	FIXED	p		
+ch		24650000000	24650000000	-			
+ch		24650000000	24650000000	FIXED	p		
+ch		24650000000	24650000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		24750000000	24750000000	-			
+ch		24750000000	24750000000	FIXED	p		
+ch		24750000000	24750000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		25250000000	25250000000	-			
+ch		25250000000	25250000000	FIXED	p		
+ch		25250000000	25250000000	MOBILE	p		
+ch		25250000000	25250000000	INTER-SATELLITE	p		
+ch		25500000000	25500000000	-			
+ch		25500000000	25500000000	FIXED	p		
+ch		25500000000	25500000000	MOBILE	p		
+ch		25500000000	25500000000	INTER-SATELLITE	p		
+ch		25500000000	25500000000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+ch		25500000000	25500000000	Earth Exploration-Satellite (space-to-Earth)	s		
+ch		26500000000	26500000000	-			
+ch		26500000000	26500000000	FIXED	p		
+ch		26500000000	26500000000	MOBILE	p		
+ch		26500000000	26500000000	INTER-SATELLITE	p		
+ch		26500000000	26500000000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+ch		26500000000	26500000000	Earth Exploration-Satellite (space-to-Earth)	s		
+ch		26500000000	26500000000	-			Defence systems,  Automotive SRR
+ch		26500000000	26500000000		p		
+ch		26625000000	26625000000	-			Defence systems
+ch		26625000000	26625000000		p		
+ch		27000000000	27000000000	-			
+ch		27000000000	27000000000	FIXED	p		
+ch		27000000000	27000000000	MOBILE	p		
+ch		27000000000	27000000000	INTER-SATELLITE	p		
+ch		27000000000	27000000000	Earth Exploration-Satellite (space-to-Earth)	s		
+ch		27500000000	27500000000	-			
+ch		27500000000	27500000000	FIXED	p		
+ch		27500000000	27500000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		27500000000	27500000000	-			FSS Earth stations,  GSO ESOMPs,  SIT/SUT
+ch		27500000000	27500000000		p		
+ch		27828500000	27828500000	-			Fixed
+ch		27828500000	27828500000		p		
+ch		28444500000	28444500000	-			FSS Earth stations,  GSO ESOMPs,  SIT/SUT
+ch		28444500000	28444500000		p		
+ch		28500000000	28500000000	-			
+ch		28500000000	28500000000	FIXED	p		
+ch		28500000000	28500000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		28500000000	28500000000	Earth Exploration-Satellite (Earth-to-space)	s		
+ch		28948500000	28948500000	-			Fixed
+ch		28948500000	28948500000		p		
+ch		29100000000	29100000000	-			
+ch		29100000000	29100000000	FIXED	p		
+ch		29100000000	29100000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		29100000000	29100000000	Earth Exploration-Satellite (Earth-to-space)	s		
+ch		29452500000	29452500000	-			FSS Earth stations,  GSO ESOMPs,  SIT/SUT
+ch		29452500000	29452500000		p		
+ch		29500000000	29500000000	-			FSS Earth stations,  GSO ESOMPs,  SIT/SUT,  HEST
+ch		29500000000	29500000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		29500000000	29500000000	Earth Exploration-Satellite (Earth-to-space)	s		
+ch		29500000000	29500000000	Mobile-Satellite (Earth-to-space)	s		
+ch		29900000000	29900000000	-			FSS Earth stations,  GSO ESOMPs,  SIT/SUT,  HEST
+ch		29900000000	29900000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		29900000000	29900000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		29900000000	29900000000	Earth Exploration-Satellite (Earth-to-space)	s		
+ch		30000000000	30000000000	-			
+ch		30000000000	30000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		30000000000	30000000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		31000000000	31000000000	-			
+ch		31000000000	31000000000	FIXED	p		
+ch		31000000000	31000000000	MOBILE	p		
+ch		31300000000	31300000000	-			Passive sensors (satellite)
+ch		31300000000	31300000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		31300000000	31300000000	RADIO ASTRONOMY	p		
+ch		31300000000	31300000000	SPACE RESEARCH (PASSIVE)	p		
+ch		31500000000	31500000000	-			Passive sensors (satellite)
+ch		31500000000	31500000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		31500000000	31500000000	RADIO ASTRONOMY	p		
+ch		31500000000	31500000000	SPACE RESEARCH (PASSIVE)	p		
+ch		31500000000	31500000000	Fixed	s		
+ch		31500000000	31500000000	Mobile except aeronautical mobile	s		
+ch		31800000000	31800000000	-			Point-to-Point
+ch		31800000000	31800000000	FIXED	p		
+ch		31800000000	31800000000	RADIONAVIGATION	p		
+ch		31800000000	31800000000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+ch		32000000000	32000000000	-			Point-to-Point
+ch		32000000000	32000000000	FIXED	p		
+ch		32000000000	32000000000	RADIONAVIGATION	p		
+ch		32000000000	32000000000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+ch		32300000000	32300000000	-			Point-to-Point
+ch		32300000000	32300000000	FIXED	p		
+ch		32300000000	32300000000	INTER-SATELLITE	p		
+ch		32300000000	32300000000	RADIONAVIGATION	p		
+ch		33000000000	33000000000	-			Point-to-Point
+ch		33000000000	33000000000	FIXED	p		
+ch		33000000000	33000000000	RADIONAVIGATION	p		
+ch		33000000000	33000000000	INTER-SATELLITE	p		
+ch		33400000000	33400000000	-			Radiolocation (military)
+ch		33400000000	33400000000	RADIOLOCATION	p		
+ch		34200000000	34200000000	-			Radiolocation (military),  Radiolocation (civil)
+ch		34200000000	34200000000	RADIOLOCATION	p		
+ch		34200000000	34200000000	SPACE RESEARCH (DEEP SPACE) (EARTH-TO-SPACE)	p		
+ch		34700000000	34700000000	-			
+ch		34700000000	34700000000	RADIOLOCATION	p		
+ch		34700000000	34700000000	Space Research	s		
+ch		35200000000	35200000000	-			
+ch		35200000000	35200000000	METEOROLOGICAL AIDS	p		
+ch		35200000000	35200000000	RADIOLOCATION	p		
+ch		35500000000	35500000000	-			
+ch		35500000000	35500000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ch		35500000000	35500000000	METEOROLOGICAL AIDS	p		
+ch		35500000000	35500000000	RADIOLOCATION	p		
+ch		35500000000	35500000000	SPACE RESEARCH (ACTIVE)	p		
+ch		36000000000	36000000000	-			Passive sensors (satellite)
+ch		36000000000	36000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		36000000000	36000000000	FIXED	p		
+ch		36000000000	36000000000	MOBILE	p		
+ch		36000000000	36000000000	SPACE RESEARCH (PASSIVE)	p		
+ch		36000000000	36000000000	Radio Astronomy	s		
+ch		37000000000	37000000000	-			Point-to-Point
+ch		37000000000	37000000000	FIXED	p		
+ch		37000000000	37000000000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+ch		37500000000	37500000000	-			Point-to-Point
+ch		37500000000	37500000000		p		
+ch		37500000000	37500000000	-			
+ch		37500000000	37500000000	FIXED	p		
+ch		37500000000	37500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		37500000000	37500000000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+ch		37500000000	37500000000	Earth Exploration-Satellite (space-to-Earth)	s		
+ch		38000000000	38000000000	-			
+ch		38000000000	38000000000	FIXED	p		
+ch		38000000000	38000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		38000000000	38000000000	Earth Exploration-Satellite (space-to-Earth)	s		
+ch		39500000000	39500000000	-			
+ch		39500000000	39500000000	FIXED	p		
+ch		39500000000	39500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		39500000000	39500000000	MOBILE	p		
+ch		39500000000	39500000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		39500000000	39500000000	Earth Exploration-Satellite (space-to-Earth)	s		
+ch		40000000000	40000000000	-			
+ch		40000000000	40000000000	FIXED	p		
+ch		40000000000	40000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		40000000000	40000000000	MOBILE	p		
+ch		40000000000	40000000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		40000000000	40000000000	SPACE RESEARCH (EARTH-TO-SPACE)	p		
+ch		40000000000	40000000000	Earth Exploration-Satellite (space-to-Earth)	s		
+ch		40500000000	40500000000	-			MWS
+ch		40500000000	40500000000	FIXED	p		
+ch		40500000000	40500000000	BROADCASTING	p		
+ch		40500000000	40500000000	BROADCASTING-SATELLITE	p		
+ch		41000000000	41000000000	-			Fixed
+ch		41000000000	41000000000	FIXED	p		
+ch		41000000000	41000000000	BROADCASTING	p		
+ch		41000000000	41000000000	BROADCASTING-SATELLITE	p		
+ch		42000000000	42000000000	-			MWS
+ch		42000000000	42000000000	FIXED	p		
+ch		42000000000	42000000000	BROADCASTING	p		
+ch		42000000000	42000000000	BROADCASTING-SATELLITE	p		
+ch		42500000000	42500000000	-			Fixed
+ch		42500000000	42500000000	FIXED	p		
+ch		42500000000	42500000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		42500000000	42500000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		42500000000	42500000000	RADIO ASTRONOMY	p		
+ch		43500000000	43500000000	-			
+ch		43500000000	43500000000	MOBILE	p		
+ch		43500000000	43500000000	MOBILE-SATELLITE	p		
+ch		43500000000	43500000000	Fixed-Satellite	s		
+ch		45500000000	45500000000	-			
+ch		45500000000	45500000000	MOBILE	p		
+ch		45500000000	45500000000	MOBILE-SATELLITE	p		
+ch		45500000000	45500000000	RADIONAVIGATION	p		
+ch		45500000000	45500000000	RADIONAVIGATION-SATELLITE	p		
+ch		47000000000	47000000000	-			Amateur,  Amateur-satellite
+ch		47000000000	47000000000	AMATEUR	p		
+ch		47000000000	47000000000	AMATEUR-SATELLITE	p		
+ch		47200000000	47200000000	-			Cordless cameras,  SAP/SAB portable video links
+ch		47200000000	47200000000	FIXED	p		
+ch		47200000000	47200000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		47200000000	47200000000	MOBILE	p		
+ch		47500000000	47500000000	-			Cordless cameras,  SAP/SAB portable video links
+ch		47500000000	47500000000	FIXED	p		
+ch		47500000000	47500000000	FIXED-SATELLITE (EARTH-TO-SPACE) (SPACE-TO-EARTH)	p		
+ch		47500000000	47500000000	MOBILE	p		
+ch		47900000000	47900000000	-			Cordless cameras,  SAP/SAB portable video links
+ch		47900000000	47900000000	FIXED	p		
+ch		47900000000	47900000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		47900000000	47900000000	MOBILE	p		
+ch		48200000000	48200000000	-			Cordless cameras,  SAP/SAB portable video links
+ch		48200000000	48200000000		p		
+ch		48200000000	48200000000	-			
+ch		48200000000	48200000000	FIXED	p		
+ch		48200000000	48200000000	FIXED-SATELLITE (EARTH-TO-SPACE) (SPACE-TO-EARTH)	p		
+ch		48200000000	48200000000	MOBILE	p		
+ch		48540000000	48540000000	-			
+ch		48540000000	48540000000	FIXED	p		
+ch		48540000000	48540000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		48540000000	48540000000	MOBILE	p		
+ch		48540000000	48540000000	RADIO ASTRONOMY	p		
+ch		49440000000	49440000000	-			
+ch		49440000000	49440000000	FIXED	p		
+ch		49440000000	49440000000	FIXED-SATELLITE (EARTH-TO-SPACE) (SPACE-TO-EARTH)	p		
+ch		49440000000	49440000000	MOBILE	p		
+ch		50200000000	50200000000	-			Passive sensors (satellite)
+ch		50200000000	50200000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		50200000000	50200000000	SPACE RESEARCH (PASSIVE)	p		
+ch		50400000000	50400000000	-			
+ch		50400000000	50400000000	FIXED	p		
+ch		50400000000	50400000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		50400000000	50400000000	Mobile-Satellite (Earth-to-space)	s		
+ch		51400000000	51400000000	-			Point-to-Point
+ch		51400000000	51400000000	FIXED	p		
+ch		51400000000	51400000000	MOBILE	p		
+ch		51400000000	51400000000	RADIO ASTRONOMY	p		
+ch		52600000000	52600000000	-			Passive sensors (satellite)
+ch		52600000000	52600000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		52600000000	52600000000	SPACE RESEARCH (PASSIVE)	p		
+ch		54250000000	54250000000	-			Passive sensors (satellite)
+ch		54250000000	54250000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		54250000000	54250000000	SPACE RESEARCH (PASSIVE)	p		
+ch		55780000000	55780000000	-			Point-to-Point,  Passive sensors (satellite)
+ch		55780000000	55780000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		55780000000	55780000000	FIXED	p		
+ch		55780000000	55780000000	INTER-SATELLITE	p		
+ch		55780000000	55780000000	SPACE RESEARCH (PASSIVE)	p		
+ch		56900000000	56900000000	-			Point-to-Point,  Passive sensors (satellite)
+ch		56900000000	56900000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		56900000000	56900000000	FIXED	p		
+ch		56900000000	56900000000	MOBILE	p		
+ch		56900000000	56900000000	SPACE RESEARCH (PASSIVE)	p		
+ch		57000000000	57000000000	-			Point-to-Point,  Passive sensors (satellite),  Wideband data transmission systems,  Non-specific SRDs
+ch		57000000000	57000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		57000000000	57000000000	FIXED	p		
+ch		57000000000	57000000000	INTER-SATELLITE	p		
+ch		57000000000	57000000000	MOBILE	p		
+ch		57000000000	57000000000	SPACE RESEARCH (PASSIVE)	p		
+ch		58000000000	58000000000	-			Point-to-Point,  Passive sensors (satellite),  Wideband data transmission systems,  Non-specific SRDs
+ch		58000000000	58000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		58000000000	58000000000	FIXED	p		
+ch		58000000000	58000000000	INTER-SATELLITE	p		
+ch		58000000000	58000000000	MOBILE	p		
+ch		58000000000	58000000000	SPACE RESEARCH (PASSIVE)	p		
+ch		58200000000	58200000000	-			Point-to-Point,  Passive sensors (satellite),  Wideband data transmission systems,  Non-specific SRDs
+ch		58200000000	58200000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		58200000000	58200000000	FIXED	p		
+ch		58200000000	58200000000	RADIO ASTRONOMY	p		
+ch		58200000000	58200000000	SPACE RESEARCH (PASSIVE)	p		
+ch		59000000000	59000000000	-			Point-to-Point,  Passive sensors (satellite),  Wideband data transmission systems,  Non-specific SRDs
+ch		59000000000	59000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		59000000000	59000000000	FIXED	p		
+ch		59000000000	59000000000	INTER-SATELLITE	p		
+ch		59000000000	59000000000	MOBILE	p		
+ch		59000000000	59000000000	RADIOLOCATION	p		
+ch		59000000000	59000000000	SPACE RESEARCH (PASSIVE)	p		
+ch		59300000000	59300000000	-			
+ch		59300000000	59300000000	FIXED	p		
+ch		59300000000	59300000000	INTER-SATELLITE	p		
+ch		59300000000	59300000000	RADIOLOCATION	p		
+ch		59300000000	59300000000	MOBILE	p		
+ch		59300000000	59300000000	-			Point-to-Point,  Wideband data transmission systems,  Non-specific SRDs
+ch		59300000000	59300000000		p		
+ch		61000000000	61000000000	-			Non-specific SRDs,  ISM,  Point-to-Point,  Wideband data transmission systems
+ch		61000000000	61000000000		p		
+ch		61500000000	61500000000	-			Point-to-Point,  Wideband data transmission systems,  Non-specific SRDs
+ch		61500000000	61500000000		p		
+ch		62000000000	62000000000	-			Point-to-Point,  Wideband data transmission systems,  Non-specific SRDs
+ch		62000000000	62000000000	FIXED	p		
+ch		62000000000	62000000000	INTER-SATELLITE	p		
+ch		62000000000	62000000000	MOBILE	p		
+ch		62000000000	62000000000	RADIOLOCATION	p		
+ch		63000000000	63000000000	-			ITS,  Wideband data transmission systems,  Non-specific SRDs
+ch		63000000000	63000000000	FIXED	p		
+ch		63000000000	63000000000	INTER-SATELLITE	p		
+ch		63000000000	63000000000	MOBILE	p		
+ch		63000000000	63000000000	RADIOLOCATION	p		
+ch		64000000000	64000000000	-			Fixed,  Wideband data transmission systems
+ch		64000000000	64000000000	FIXED	p		
+ch		64000000000	64000000000	INTER-SATELLITE	p		
+ch		64000000000	64000000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		65000000000	65000000000	-			Fixed,  Wideband data transmission systems
+ch		65000000000	65000000000	EARTH EXPLORATION-SATELLITE	p		
+ch		65000000000	65000000000	FIXED	p		
+ch		65000000000	65000000000	INTER-SATELLITE	p		
+ch		65000000000	65000000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ch		65000000000	65000000000	SPACE RESEARCH	p		
+ch		66000000000	66000000000	-			
+ch		66000000000	66000000000	INTER-SATELLITE	p		
+ch		66000000000	66000000000	MOBILE	p		
+ch		66000000000	66000000000	MOBILE-SATELLITE	p		
+ch		66000000000	66000000000	RADIONAVIGATION	p		
+ch		66000000000	66000000000	RADIONAVIGATION-SATELLITE	p		
+ch		71000000000	71000000000	-			Fixed
+ch		71000000000	71000000000		p		
+ch		71000000000	71000000000	-			
+ch		71000000000	71000000000	FIXED	p		
+ch		71000000000	71000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		71000000000	71000000000	MOBILE	p		
+ch		71000000000	71000000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		74000000000	74000000000	-			
+ch		74000000000	74000000000	FIXED	p		
+ch		74000000000	74000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		74000000000	74000000000	MOBILE	p		
+ch		74000000000	74000000000	BROADCASTING	p		
+ch		74000000000	74000000000	BROADCASTING-SATELLITE	p		
+ch		74000000000	74000000000	Space Research (space-to-Earth)	s		
+ch		75500000000	75500000000	-			Fixed
+ch		75500000000	75500000000	FIXED	p		
+ch		75500000000	75500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		75500000000	75500000000	MOBILE	p		
+ch		75500000000	75500000000	BROADCASTING	p		
+ch		75500000000	75500000000	BROADCASTING-SATELLITE	p		
+ch		75500000000	75500000000	Space Research (space-to-Earth)	s		
+ch		76000000000	76000000000	-			
+ch		76000000000	76000000000	RADIO ASTRONOMY	p		
+ch		76000000000	76000000000	RADIOLOCATION	p		
+ch		76000000000	76000000000	Amateur	s		
+ch		76000000000	76000000000	Amateur-Satellite	s		
+ch		76000000000	76000000000	Space Research (space-to-Earth)	s		
+ch		76000000000	76000000000	-			Amateur,  Amateur-satellite,  Vehicle and infrastructure radar,  TTT,  Railway applications
+ch		76000000000	76000000000		p		
+ch		77000000000	77000000000	-			Amateur,  Amateur-satellite,  Automotive SRR
+ch		77000000000	77000000000		p		
+ch		77500000000	77500000000	-			Amateur,  Amateur-satellite,  Automotive SRR
+ch		77500000000	77500000000	AMATEUR	p		
+ch		77500000000	77500000000	AMATEUR-SATELLITE	p		
+ch		77500000000	77500000000	Radio Astronomy	s		
+ch		77500000000	77500000000	Space Research (space-to-Earth)	s		
+ch		78000000000	78000000000	-			Amateur,  Amateur-satellite,  Automotive SRR
+ch		78000000000	78000000000	RADIOLOCATION	p		
+ch		78000000000	78000000000	Amateur	s		
+ch		78000000000	78000000000	Amateur-Satellite	s		
+ch		78000000000	78000000000	Radio Astronomy	s		
+ch		78000000000	78000000000	Space Research (space-to-Earth)	s		
+ch		79000000000	79000000000	-			Amateur,  Amateur-satellite,  Automotive SRR
+ch		79000000000	79000000000	RADIO ASTRONOMY	p		
+ch		79000000000	79000000000	RADIOLOCATION	p		
+ch		79000000000	79000000000	Amateur	s		
+ch		79000000000	79000000000	Amateur-Satellite	s		
+ch		79000000000	79000000000	Space Research (space-to-Earth)	s		
+ch		81000000000	81000000000	-			
+ch		81000000000	81000000000	FIXED	p		
+ch		81000000000	81000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		81000000000	81000000000	MOBILE	p		
+ch		81000000000	81000000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		81000000000	81000000000	RADIO ASTRONOMY	p		
+ch		81000000000	81000000000	Space Research (space-to-Earth)	s		
+ch		81000000000	81000000000	-			Amateur,  Amateur-satellite,  Fixed
+ch		81000000000	81000000000		p		
+ch		81500000000	81500000000	-			Fixed
+ch		81500000000	81500000000		p		
+ch		84000000000	84000000000	-			
+ch		84000000000	84000000000	FIXED	p		
+ch		84000000000	84000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		84000000000	84000000000	MOBILE	p		
+ch		84000000000	84000000000	RADIO ASTRONOMY	p		
+ch		86000000000	86000000000	-			Passive sensors (satellite)
+ch		86000000000	86000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		86000000000	86000000000	RADIO ASTRONOMY	p		
+ch		86000000000	86000000000	SPACE RESEARCH (PASSIVE)	p		
+ch		92000000000	92000000000	-			
+ch		92000000000	92000000000	FIXED	p		
+ch		92000000000	92000000000	MOBILE	p		
+ch		92000000000	92000000000	RADIO ASTRONOMY	p		
+ch		92000000000	92000000000	RADIOLOCATION	p		
+ch		94000000000	94000000000	-			
+ch		94000000000	94000000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ch		94000000000	94000000000	RADIOLOCATION	p		
+ch		94000000000	94000000000	SPACE RESEARCH (ACTIVE)	p		
+ch		94000000000	94000000000	Radio Astronomy	s		
+ch		94100000000	94100000000	-			
+ch		94100000000	94100000000	FIXED	p		
+ch		94100000000	94100000000	MOBILE	p		
+ch		94100000000	94100000000	RADIO ASTRONOMY	p		
+ch		94100000000	94100000000	RADIOLOCATION	p		
+ch		95000000000	95000000000	-			
+ch		95000000000	95000000000	FIXED	p		
+ch		95000000000	95000000000	MOBILE	p		
+ch		95000000000	95000000000	RADIO ASTRONOMY	p		
+ch		95000000000	95000000000	RADIOLOCATION	p		
+ch		95000000000	95000000000	RADIONAVIGATION	p		
+ch		95000000000	95000000000	RADIONAVIGATION-SATELLITE	p		
+ch		100000000000	100000000000	-			Passive sensors (satellite)
+ch		100000000000	100000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		100000000000	100000000000	RADIO ASTRONOMY	p		
+ch		100000000000	100000000000	SPACE RESEARCH (PASSIVE)	p		
+ch		102000000000	102000000000	-			
+ch		102000000000	102000000000	FIXED	p		
+ch		102000000000	102000000000	MOBILE	p		
+ch		102000000000	102000000000	RADIO ASTRONOMY	p		
+ch		105000000000	105000000000	-			
+ch		105000000000	105000000000	FIXED	p		
+ch		105000000000	105000000000	MOBILE	p		
+ch		105000000000	105000000000	RADIO ASTRONOMY	p		
+ch		105000000000	105000000000	SPACE RESEARCH (PASSIVE)	p		
+ch		109500000000	109500000000	-			Passive sensors (satellite)
+ch		109500000000	109500000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		109500000000	109500000000	RADIO ASTRONOMY	p		
+ch		109500000000	109500000000	SPACE RESEARCH (PASSIVE)	p		
+ch		111800000000	111800000000	-			
+ch		111800000000	111800000000	FIXED	p		
+ch		111800000000	111800000000	MOBILE	p		
+ch		111800000000	111800000000	RADIO ASTRONOMY	p		
+ch		111800000000	111800000000	SPACE RESEARCH (PASSIVE)	p		
+ch		114250000000	114250000000	-			Passive sensors (satellite)
+ch		114250000000	114250000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		114250000000	114250000000	RADIO ASTRONOMY	p		
+ch		114250000000	114250000000	SPACE RESEARCH (PASSIVE)	p		
+ch		116000000000	116000000000	-			Passive sensors (satellite)
+ch		116000000000	116000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		116000000000	116000000000	INTER-SATELLITE	p		
+ch		116000000000	116000000000	SPACE RESEARCH (PASSIVE)	p		
+ch		119980000000	119980000000	-			Passive sensors (satellite)
+ch		119980000000	119980000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		119980000000	119980000000	INTER-SATELLITE	p		
+ch		119980000000	119980000000	SPACE RESEARCH (PASSIVE)	p		
+ch		120020000000	120020000000	-			
+ch		120020000000	120020000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		120020000000	120020000000	INTER-SATELLITE	p		
+ch		120020000000	120020000000	SPACE RESEARCH (PASSIVE)	p		
+ch		120020000000	120020000000	-			Passive sensors (satellite)
+ch		120020000000	120020000000		p		
+ch		122000000000	122000000000	-			Non-specific SRDs,  Passive sensors (satellite),  ISM
+ch		122000000000	122000000000		p		
+ch		122250000000	122250000000	-			Amateur,  Non-specific SRDs,  ISM
+ch		122250000000	122250000000	FIXED	p		
+ch		122250000000	122250000000	INTER-SATELLITE	p		
+ch		122250000000	122250000000	MOBILE	p		
+ch		122250000000	122250000000	Amateur	s		
+ch		123000000000	123000000000	-			
+ch		123000000000	123000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		123000000000	123000000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		123000000000	123000000000	RADIONAVIGATION	p		
+ch		123000000000	123000000000	RADIONAVIGATION-SATELLITE	p		
+ch		123000000000	123000000000	Radio Astronomy	s		
+ch		126000000000	126000000000	-			
+ch		126000000000	126000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		126000000000	126000000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		126000000000	126000000000	RADIONAVIGATION	p		
+ch		126000000000	126000000000	RADIONAVIGATION-SATELLITE	p		
+ch		126000000000	126000000000	Radio Astronomy	s		
+ch		130000000000	130000000000	-			
+ch		130000000000	130000000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ch		130000000000	130000000000	FIXED	p		
+ch		130000000000	130000000000	INTER-SATELLITE	p		
+ch		130000000000	130000000000	MOBILE	p		
+ch		130000000000	130000000000	RADIO ASTRONOMY	p		
+ch		134000000000	134000000000	-			Amateur
+ch		134000000000	134000000000	AMATEUR	p		
+ch		134000000000	134000000000	AMATEUR-SATELLITE	p		
+ch		134000000000	134000000000	Radio Astronomy	s		
+ch		136000000000	136000000000	-			Amateur
+ch		136000000000	136000000000	RADIO ASTRONOMY	p		
+ch		136000000000	136000000000	RADIOLOCATION	p		
+ch		136000000000	136000000000	Amateur	s		
+ch		136000000000	136000000000	Amateur-Satellite	s		
+ch		141000000000	141000000000	-			
+ch		141000000000	141000000000	FIXED	p		
+ch		141000000000	141000000000	MOBILE	p		
+ch		141000000000	141000000000	RADIO ASTRONOMY	p		
+ch		141000000000	141000000000	RADIOLOCATION	p		
+ch		148500000000	148500000000	-			Passive sensors (satellite)
+ch		148500000000	148500000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		148500000000	148500000000	RADIO ASTRONOMY	p		
+ch		148500000000	148500000000	SPACE RESEARCH (PASSIVE)	p		
+ch		151500000000	151500000000	-			
+ch		151500000000	151500000000	FIXED	p		
+ch		151500000000	151500000000	MOBILE	p		
+ch		151500000000	151500000000	RADIO ASTRONOMY	p		
+ch		151500000000	151500000000	RADIOLOCATION	p		
+ch		155500000000	155500000000	-			Passive sensors (satellite)
+ch		155500000000	155500000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		155500000000	155500000000	FIXED	p		
+ch		155500000000	155500000000	MOBILE	p		
+ch		155500000000	155500000000	RADIO ASTRONOMY	p		
+ch		155500000000	155500000000	SPACE RESEARCH (PASSIVE)	p		
+ch		158500000000	158500000000	-			
+ch		158500000000	158500000000	FIXED	p		
+ch		158500000000	158500000000	FIXED-SATELLITE	p		
+ch		158500000000	158500000000	MOBILE	p		
+ch		158500000000	158500000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ch		164000000000	164000000000	-			Passive sensors (satellite)
+ch		164000000000	164000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		164000000000	164000000000	RADIO ASTRONOMY	p		
+ch		164000000000	164000000000	SPACE RESEARCH (PASSIVE)	p		
+ch		167000000000	167000000000	-			
+ch		167000000000	167000000000	FIXED	p		
+ch		167000000000	167000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		167000000000	167000000000	INTER-SATELLITE	p		
+ch		167000000000	167000000000	MOBILE	p		
+ch		168000000000	168000000000	-			
+ch		168000000000	168000000000	FIXED	p		
+ch		168000000000	168000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		168000000000	168000000000	INTER-SATELLITE	p		
+ch		168000000000	168000000000	MOBILE	p		
+ch		170000000000	170000000000	-			
+ch		170000000000	170000000000	FIXED	p		
+ch		170000000000	170000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		170000000000	170000000000	INTER-SATELLITE	p		
+ch		170000000000	170000000000	MOBILE	p		
+ch		174500000000	174500000000	-			
+ch		174500000000	174500000000	FIXED	p		
+ch		174500000000	174500000000	INTER-SATELLITE	p		
+ch		174500000000	174500000000	MOBILE	p		
+ch		174800000000	174800000000	-			Passive sensors (satellite)
+ch		174800000000	174800000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		174800000000	174800000000	INTER-SATELLITE	p		
+ch		174800000000	174800000000	SPACE RESEARCH (PASSIVE)	p		
+ch		182000000000	182000000000	-			Passive sensors (satellite)
+ch		182000000000	182000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		182000000000	182000000000	RADIO ASTRONOMY	p		
+ch		182000000000	182000000000	SPACE RESEARCH (PASSIVE)	p		
+ch		185000000000	185000000000	-			Passive sensors (satellite)
+ch		185000000000	185000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		185000000000	185000000000	INTER-SATELLITE	p		
+ch		185000000000	185000000000	SPACE RESEARCH (PASSIVE)	p		
+ch		190000000000	190000000000	-			Passive sensors (satellite)
+ch		190000000000	190000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		190000000000	190000000000	SPACE RESEARCH (PASSIVE)	p		
+ch		191800000000	191800000000	-			
+ch		191800000000	191800000000	FIXED	p		
+ch		191800000000	191800000000	INTER-SATELLITE	p		
+ch		191800000000	191800000000	MOBILE	p		
+ch		191800000000	191800000000	MOBILE-SATELLITE	p		
+ch		191800000000	191800000000	RADIONAVIGATION	p		
+ch		191800000000	191800000000	RADIONAVIGATION-SATELLITE	p		
+ch		200000000000	200000000000	-			Passive sensors (satellite)
+ch		200000000000	200000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		200000000000	200000000000	RADIO ASTRONOMY	p		
+ch		200000000000	200000000000	SPACE RESEARCH (PASSIVE)	p		
+ch		202000000000	202000000000	-			Passive sensors (satellite)
+ch		202000000000	202000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		202000000000	202000000000	RADIO ASTRONOMY	p		
+ch		202000000000	202000000000	SPACE RESEARCH (PASSIVE)	p		
+ch		209000000000	209000000000	-			
+ch		209000000000	209000000000	FIXED	p		
+ch		209000000000	209000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		209000000000	209000000000	MOBILE	p		
+ch		209000000000	209000000000	RADIO ASTRONOMY	p		
+ch		217000000000	217000000000	-			
+ch		217000000000	217000000000	FIXED	p		
+ch		217000000000	217000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		217000000000	217000000000	MOBILE	p		
+ch		217000000000	217000000000	RADIO ASTRONOMY	p		
+ch		217000000000	217000000000	SPACE RESEARCH (PASSIVE)	p		
+ch		226000000000	226000000000	-			Passive sensors (satellite)
+ch		226000000000	226000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		226000000000	226000000000	RADIO ASTRONOMY	p		
+ch		226000000000	226000000000	SPACE RESEARCH (PASSIVE)	p		
+ch		231500000000	231500000000	-			
+ch		231500000000	231500000000	FIXED	p		
+ch		231500000000	231500000000	MOBILE	p		
+ch		231500000000	231500000000	Radiolocation	s		
+ch		232000000000	232000000000	-			
+ch		232000000000	232000000000	FIXED	p		
+ch		232000000000	232000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		232000000000	232000000000	MOBILE	p		
+ch		232000000000	232000000000	Radiolocation	s		
+ch		235000000000	235000000000	-			
+ch		235000000000	235000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		235000000000	235000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		235000000000	235000000000	SPACE RESEARCH (PASSIVE)	p		
+ch		238000000000	238000000000	-			
+ch		238000000000	238000000000	FIXED	p		
+ch		238000000000	238000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ch		238000000000	238000000000	MOBILE	p		
+ch		238000000000	238000000000	RADIOLOCATION	p		
+ch		238000000000	238000000000	RADIONAVIGATION	p		
+ch		238000000000	238000000000	RADIONAVIGATION-SATELLITE	p		
+ch		240000000000	240000000000	-			
+ch		240000000000	240000000000	FIXED	p		
+ch		240000000000	240000000000	MOBILE	p		
+ch		240000000000	240000000000	RADIOLOCATION	p		
+ch		241000000000	241000000000	-			
+ch		241000000000	241000000000	RADIO ASTRONOMY	p		
+ch		241000000000	241000000000	RADIOLOCATION	p		
+ch		241000000000	241000000000	Amateur	s		
+ch		241000000000	241000000000	Amateur-Satellite	s		
+ch		241000000000	241000000000	-			Amateur,  Amateur-satellite
+ch		241000000000	241000000000		p		
+ch		244000000000	244000000000	-			ISM,  Amateur,  Amateur-satellite,  Non-specific SRDs
+ch		244000000000	244000000000		p		
+ch		246000000000	246000000000	-			Amateur,  Amateur-satellite
+ch		246000000000	246000000000		p		
+ch		248000000000	248000000000	-			Amateur,  Amateur-satellite
+ch		248000000000	248000000000	AMATEUR	p		
+ch		248000000000	248000000000	AMATEUR-SATELLITE	p		
+ch		248000000000	248000000000	Radio Astronomy	s		
+ch		250000000000	250000000000	-			Passive sensors (satellite)
+ch		250000000000	250000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ch		250000000000	250000000000	RADIO ASTRONOMY	p		
+ch		250000000000	250000000000	SPACE RESEARCH (PASSIVE)	p		
+ch		252000000000	252000000000	-			
+ch		252000000000	252000000000	FIXED	p		
+ch		252000000000	252000000000	MOBILE	p		
+ch		252000000000	252000000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ch		252000000000	252000000000	RADIO ASTRONOMY	p		
+ch		252000000000	252000000000	RADIONAVIGATION	p		
+ch		252000000000	252000000000	RADIONAVIGATION-SATELLITE	p		
+ch		265000000000	265000000000	-			
+ch		265000000000	265000000000	FIXED	p		
+ch		265000000000	265000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ch		265000000000	265000000000	MOBILE	p		
+ch		265000000000	265000000000	RADIO ASTRONOMY	p		
+ch		275000000000	275000000000	-			
+ch		275000000000	275000000000	Not allocated	s		

@@ -1,0 +1,4 @@
+name	value
+iso2	ie
+name_en	Ireland
+parentRegions	itu1, eu

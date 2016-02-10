@@ -1,0 +1,4 @@
+name	value
+iso2	ch
+name_en	Switzerland
+parentRegions	itu1, eu

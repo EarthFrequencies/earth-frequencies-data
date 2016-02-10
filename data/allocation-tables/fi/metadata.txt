@@ -1,0 +1,4 @@
+name	value
+iso2	fi
+name_en	Finland
+parentRegions	itu1, eu

@@ -1,0 +1,4 @@
+name	value
+iso2	li
+name_en	Liechtenstein
+parentRegions	itu1, eu

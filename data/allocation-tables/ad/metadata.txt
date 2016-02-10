@@ -1,0 +1,4 @@
+name	value
+iso2	ad
+name_en	Andorra
+parentRegions	itu1, eu

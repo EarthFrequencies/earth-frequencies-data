@@ -21,7 +21,8 @@ Allocation Charts by Region
 - dk
   - http://www.erodocdb.dk/Docs/doc98/official/pdf/ercrep025.pdf
 - eu 
-  - http://www.erodocdb.dk/Docs/doc98/official/pdf/ercrep025.pdf   
+  - http://www.erodocdb.dk/Docs/doc98/official/pdf/ercrep025.pdf  
+  - http://www.efis.dk 
 - ie
   - https://www.comreg.ie/radio_spectrum/table_of_frequency_allocations.496.410.html
 - in 
@@ -39,7 +40,8 @@ Allocation Charts by Region
   - https://www.fcc.gov/encyclopedia/radio-spectrum-allocation
 - ws
   - http://www.regulator.gov.ws/files/documents/National-Frequency-Allocation-Table.pdf
-
+- za
+  - https://www.icasa.org.za/LegislationRegulations/EngineeringTechnology/RadioFrequencySpectrumManagement/NationalFrequencyPlan/tabid/655/ctl/ItemDetails/mid/2506/ItemID/1678/Default.aspx
 
 Describing Specific Uses
 ------------------------  

@@ -1,0 +1,4 @@
+name	value
+iso2	at
+name_en	Austria
+parentRegions	itu1, eu

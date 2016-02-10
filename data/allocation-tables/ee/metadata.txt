@@ -1,0 +1,4 @@
+name	value
+iso2	ee
+name_en	Estonia
+parentRegions	itu1, eu

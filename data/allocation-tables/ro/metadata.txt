@@ -1,0 +1,4 @@
+name	value
+iso2	ro
+name_en	Romania
+parentRegions	itu1, eu

@@ -1,0 +1,4 @@
+name	value
+iso2	hu
+name_en	Hungary
+parentRegions	itu1, eu

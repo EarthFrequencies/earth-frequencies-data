@@ -1,0 +1,4 @@
+name	value
+iso2	cy
+name_en	Cyprus
+parentRegions	itu1, eu

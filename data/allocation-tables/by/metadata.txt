@@ -1,0 +1,4 @@
+name	value
+iso2	by
+name_en	Belarus
+parentRegions	itu1, eu

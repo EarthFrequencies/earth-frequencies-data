@@ -1,0 +1,4 @@
+name	value
+iso2	ua
+name_en	Ukraine
+parentRegions	itu1, eu

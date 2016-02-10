@@ -1,0 +1,4 @@
+name	value
+iso2	it
+name_en	Italy
+parentRegions	itu1, eu

@@ -1,0 +1,4 @@
+name	value
+iso2	cz
+name_en	CzechRepublic
+parentRegions	itu1, eu

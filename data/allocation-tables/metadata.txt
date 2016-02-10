@@ -1,0 +1,4 @@
+name	value
+name	Frequency Allocation Tables
+description	Frequency allocation tables assigns the electromagnetic spectrum and establishes the frequency allocations available for radio services, by region, with the top most level defined by the International Telephony Union (ITU)
+

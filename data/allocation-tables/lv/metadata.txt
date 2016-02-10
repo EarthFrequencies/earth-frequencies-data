@@ -1,0 +1,4 @@
+name	value
+iso2	lv
+name_en	Latvia
+parentRegions	itu1, eu

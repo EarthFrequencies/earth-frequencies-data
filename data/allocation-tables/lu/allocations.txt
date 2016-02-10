@@ -1,0 +1,2301 @@
+region	sub-table	lower_frequency	upper_frequency	service	category	footnotes	applications
+lu		9000	9000	-			BMA,  Inductive applications,  Material Sensing,  ULP-AMI,  UWB applications
+lu		9000	9000	METEOROLOGICAL AIDS	p		
+lu		9000	9000	RADIONAVIGATION	p		
+lu		11300	11300	-			BMA,  Inductive applications,  Material Sensing,  ULP-AMI,  UWB applications
+lu		11300	11300	RADIONAVIGATION	p		
+lu		14000	14000	-			BMA,  Inductive applications,  Material Sensing,  ULP-AMI,  UWB applications
+lu		14000	14000	FIXED	p		
+lu		14000	14000	MARITIME MOBILE	p		
+lu		19950	19950	-			BMA,  Inductive applications,  Material Sensing,  Standard frequency and time signal,  ULP-AMI,  UWB applications
+lu		19950	19950	STANDARD FREQUENCY AND TIME SIGNAL	p		
+lu		20050	20050	-			BMA,  Inductive applications,  Material Sensing,  ULP-AMI,  UWB applications
+lu		20050	20050	FIXED	p		
+lu		20050	20050	MARITIME MOBILE	p		
+lu		70000	70000	-			BMA,  Inductive applications,  Material Sensing,  ULP-AMI,  UWB applications
+lu		70000	70000	RADIONAVIGATION	p		
+lu		72000	72000	-			BMA,  Inductive applications,  Material Sensing,  Standard frequency and time signal,  ULP-AMI,  UWB applications
+lu		72000	72000	FIXED	p		
+lu		72000	72000	MARITIME MOBILE	p		
+lu		72000	72000	RADIONAVIGATION	p		
+lu		84000	84000	-			BMA,  Inductive applications,  Material Sensing,  ULP-AMI,  UWB applications
+lu		84000	84000	RADIONAVIGATION	p		
+lu		86000	86000	-			BMA,  Inductive applications,  Material Sensing,  ULP-AMI,  UWB applications
+lu		86000	86000	FIXED	p		
+lu		86000	86000	MARITIME MOBILE	p		
+lu		86000	86000	RADIONAVIGATION	p		
+lu		90000	90000	-			BMA,  Inductive applications,  Material Sensing,  ULP-AMI,  UWB applications
+lu		90000	90000	Fixed	s		
+lu		90000	90000	RADIONAVIGATION	p		
+lu		110000	110000	-			BMA,  Inductive applications,  Material Sensing,  ULP-AMI,  UWB applications
+lu		110000	110000	FIXED	p		
+lu		110000	110000	MARITIME MOBILE	p		
+lu		110000	110000	RADIONAVIGATION	p		
+lu		112000	112000	-			BMA,  Inductive applications,  Material Sensing,  ULP-AMI,  UWB applications
+lu		112000	112000	RADIONAVIGATION	p		
+lu		115000	115000	-			BMA,  Inductive applications,  Material Sensing,  ULP-AMI,  UWB applications
+lu		115000	115000	Fixed	s		
+lu		115000	115000	Maritime Mobile	s		
+lu		115000	115000	RADIONAVIGATION	p		
+lu		117600	117600	-			BMA,  Inductive applications,  Material Sensing,  ULP-AMI,  UWB applications
+lu		117600	117600	FIXED	p		
+lu		117600	117600	MARITIME MOBILE	p		
+lu		117600	117600	RADIONAVIGATION	p		
+lu		126000	126000	-			BMA,  Inductive applications,  Material Sensing,  ULP-AMI,  UWB applications
+lu		126000	126000	Mobile	s		
+lu		126000	126000	RADIONAVIGATION	p		
+lu		129000	129000	-			BMA,  Inductive applications,  Material Sensing,  ULP-AMI,  UWB applications
+lu		129000	129000	FIXED	p		
+lu		129000	129000	MARITIME MOBILE	p		
+lu		129000	129000	Mobile	s		
+lu		129000	129000	RADIONAVIGATION	p		
+lu		130000	130000	-			BMA,  Inductive applications,  Material Sensing,  Tracking systems,  ULP-AMI,  UWB applications
+lu		130000	130000	FIXED	p		
+lu		130000	130000	MARITIME MOBILE	p		
+lu		130000	130000	Mobile	s		
+lu		135700	135700	-			Amateur,  BMA,  Inductive applications,  Material Sensing,  Tracking systems,  ULP-AMI,  UWB applications
+lu		135700	135700	Amateur	s		
+lu		135700	135700	FIXED	p		
+lu		135700	135700	MARITIME MOBILE	p		
+lu		135700	135700	Mobile	s		
+lu		137800	137800	-			BMA,  Inductive applications,  Material Sensing,  Tracking systems,  ULP-AMI,  UWB applications
+lu		137800	137800	FIXED	p		
+lu		137800	137800	MARITIME MOBILE	p		
+lu		137800	137800	Mobile	s		
+lu		148500	148500	-			AM sound analogue,  BMA,  DRM,  Inductive applications,  Material Sensing,  ULP-AMI,  UWB applications
+lu		148500	148500	BROADCASTING	p		
+lu		148500	148500	Mobile	s		
+lu		255000	255000	-			AM sound analogue,  BMA,  DRM,  Inductive applications,  Material Sensing,  ULP-AMI,  UWB applications
+lu		255000	255000	AERONAUTICAL RADIONAVIGATION	p		
+lu		255000	255000	BROADCASTING	p		
+lu		255000	255000	Mobile	s		
+lu		283500	283500	-			Beacons (aeronautical),  BMA,  Inductive applications,  Material Sensing,  ULP-AMI,  UWB applications
+lu		283500	283500	AERONAUTICAL RADIONAVIGATION	p		
+lu		283500	283500	MARITIME RADIONAVIGATION (RADIOBEACONS)	p		
+lu		283500	283500	Mobile	s		
+lu		315000	315000	-			Beacons (aeronautical),  BMA,  Inductive applications,  Material Sensing,  ULP-AID,  UWB applications
+lu		315000	315000	AERONAUTICAL RADIONAVIGATION	p		
+lu		315000	315000	Maritime Radionavigation (radiobeacons)	s		
+lu		315000	315000	Mobile	s		
+lu		325000	325000	-			Beacons (aeronautical),  BMA,  Inductive applications,  Material Sensing,  ULP-AID,  UWB applications
+lu		325000	325000	AERONAUTICAL RADIONAVIGATION	p		
+lu		325000	325000	Mobile	s		
+lu		405000	405000	-			BMA,  Inductive applications,  Material Sensing,  ULP-AID,  UWB applications
+lu		405000	405000	Mobile	s		
+lu		405000	405000	RADIONAVIGATION	p		
+lu		415000	415000	-			BMA,  Inductive applications,  Material Sensing,  ULP-AID,  UWB applications
+lu		415000	415000	AERONAUTICAL RADIONAVIGATION	p		
+lu		415000	415000	MARITIME MOBILE	p		
+lu		415000	415000	Mobile	s		
+lu		435000	435000	-			BMA,  Emergency detection,  Inductive applications,  Material Sensing,  ULP-AID,  UWB applications
+lu		435000	435000	Aeronautical Radionavigation	s		
+lu		435000	435000	MARITIME MOBILE	p		
+lu		435000	435000	Mobile	s		
+lu		472000	472000	-			Amateur,  BMA,  Inductive applications,  Material Sensing,  ULP-AID,  UWB applications
+lu		472000	472000	Aeronautical Radionavigation	s		
+lu		472000	472000	Amateur	s		
+lu		472000	472000	MARITIME MOBILE	p		
+lu		472000	472000	Mobile	s		
+lu		479000	479000	-			BMA,  Inductive applications,  Material Sensing,  ULP-AID,  UWB applications
+lu		479000	479000	Aeronautical Radionavigation	s		
+lu		479000	479000	MARITIME MOBILE	p		
+lu		479000	479000	Mobile	s		
+lu		495000	495000	-			BMA,  Inductive applications,  Material Sensing,  ULP-AID,  UWB applications
+lu		495000	495000	MARITIME MOBILE	p		
+lu		495000	495000	MOBILE	p		
+lu		505000	505000	-			BMA,  Inductive applications,  Material Sensing,  ULP-AID,  UWB applications
+lu		505000	505000	AERONAUTICAL RADIONAVIGATION	p		
+lu		505000	505000	MARITIME MOBILE	p		
+lu		505000	505000	Mobile	s		
+lu		526500	526500	-			AM sound analogue,  BMA,  DRM,  Inductive applications,  Material Sensing,  ULP-AID,  UWB applications
+lu		526500	526500	BROADCASTING	p		
+lu		526500	526500	Mobile	s		
+lu		1606500	1606500	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		1606500	1606500	FIXED	p		
+lu		1606500	1606500	LAND MOBILE	p		
+lu		1606500	1606500	MARITIME MOBILE	p		
+lu		1625000	1625000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		1625000	1625000	Mobile	s		
+lu		1625000	1625000	RADIOLOCATION	p		
+lu		1635000	1635000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		1635000	1635000	FIXED	p		
+lu		1635000	1635000	LAND MOBILE	p		
+lu		1635000	1635000	MARITIME MOBILE	p		
+lu		1800000	1800000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		1800000	1800000	Mobile	s		
+lu		1800000	1800000	RADIOLOCATION	p		
+lu		1810000	1810000	-			Amateur,  BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		1810000	1810000	AMATEUR	p		
+lu		1810000	1810000	Mobile	s		
+lu		1850000	1850000	-			Amateur,  BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		1850000	1850000	FIXED	p		
+lu		1850000	1850000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		2000000	2000000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		2000000	2000000	FIXED	p		
+lu		2000000	2000000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+lu		2025000	2025000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		2025000	2025000	FIXED	p		
+lu		2025000	2025000	Meteorological Aids	s		
+lu		2025000	2025000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+lu		2045000	2045000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		2045000	2045000	FIXED	p		
+lu		2045000	2045000	LAND MOBILE	p		
+lu		2045000	2045000	MARITIME MOBILE	p		
+lu		2160000	2160000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		2160000	2160000	RADIOLOCATION	p		
+lu		2170000	2170000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		2170000	2170000	MARITIME MOBILE	p		
+lu		2170000	2170000	Mobile	s		
+lu		2173500	2173500	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		2173500	2173500	MOBILE (DISTRESS AND CALLING)	p		
+lu		2190500	2190500	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		2190500	2190500	MARITIME MOBILE	p		
+lu		2190500	2190500	Mobile	s		
+lu		2194000	2194000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		2194000	2194000	FIXED	p		
+lu		2194000	2194000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+lu		2300000	2300000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		2300000	2300000	BROADCASTING	p		
+lu		2300000	2300000	FIXED	p		
+lu		2300000	2300000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+lu		2498000	2498000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  Standard frequency and time signal,  UWB applications
+lu		2498000	2498000	Mobile	s		
+lu		2498000	2498000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+lu		2501000	2501000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  Standard frequency and time signal,  UWB applications
+lu		2501000	2501000	Mobile	s		
+lu		2501000	2501000	Space Research	s		
+lu		2501000	2501000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+lu		2502000	2502000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		2502000	2502000	FIXED	p		
+lu		2502000	2502000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+lu		2625000	2625000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		2625000	2625000	MARITIME MOBILE	p		
+lu		2625000	2625000	MARITIME RADIONAVIGATION	p		
+lu		2625000	2625000	Mobile	s		
+lu		2650000	2650000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		2650000	2650000	FIXED	p		
+lu		2650000	2650000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+lu		2850000	2850000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		2850000	2850000	AERONAUTICAL MOBILE (R)	p		
+lu		3025000	3025000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		3025000	3025000	AERONAUTICAL MOBILE (OR)	p		
+lu		3155000	3155000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		3155000	3155000	FIXED	p		
+lu		3155000	3155000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+lu		3200000	3200000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		3200000	3200000	BROADCASTING	p		
+lu		3200000	3200000	FIXED	p		
+lu		3200000	3200000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+lu		3230000	3230000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		3230000	3230000	BROADCASTING	p		
+lu		3230000	3230000	FIXED	p		
+lu		3230000	3230000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		3400000	3400000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		3400000	3400000	AERONAUTICAL MOBILE (R)	p		
+lu		3400000	3400000	Mobile	s		
+lu		3500000	3500000	-			Amateur,  BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		3500000	3500000	AMATEUR	p		
+lu		3500000	3500000	FIXED	p		
+lu		3500000	3500000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		3800000	3800000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		3800000	3800000	AERONAUTICAL MOBILE (OR)	p		
+lu		3800000	3800000	FIXED	p		
+lu		3800000	3800000	LAND MOBILE	p		
+lu		3900000	3900000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		3900000	3900000	AERONAUTICAL MOBILE (OR)	p		
+lu		3900000	3900000	Mobile	s		
+lu		3950000	3950000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		3950000	3950000	BROADCASTING	p		
+lu		3950000	3950000	FIXED	p		
+lu		3950000	3950000	Mobile	s		
+lu		4000000	4000000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		4000000	4000000	FIXED	p		
+lu		4000000	4000000	MARITIME MOBILE	p		
+lu		4000000	4000000	Mobile	s		
+lu		4063000	4063000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		4063000	4063000	MARITIME MOBILE	p		
+lu		4063000	4063000	Mobile	s		
+lu		4438000	4438000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		4438000	4438000	FIXED	p		
+lu		4438000	4438000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+lu		4438000	4438000	Radiolocation	s		
+lu		4488000	4488000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		4488000	4488000	FIXED	p		
+lu		4488000	4488000	Mobile except aeronautical mobile (R)	s		
+lu		4650000	4650000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		4650000	4650000	AERONAUTICAL MOBILE (R)	p		
+lu		4650000	4650000	Mobile	s		
+lu		4700000	4700000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		4700000	4700000	AERONAUTICAL MOBILE (OR)	p		
+lu		4700000	4700000	Mobile	s		
+lu		4750000	4750000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		4750000	4750000	AERONAUTICAL MOBILE (OR)	p		
+lu		4750000	4750000	BROADCASTING	p		
+lu		4750000	4750000	FIXED	p		
+lu		4750000	4750000	LAND MOBILE	p		
+lu		4850000	4850000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		4850000	4850000	BROADCASTING	p		
+lu		4850000	4850000	FIXED	p		
+lu		4850000	4850000	LAND MOBILE	p		
+lu		4995000	4995000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  Standard frequency and time signal,  UWB applications
+lu		4995000	4995000	Mobile	s		
+lu		4995000	4995000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+lu		5003000	5003000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  Standard frequency and time signal,  UWB applications
+lu		5003000	5003000	Mobile	s		
+lu		5003000	5003000	Space Research	s		
+lu		5003000	5003000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+lu		5005000	5005000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		5005000	5005000	BROADCASTING	p		
+lu		5005000	5005000	FIXED	p		
+lu		5005000	5005000	Mobile	s		
+lu		5060000	5060000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		5060000	5060000	FIXED	p		
+lu		5060000	5060000	Mobile except aeronautical mobile	s		
+lu		5250000	5250000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		5250000	5250000	FIXED	p		
+lu		5250000	5250000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		5250000	5250000	Radiolocation	s		
+lu		5275000	5275000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		5275000	5275000	FIXED	p		
+lu		5275000	5275000	Mobile except aeronautical mobile	s		
+lu		5450000	5450000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		5450000	5450000	AERONAUTICAL MOBILE (OR)	p		
+lu		5450000	5450000	FIXED	p		
+lu		5450000	5450000	LAND MOBILE	p		
+lu		5480000	5480000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		5480000	5480000	AERONAUTICAL MOBILE (R)	p		
+lu		5480000	5480000	Mobile	s		
+lu		5680000	5680000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		5680000	5680000	AERONAUTICAL MOBILE (OR)	p		
+lu		5680000	5680000	Mobile	s		
+lu		5730000	5730000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		5730000	5730000	FIXED	p		
+lu		5730000	5730000	LAND MOBILE	p		
+lu		5900000	5900000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		5900000	5900000	BROADCASTING	p		
+lu		5900000	5900000	Mobile	s		
+lu		5950000	5950000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		5950000	5950000	BROADCASTING	p		
+lu		5950000	5950000	Mobile	s		
+lu		6200000	6200000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		6200000	6200000	MARITIME MOBILE	p		
+lu		6200000	6200000	Mobile	s		
+lu		6525000	6525000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		6525000	6525000	AERONAUTICAL MOBILE (R)	p		
+lu		6525000	6525000	Mobile	s		
+lu		6685000	6685000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		6685000	6685000	AERONAUTICAL MOBILE (OR)	p		
+lu		6685000	6685000	Mobile	s		
+lu		6765000	6765000	-			BMA,  Inductive applications,  ISM,  Material Sensing,  Non-specific SRDs,  Railway applications,  UWB applications
+lu		6765000	6765000	FIXED	p		
+lu		6765000	6765000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+lu		7000000	7000000	-			Amateur,  Amateur-satellite,  BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		7000000	7000000	AMATEUR	p		
+lu		7000000	7000000	AMATEUR-SATELLITE	p		
+lu		7000000	7000000	Mobile	s		
+lu		7100000	7100000	-			Amateur,  BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		7100000	7100000	AMATEUR	p		
+lu		7100000	7100000	Mobile	s		
+lu		7200000	7200000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		7200000	7200000	BROADCASTING	p		
+lu		7200000	7200000	Mobile	s		
+lu		7300000	7300000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		7300000	7300000	BROADCASTING	p		
+lu		7300000	7300000	Mobile	s		
+lu		7400000	7400000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		7400000	7400000	BROADCASTING	p		
+lu		7400000	7400000	Mobile	s		
+lu		7450000	7450000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		7450000	7450000	FIXED	p		
+lu		7450000	7450000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+lu		8100000	8100000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		8100000	8100000	FIXED	p		
+lu		8100000	8100000	MARITIME MOBILE	p		
+lu		8100000	8100000	Mobile	s		
+lu		8195000	8195000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		8195000	8195000	MARITIME MOBILE	p		
+lu		8195000	8195000	Mobile	s		
+lu		8815000	8815000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		8815000	8815000	AERONAUTICAL MOBILE (R)	p		
+lu		8965000	8965000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		8965000	8965000	AERONAUTICAL MOBILE (OR)	p		
+lu		9040000	9040000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		9040000	9040000	FIXED	p		
+lu		9040000	9040000	Mobile	s		
+lu		9305000	9305000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		9305000	9305000	FIXED	p		
+lu		9305000	9305000	Mobile	s		
+lu		9305000	9305000	Radiolocation	s		
+lu		9355000	9355000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		9355000	9355000	FIXED	p		
+lu		9355000	9355000	Mobile	s		
+lu		9400000	9400000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		9400000	9400000	BROADCASTING	p		
+lu		9400000	9400000	Mobile	s		
+lu		9500000	9500000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		9500000	9500000	BROADCASTING	p		
+lu		9500000	9500000	Mobile	s		
+lu		9900000	9900000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		9900000	9900000	FIXED	p		
+lu		9900000	9900000	Mobile	s		
+lu		9995000	9995000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  Standard frequency and time signal,  UWB applications
+lu		9995000	9995000	Mobile	s		
+lu		9995000	9995000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+lu		10003000	10003000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  Standard frequency and time signal,  UWB applications
+lu		10003000	10003000	Mobile	s		
+lu		10003000	10003000	Space Research	s		
+lu		10003000	10003000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+lu		10005000	10005000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		10005000	10005000	AERONAUTICAL MOBILE (R)	p		
+lu		10005000	10005000	Mobile	s		
+lu		10100000	10100000	-			Amateur,  BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		10100000	10100000	Amateur	s		
+lu		10100000	10100000	FIXED	p		
+lu		10100000	10100000	Mobile	s		
+lu		10150000	10150000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		10150000	10150000	FIXED	p		
+lu		10150000	10150000	Mobile except aeronautical mobile (R)	s		
+lu		11175000	11175000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		11175000	11175000	AERONAUTICAL MOBILE (OR)	p		
+lu		11175000	11175000	Mobile	s		
+lu		11275000	11275000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		11275000	11275000	AERONAUTICAL MOBILE (R)	p		
+lu		11275000	11275000	Mobile	s		
+lu		11400000	11400000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		11400000	11400000	FIXED	p		
+lu		11400000	11400000	Mobile	s		
+lu		11600000	11600000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		11600000	11600000	BROADCASTING	p		
+lu		11600000	11600000	Mobile	s		
+lu		11650000	11650000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		11650000	11650000	BROADCASTING	p		
+lu		11650000	11650000	Mobile	s		
+lu		12050000	12050000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		12050000	12050000	BROADCASTING	p		
+lu		12050000	12050000	Mobile	s		
+lu		12100000	12100000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		12100000	12100000	FIXED	p		
+lu		12100000	12100000	Mobile	s		
+lu		12230000	12230000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		12230000	12230000	MARITIME MOBILE	p		
+lu		12230000	12230000	Mobile	s		
+lu		13200000	13200000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		13200000	13200000	AERONAUTICAL MOBILE (OR)	p		
+lu		13200000	13200000	Mobile	s		
+lu		13260000	13260000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		13260000	13260000	AERONAUTICAL MOBILE (R)	p		
+lu		13260000	13260000	Mobile	s		
+lu		13360000	13360000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		13360000	13360000	FIXED	p		
+lu		13360000	13360000	Mobile	s		
+lu		13360000	13360000	RADIO ASTRONOMY	p		
+lu		13410000	13410000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		13410000	13410000	FIXED	p		
+lu		13410000	13410000	Mobile except aeronautical mobile (R)	s		
+lu		13450000	13450000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		13450000	13450000	FIXED	p		
+lu		13450000	13450000	Mobile except aeronautical mobile (R)	s		
+lu		13450000	13450000	Radiolocation	s		
+lu		13550000	13550000	-			BMA,  Inductive applications,  ISM,  Material Sensing,  Non-specific SRDs,  Railway applications,  ULP-AID,  UWB applications
+lu		13550000	13550000	FIXED	p		
+lu		13550000	13550000	Mobile except aeronautical mobile (R)	s		
+lu		13570000	13570000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		13570000	13570000	BROADCASTING	p		
+lu		13570000	13570000	Mobile	s		
+lu		13600000	13600000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		13600000	13600000	BROADCASTING	p		
+lu		13600000	13600000	Mobile	s		
+lu		13800000	13800000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		13800000	13800000	BROADCASTING	p		
+lu		13800000	13800000	Mobile	s		
+lu		13870000	13870000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		13870000	13870000	FIXED	p		
+lu		13870000	13870000	Mobile except aeronautical mobile (R)	s		
+lu		14000000	14000000	-			Amateur,  Amateur-satellite,  BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		14000000	14000000	AMATEUR	p		
+lu		14000000	14000000	AMATEUR-SATELLITE	p		
+lu		14000000	14000000	Mobile	s		
+lu		14250000	14250000	-			Amateur,  BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		14250000	14250000	AMATEUR	p		
+lu		14250000	14250000	Mobile	s		
+lu		14350000	14350000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		14350000	14350000	FIXED	p		
+lu		14350000	14350000	Mobile except aeronautical mobile (R)	s		
+lu		14990000	14990000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  Standard frequency and time signal,  ULP-AID,  UWB applications
+lu		14990000	14990000	Mobile	s		
+lu		14990000	14990000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+lu		15005000	15005000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  Standard frequency and time signal,  ULP-AID,  UWB applications
+lu		15005000	15005000	Mobile	s		
+lu		15005000	15005000	Space Research	s		
+lu		15005000	15005000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+lu		15010000	15010000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		15010000	15010000	AERONAUTICAL MOBILE (OR)	p		
+lu		15010000	15010000	Mobile	s		
+lu		15100000	15100000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		15100000	15100000	BROADCASTING	p		
+lu		15100000	15100000	Mobile	s		
+lu		15600000	15600000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		15600000	15600000	BROADCASTING	p		
+lu		15600000	15600000	Mobile	s		
+lu		15800000	15800000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		15800000	15800000	FIXED	p		
+lu		15800000	15800000	Mobile	s		
+lu		16100000	16100000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		16100000	16100000	FIXED	p		
+lu		16100000	16100000	Mobile	s		
+lu		16100000	16100000	Radiolocation	s		
+lu		16200000	16200000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		16200000	16200000	FIXED	p		
+lu		16200000	16200000	Mobile	s		
+lu		16360000	16360000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		16360000	16360000	MARITIME MOBILE	p		
+lu		16360000	16360000	Mobile	s		
+lu		17410000	17410000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		17410000	17410000	FIXED	p		
+lu		17410000	17410000	Mobile	s		
+lu		17480000	17480000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		17480000	17480000	BROADCASTING	p		
+lu		17480000	17480000	Mobile	s		
+lu		17550000	17550000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		17550000	17550000	BROADCASTING	p		
+lu		17550000	17550000	Mobile	s		
+lu		17900000	17900000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		17900000	17900000	AERONAUTICAL MOBILE (R)	p		
+lu		17900000	17900000	Mobile	s		
+lu		17970000	17970000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		17970000	17970000	AERONAUTICAL MOBILE (OR)	p		
+lu		17970000	17970000	Mobile	s		
+lu		18030000	18030000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		18030000	18030000	FIXED	p		
+lu		18030000	18030000	Mobile	s		
+lu		18052000	18052000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		18052000	18052000	FIXED	p		
+lu		18052000	18052000	Mobile	s		
+lu		18052000	18052000	Space Research	s		
+lu		18068000	18068000	-			Amateur,  Amateur-satellite,  BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		18068000	18068000	AMATEUR	p		
+lu		18068000	18068000	AMATEUR-SATELLITE	p		
+lu		18068000	18068000	Mobile	s		
+lu		18168000	18168000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		18168000	18168000	FIXED	p		
+lu		18168000	18168000	Mobile except aeronautical mobile	s		
+lu		18780000	18780000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		18780000	18780000	MARITIME MOBILE	p		
+lu		18780000	18780000	Mobile	s		
+lu		18900000	18900000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		18900000	18900000	BROADCASTING	p		
+lu		18900000	18900000	Mobile	s		
+lu		19020000	19020000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		19020000	19020000	FIXED	p		
+lu		19020000	19020000	Mobile	s		
+lu		19680000	19680000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		19680000	19680000	MARITIME MOBILE	p		
+lu		19680000	19680000	Mobile	s		
+lu		19800000	19800000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  ULP-AID,  UWB applications
+lu		19800000	19800000	FIXED	p		
+lu		19800000	19800000	Mobile	s		
+lu		19990000	19990000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  Standard frequency and time signal,  ULP-AID,  UWB applications
+lu		19990000	19990000	Mobile	s		
+lu		19990000	19990000	Space Research	s		
+lu		19990000	19990000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+lu		19995000	19995000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  Standard frequency and time signal,  ULP-AID,  UWB applications
+lu		19995000	19995000	Mobile	s		
+lu		19995000	19995000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+lu		20010000	20010000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		20010000	20010000	FIXED	p		
+lu		20010000	20010000	Mobile	s		
+lu		21000000	21000000	-			Amateur,  Amateur-satellite,  BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		21000000	21000000	AMATEUR	p		
+lu		21000000	21000000	AMATEUR-SATELLITE	p		
+lu		21000000	21000000	Mobile	s		
+lu		21450000	21450000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		21450000	21450000	BROADCASTING	p		
+lu		21450000	21450000	Mobile	s		
+lu		21850000	21850000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		21850000	21850000	FIXED	p		
+lu		21850000	21850000	Mobile	s		
+lu		21870000	21870000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		21870000	21870000	FIXED	p		
+lu		21870000	21870000	Mobile	s		
+lu		21924000	21924000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		21924000	21924000	AERONAUTICAL MOBILE (R)	p		
+lu		21924000	21924000	Mobile	s		
+lu		22000000	22000000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		22000000	22000000	MARITIME MOBILE	p		
+lu		22000000	22000000	Mobile	s		
+lu		22855000	22855000	-			BMA,  Inductive applications,  Material Sensing,  Railway applications,  UWB applications
+lu		22855000	22855000	FIXED	p		
+lu		22855000	22855000	Mobile	s		
+lu		23000000	23000000	-			BMA,  Inductive applications,  Material Sensing,  UWB applications
+lu		23000000	23000000	FIXED	p		
+lu		23000000	23000000	Mobile except aeronautical mobile (R)	s		
+lu		23200000	23200000	-			BMA,  Inductive applications,  Material Sensing,  UWB applications
+lu		23200000	23200000	AERONAUTICAL MOBILE (OR)	p		
+lu		23200000	23200000	FIXED	p		
+lu		23200000	23200000	Mobile	s		
+lu		23350000	23350000	-			BMA,  Inductive applications,  Material Sensing,  UWB applications
+lu		23350000	23350000	FIXED	p		
+lu		23350000	23350000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		24000000	24000000	-			BMA,  Inductive applications,  Material Sensing,  UWB applications
+lu		24000000	24000000	FIXED	p		
+lu		24000000	24000000	LAND MOBILE	p		
+lu		24000000	24000000	Mobile	s		
+lu		24450000	24450000	-			BMA,  Inductive applications,  Material Sensing,  UWB applications
+lu		24450000	24450000	FIXED	p		
+lu		24450000	24450000	LAND MOBILE	p		
+lu		24450000	24450000	Mobile	s		
+lu		24450000	24450000	Radiolocation	s		
+lu		24600000	24600000	-			BMA,  Inductive applications,  Material Sensing,  UWB applications
+lu		24600000	24600000	FIXED	p		
+lu		24600000	24600000	LAND MOBILE	p		
+lu		24600000	24600000	Mobile	s		
+lu		24890000	24890000	-			Amateur,  Amateur-satellite,  BMA,  Inductive applications,  Material Sensing,  UWB applications
+lu		24890000	24890000	AMATEUR	p		
+lu		24890000	24890000	AMATEUR-SATELLITE	p		
+lu		24890000	24890000	Mobile	s		
+lu		24990000	24990000	-			BMA,  Inductive applications,  Material Sensing,  Standard frequency and time signal,  UWB applications
+lu		24990000	24990000	Mobile	s		
+lu		24990000	24990000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+lu		25005000	25005000	-			BMA,  Inductive applications,  Material Sensing,  Standard frequency and time signal,  UWB applications
+lu		25005000	25005000	Mobile	s		
+lu		25005000	25005000	Space Research	s		
+lu		25005000	25005000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+lu		25010000	25010000	-			BMA,  Inductive applications,  Material Sensing,  UWB applications
+lu		25010000	25010000	FIXED	p		
+lu		25010000	25010000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		25070000	25070000	-			BMA,  Inductive applications,  Material Sensing,  UWB applications
+lu		25070000	25070000	MARITIME MOBILE	p		
+lu		25070000	25070000	Mobile	s		
+lu		25210000	25210000	-			BMA,  Inductive applications,  Material Sensing,  UWB applications
+lu		25210000	25210000	FIXED	p		
+lu		25210000	25210000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		25550000	25550000	-			BMA,  Inductive applications,  Material Sensing,  UWB applications
+lu		25550000	25550000	Mobile	s		
+lu		25550000	25550000	RADIO ASTRONOMY	p		
+lu		25670000	25670000	-			BMA,  DRM,  Inductive applications,  Material Sensing,  UWB applications
+lu		25670000	25670000	BROADCASTING	p		
+lu		25670000	25670000	Mobile	s		
+lu		26100000	26100000	-			BMA,  Inductive applications,  Material Sensing,  UWB applications
+lu		26100000	26100000	MARITIME MOBILE	p		
+lu		26100000	26100000	Mobile	s		
+lu		26175000	26175000	-			BMA,  Inductive applications,  Material Sensing,  UWB applications
+lu		26175000	26175000	FIXED	p		
+lu		26175000	26175000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		26200000	26200000	-			BMA,  Inductive applications,  Material Sensing,  UWB applications
+lu		26200000	26200000	FIXED	p		
+lu		26200000	26200000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		26200000	26200000	Radiolocation	s		
+lu		26350000	26350000	-			BMA,  CB radio,  Inductive applications,  ISM,  Material Sensing,  Model control,  Non-specific SRDs,  Railway applications,  UWB applications
+lu		26350000	26350000	FIXED	p		
+lu		26350000	26350000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		27500000	27500000	-			BMA,  Inductive applications,  Material Sensing,  UWB applications
+lu		27500000	27500000	FIXED	p		
+lu		27500000	27500000	METEOROLOGICAL AIDS	p		
+lu		27500000	27500000	MOBILE	p		
+lu		28000000	28000000	-			Amateur,  Amateur-satellite,  BMA,  Inductive applications,  Material Sensing,  UWB applications
+lu		28000000	28000000	AMATEUR	p		
+lu		28000000	28000000	AMATEUR-SATELLITE	p		
+lu		28000000	28000000	Mobile	s		
+lu		29700000	29700000	-			BMA,  GPR/WPR,  Inductive applications,  Material Sensing,  Radio microphones,  ULP-MMI,  UWB applications
+lu		29700000	29700000	FIXED	p		
+lu		29700000	29700000	MOBILE	p		
+lu		30005000	30005000	-			BMA,  GPR/WPR,  Material Sensing,  Radio microphones,  ULP-MMI,  UWB applications
+lu		30005000	30005000	FIXED	p		
+lu		30005000	30005000	MOBILE	p		
+lu		30005000	30005000	SPACE OPERATION (SATELLITE IDENTIFICATION)	p		
+lu		30005000	30005000	SPACE RESEARCH	p		
+lu		30010000	30010000	-			BMA,  Defence systems,  Flying model control,  GPR/WPR,  Material Sensing,  Radio microphones,  ULP-MMI,  UWB applications
+lu		30010000	30010000	FIXED	p		
+lu		30010000	30010000	MOBILE	p		
+lu		37500000	37500000	-			BMA,  GPR/WPR,  Material Sensing,  Radio microphones,  UWB applications
+lu		37500000	37500000	FIXED	p		
+lu		37500000	37500000	MOBILE	p		
+lu		37500000	37500000	Radio Astronomy	s		
+lu		38250000	38250000	-			BMA,  GPR/WPR,  Material Sensing,  Meteor scatter communications,  Radio microphones,  UWB applications
+lu		38250000	38250000	FIXED	p		
+lu		38250000	38250000	MOBILE	p		
+lu		39000000	39000000	-			BMA,  GPR/WPR,  Material Sensing,  Meteor scatter communications,  Radio microphones,  UWB applications
+lu		39000000	39000000	FIXED	p		
+lu		39000000	39000000	MOBILE	p		
+lu		39000000	39000000	Radiolocation	s		
+lu		39500000	39500000	-			BMA,  GPR/WPR,  Material Sensing,  Meteor scatter communications,  Radio microphones,  UWB applications
+lu		39500000	39500000	FIXED	p		
+lu		39500000	39500000	MOBILE	p		
+lu		39986000	39986000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  Radio microphones,  UWB applications
+lu		39986000	39986000	FIXED	p		
+lu		39986000	39986000	MOBILE	p		
+lu		39986000	39986000	Space Research	s		
+lu		40020000	40020000	-			Baby monitoring,  BMA,  Defence systems,  GPR/WPR,  Material Sensing,  On-site paging,  Radio microphones,  UWB applications
+lu		40020000	40020000	FIXED	p		
+lu		40020000	40020000	MOBILE	p		
+lu		40660000	40660000	-			BMA,  GPR/WPR,  ISM,  Material Sensing,  Model control,  Non-specific SRDs,  Radio microphones,  UWB applications
+lu		40660000	40660000	FIXED	p		
+lu		40660000	40660000	MOBILE	p		
+lu		40700000	40700000	-			BMA,  GPR/WPR,  Material Sensing,  Radio microphones,  UWB applications
+lu		40700000	40700000	FIXED	p		
+lu		40700000	40700000	MOBILE	p		
+lu		40980000	40980000	-			BMA,  GPR/WPR,  Material Sensing,  Radio microphones,  UWB applications
+lu		40980000	40980000	FIXED	p		
+lu		40980000	40980000	MOBILE	p		
+lu		40980000	40980000	Space Research	s		
+lu		41015000	41015000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  Radio microphones,  UWB applications
+lu		41015000	41015000	FIXED	p		
+lu		41015000	41015000	MOBILE	p		
+lu		42000000	42000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  Radio microphones,  UWB applications
+lu		42000000	42000000	FIXED	p		
+lu		42000000	42000000	MOBILE	p		
+lu		42000000	42000000	Radiolocation	s		
+lu		42500000	42500000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  Radio microphones,  UWB applications
+lu		42500000	42500000	FIXED	p		
+lu		42500000	42500000	MOBILE	p		
+lu		44000000	44000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  Radio microphones,  UWB applications
+lu		44000000	44000000	FIXED	p		
+lu		44000000	44000000	MOBILE	p		
+lu		46400000	46400000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  Radio microphones,  UWB applications
+lu		46400000	46400000	FIXED	p		
+lu		46400000	46400000	MOBILE	p		
+lu		47000000	47000000	-			BMA,  GPR/WPR,  Land mobile,  Material Sensing,  On-site paging,  UWB applications
+lu		47000000	47000000	BROADCASTING	p		
+lu		47000000	47000000	LAND MOBILE	p		
+lu		48000000	48000000	-			BMA,  GPR/WPR,  Land mobile,  Material Sensing,  UWB applications
+lu		48000000	48000000	BROADCASTING	p		
+lu		48000000	48000000	LAND MOBILE	p		
+lu		48500000	48500000	-			BMA,  GPR/WPR,  Land mobile,  Material Sensing,  UWB applications
+lu		48500000	48500000	BROADCASTING	p		
+lu		48500000	48500000	LAND MOBILE	p		
+lu		50000000	50000000	-			Amateur,  BMA,  Defence systems,  GPR/WPR,  Land mobile,  Material Sensing,  UWB applications
+lu		50000000	50000000	BROADCASTING	p		
+lu		50000000	50000000	LAND MOBILE	p		
+lu		51000000	51000000	-			Amateur,  BMA,  Defence systems,  GPR/WPR,  Land mobile,  Material Sensing,  UWB applications
+lu		51000000	51000000	BROADCASTING	p		
+lu		51000000	51000000	LAND MOBILE	p		
+lu		52000000	52000000	-			BMA,  GPR/WPR,  Land mobile,  Material Sensing,  UWB applications
+lu		52000000	52000000	BROADCASTING	p		
+lu		52000000	52000000	LAND MOBILE	p		
+lu		54000000	54000000	-			BMA,  GPR/WPR,  Land mobile,  Material Sensing,  UWB applications
+lu		54000000	54000000	BROADCASTING	p		
+lu		54000000	54000000	LAND MOBILE	p		
+lu		61000000	61000000	-			BMA,  GPR/WPR,  Land mobile,  Material Sensing,  UWB applications
+lu		61000000	61000000	BROADCASTING	p		
+lu		61000000	61000000	LAND MOBILE	p		
+lu		68000000	68000000	-			Amateur,  BMA,  GPR/WPR,  Material Sensing,  PMR,  UWB applications
+lu		68000000	68000000	FIXED	p		
+lu		68000000	68000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		70450000	70450000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  PMR,  UWB applications
+lu		70450000	70450000	FIXED	p		
+lu		70450000	70450000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		74800000	74800000	-			BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		74800000	74800000	AERONAUTICAL RADIONAVIGATION	p		
+lu		75200000	75200000	-			BMA,  GPR/WPR,  Material Sensing,  PMR,  UWB applications
+lu		75200000	75200000	FIXED	p		
+lu		75200000	75200000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		77700000	77700000	-			BMA,  GPR/WPR,  Material Sensing,  PMR,  UWB applications
+lu		77700000	77700000	FIXED	p		
+lu		77700000	77700000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		77800000	77800000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  PMR,  UWB applications
+lu		77800000	77800000	FIXED	p		
+lu		77800000	77800000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		84600000	84600000	-			BMA,  GPR/WPR,  Material Sensing,  PMR,  UWB applications
+lu		84600000	84600000	FIXED	p		
+lu		84600000	84600000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		85000000	85000000	-			BMA,  GPR/WPR,  Material Sensing,  PMR,  UWB applications
+lu		85000000	85000000	FIXED	p		
+lu		85000000	85000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		87500000	87500000	-			BMA,  FM sound analogue,  GPR/WPR,  Material Sensing,  UWB applications
+lu		87500000	87500000	BROADCASTING	p		
+lu		100000000	100000000	-			BMA,  FM sound analogue,  GPR/WPR,  Material Sensing,  UWB applications
+lu		100000000	100000000	BROADCASTING	p		
+lu		108000000	108000000	-			BMA,  GPR/WPR,  ILS,  Material Sensing,  UWB applications,  VOR
+lu		108000000	108000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		117975000	117975000	-			Aeronautical navigation,  AGA communications (civil),  BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		117975000	117975000	AERONAUTICAL MOBILE (R)	p		
+lu		121450000	121450000	-			Aeronautical navigation,  AGA communications (civil),  BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		121450000	121450000	AERONAUTICAL MOBILE (R)	p		
+lu		121550000	121550000	-			Aeronautical navigation,  AGA communications (civil),  BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		121550000	121550000	AERONAUTICAL MOBILE (R)	p		
+lu		136000000	136000000	-			Aeronautical navigation,  AGA communications (civil),  BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		136000000	136000000	AERONAUTICAL MOBILE (R)	p		
+lu		137000000	137000000	-			BMA,  GPR/WPR,  Material Sensing,  S-PCS,  UWB applications
+lu		137000000	137000000	Fixed	s		
+lu		137000000	137000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+lu		137000000	137000000	Mobile except aeronautical mobile (R)	s		
+lu		137000000	137000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+lu		137000000	137000000	SPACE OPERATION (SPACE-TO-EARTH)	p		
+lu		137000000	137000000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+lu		137025000	137025000	-			BMA,  GPR/WPR,  Material Sensing,  S-PCS,  UWB applications
+lu		137025000	137025000	Fixed	s		
+lu		137025000	137025000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+lu		137025000	137025000	Mobile except aeronautical mobile (R)	s		
+lu		137025000	137025000	Mobile-Satellite (space-to-Earth)	s		
+lu		137025000	137025000	SPACE OPERATION (SPACE-TO-EARTH)	p		
+lu		137025000	137025000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+lu		137175000	137175000	-			BMA,  GPR/WPR,  Material Sensing,  S-PCS,  UWB applications
+lu		137175000	137175000	Fixed	s		
+lu		137175000	137175000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+lu		137175000	137175000	Mobile except aeronautical mobile (R)	s		
+lu		137175000	137175000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+lu		137175000	137175000	SPACE OPERATION (SPACE-TO-EARTH)	p		
+lu		137175000	137175000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+lu		137825000	137825000	-			BMA,  GPR/WPR,  Material Sensing,  S-PCS,  UWB applications
+lu		137825000	137825000	Fixed	s		
+lu		137825000	137825000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+lu		137825000	137825000	Mobile except aeronautical mobile (R)	s		
+lu		137825000	137825000	Mobile-Satellite (space-to-Earth)	s		
+lu		137825000	137825000	SPACE OPERATION (SPACE-TO-EARTH)	p		
+lu		137825000	137825000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+lu		138000000	138000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  Non-specific SRDs,  UWB applications
+lu		138000000	138000000	AERONAUTICAL MOBILE (OR)	p		
+lu		138000000	138000000	Mobile	s		
+lu		143600000	143600000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  UWB applications
+lu		143600000	143600000	AERONAUTICAL MOBILE (OR)	p		
+lu		143600000	143600000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+lu		143650000	143650000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  UWB applications
+lu		143650000	143650000	AERONAUTICAL MOBILE (OR)	p		
+lu		144000000	144000000	-			Amateur,  Amateur-satellite,  BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		144000000	144000000	AMATEUR	p		
+lu		144000000	144000000	AMATEUR-SATELLITE	p		
+lu		146000000	146000000	-			BMA,  GPR/WPR,  Material Sensing,  PMR,  UWB applications
+lu		146000000	146000000	FIXED	p		
+lu		146000000	146000000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+lu		146800000	146800000	-			BMA,  GPR/WPR,  Material Sensing,  PMR,  UWB applications
+lu		146800000	146800000	FIXED	p		
+lu		146800000	146800000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+lu		148000000	148000000	-			BMA,  GPR/WPR,  Material Sensing,  PMR,  S-PCS,  UWB applications
+lu		148000000	148000000	FIXED	p		
+lu		148000000	148000000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+lu		148000000	148000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+lu		148400000	148400000	-			BMA,  GPR/WPR,  Material Sensing,  PMR,  S-PCS,  UWB applications
+lu		148400000	148400000	FIXED	p		
+lu		148400000	148400000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+lu		148400000	148400000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+lu		149900000	149900000	-			BMA,  GPR/WPR,  Material Sensing,  PMR,  UWB applications
+lu		149900000	149900000	MOBILE	p		
+lu		149900000	149900000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+lu		149900000	149900000	RADIONAVIGATION-SATELLITE	p		
+lu		150050000	150050000	-			BMA,  GPR/WPR,  Material Sensing,  PMR,  UWB applications
+lu		150050000	150050000	FIXED	p		
+lu		150050000	150050000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		150050000	150050000	RADIO ASTRONOMY	p		
+lu		153000000	153000000	-			BMA,  GPR/WPR,  Material Sensing,  PMR,  UWB applications
+lu		153000000	153000000	FIXED	p		
+lu		153000000	153000000	Meteorological Aids	s		
+lu		153000000	153000000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+lu		154000000	154000000	-			BMA,  GPR/WPR,  Inland waterway communications,  Material Sensing,  PMR,  UWB applications
+lu		154000000	154000000	FIXED	p		
+lu		154000000	154000000	Mobile except aeronautical mobile (R)	s		
+lu		156487500	156487500	-			BMA,  GPR/WPR,  Inland waterway communications,  Material Sensing,  PMR,  UWB applications
+lu		156487500	156487500	Maritime Mobile (distress and calling via DSC)	s		
+lu		156512500	156512500	-			BMA,  GPR/WPR,  Material Sensing,  PMR,  UWB applications
+lu		156512500	156512500	Land Mobile	s		
+lu		156512500	156512500	MARITIME MOBILE (DISTRESS AND CALLING VIA DSC)	p		
+lu		156537500	156537500	-			BMA,  GPR/WPR,  Inland waterway communications,  Material Sensing,  PMR,  UWB applications
+lu		156537500	156537500	Land Mobile	s		
+lu		156537500	156537500	MARITIME MOBILE (DISTRESS AND CALLING VIA DSC)	p		
+lu		156562500	156562500	-			BMA,  GPR/WPR,  Inland waterway communications,  Material Sensing,  On-board communications,  PMR,  UWB applications
+lu		156562500	156562500	FIXED	p		
+lu		156562500	156562500	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+lu		156762500	156762500	-			BMA,  GPR/WPR,  Inland waterway communications,  Material Sensing,  PMR,  UWB applications
+lu		156762500	156762500	Land Mobile	s		
+lu		156762500	156762500	MARITIME MOBILE	p		
+lu		156762500	156762500	Maritime Mobile (distress and calling)	s		
+lu		156762500	156762500	Mobile-Satellite (Earth-to-space)	s		
+lu		156787500	156787500	-			BMA,  GPR/WPR,  Material Sensing,  PMR,  UWB applications
+lu		156787500	156787500	Land Mobile	s		
+lu		156787500	156787500	MARITIME MOBILE (DISTRESS AND CALLING)	p		
+lu		156812500	156812500	-			BMA,  GPR/WPR,  Inland waterway communications,  Material Sensing,  PMR,  UWB applications
+lu		156812500	156812500	Land Mobile	s		
+lu		156812500	156812500	MARITIME MOBILE	p		
+lu		156812500	156812500	Mobile-Satellite (Earth-to-space)	s		
+lu		156837500	156837500	-			BMA,  GPR/WPR,  Inland waterway communications,  Material Sensing,  On-board communications,  PMR,  UWB applications
+lu		156837500	156837500	FIXED	p		
+lu		156837500	156837500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		161962500	161962500	-			AIS,  BMA,  GPR/WPR,  Inland waterway communications,  Material Sensing,  PMR,  UWB applications
+lu		161962500	161962500	FIXED	p		
+lu		161962500	161962500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		161962500	161962500	Mobile-Satellite (Earth-to-space)	s		
+lu		161987500	161987500	-			BMA,  GPR/WPR,  Inland waterway communications,  Material Sensing,  PMR,  UWB applications
+lu		161987500	161987500	FIXED	p		
+lu		161987500	161987500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		162012500	162012500	-			AIS,  BMA,  GPR/WPR,  Inland waterway communications,  Material Sensing,  PMR,  UWB applications
+lu		162012500	162012500	FIXED	p		
+lu		162012500	162012500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		162012500	162012500	Mobile-Satellite (Earth-to-space)	s		
+lu		162037500	162037500	-			Aids for hearing impaired,  BMA,  GPR/WPR,  Inland waterway communications,  Material Sensing,  Non-specific SRDs,  PMR,  UWB applications
+lu		162037500	162037500	FIXED	p		
+lu		162037500	162037500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		174000000	174000000	-			Aids for hearing impaired,  BMA,  DVB-T,  GPR/WPR,  Material Sensing,  Radio microphones,  T-DAB,  UWB applications
+lu		174000000	174000000	BROADCASTING	p		
+lu		216000000	216000000	-			BMA,  DVB-T,  GPR/WPR,  Material Sensing,  T-DAB,  UWB applications
+lu		216000000	216000000	BROADCASTING	p		
+lu		223000000	223000000	-			BMA,  DVB-T,  GPR/WPR,  Material Sensing,  T-DAB,  UWB applications
+lu		223000000	223000000	BROADCASTING	p		
+lu		223000000	223000000	Fixed	s		
+lu		223000000	223000000	Mobile	s		
+lu		225000000	225000000	-			BMA,  DVB-T,  GPR/WPR,  Material Sensing,  T-DAB,  UWB applications
+lu		225000000	225000000	BROADCASTING	p		
+lu		225000000	225000000	Fixed	s		
+lu		225000000	225000000	Mobile	s		
+lu		230000000	230000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  UWB applications
+lu		230000000	230000000	FIXED	p		
+lu		230000000	230000000	MOBILE	p		
+lu		235000000	235000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		235000000	235000000	FIXED	p		
+lu		235000000	235000000	MOBILE	p		
+lu		240000000	240000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		240000000	240000000	FIXED	p		
+lu		240000000	240000000	MOBILE	p		
+lu		242950000	242950000	-			BMA,  ELT,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		242950000	242950000	FIXED	p		
+lu		242950000	242950000	MOBILE	p		
+lu		243050000	243050000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		243050000	243050000	FIXED	p		
+lu		243050000	243050000	MOBILE	p		
+lu		267000000	267000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		267000000	267000000	FIXED	p		
+lu		267000000	267000000	MOBILE	p		
+lu		267000000	267000000	Space Operation (space-to-Earth)	s		
+lu		272000000	272000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		272000000	272000000	FIXED	p		
+lu		272000000	272000000	MOBILE	p		
+lu		272000000	272000000	SPACE OPERATION (SPACE-TO-EARTH)	p		
+lu		273000000	273000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		273000000	273000000	FIXED	p		
+lu		273000000	273000000	MOBILE	p		
+lu		312000000	312000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		312000000	312000000	FIXED	p		
+lu		312000000	312000000	MOBILE	p		
+lu		312000000	312000000	Mobile-Satellite (Earth-to-space)	s		
+lu		315000000	315000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		315000000	315000000	FIXED	p		
+lu		315000000	315000000	MOBILE	p		
+lu		322000000	322000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  UWB applications
+lu		322000000	322000000	FIXED	p		
+lu		322000000	322000000	MOBILE	p		
+lu		322000000	322000000	RADIO ASTRONOMY	p		
+lu		328600000	328600000	-			BMA,  GPR/WPR,  ILS,  Material Sensing,  UWB applications
+lu		328600000	328600000	AERONAUTICAL RADIONAVIGATION	p		
+lu		335400000	335400000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		335400000	335400000	FIXED	p		
+lu		335400000	335400000	MOBILE	p		
+lu		380000000	380000000	-			BMA,  GPR/WPR,  Material Sensing,  MSS Earth stations,  PPDR,  UWB applications
+lu		380000000	380000000	FIXED	p		
+lu		380000000	380000000	MOBILE	p		
+lu		385000000	385000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		385000000	385000000	FIXED	p		
+lu		385000000	385000000	MOBILE	p		
+lu		387000000	387000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		387000000	387000000	FIXED	p		
+lu		387000000	387000000	MOBILE	p		
+lu		387000000	387000000	Mobile-Satellite (space-to-Earth)	s		
+lu		390000000	390000000	-			BMA,  GPR/WPR,  Material Sensing,  MSS Earth stations,  PPDR,  UWB applications
+lu		390000000	390000000	FIXED	p		
+lu		390000000	390000000	MOBILE	p		
+lu		395000000	395000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		395000000	395000000	FIXED	p		
+lu		395000000	395000000	MOBILE	p		
+lu		399900000	399900000	-			BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		399900000	399900000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+lu		399900000	399900000	RADIONAVIGATION-SATELLITE	p		
+lu		400050000	400050000	-			BMA,  GPR/WPR,  Material Sensing,  Standard frequency and time signal,  UWB applications
+lu		400050000	400050000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+lu		400150000	400150000	-			BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		400150000	400150000	METEOROLOGICAL AIDS	p		
+lu		400150000	400150000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+lu		400150000	400150000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+lu		400150000	400150000	Space Operation (space-to-Earth)	s		
+lu		400150000	400150000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+lu		401000000	401000000	-			BMA,  GPR/WPR,  Material Sensing,  ULP-AMI,  UWB applications
+lu		401000000	401000000	EARTH EXPLORATION-SATELLITE (EARTH-TO-SPACE)	p		
+lu		401000000	401000000	Fixed	s		
+lu		401000000	401000000	METEOROLOGICAL AIDS	p		
+lu		401000000	401000000	METEOROLOGICAL-SATELLITE (EARTH-TO-SPACE)	p		
+lu		401000000	401000000	Mobile except aeronautical mobile	s		
+lu		401000000	401000000	SPACE OPERATION (SPACE-TO-EARTH)	p		
+lu		402000000	402000000	-			BMA,  GPR/WPR,  Material Sensing,  ULP-AMI,  UWB applications
+lu		402000000	402000000	EARTH EXPLORATION-SATELLITE (EARTH-TO-SPACE)	p		
+lu		402000000	402000000	Fixed	s		
+lu		402000000	402000000	METEOROLOGICAL AIDS	p		
+lu		402000000	402000000	METEOROLOGICAL-SATELLITE (EARTH-TO-SPACE)	p		
+lu		402000000	402000000	Mobile except aeronautical mobile	s		
+lu		403000000	403000000	-			BMA,  GPR/WPR,  Material Sensing,  ULP-AMI,  UWB applications
+lu		403000000	403000000	Fixed	s		
+lu		403000000	403000000	METEOROLOGICAL AIDS	p		
+lu		403000000	403000000	Mobile except aeronautical mobile	s		
+lu		405000000	405000000	-			BMA,  GPR/WPR,  Material Sensing,  ULP-AMI,  UWB applications
+lu		405000000	405000000	Fixed	s		
+lu		405000000	405000000	METEOROLOGICAL AIDS	p		
+lu		405000000	405000000	Mobile except aeronautical mobile	s		
+lu		406000000	406000000	-			BMA,  ELT,  GPR/WPR,  Material Sensing,  UWB applications
+lu		406000000	406000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+lu		406100000	406100000	-			BMA,  GPR/WPR,  Material Sensing,  PMR,  UWB applications
+lu		406100000	406100000	FIXED	p		
+lu		406100000	406100000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		406100000	406100000	RADIO ASTRONOMY	p		
+lu		410000000	410000000	-			BMA,  GPR/WPR,  Material Sensing,  PMR,  TETRA,  UWB applications
+lu		410000000	410000000	FIXED	p		
+lu		410000000	410000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		410000000	410000000	SPACE RESEARCH (SPACE-TO-SPACE)	p		
+lu		420000000	420000000	-			BMA,  GPR/WPR,  Material Sensing,  PMR,  TETRA,  UWB applications
+lu		420000000	420000000	FIXED	p		
+lu		420000000	420000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		420000000	420000000	Radiolocation	s		
+lu		430000000	430000000	-			Amateur,  BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		430000000	430000000	AMATEUR	p		
+lu		430000000	430000000	RADIOLOCATION	p		
+lu		432000000	432000000	-			Amateur,  BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		432000000	432000000	AMATEUR	p		
+lu		432000000	432000000	Earth Exploration-Satellite (active)	s		
+lu		432000000	432000000	RADIOLOCATION	p		
+lu		433050000	433050000	-			Amateur,  BMA,  GPR/WPR,  ISM,  Material Sensing,  Non-specific SRDs,  UWB applications
+lu		433050000	433050000	AMATEUR	p		
+lu		433050000	433050000	Earth Exploration-Satellite (active)	s		
+lu		433050000	433050000	RADIOLOCATION	p		
+lu		434790000	434790000	-			Amateur,  Amateur-satellite,  BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		434790000	434790000	AMATEUR	p		
+lu		434790000	434790000	Earth Exploration-Satellite (active)	s		
+lu		434790000	434790000	RADIOLOCATION	p		
+lu		438000000	438000000	-			Amateur,  BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		438000000	438000000	AMATEUR	p		
+lu		438000000	438000000	RADIOLOCATION	p		
+lu		440000000	440000000	-			BMA,  GPR/WPR,  Material Sensing,  PMR,  PMR 446,  UWB applications
+lu		440000000	440000000	FIXED	p		
+lu		440000000	440000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		440000000	440000000	Radiolocation	s		
+lu		450000000	450000000	-			BMA,  GPR/WPR,  Material Sensing,  PMR,  TETRA,  UWB applications
+lu		450000000	450000000	FIXED	p		
+lu		450000000	450000000	MOBILE	p		
+lu		455000000	455000000	-			BMA,  GPR/WPR,  Material Sensing,  On-site paging,  PMR,  TETRA,  UWB applications
+lu		455000000	455000000	FIXED	p		
+lu		455000000	455000000	MOBILE	p		
+lu		456000000	456000000	-			BMA,  GPR/WPR,  Land mobile,  Material Sensing,  PMR,  TETRA,  UWB applications
+lu		456000000	456000000	FIXED	p		
+lu		456000000	456000000	MOBILE	p		
+lu		459000000	459000000	-			BMA,  GPR/WPR,  Material Sensing,  PMR,  TETRA,  UWB applications
+lu		459000000	459000000	FIXED	p		
+lu		459000000	459000000	MOBILE	p		
+lu		460000000	460000000	-			BMA,  GPR/WPR,  Land mobile,  Material Sensing,  On-site paging,  PMR,  TETRA,  UWB applications
+lu		460000000	460000000	Meteorological-Satellite (space-to-Earth)	s		
+lu		460000000	460000000	MOBILE	p		
+lu		470000000	470000000	-			BMA,  DVB-T,  GPR/WPR,  Material Sensing,  Radio microphones,  SAP/SAB and ENG/OB,  UWB applications
+lu		470000000	470000000	BROADCASTING	p		
+lu		790000000	790000000	-			BMA,  GPR/WPR,  Material Sensing,  Radio microphones,  TRA-ECS,  UWB applications
+lu		790000000	790000000	BROADCASTING	p		
+lu		790000000	790000000	FIXED	p		
+lu		790000000	790000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		862000000	862000000	-			BMA,  GPR/WPR,  Material Sensing,  Non-specific SRDs,  UWB applications,  Alarms,  Cordless headphones and loudspeakers,  Defence systems,  Narrow band analogue voice devices,  Radio microphones,  RFID,  Social alarms
+lu		862000000	862000000	BROADCASTING	p		
+lu		862000000	862000000	FIXED	p		
+lu		862000000	862000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		870000000	870000000	-			BMA,  GPR/WPR,  Material Sensing,  TETRA,  UWB applications
+lu		870000000	870000000	BROADCASTING	p		
+lu		870000000	870000000	FIXED	p		
+lu		870000000	870000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		876000000	876000000	-			BMA,  GPR/WPR,  GSM-R,  Material Sensing,  UWB applications
+lu		876000000	876000000	Broadcasting	s		
+lu		876000000	876000000	FIXED	p		
+lu		876000000	876000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		880000000	880000000	-			BMA,  GPR/WPR,  GSM,  Material Sensing,  TRA-ECS,  UWB applications
+lu		880000000	880000000	BROADCASTING	p		
+lu		880000000	880000000	FIXED	p		
+lu		880000000	880000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		890000000	890000000	-			BMA,  GPR/WPR,  GSM,  Material Sensing,  TRA-ECS,  UWB applications
+lu		890000000	890000000	BROADCASTING	p		
+lu		890000000	890000000	FIXED	p		
+lu		890000000	890000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		915000000	915000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  TETRA,  UWB applications
+lu		915000000	915000000	BROADCASTING	p		
+lu		915000000	915000000	FIXED	p		
+lu		915000000	915000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		915000000	915000000	Radiolocation	s		
+lu		921000000	921000000	-			BMA,  GPR/WPR,  GSM-R,  Material Sensing,  UWB applications
+lu		921000000	921000000	BROADCASTING	p		
+lu		921000000	921000000	FIXED	p		
+lu		921000000	921000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		925000000	925000000	-			BMA,  GPR/WPR,  GSM,  Material Sensing,  TRA-ECS,  UWB applications
+lu		925000000	925000000	BROADCASTING	p		
+lu		925000000	925000000	FIXED	p		
+lu		925000000	925000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		925000000	925000000	Radiolocation	s		
+lu		935000000	935000000	-			BMA,  GPR/WPR,  GSM,  Material Sensing,  TRA-ECS,  UWB applications
+lu		935000000	935000000	BROADCASTING	p		
+lu		935000000	935000000	FIXED	p		
+lu		935000000	935000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		935000000	935000000	Radiolocation	s		
+lu		942000000	942000000	-			BMA,  GPR/WPR,  GSM,  Material Sensing,  TRA-ECS,  UWB applications
+lu		942000000	942000000	BROADCASTING	p		
+lu		942000000	942000000	FIXED	p		
+lu		942000000	942000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		960000000	960000000	-			ADS,  Aeronautical surveillance,  BMA,  DME,  GPR/WPR,  Material Sensing,  UWB applications
+lu		960000000	960000000	AERONAUTICAL MOBILE (R)	p		
+lu		960000000	960000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		1164000000	1164000000	-			BMA,  DME,  GALILEO,  GPR/WPR,  GPS,  Material Sensing,  Satellite navigation systems,  UWB applications
+lu		1164000000	1164000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		1164000000	1164000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+lu		1215000000	1215000000	-			BMA,  GPR/WPR,  GPS,  Material Sensing,  Satellite navigation systems,  UWB applications
+lu		1215000000	1215000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+lu		1215000000	1215000000	RADIOLOCATION	p		
+lu		1215000000	1215000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+lu		1215000000	1215000000	SPACE RESEARCH (ACTIVE)	p		
+lu		1240000000	1240000000	-			Amateur,  BMA,  GLONASS,  GPR/WPR,  Material Sensing,  Satellite navigation systems,  UWB applications
+lu		1240000000	1240000000	Amateur	s		
+lu		1240000000	1240000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+lu		1240000000	1240000000	RADIOLOCATION	p		
+lu		1240000000	1240000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+lu		1260000000	1260000000	-			Amateur,  Amateur-satellite,  BMA,  GALILEO,  GPR/WPR,  Material Sensing,  Satellite navigation systems,  UWB applications
+lu		1260000000	1260000000	Amateur	s		
+lu		1260000000	1260000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+lu		1260000000	1260000000	RADIOLOCATION	p		
+lu		1260000000	1260000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+lu		1260000000	1260000000	SPACE RESEARCH (ACTIVE)	p		
+lu		1270000000	1270000000	-			Amateur,  BMA,  GALILEO,  GPR/WPR,  Material Sensing,  Satellite navigation systems,  UWB applications
+lu		1270000000	1270000000	Amateur	s		
+lu		1270000000	1270000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+lu		1270000000	1270000000	RADIOLOCATION	p		
+lu		1270000000	1270000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+lu		1270000000	1270000000	SPACE RESEARCH (ACTIVE)	p		
+lu		1300000000	1300000000	-			BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		1300000000	1300000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		1300000000	1300000000	RADIOLOCATION	p		
+lu		1300000000	1300000000	RADIONAVIGATION-SATELLITE (EARTH-TO-SPACE)	p		
+lu		1350000000	1350000000	-			BMA,  GPR/WPR,  Material Sensing,  Point-to-Point,  UWB applications
+lu		1350000000	1350000000	FIXED	p		
+lu		1350000000	1350000000	MOBILE	p		
+lu		1350000000	1350000000	RADIOLOCATION	p		
+lu		1400000000	1400000000	-			BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		1400000000	1400000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		1400000000	1400000000	RADIO ASTRONOMY	p		
+lu		1400000000	1400000000	SPACE RESEARCH (PASSIVE)	p		
+lu		1427000000	1427000000	-			BMA,  GPR/WPR,  Material Sensing,  Point-to-Point,  UWB applications
+lu		1427000000	1427000000	FIXED	p		
+lu		1427000000	1427000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		1427000000	1427000000	SPACE OPERATION (EARTH-TO-SPACE)	p		
+lu		1429000000	1429000000	-			BMA,  GPR/WPR,  Material Sensing,  Point-to-Point,  UWB applications
+lu		1429000000	1429000000	FIXED	p		
+lu		1429000000	1429000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		1452000000	1452000000	-			BMA,  GPR/WPR,  Material Sensing,  TRA-ECS,  UWB applications
+lu		1452000000	1452000000	BROADCASTING	p		
+lu		1452000000	1452000000	BROADCASTING-SATELLITE	p		
+lu		1452000000	1452000000	FIXED	p		
+lu		1452000000	1452000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		1492000000	1492000000	-			BMA,  GPR/WPR,  Material Sensing,  Point-to-Point,  Radio microphones,  UWB applications
+lu		1492000000	1492000000	FIXED	p		
+lu		1492000000	1492000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		1518000000	1518000000	-			BMA,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		1518000000	1518000000	FIXED	p		
+lu		1518000000	1518000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		1518000000	1518000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+lu		1525000000	1525000000	-			BMA,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		1525000000	1525000000	Earth Exploration-Satellite	s		
+lu		1525000000	1525000000	FIXED	p		
+lu		1525000000	1525000000	Mobile except aeronautical mobile	s		
+lu		1525000000	1525000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+lu		1525000000	1525000000	SPACE OPERATION (SPACE-TO-EARTH)	p		
+lu		1530000000	1530000000	-			BMA,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		1530000000	1530000000	Earth Exploration-Satellite	s		
+lu		1530000000	1530000000	Fixed	s		
+lu		1530000000	1530000000	Mobile except aeronautical mobile	s		
+lu		1530000000	1530000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+lu		1530000000	1530000000	SPACE OPERATION (SPACE-TO-EARTH)	p		
+lu		1533000000	1533000000	-			BMA,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		1533000000	1533000000	Earth Exploration-Satellite	s		
+lu		1533000000	1533000000	Fixed	s		
+lu		1533000000	1533000000	Mobile except aeronautical mobile	s		
+lu		1533000000	1533000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+lu		1533000000	1533000000	SPACE OPERATION (SPACE-TO-EARTH)	p		
+lu		1535000000	1535000000	-			BMA,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		1535000000	1535000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+lu		1559000000	1559000000	-			BMA,  GALILEO,  GLONASS,  GPR/WPR,  GPS,  Material Sensing,  Satellite navigation systems,  UWB applications
+lu		1559000000	1559000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		1559000000	1559000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+lu		1610000000	1610000000	-			BMA,  GLONASS,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		1610000000	1610000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		1610000000	1610000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+lu		1610600000	1610600000	-			BMA,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		1610600000	1610600000	AERONAUTICAL RADIONAVIGATION	p		
+lu		1610600000	1610600000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+lu		1610600000	1610600000	RADIO ASTRONOMY	p		
+lu		1613800000	1613800000	-			BMA,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		1613800000	1613800000	AERONAUTICAL RADIONAVIGATION	p		
+lu		1613800000	1613800000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+lu		1613800000	1613800000	Mobile-Satellite (space-to-Earth)	s		
+lu		1626500000	1626500000	-			BMA,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		1626500000	1626500000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+lu		1660000000	1660000000	-			BMA,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		1660000000	1660000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+lu		1660000000	1660000000	RADIO ASTRONOMY	p		
+lu		1660500000	1660500000	-			BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		1660500000	1660500000	Fixed	s		
+lu		1660500000	1660500000	Mobile except aeronautical mobile	s		
+lu		1660500000	1660500000	RADIO ASTRONOMY	p		
+lu		1660500000	1660500000	SPACE RESEARCH (PASSIVE)	p		
+lu		1668000000	1668000000	-			BMA,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		1668000000	1668000000	Fixed	s		
+lu		1668000000	1668000000	Mobile except aeronautical mobile	s		
+lu		1668000000	1668000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+lu		1668000000	1668000000	RADIO ASTRONOMY	p		
+lu		1668000000	1668000000	SPACE RESEARCH (PASSIVE)	p		
+lu		1668400000	1668400000	-			BMA,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		1668400000	1668400000	FIXED	p		
+lu		1668400000	1668400000	METEOROLOGICAL AIDS	p		
+lu		1668400000	1668400000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		1668400000	1668400000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+lu		1668400000	1668400000	RADIO ASTRONOMY	p		
+lu		1670000000	1670000000	-			BMA,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		1670000000	1670000000	FIXED	p		
+lu		1670000000	1670000000	METEOROLOGICAL AIDS	p		
+lu		1670000000	1670000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+lu		1670000000	1670000000	MOBILE	p		
+lu		1670000000	1670000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+lu		1675000000	1675000000	-			BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		1675000000	1675000000	FIXED	p		
+lu		1675000000	1675000000	METEOROLOGICAL AIDS	p		
+lu		1675000000	1675000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+lu		1675000000	1675000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		1690000000	1690000000	-			BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		1690000000	1690000000	Fixed	s		
+lu		1690000000	1690000000	METEOROLOGICAL AIDS	p		
+lu		1690000000	1690000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+lu		1690000000	1690000000	Mobile except aeronautical mobile	s		
+lu		1700000000	1700000000	-			BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		1700000000	1700000000	FIXED	p		
+lu		1700000000	1700000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+lu		1700000000	1700000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		1710000000	1710000000	-			BMA,  GPR/WPR,  GSM,  IMT,  Material Sensing,  MCA,  TRA-ECS,  UWB applications
+lu		1710000000	1710000000	FIXED	p		
+lu		1710000000	1710000000	MOBILE	p		
+lu		1785000000	1785000000	-			BMA,  Cordless headphones and loudspeakers,  GPR/WPR,  Material Sensing,  Radio microphones,  UWB applications
+lu		1785000000	1785000000	FIXED	p		
+lu		1785000000	1785000000	MOBILE	p		
+lu		1800000000	1800000000	-			BMA,  GPR/WPR,  Material Sensing,  Radio microphones,  UWB applications
+lu		1800000000	1800000000	FIXED	p		
+lu		1800000000	1800000000	MOBILE	p		
+lu		1805000000	1805000000	-			BMA,  GPR/WPR,  GSM,  IMT,  Material Sensing,  MCA,  TRA-ECS,  UWB applications
+lu		1805000000	1805000000	FIXED	p		
+lu		1805000000	1805000000	MOBILE	p		
+lu		1880000000	1880000000	-			BMA,  DECT,  GPR/WPR,  Material Sensing,  UWB applications
+lu		1880000000	1880000000	FIXED	p		
+lu		1880000000	1880000000	MOBILE	p		
+lu		1885000000	1885000000	-			BMA,  DECT,  GPR/WPR,  Material Sensing,  UWB applications
+lu		1885000000	1885000000	FIXED	p		
+lu		1885000000	1885000000	MOBILE	p		
+lu		1900000000	1900000000	-			BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		1900000000	1900000000	FIXED	p		
+lu		1900000000	1900000000	MOBILE	p		
+lu		1920000000	1920000000	-			BMA,  GPR/WPR,  IMT,  Material Sensing,  MCA,  TRA-ECS,  UWB applications
+lu		1920000000	1920000000	FIXED	p		
+lu		1920000000	1920000000	Fixed	s		
+lu		1920000000	1920000000	MOBILE	p		
+lu		1930000000	1930000000	-			BMA,  GPR/WPR,  IMT,  Material Sensing,  MCA,  TRA-ECS,  UWB applications
+lu		1930000000	1930000000	FIXED	p		
+lu		1930000000	1930000000	Fixed	s		
+lu		1930000000	1930000000	MOBILE	p		
+lu		1970000000	1970000000	-			BMA,  GPR/WPR,  IMT,  Material Sensing,  MCA,  TRA-ECS,  UWB applications
+lu		1970000000	1970000000	FIXED	p		
+lu		1970000000	1970000000	Fixed	s		
+lu		1970000000	1970000000	MOBILE	p		
+lu		1980000000	1980000000	-			BMA,  CGC,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		1980000000	1980000000	FIXED	p		
+lu		1980000000	1980000000	MOBILE	p		
+lu		1980000000	1980000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+lu		2010000000	2010000000	-			BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		2010000000	2010000000	FIXED	p		
+lu		2010000000	2010000000	MOBILE	p		
+lu		2025000000	2025000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  UWB applications
+lu		2025000000	2025000000	EARTH EXPLORATION-SATELLITE (EARTH-TO-SPACE) (SPACE-TO-SPACE)	p		
+lu		2025000000	2025000000	FIXED	p		
+lu		2025000000	2025000000	MOBILE	p		
+lu		2025000000	2025000000	SPACE OPERATION (EARTH-TO-SPACE) (SPACE-TO-SPACE)	p		
+lu		2025000000	2025000000	SPACE RESEARCH (EARTH-TO-SPACE) (SPACE-TO-SPACE)	p		
+lu		2110000000	2110000000	-			BMA,  GPR/WPR,  IMT,  Material Sensing,  MCA,  TRA-ECS,  UWB applications
+lu		2110000000	2110000000	FIXED	p		
+lu		2110000000	2110000000	MOBILE	p		
+lu		2110000000	2110000000	SPACE RESEARCH (DEEP SPACE) (EARTH-TO-SPACE)	p		
+lu		2120000000	2120000000	-			BMA,  GPR/WPR,  IMT,  Material Sensing,  MCA,  TRA-ECS,  UWB applications
+lu		2120000000	2120000000	FIXED	p		
+lu		2120000000	2120000000	MOBILE	p		
+lu		2170000000	2170000000	-			BMA,  CGC,  GPR/WPR,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		2170000000	2170000000	FIXED	p		
+lu		2170000000	2170000000	MOBILE	p		
+lu		2170000000	2170000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+lu		2200000000	2200000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  UWB applications
+lu		2200000000	2200000000	EARTH EXPLORATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+lu		2200000000	2200000000	FIXED	p		
+lu		2200000000	2200000000	MOBILE	p		
+lu		2200000000	2200000000	SPACE OPERATION (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+lu		2200000000	2200000000	SPACE RESEARCH (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+lu		2290000000	2290000000	-			BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		2290000000	2290000000	FIXED	p		
+lu		2290000000	2290000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		2290000000	2290000000	SPACE RESEARCH (DEEP SPACE) (SPACE-TO-EARTH)	p		
+lu		2300000000	2300000000	-			Amateur,  BMA,  GPR/WPR,  Material Sensing,  SAP/SAB and ENG/OB,  UWB applications
+lu		2300000000	2300000000	Amateur	s		
+lu		2300000000	2300000000	FIXED	p		
+lu		2300000000	2300000000	MOBILE	p		
+lu		2300000000	2300000000	Radiolocation	s		
+lu		2400000000	2400000000	-			Amateur,  Amateur-satellite,  BMA,  Detection of movement and alert,  GPR/WPR,  ISM,  Material Sensing,  Non-specific SRDs,  RFID,  UWB applications,  Wideband data transmission systems
+lu		2400000000	2400000000	Amateur	s		
+lu		2400000000	2400000000	FIXED	p		
+lu		2400000000	2400000000	MOBILE	p		
+lu		2400000000	2400000000	Radiolocation	s		
+lu		2450000000	2450000000	-			BMA,  Detection of movement and alert,  GPR/WPR,  ISM,  Material Sensing,  Non-specific SRDs,  RFID,  UWB applications,  Wideband data transmission systems
+lu		2450000000	2450000000	FIXED	p		
+lu		2450000000	2450000000	MOBILE	p		
+lu		2450000000	2450000000	Radiolocation	s		
+lu		2483500000	2483500000	-			BMA,  GPR/WPR,  ISM,  LP-AMI,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		2483500000	2483500000	FIXED	p		
+lu		2483500000	2483500000	MOBILE	p		
+lu		2483500000	2483500000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+lu		2483500000	2483500000	RADIODETERMINATION-SATELLITE (SPACE-TO-EARTH)	p		
+lu		2483500000	2483500000	Radiolocation	s		
+lu		2500000000	2500000000	-			BMA,  GPR/WPR,  Material Sensing,  TRA-ECS,  UWB applications
+lu		2500000000	2500000000	FIXED	p		
+lu		2500000000	2500000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		2520000000	2520000000	-			BMA,  GPR/WPR,  Material Sensing,  TRA-ECS,  UWB applications
+lu		2520000000	2520000000	BROADCASTING-SATELLITE	p		
+lu		2520000000	2520000000	FIXED	p		
+lu		2520000000	2520000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		2655000000	2655000000	-			BMA,  GPR/WPR,  Material Sensing,  TRA-ECS,  UWB applications
+lu		2655000000	2655000000	BROADCASTING-SATELLITE	p		
+lu		2655000000	2655000000	Earth Exploration-Satellite (passive)	s		
+lu		2655000000	2655000000	FIXED	p		
+lu		2655000000	2655000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		2655000000	2655000000	Radio Astronomy	s		
+lu		2655000000	2655000000	Space Research (passive)	s		
+lu		2670000000	2670000000	-			BMA,  GPR/WPR,  Material Sensing,  TRA-ECS,  UWB applications
+lu		2670000000	2670000000	Earth Exploration-Satellite (passive)	s		
+lu		2670000000	2670000000	FIXED	p		
+lu		2670000000	2670000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		2670000000	2670000000	Radio Astronomy	s		
+lu		2670000000	2670000000	Space Research (passive)	s		
+lu		2690000000	2690000000	-			BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		2690000000	2690000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		2690000000	2690000000	RADIO ASTRONOMY	p		
+lu		2690000000	2690000000	SPACE RESEARCH (PASSIVE)	p		
+lu		2700000000	2700000000	-			BMA,  GPR/WPR,  Material Sensing,  Primary radar,  UWB applications
+lu		2700000000	2700000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		2700000000	2700000000	Radiolocation	s		
+lu		2900000000	2900000000	-			BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		2900000000	2900000000	RADIOLOCATION	p		
+lu		2900000000	2900000000	RADIONAVIGATION	p		
+lu		3100000000	3100000000	-			BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		3100000000	3100000000	Earth Exploration-Satellite (active)	s		
+lu		3100000000	3100000000	RADIOLOCATION	p		
+lu		3100000000	3100000000	Space Research (active)	s		
+lu		3300000000	3300000000	-			BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		3300000000	3300000000	RADIOLOCATION	p		
+lu		3400000000	3400000000	-			Amateur,  BMA,  Fixed,  FSS Earth stations,  GPR/WPR,  Material Sensing,  MSS Earth stations,  TRA-ECS,  UWB applications
+lu		3400000000	3400000000	FIXED	p		
+lu		3400000000	3400000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		3400000000	3400000000	Mobile	s		
+lu		3400000000	3400000000	Radiolocation	s		
+lu		3500000000	3500000000	-			BMA,  FSS Earth stations,  GPR/WPR,  Material Sensing,  MSS Earth stations,  TRA-ECS,  UWB applications
+lu		3500000000	3500000000	FIXED	p		
+lu		3500000000	3500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		3500000000	3500000000	Mobile	s		
+lu		3500000000	3500000000	Radiolocation	s		
+lu		3600000000	3600000000	-			BMA,  FSS Earth stations,  GPR/WPR,  Material Sensing,  MSS Earth stations,  TRA-ECS,  UWB applications
+lu		3600000000	3600000000	FIXED	p		
+lu		3600000000	3600000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		3600000000	3600000000	Mobile	s		
+lu		3800000000	3800000000	-			BMA,  FSS Earth stations,  GPR/WPR,  Material Sensing,  MSS Earth stations,  Point-to-Point,  UWB applications
+lu		3800000000	3800000000	FIXED	p		
+lu		3800000000	3800000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		3800000000	3800000000	Mobile	s		
+lu		4200000000	4200000000	-			BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		4200000000	4200000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		4400000000	4400000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  SAP/SAB and ENG/OB,  UWB applications
+lu		4400000000	4400000000	FIXED	p		
+lu		4400000000	4400000000	MOBILE	p		
+lu		4500000000	4500000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  SAP/SAB and ENG/OB,  TLPR,  UWB applications
+lu		4500000000	4500000000	FIXED	p		
+lu		4500000000	4500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		4500000000	4500000000	MOBILE	p		
+lu		4800000000	4800000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  SAP/SAB and ENG/OB,  TLPR,  UWB applications
+lu		4800000000	4800000000	FIXED	p		
+lu		4800000000	4800000000	MOBILE	p		
+lu		4800000000	4800000000	Radio Astronomy	s		
+lu		4990000000	4990000000	-			BMA,  Defence systems,  GPR/WPR,  Material Sensing,  SAP/SAB and ENG/OB,  TLPR,  UWB applications
+lu		4990000000	4990000000	FIXED	p		
+lu		4990000000	4990000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		4990000000	4990000000	RADIO ASTRONOMY	p		
+lu		4990000000	4990000000	Space Research (passive)	s		
+lu		5000000000	5000000000	-			BMA,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications
+lu		5000000000	5000000000	AERONAUTICAL MOBILE-SATELLITE (R)	p		
+lu		5000000000	5000000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		5000000000	5000000000	RADIONAVIGATION-SATELLITE (EARTH-TO-SPACE)	p		
+lu		5010000000	5010000000	-			BMA,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications
+lu		5010000000	5010000000	AERONAUTICAL MOBILE-SATELLITE (R)	p		
+lu		5010000000	5010000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		5010000000	5010000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+lu		5030000000	5030000000	-			BMA,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications
+lu		5030000000	5030000000	AERONAUTICAL MOBILE (R)	p		
+lu		5030000000	5030000000	AERONAUTICAL MOBILE-SATELLITE (R)	p		
+lu		5030000000	5030000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		5091000000	5091000000	-			BMA,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications
+lu		5091000000	5091000000	AERONAUTICAL MOBILE	p		
+lu		5091000000	5091000000	AERONAUTICAL MOBILE-SATELLITE (R)	p		
+lu		5091000000	5091000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		5150000000	5150000000	-			BBDR,  BMA,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications,  Wideband data transmission systems
+lu		5150000000	5150000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		5150000000	5150000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		5150000000	5150000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		5250000000	5250000000	-			BMA,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications,  Wideband data transmission systems
+lu		5250000000	5250000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+lu		5250000000	5250000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		5250000000	5250000000	RADIOLOCATION	p		
+lu		5250000000	5250000000	SPACE RESEARCH	p		
+lu		5255000000	5255000000	-			BMA,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications,  Wideband data transmission systems
+lu		5255000000	5255000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+lu		5255000000	5255000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		5255000000	5255000000	RADIOLOCATION	p		
+lu		5255000000	5255000000	SPACE RESEARCH (ACTIVE)	p		
+lu		5350000000	5350000000	-			BMA,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications
+lu		5350000000	5350000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		5350000000	5350000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+lu		5350000000	5350000000	RADIOLOCATION	p		
+lu		5350000000	5350000000	SPACE RESEARCH (ACTIVE)	p		
+lu		5450000000	5450000000	-			BMA,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications
+lu		5450000000	5450000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		5450000000	5450000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+lu		5450000000	5450000000	RADIOLOCATION	p		
+lu		5450000000	5450000000	SPACE RESEARCH (ACTIVE)	p		
+lu		5460000000	5460000000	-			BMA,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications
+lu		5460000000	5460000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+lu		5460000000	5460000000	RADIOLOCATION	p		
+lu		5460000000	5460000000	RADIONAVIGATION	p		
+lu		5460000000	5460000000	SPACE RESEARCH (ACTIVE)	p		
+lu		5470000000	5470000000	-			BMA,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications,  Wideband data transmission systems
+lu		5470000000	5470000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+lu		5470000000	5470000000	MARITIME RADIONAVIGATION	p		
+lu		5470000000	5470000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		5470000000	5470000000	RADIOLOCATION	p		
+lu		5470000000	5470000000	SPACE RESEARCH (ACTIVE)	p		
+lu		5570000000	5570000000	-			BMA,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications,  Wideband data transmission systems
+lu		5570000000	5570000000	MARITIME RADIONAVIGATION	p		
+lu		5570000000	5570000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		5570000000	5570000000	RADIOLOCATION	p		
+lu		5650000000	5650000000	-			Amateur,  Amateur-satellite,  BMA,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications,  Wideband data transmission systems
+lu		5650000000	5650000000	Amateur	s		
+lu		5650000000	5650000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		5650000000	5650000000	RADIOLOCATION	p		
+lu		5650000000	5650000000	Space Research (deep space)	s		
+lu		5725000000	5725000000	-			Amateur,  BMA,  FSS Earth stations,  GPR/WPR,  ISM,  Material Sensing,  Non-specific SRDs,  TLPR,  TTT,  UWB applications
+lu		5725000000	5725000000	Amateur	s		
+lu		5725000000	5725000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		5725000000	5725000000	Mobile	s		
+lu		5725000000	5725000000	RADIOLOCATION	p		
+lu		5830000000	5830000000	-			Amateur,  Amateur-satellite,  BMA,  FSS Earth stations,  GPR/WPR,  ISM,  Material Sensing,  Non-specific SRDs,  TLPR,  UWB applications
+lu		5830000000	5830000000	Amateur	s		
+lu		5830000000	5830000000	Amateur-Satellite (space-to-Earth)	s		
+lu		5830000000	5830000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		5830000000	5830000000	Mobile	s		
+lu		5830000000	5830000000	RADIOLOCATION	p		
+lu		5850000000	5850000000	-			BMA,  FSS Earth stations,  GPR/WPR,  ISM,  ITS,  Material Sensing,  Non-specific SRDs,  TLPR,  UWB applications
+lu		5850000000	5850000000	FIXED	p		
+lu		5850000000	5850000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		5850000000	5850000000	MOBILE	p		
+lu		5925000000	5925000000	-			BMA,  FSS Earth stations,  GPR/WPR,  Material Sensing,  Point-to-Point,  TLPR,  UWB applications
+lu		5925000000	5925000000	FIXED	p		
+lu		5925000000	5925000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		5925000000	5925000000	MOBILE	p		
+lu		6700000000	6700000000	-			BMA,  FSS Earth stations,  GPR/WPR,  Material Sensing,  Point-to-Point,  UWB applications
+lu		6700000000	6700000000	FIXED	p		
+lu		6700000000	6700000000	FIXED-SATELLITE (EARTH-TO-SPACE) (SPACE-TO-EARTH)	p		
+lu		6700000000	6700000000	MOBILE	p		
+lu		7075000000	7075000000	-			BMA,  GPR/WPR,  Material Sensing,  Point-to-Point,  UWB applications
+lu		7075000000	7075000000	FIXED	p		
+lu		7075000000	7075000000	MOBILE	p		
+lu		7145000000	7145000000	-			BMA,  GPR/WPR,  Material Sensing,  Point-to-Point,  UWB applications
+lu		7145000000	7145000000	FIXED	p		
+lu		7145000000	7145000000	MOBILE	p		
+lu		7145000000	7145000000	SPACE RESEARCH (EARTH-TO-SPACE)	p		
+lu		7235000000	7235000000	-			BMA,  GPR/WPR,  Material Sensing,  Point-to-Point,  UWB applications
+lu		7235000000	7235000000	FIXED	p		
+lu		7235000000	7235000000	MOBILE	p		
+lu		7250000000	7250000000	-			BMA,  Defence systems,  FSS Earth stations,  GPR/WPR,  Material Sensing,  Point-to-Point,  UWB applications
+lu		7250000000	7250000000	FIXED	p		
+lu		7250000000	7250000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		7250000000	7250000000	MOBILE	p		
+lu		7300000000	7300000000	-			BMA,  FSS Earth stations,  GPR/WPR,  Material Sensing,  Point-to-Point,  UWB applications
+lu		7300000000	7300000000	FIXED	p		
+lu		7300000000	7300000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		7300000000	7300000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		7450000000	7450000000	-			BMA,  FSS Earth stations,  GPR/WPR,  Material Sensing,  Point-to-Point,  UWB applications
+lu		7450000000	7450000000	FIXED	p		
+lu		7450000000	7450000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		7450000000	7450000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+lu		7450000000	7450000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		7550000000	7550000000	-			BMA,  FSS Earth stations,  GPR/WPR,  Material Sensing,  Point-to-Point,  UWB applications
+lu		7550000000	7550000000	FIXED	p		
+lu		7550000000	7550000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		7550000000	7550000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		7750000000	7750000000	-			BMA,  GPR/WPR,  Material Sensing,  Point-to-Point,  UWB applications
+lu		7750000000	7750000000	FIXED	p		
+lu		7750000000	7750000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+lu		7750000000	7750000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		7900000000	7900000000	-			BMA,  Defence systems,  FSS Earth stations,  GPR/WPR,  Material Sensing,  Point-to-Point,  UWB applications
+lu		7900000000	7900000000	FIXED	p		
+lu		7900000000	7900000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		7900000000	7900000000	MOBILE	p		
+lu		8025000000	8025000000	-			BMA,  FSS Earth stations,  GPR/WPR,  Material Sensing,  Point-to-Point,  UWB applications
+lu		8025000000	8025000000	EARTH EXPLORATION-SATELLITE (SPACE-TO-EARTH)	p		
+lu		8025000000	8025000000	FIXED	p		
+lu		8025000000	8025000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		8025000000	8025000000	MOBILE	p		
+lu		8175000000	8175000000	-			BMA,  FSS Earth stations,  GPR/WPR,  Material Sensing,  Point-to-Point,  UWB applications
+lu		8175000000	8175000000	EARTH EXPLORATION-SATELLITE (SPACE-TO-EARTH)	p		
+lu		8175000000	8175000000	FIXED	p		
+lu		8175000000	8175000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		8175000000	8175000000	METEOROLOGICAL-SATELLITE (EARTH-TO-SPACE)	p		
+lu		8175000000	8175000000	MOBILE	p		
+lu		8215000000	8215000000	-			BMA,  FSS Earth stations,  GPR/WPR,  Material Sensing,  Point-to-Point,  UWB applications
+lu		8215000000	8215000000	EARTH EXPLORATION-SATELLITE (SPACE-TO-EARTH)	p		
+lu		8215000000	8215000000	FIXED	p		
+lu		8215000000	8215000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		8215000000	8215000000	MOBILE	p		
+lu		8400000000	8400000000	-			BMA,  GPR/WPR,  Material Sensing,  Point-to-Point,  UWB applications
+lu		8400000000	8400000000	FIXED	p		
+lu		8400000000	8400000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		8400000000	8400000000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+lu		8500000000	8500000000	-			BMA,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications
+lu		8500000000	8500000000	RADIOLOCATION	p		
+lu		8550000000	8550000000	-			BMA,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications
+lu		8550000000	8550000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+lu		8550000000	8550000000	RADIOLOCATION	p		
+lu		8550000000	8550000000	SPACE RESEARCH (ACTIVE)	p		
+lu		8650000000	8650000000	-			BMA,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications
+lu		8650000000	8650000000	RADIOLOCATION	p		
+lu		8750000000	8750000000	-			BMA,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications
+lu		8750000000	8750000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		8750000000	8750000000	RADIOLOCATION	p		
+lu		8850000000	8850000000	-			BMA,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications
+lu		8850000000	8850000000	MARITIME RADIONAVIGATION	p		
+lu		8850000000	8850000000	RADIOLOCATION	p		
+lu		9000000000	9000000000	-			BMA,  GPR/WPR,  Material Sensing,  Radiolocation (civil),  TLPR,  UWB applications
+lu		9000000000	9000000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		9000000000	9000000000	RADIOLOCATION	p		
+lu		9200000000	9200000000	-			BMA,  Detection of movement and alert,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications
+lu		9200000000	9200000000	MARITIME RADIONAVIGATION	p		
+lu		9200000000	9200000000	RADIOLOCATION	p		
+lu		9300000000	9300000000	-			BMA,  Detection of movement and alert,  GPR/WPR,  Maritime radar,  Material Sensing,  TLPR,  UWB applications
+lu		9300000000	9300000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+lu		9300000000	9300000000	RADIOLOCATION	p		
+lu		9300000000	9300000000	RADIONAVIGATION	p		
+lu		9300000000	9300000000	SPACE RESEARCH (ACTIVE)	p		
+lu		9500000000	9500000000	-			BMA,  Detection of movement and alert,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications
+lu		9500000000	9500000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+lu		9500000000	9500000000	RADIOLOCATION	p		
+lu		9500000000	9500000000	RADIONAVIGATION	p		
+lu		9500000000	9500000000	SPACE RESEARCH (ACTIVE)	p		
+lu		9800000000	9800000000	-			BMA,  Detection of movement and alert,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications
+lu		9800000000	9800000000	Earth Exploration-Satellite (active)	s		
+lu		9800000000	9800000000	Fixed	s		
+lu		9800000000	9800000000	RADIOLOCATION	p		
+lu		9800000000	9800000000	Space Research (active)	s		
+lu		9900000000	9900000000	-			BMA,  Detection of movement and alert,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications
+lu		9900000000	9900000000	FIXED	p		
+lu		9900000000	9900000000	RADIOLOCATION	p		
+lu		10000000000	10000000000	-			Amateur,  BMA,  GPR/WPR,  Material Sensing,  TLPR,  UWB applications
+lu		10000000000	10000000000	Amateur	s		
+lu		10000000000	10000000000	FIXED	p		
+lu		10000000000	10000000000	MOBILE	p		
+lu		10000000000	10000000000	RADIOLOCATION	p		
+lu		10150000000	10150000000	-			Amateur,  BMA,  GPR/WPR,  Material Sensing,  Point-to-Point,  SAP/SAB and ENG/OB,  TLPR,  UWB applications
+lu		10150000000	10150000000	Amateur	s		
+lu		10150000000	10150000000	FIXED	p		
+lu		10150000000	10150000000	MOBILE	p		
+lu		10150000000	10150000000	RADIOLOCATION	p		
+lu		10300000000	10300000000	-			Amateur,  BMA,  GPR/WPR,  Material Sensing,  Point-to-Point,  SAP/SAB and ENG/OB,  TLPR,  UWB applications
+lu		10300000000	10300000000	Amateur	s		
+lu		10300000000	10300000000	FIXED	p		
+lu		10300000000	10300000000	MOBILE	p		
+lu		10300000000	10300000000	RADIOLOCATION	p		
+lu		10450000000	10450000000	-			Amateur,  Amateur-satellite,  BMA,  GPR/WPR,  Material Sensing,  Point-to-Point,  SAP/SAB and ENG/OB,  TLPR,  UWB applications
+lu		10450000000	10450000000	Amateur	s		
+lu		10450000000	10450000000	Amateur-Satellite	s		
+lu		10450000000	10450000000	RADIOLOCATION	p		
+lu		10500000000	10500000000	-			BMA,  Detection of movement and alert,  GPR/WPR,  Material Sensing,  Point-to-Point,  SAP/SAB and ENG/OB,  TLPR,  UWB applications
+lu		10500000000	10500000000	FIXED	p		
+lu		10500000000	10500000000	MOBILE	p		
+lu		10500000000	10500000000	Radiolocation	s		
+lu		10550000000	10550000000	-			BMA,  Detection of movement and alert,  GPR/WPR,  Material Sensing,  Point-to-Point,  SAP/SAB and ENG/OB,  TLPR,  UWB applications
+lu		10550000000	10550000000	FIXED	p		
+lu		10550000000	10550000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		10550000000	10550000000	Radiolocation	s		
+lu		10600000000	10600000000	-			BMA,  GPR/WPR,  Material Sensing,  Point-to-Point,  SAP/SAB and ENG/OB,  UWB applications
+lu		10600000000	10600000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		10600000000	10600000000	FIXED	p		
+lu		10600000000	10600000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		10600000000	10600000000	RADIO ASTRONOMY	p		
+lu		10600000000	10600000000	Radiolocation	s		
+lu		10600000000	10600000000	SPACE RESEARCH (PASSIVE)	p		
+lu		10650000000	10650000000	-			BMA,  GPR/WPR,  Material Sensing,  Point-to-Point,  UWB applications
+lu		10650000000	10650000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		10650000000	10650000000	FIXED	p		
+lu		10650000000	10650000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		10650000000	10650000000	RADIO ASTRONOMY	p		
+lu		10650000000	10650000000	Radiolocation	s		
+lu		10650000000	10650000000	SPACE RESEARCH (PASSIVE)	p		
+lu		10680000000	10680000000	-			BMA,  GPR/WPR,  Material Sensing,  UWB applications
+lu		10680000000	10680000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		10680000000	10680000000	RADIO ASTRONOMY	p		
+lu		10680000000	10680000000	SPACE RESEARCH (PASSIVE)	p		
+lu		10700000000	10700000000	-			AES,  BMA,  FSS Earth stations,  GPR/WPR,  HEST,  LEST,  Material Sensing,  MSS Earth stations,  SIT/SUT,  SNG,  UWB applications,  VSAT
+lu		10700000000	10700000000	FIXED	p		
+lu		10700000000	10700000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE)	p		
+lu		10700000000	10700000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		11700000000	11700000000	-			BMA,  Broadcasting (satellite),  GPR/WPR,  HEST,  LEST,  Material Sensing,  MSS Earth stations,  SIT/SUT,  UWB applications
+lu		11700000000	11700000000	BROADCASTING	p		
+lu		11700000000	11700000000	BROADCASTING-SATELLITE	p		
+lu		11700000000	11700000000	FIXED	p		
+lu		11700000000	11700000000	Mobile except aeronautical mobile	s		
+lu		12500000000	12500000000	-			AES,  BMA,  FSS Earth stations,  HEST,  LEST,  Material Sensing,  MSS Earth stations,  SIT/SUT,  SNG,  UWB applications
+lu		12500000000	12500000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE)	p		
+lu		12750000000	12750000000	-			BMA,  FSS Earth stations,  Material Sensing,  Point-to-Point,  UWB applications
+lu		12750000000	12750000000	FIXED	p		
+lu		12750000000	12750000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		12750000000	12750000000	MOBILE	p		
+lu		12750000000	12750000000	Space Research (deep space) (space-to-Earth)	s		
+lu		13250000000	13250000000	-			BMA,  Material Sensing,  UWB applications
+lu		13250000000	13250000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		13250000000	13250000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+lu		13250000000	13250000000	SPACE RESEARCH (ACTIVE)	p		
+lu		13400000000	13400000000	-			BMA,  Detection of movement and alert,  Material Sensing,  UWB applications
+lu		13400000000	13400000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+lu		13400000000	13400000000	RADIOLOCATION	p		
+lu		13400000000	13400000000	SPACE RESEARCH	p		
+lu		13400000000	13400000000	Standard Frequency and Time Signal-Satellite (space-to-Earth)	s		
+lu		13750000000	13750000000	-			BMA,  Detection of movement and alert,  FSS Earth stations,  Material Sensing,  UWB applications
+lu		13750000000	13750000000	Earth Exploration-Satellite	s		
+lu		13750000000	13750000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		13750000000	13750000000	RADIOLOCATION	p		
+lu		13750000000	13750000000	Space Research	s		
+lu		13750000000	13750000000	Standard Frequency and Time Signal-Satellite (space-to-Earth)	s		
+lu		14000000000	14000000000	-			AES,  BMA,  FSS Earth stations,  HEST,  LEST,  Material Sensing,  MSS Earth stations,  SNG,  UWB applications
+lu		14000000000	14000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		14000000000	14000000000	Mobile-Satellite (Earth-to-space)	s		
+lu		14000000000	14000000000	RADIONAVIGATION	p		
+lu		14000000000	14000000000	Space Research	s		
+lu		14250000000	14250000000	-			AES,  BMA,  FSS Earth stations,  Material Sensing,  SNG,  UWB applications,  VSAT
+lu		14250000000	14250000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		14250000000	14250000000	Mobile-Satellite (Earth-to-space)	s		
+lu		14250000000	14250000000	RADIONAVIGATION	p		
+lu		14250000000	14250000000	Space Research	s		
+lu		14300000000	14300000000	-			AES,  BMA,  FSS Earth stations,  Material Sensing,  SNG,  UWB applications,  VSAT
+lu		14300000000	14300000000	FIXED	p		
+lu		14300000000	14300000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		14300000000	14300000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		14300000000	14300000000	Mobile-Satellite (Earth-to-space)	s		
+lu		14300000000	14300000000	Radionavigation-Satellite	s		
+lu		14400000000	14400000000	-			AES,  BMA,  FSS Earth stations,  Material Sensing,  SNG,  UWB applications,  VSAT
+lu		14400000000	14400000000	FIXED	p		
+lu		14400000000	14400000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		14400000000	14400000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		14400000000	14400000000	Mobile-Satellite (Earth-to-space)	s		
+lu		14400000000	14400000000	Radionavigation-Satellite	s		
+lu		14470000000	14470000000	-			AES,  BMA,  FSS Earth stations,  Material Sensing,  SNG,  UWB applications,  VSAT
+lu		14470000000	14470000000	FIXED	p		
+lu		14470000000	14470000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		14470000000	14470000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		14470000000	14470000000	Mobile-Satellite (Earth-to-space)	s		
+lu		14470000000	14470000000	Radio Astronomy	s		
+lu		14500000000	14500000000	-			BMA,  Defence systems,  Material Sensing,  Point-to-Point,  UWB applications
+lu		14500000000	14500000000	FIXED	p		
+lu		14500000000	14500000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		14500000000	14500000000	MOBILE	p		
+lu		14500000000	14500000000	Space Research	s		
+lu		14800000000	14800000000	-			BMA,  Defence systems,  Material Sensing,  Point-to-Point,  UWB applications
+lu		14800000000	14800000000	FIXED	p		
+lu		14800000000	14800000000	MOBILE	p		
+lu		14800000000	14800000000	Space Research	s		
+lu		15350000000	15350000000	-			BMA,  Material Sensing,  UWB applications
+lu		15350000000	15350000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		15350000000	15350000000	RADIO ASTRONOMY	p		
+lu		15350000000	15350000000	SPACE RESEARCH (PASSIVE)	p		
+lu		15400000000	15400000000	-			BMA,  Material Sensing,  UWB applications
+lu		15400000000	15400000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		15400000000	15400000000	RADIOLOCATION	p		
+lu		15430000000	15430000000	-			BMA,  Material Sensing,  UWB applications
+lu		15430000000	15430000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		15430000000	15430000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		15430000000	15430000000	RADIOLOCATION	p		
+lu		15630000000	15630000000	-			BMA,  Material Sensing,  UWB applications
+lu		15630000000	15630000000	AERONAUTICAL RADIONAVIGATION	p		
+lu		15630000000	15630000000	RADIOLOCATION	p		
+lu		15700000000	15700000000	-			BMA,  Defence systems,  Material Sensing,  UWB applications
+lu		15700000000	15700000000	RADIOLOCATION	p		
+lu		16600000000	16600000000	-			BMA,  Defence systems,  Material Sensing,  UWB applications
+lu		16600000000	16600000000	RADIOLOCATION	p		
+lu		16600000000	16600000000	Space Research (deep space) (Earth-to-space)	s		
+lu		17100000000	17100000000	-			BMA,  GBSAR,  Material Sensing,  UWB applications
+lu		17100000000	17100000000	RADIOLOCATION	p		
+lu		17200000000	17200000000	-			BMA,  GBSAR,  Material Sensing,  UWB applications
+lu		17200000000	17200000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+lu		17200000000	17200000000	RADIOLOCATION	p		
+lu		17200000000	17200000000	SPACE RESEARCH (ACTIVE)	p		
+lu		17300000000	17300000000	-			BMA,  Feeder links,  FSS Earth stations,  GSO ESOMPs,  Material Sensing,  UWB applications
+lu		17300000000	17300000000	FIXED-SATELLITE (EARTH-TO-SPACE) (SPACE-TO-EARTH)	p		
+lu		17300000000	17300000000	Radiolocation	s		
+lu		17700000000	17700000000	-			BMA,  Feeder links,  FSS Earth stations,  GSO ESOMPs,  Material Sensing,  MSS Earth stations,  Point-to-Point,  SIT/SUT,  UWB applications
+lu		17700000000	17700000000	FIXED	p		
+lu		17700000000	17700000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE)	p		
+lu		17700000000	17700000000	MOBILE	p		
+lu		18100000000	18100000000	-			BMA,  FSS Earth stations,  GSO ESOMPs,  Material Sensing,  MSS Earth stations,  Point-to-Point,  SIT/SUT,  UWB applications
+lu		18100000000	18100000000	FIXED	p		
+lu		18100000000	18100000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE)	p		
+lu		18100000000	18100000000	MOBILE	p		
+lu		18300000000	18300000000	-			BMA,  FSS Earth stations,  GSO ESOMPs,  Material Sensing,  MSS Earth stations,  Point-to-Point,  SIT/SUT,  UWB applications
+lu		18300000000	18300000000	FIXED	p		
+lu		18300000000	18300000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE)	p		
+lu		18300000000	18300000000	MOBILE	p		
+lu		18400000000	18400000000	-			BMA,  FSS Earth stations,  GSO ESOMPs,  Material Sensing,  MSS Earth stations,  Point-to-Point,  SIT/SUT,  UWB applications
+lu		18400000000	18400000000	FIXED	p		
+lu		18400000000	18400000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		18400000000	18400000000	MOBILE	p		
+lu		18600000000	18600000000	-			BMA,  FSS Earth stations,  GSO ESOMPs,  Material Sensing,  MSS Earth stations,  Point-to-Point,  SIT/SUT,  UWB applications
+lu		18600000000	18600000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		18600000000	18600000000	FIXED	p		
+lu		18600000000	18600000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		18600000000	18600000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		18600000000	18600000000	Space Research (passive)	s		
+lu		18800000000	18800000000	-			BMA,  FSS Earth stations,  GSO ESOMPs,  Material Sensing,  MSS Earth stations,  Point-to-Point,  SIT/SUT,  UWB applications
+lu		18800000000	18800000000	FIXED	p		
+lu		18800000000	18800000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		18800000000	18800000000	MOBILE	p		
+lu		19300000000	19300000000	-			BMA,  FSS Earth stations,  GSO ESOMPs,  Material Sensing,  MSS Earth stations,  Point-to-Point,  SIT/SUT,  UWB applications
+lu		19300000000	19300000000	FIXED	p		
+lu		19300000000	19300000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE)	p		
+lu		19300000000	19300000000	MOBILE	p		
+lu		19700000000	19700000000	-			BMA,  FSS Earth stations,  GSO ESOMPs,  HEST,  LEST,  Material Sensing,  MSS Earth stations,  SIT/SUT,  UWB applications
+lu		19700000000	19700000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		19700000000	19700000000	Mobile-Satellite (space-to-Earth)	s		
+lu		20100000000	20100000000	-			BMA,  FSS Earth stations,  GSO ESOMPs,  HEST,  LEST,  Material Sensing,  MSS Earth stations,  SIT/SUT,  UWB applications
+lu		20100000000	20100000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		20100000000	20100000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+lu		20200000000	20200000000	-			BMA,  Defence systems,  FSS Earth stations,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		20200000000	20200000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		20200000000	20200000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+lu		20200000000	20200000000	Standard Frequency and Time Signal-Satellite (space-to-Earth)	s		
+lu		21200000000	21200000000	-			BMA,  Material Sensing,  SAP/SAB and ENG/OB,  UWB applications
+lu		21200000000	21200000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		21200000000	21200000000	FIXED	p		
+lu		21200000000	21200000000	MOBILE	p		
+lu		21200000000	21200000000	SPACE RESEARCH (PASSIVE)	p		
+lu		21400000000	21400000000	-			BMA,  Broadcasting (satellite),  Material Sensing,  SRR,  UWB applications
+lu		21400000000	21400000000	BROADCASTING-SATELLITE	p		
+lu		21400000000	21400000000	FIXED	p		
+lu		21400000000	21400000000	MOBILE	p		
+lu		22000000000	22000000000	-			BMA,  Material Sensing,  Point-to-Point,  SRR,  UWB applications
+lu		22000000000	22000000000	FIXED	p		
+lu		22000000000	22000000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		22210000000	22210000000	-			BMA,  Material Sensing,  Point-to-Point,  SRR,  UWB applications
+lu		22210000000	22210000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		22210000000	22210000000	FIXED	p		
+lu		22210000000	22210000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		22210000000	22210000000	RADIO ASTRONOMY	p		
+lu		22210000000	22210000000	SPACE RESEARCH (PASSIVE)	p		
+lu		22500000000	22500000000	-			BMA,  Material Sensing,  Point-to-Point,  SRR,  UWB applications
+lu		22500000000	22500000000	FIXED	p		
+lu		22500000000	22500000000	MOBILE	p		
+lu		22550000000	22550000000	-			BMA,  Material Sensing,  Point-to-Point,  SRR,  UWB applications
+lu		22550000000	22550000000	FIXED	p		
+lu		22550000000	22550000000	INTER-SATELLITE	p		
+lu		22550000000	22550000000	MOBILE	p		
+lu		22550000000	22550000000	Space Research (Earth-to-space)	s		
+lu		23150000000	23150000000	-			BMA,  Material Sensing,  Point-to-Point,  SRR,  UWB applications
+lu		23150000000	23150000000	FIXED	p		
+lu		23150000000	23150000000	INTER-SATELLITE	p		
+lu		23150000000	23150000000	MOBILE	p		
+lu		23550000000	23550000000	-			BMA,  Material Sensing,  Point-to-Point,  SRR,  UWB applications
+lu		23550000000	23550000000	FIXED	p		
+lu		23550000000	23550000000	MOBILE	p		
+lu		23600000000	23600000000	-			BMA,  Material Sensing,  SRR,  UWB applications
+lu		23600000000	23600000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		23600000000	23600000000	RADIO ASTRONOMY	p		
+lu		23600000000	23600000000	SPACE RESEARCH (PASSIVE)	p		
+lu		24000000000	24000000000	-			Amateur,  Amateur-satellite,  BMA,  ISM,  Material Sensing,  Non-specific SRDs,  SRR,  UWB applications
+lu		24000000000	24000000000	AMATEUR	p		
+lu		24000000000	24000000000	AMATEUR-SATELLITE	p		
+lu		24050000000	24050000000	-			Amateur,  BMA,  Detection of movement and alert,  ISM,  Material Sensing,  Non-specific SRDs,  Radiolocation (civil),  SRR,  TLPR,  UWB applications,  Vehicle and infrastructure radar
+lu		24050000000	24050000000	Amateur	s		
+lu		24050000000	24050000000	Earth Exploration-Satellite (active)	s		
+lu		24050000000	24050000000	RADIOLOCATION	p		
+lu		24250000000	24250000000	-			BMA,  Material Sensing,  SRR,  TLPR,  UWB applications,  Vehicle and infrastructure radar
+lu		24250000000	24250000000	FIXED	p		
+lu		24450000000	24450000000	-			BMA,  Material Sensing,  SRR,  TLPR,  UWB applications,  Vehicle and infrastructure radar
+lu		24450000000	24450000000	FIXED	p		
+lu		24450000000	24450000000	INTER-SATELLITE	p		
+lu		24500000000	24500000000	-			BMA,  Material Sensing,  Point-to-Point,  SRR,  TLPR,  UWB applications
+lu		24500000000	24500000000	FIXED	p		
+lu		24500000000	24500000000	INTER-SATELLITE	p		
+lu		24650000000	24650000000	-			BMA,  Material Sensing,  Point-to-Point,  SRR,  TLPR,  UWB applications
+lu		24650000000	24650000000	FIXED	p		
+lu		24650000000	24650000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		24650000000	24650000000	INTER-SATELLITE	p		
+lu		24750000000	24750000000	-			BMA,  Material Sensing,  Point-to-Point,  SRR,  TLPR,  UWB applications
+lu		24750000000	24750000000	FIXED	p		
+lu		24750000000	24750000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		25250000000	25250000000	-			BMA,  Material Sensing,  Point-to-Point,  SRR,  TLPR,  UWB applications
+lu		25250000000	25250000000	FIXED	p		
+lu		25250000000	25250000000	INTER-SATELLITE	p		
+lu		25250000000	25250000000	MOBILE	p		
+lu		25250000000	25250000000	Standard Frequency and Time Signal-Satellite (space-to-Earth)	s		
+lu		25500000000	25500000000	-			BMA,  Material Sensing,  Point-to-Point,  SRR,  TLPR,  UWB applications
+lu		25500000000	25500000000	EARTH EXPLORATION-SATELLITE (SPACE-TO-EARTH)	p		
+lu		25500000000	25500000000	FIXED	p		
+lu		25500000000	25500000000	INTER-SATELLITE	p		
+lu		25500000000	25500000000	MOBILE	p		
+lu		25500000000	25500000000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+lu		25500000000	25500000000	Standard Frequency and Time Signal-Satellite (space-to-Earth)	s		
+lu		26500000000	26500000000	-			BMA,  Material Sensing,  SRR,  TLPR,  UWB applications
+lu		26500000000	26500000000	EARTH EXPLORATION-SATELLITE (SPACE-TO-EARTH)	p		
+lu		26500000000	26500000000	FIXED	p		
+lu		26500000000	26500000000	INTER-SATELLITE	p		
+lu		26500000000	26500000000	MOBILE	p		
+lu		26500000000	26500000000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+lu		26500000000	26500000000	Standard Frequency and Time Signal-Satellite (space-to-Earth)	s		
+lu		27000000000	27000000000	-			BMA,  Material Sensing,  UWB applications
+lu		27000000000	27000000000	FIXED	p		
+lu		27000000000	27000000000	INTER-SATELLITE	p		
+lu		27000000000	27000000000	MOBILE	p		
+lu		27500000000	27500000000	-			BMA,  Feeder links,  FSS Earth stations,  GSO ESOMPs,  Material Sensing,  Point-to-Point,  SIT/SUT,  UWB applications
+lu		27500000000	27500000000	FIXED	p		
+lu		27500000000	27500000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		27500000000	27500000000	MOBILE	p		
+lu		28500000000	28500000000	-			BMA,  Feeder links,  FSS Earth stations,  GSO ESOMPs,  Material Sensing,  Point-to-Point,  SIT/SUT,  UWB applications
+lu		28500000000	28500000000	Earth Exploration-Satellite (Earth-to-space)	s		
+lu		28500000000	28500000000	FIXED	p		
+lu		28500000000	28500000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		28500000000	28500000000	MOBILE	p		
+lu		29100000000	29100000000	-			BMA,  Feeder links,  FSS Earth stations,  GSO ESOMPs,  Material Sensing,  Point-to-Point,  SIT/SUT,  UWB applications
+lu		29100000000	29100000000	Earth Exploration-Satellite (Earth-to-space)	s		
+lu		29100000000	29100000000	FIXED	p		
+lu		29100000000	29100000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		29100000000	29100000000	MOBILE	p		
+lu		29500000000	29500000000	-			BMA,  FSS Earth stations,  GSO ESOMPs,  HEST,  LEST,  Material Sensing,  MSS Earth stations,  SIT/SUT,  UWB applications
+lu		29500000000	29500000000	Earth Exploration-Satellite (Earth-to-space)	s		
+lu		29500000000	29500000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		29500000000	29500000000	Mobile-Satellite (Earth-to-space)	s		
+lu		29900000000	29900000000	-			BMA,  FSS Earth stations,  GSO ESOMPs,  HEST,  LEST,  Material Sensing,  MSS Earth stations,  SIT/SUT,  UWB applications
+lu		29900000000	29900000000	Earth Exploration-Satellite (Earth-to-space)	s		
+lu		29900000000	29900000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		29900000000	29900000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+lu		30000000000	30000000000	-			BMA,  Defence systems,  FSS Earth stations,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		30000000000	30000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		30000000000	30000000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+lu		30000000000	30000000000	Standard Frequency and Time Signal-Satellite (space-to-Earth)	s		
+lu		31000000000	31000000000	-			BMA,  Material Sensing,  Point-to-Point,  UWB applications
+lu		31000000000	31000000000	FIXED	p		
+lu		31000000000	31000000000	MOBILE	p		
+lu		31000000000	31000000000	Space Research	s		
+lu		31000000000	31000000000	Standard Frequency and Time Signal-Satellite (space-to-Earth)	s		
+lu		31300000000	31300000000	-			BMA,  Material Sensing,  UWB applications
+lu		31300000000	31300000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		31300000000	31300000000	RADIO ASTRONOMY	p		
+lu		31300000000	31300000000	SPACE RESEARCH (PASSIVE)	p		
+lu		31500000000	31500000000	-			BMA,  Material Sensing,  UWB applications
+lu		31500000000	31500000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		31500000000	31500000000	Fixed	s		
+lu		31500000000	31500000000	Mobile except aeronautical mobile	s		
+lu		31500000000	31500000000	RADIO ASTRONOMY	p		
+lu		31500000000	31500000000	SPACE RESEARCH (PASSIVE)	p		
+lu		31800000000	31800000000	-			BMA,  Material Sensing,  Point-to-Point,  UWB applications
+lu		31800000000	31800000000	FIXED	p		
+lu		31800000000	31800000000	RADIONAVIGATION	p		
+lu		31800000000	31800000000	SPACE RESEARCH (DEEP SPACE) (SPACE-TO-EARTH)	p		
+lu		32000000000	32000000000	-			BMA,  Material Sensing,  Point-to-Point,  UWB applications
+lu		32000000000	32000000000	FIXED	p		
+lu		32000000000	32000000000	RADIONAVIGATION	p		
+lu		32000000000	32000000000	SPACE RESEARCH (DEEP SPACE) (SPACE-TO-EARTH)	p		
+lu		32300000000	32300000000	-			BMA,  Material Sensing,  Point-to-Point,  UWB applications
+lu		32300000000	32300000000	FIXED	p		
+lu		32300000000	32300000000	INTER-SATELLITE	p		
+lu		32300000000	32300000000	RADIONAVIGATION	p		
+lu		33000000000	33000000000	-			BMA,  Material Sensing,  Point-to-Point,  UWB applications
+lu		33000000000	33000000000	FIXED	p		
+lu		33000000000	33000000000	RADIONAVIGATION	p		
+lu		33400000000	33400000000	-			BMA,  Defence systems,  Material Sensing,  UWB applications
+lu		33400000000	33400000000	RADIOLOCATION	p		
+lu		34200000000	34200000000	-			BMA,  Defence systems,  Material Sensing,  UWB applications
+lu		34200000000	34200000000	RADIOLOCATION	p		
+lu		34200000000	34200000000	SPACE RESEARCH (DEEP SPACE) (EARTH-TO-SPACE)	p		
+lu		34700000000	34700000000	-			BMA,  Defence systems,  Material Sensing,  UWB applications
+lu		34700000000	34700000000	RADIOLOCATION	p		
+lu		34700000000	34700000000	Space Research	s		
+lu		35200000000	35200000000	-			BMA,  Defence systems,  Material Sensing,  UWB applications
+lu		35200000000	35200000000	METEOROLOGICAL AIDS	p		
+lu		35200000000	35200000000	RADIOLOCATION	p		
+lu		35500000000	35500000000	-			BMA,  Defence systems,  Material Sensing,  UWB applications
+lu		35500000000	35500000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+lu		35500000000	35500000000	METEOROLOGICAL AIDS	p		
+lu		35500000000	35500000000	RADIOLOCATION	p		
+lu		35500000000	35500000000	SPACE RESEARCH (ACTIVE)	p		
+lu		36000000000	36000000000	-			BMA,  Defence systems,  Material Sensing,  UWB applications
+lu		36000000000	36000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		36000000000	36000000000	FIXED	p		
+lu		36000000000	36000000000	MOBILE	p		
+lu		36000000000	36000000000	SPACE RESEARCH (PASSIVE)	p		
+lu		37000000000	37000000000	-			BMA,  Material Sensing,  Point-to-Point,  Unplanned, uncoordinated fixed links,  UWB applications
+lu		37000000000	37000000000	FIXED	p		
+lu		37000000000	37000000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		37000000000	37000000000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+lu		37500000000	37500000000	-			BMA,  FSS Earth stations,  Material Sensing,  Point-to-Point,  UWB applications
+lu		37500000000	37500000000	Earth Exploration-Satellite (space-to-Earth)	s		
+lu		37500000000	37500000000	FIXED	p		
+lu		37500000000	37500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		37500000000	37500000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		37500000000	37500000000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+lu		38000000000	38000000000	-			BMA,  FSS Earth stations,  Material Sensing,  Point-to-Point,  Unplanned, uncoordinated fixed links,  UWB applications
+lu		38000000000	38000000000	Earth Exploration-Satellite (space-to-Earth)	s		
+lu		38000000000	38000000000	FIXED	p		
+lu		38000000000	38000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		38000000000	38000000000	MOBILE	p		
+lu		39500000000	39500000000	-			BMA,  FSS Earth stations,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		39500000000	39500000000	Earth Exploration-Satellite (space-to-Earth)	s		
+lu		39500000000	39500000000	FIXED	p		
+lu		39500000000	39500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		39500000000	39500000000	MOBILE	p		
+lu		39500000000	39500000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+lu		40000000000	40000000000	-			BMA,  FSS Earth stations,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		40000000000	40000000000	EARTH EXPLORATION-SATELLITE (EARTH-TO-SPACE)	p		
+lu		40000000000	40000000000	Earth Exploration-Satellite (space-to-Earth)	s		
+lu		40000000000	40000000000	FIXED	p		
+lu		40000000000	40000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		40000000000	40000000000	MOBILE	p		
+lu		40000000000	40000000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+lu		40000000000	40000000000	SPACE RESEARCH (EARTH-TO-SPACE)	p		
+lu		40500000000	40500000000	-			BMA,  Broadcasting (satellite),  FSS Earth stations,  Material Sensing,  UWB applications
+lu		40500000000	40500000000	BROADCASTING	p		
+lu		40500000000	40500000000	BROADCASTING-SATELLITE	p		
+lu		40500000000	40500000000	FIXED	p		
+lu		40500000000	40500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		40500000000	40500000000	Mobile	s		
+lu		41000000000	41000000000	-			BMA,  Broadcasting (satellite),  FSS Earth stations,  Material Sensing,  UWB applications
+lu		41000000000	41000000000	BROADCASTING	p		
+lu		41000000000	41000000000	BROADCASTING-SATELLITE	p		
+lu		41000000000	41000000000	FIXED	p		
+lu		41000000000	41000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		41000000000	41000000000	Mobile	s		
+lu		42000000000	42000000000	-			BMA,  Broadcasting (satellite),  FSS Earth stations,  Material Sensing,  UWB applications
+lu		42000000000	42000000000	BROADCASTING	p		
+lu		42000000000	42000000000	BROADCASTING-SATELLITE	p		
+lu		42000000000	42000000000	FIXED	p		
+lu		42000000000	42000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		42000000000	42000000000	Mobile	s		
+lu		42500000000	42500000000	-			BMA,  FSS Earth stations,  Material Sensing,  UWB applications
+lu		42500000000	42500000000	FIXED	p		
+lu		42500000000	42500000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		42500000000	42500000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		42500000000	42500000000	RADIO ASTRONOMY	p		
+lu		43500000000	43500000000	-			BMA,  Material Sensing,  UWB applications
+lu		43500000000	43500000000	MOBILE	p		
+lu		43500000000	43500000000	MOBILE-SATELLITE	p		
+lu		43500000000	43500000000	RADIONAVIGATION	p		
+lu		43500000000	43500000000	RADIONAVIGATION-SATELLITE	p		
+lu		45500000000	45500000000	-			BMA,  Material Sensing,  UWB applications
+lu		45500000000	45500000000	MOBILE	p		
+lu		45500000000	45500000000	MOBILE-SATELLITE	p		
+lu		45500000000	45500000000	RADIONAVIGATION	p		
+lu		45500000000	45500000000	RADIONAVIGATION-SATELLITE	p		
+lu		47000000000	47000000000	-			Amateur,  Amateur-satellite,  BMA,  Material Sensing,  UWB applications
+lu		47000000000	47000000000	AMATEUR	p		
+lu		47000000000	47000000000	AMATEUR-SATELLITE	p		
+lu		47200000000	47200000000	-			BMA,  FSS Earth stations,  Material Sensing,  UWB applications
+lu		47200000000	47200000000	FIXED	p		
+lu		47200000000	47200000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		47200000000	47200000000	MOBILE	p		
+lu		47500000000	47500000000	-			BMA,  FSS Earth stations,  Material Sensing,  UWB applications
+lu		47500000000	47500000000	FIXED	p		
+lu		47500000000	47500000000	FIXED-SATELLITE (EARTH-TO-SPACE) (SPACE-TO-EARTH)	p		
+lu		47500000000	47500000000	MOBILE	p		
+lu		47900000000	47900000000	-			BMA,  FSS Earth stations,  Material Sensing,  UWB applications
+lu		47900000000	47900000000	FIXED	p		
+lu		47900000000	47900000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		47900000000	47900000000	MOBILE	p		
+lu		48200000000	48200000000	-			BMA,  FSS Earth stations,  Material Sensing,  Point-to-Point,  UWB applications
+lu		48200000000	48200000000	FIXED	p		
+lu		48200000000	48200000000	FIXED-SATELLITE (EARTH-TO-SPACE) (SPACE-TO-EARTH)	p		
+lu		48200000000	48200000000	MOBILE	p		
+lu		48540000000	48540000000	-			BMA,  FSS Earth stations,  Material Sensing,  Point-to-Point,  UWB applications
+lu		48540000000	48540000000	FIXED	p		
+lu		48540000000	48540000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		48540000000	48540000000	MOBILE	p		
+lu		49440000000	49440000000	-			BMA,  FSS Earth stations,  Material Sensing,  Point-to-Point,  UWB applications
+lu		49440000000	49440000000	FIXED	p		
+lu		49440000000	49440000000	FIXED-SATELLITE (EARTH-TO-SPACE) (SPACE-TO-EARTH)	p		
+lu		49440000000	49440000000	MOBILE	p		
+lu		50200000000	50200000000	-			BMA,  Material Sensing,  UWB applications
+lu		50200000000	50200000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		50200000000	50200000000	SPACE RESEARCH (PASSIVE)	p		
+lu		50400000000	50400000000	-			BMA,  FSS Earth stations,  Material Sensing,  MSS Earth stations,  UWB applications
+lu		50400000000	50400000000	FIXED	p		
+lu		50400000000	50400000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		50400000000	50400000000	MOBILE	p		
+lu		50400000000	50400000000	Mobile-Satellite (Earth-to-space)	s		
+lu		51400000000	51400000000	-			BMA,  Material Sensing,  Point-to-Point,  UWB applications
+lu		51400000000	51400000000	FIXED	p		
+lu		51400000000	51400000000	MOBILE	p		
+lu		52600000000	52600000000	-			BMA,  Material Sensing,  UWB applications
+lu		52600000000	52600000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		52600000000	52600000000	SPACE RESEARCH (PASSIVE)	p		
+lu		54250000000	54250000000	-			BMA,  Material Sensing,  UWB applications
+lu		54250000000	54250000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		54250000000	54250000000	INTER-SATELLITE	p		
+lu		54250000000	54250000000	SPACE RESEARCH (PASSIVE)	p		
+lu		55780000000	55780000000	-			BMA,  Material Sensing,  Point-to-Point,  UWB applications
+lu		55780000000	55780000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		55780000000	55780000000	FIXED	p		
+lu		55780000000	55780000000	INTER-SATELLITE	p		
+lu		55780000000	55780000000	MOBILE	p		
+lu		55780000000	55780000000	SPACE RESEARCH (PASSIVE)	p		
+lu		56900000000	56900000000	-			BMA,  Material Sensing,  Point-to-Point,  UWB applications
+lu		56900000000	56900000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		56900000000	56900000000	FIXED	p		
+lu		56900000000	56900000000	INTER-SATELLITE	p		
+lu		56900000000	56900000000	MOBILE	p		
+lu		56900000000	56900000000	SPACE RESEARCH (PASSIVE)	p		
+lu		57000000000	57000000000	-			BMA,  Material Sensing,  Non-specific SRDs,  Point-to-Point,  TLPR,  UWB applications,  Wideband data transmission systems
+lu		57000000000	57000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		57000000000	57000000000	FIXED	p		
+lu		57000000000	57000000000	INTER-SATELLITE	p		
+lu		57000000000	57000000000	MOBILE	p		
+lu		57000000000	57000000000	SPACE RESEARCH (PASSIVE)	p		
+lu		58200000000	58200000000	-			BMA,  Material Sensing,  Non-specific SRDs,  Point-to-Point,  TLPR,  UWB applications,  Wideband data transmission systems
+lu		58200000000	58200000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		58200000000	58200000000	FIXED	p		
+lu		58200000000	58200000000	MOBILE	p		
+lu		58200000000	58200000000	SPACE RESEARCH (PASSIVE)	p		
+lu		59000000000	59000000000	-			BMA,  Material Sensing,  Non-specific SRDs,  Point-to-Point,  TLPR,  UWB applications,  Wideband data transmission systems
+lu		59000000000	59000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		59000000000	59000000000	FIXED	p		
+lu		59000000000	59000000000	INTER-SATELLITE	p		
+lu		59000000000	59000000000	MOBILE	p		
+lu		59000000000	59000000000	RADIOLOCATION	p		
+lu		59000000000	59000000000	SPACE RESEARCH (PASSIVE)	p		
+lu		59300000000	59300000000	-			BMA,  ISM,  Material Sensing,  Non-specific SRDs,  Point-to-Point,  TLPR,  UWB applications,  Wideband data transmission systems
+lu		59300000000	59300000000	FIXED	p		
+lu		59300000000	59300000000	INTER-SATELLITE	p		
+lu		59300000000	59300000000	MOBILE	p		
+lu		59300000000	59300000000	RADIOLOCATION	p		
+lu		62000000000	62000000000	-			BMA,  Material Sensing,  Non-specific SRDs,  Point-to-Point,  TLPR,  UWB applications,  Wideband data transmission systems
+lu		62000000000	62000000000	FIXED	p		
+lu		62000000000	62000000000	INTER-SATELLITE	p		
+lu		62000000000	62000000000	MOBILE	p		
+lu		62000000000	62000000000	RADIOLOCATION	p		
+lu		63000000000	63000000000	-			BMA,  ITS,  Material Sensing,  Non-specific SRDs,  Point-to-Point,  TLPR,  TTT,  UWB applications,  Wideband data transmission systems
+lu		63000000000	63000000000	FIXED	p		
+lu		63000000000	63000000000	INTER-SATELLITE	p		
+lu		63000000000	63000000000	MOBILE	p		
+lu		63000000000	63000000000	RADIOLOCATION	p		
+lu		64000000000	64000000000	-			BMA,  Material Sensing,  Point-to-Point,  UWB applications,  Wideband data transmission systems
+lu		64000000000	64000000000	FIXED	p		
+lu		64000000000	64000000000	INTER-SATELLITE	p		
+lu		64000000000	64000000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		65000000000	65000000000	-			BMA,  Material Sensing,  Point-to-Point,  UWB applications,  Wideband data transmission systems
+lu		65000000000	65000000000	EARTH EXPLORATION-SATELLITE	p		
+lu		65000000000	65000000000	FIXED	p		
+lu		65000000000	65000000000	INTER-SATELLITE	p		
+lu		65000000000	65000000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+lu		65000000000	65000000000	SPACE RESEARCH	p		
+lu		66000000000	66000000000	-			BMA,  Material Sensing,  UWB applications
+lu		66000000000	66000000000	INTER-SATELLITE	p		
+lu		66000000000	66000000000	MOBILE	p		
+lu		66000000000	66000000000	MOBILE-SATELLITE	p		
+lu		66000000000	66000000000	RADIONAVIGATION	p		
+lu		66000000000	66000000000	RADIONAVIGATION-SATELLITE	p		
+lu		71000000000	71000000000	-			BMA,  Material Sensing,  Point-to-Point,  UWB applications
+lu		71000000000	71000000000	FIXED	p		
+lu		71000000000	71000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		71000000000	71000000000	MOBILE	p		
+lu		71000000000	71000000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+lu		74000000000	74000000000	-			BMA,  Material Sensing,  Point-to-Point,  TLPR,  UWB applications
+lu		74000000000	74000000000	BROADCASTING	p		
+lu		74000000000	74000000000	BROADCASTING-SATELLITE	p		
+lu		74000000000	74000000000	FIXED	p		
+lu		74000000000	74000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		74000000000	74000000000	MOBILE	p		
+lu		74000000000	74000000000	Space Research (space-to-Earth)	s		
+lu		75500000000	75500000000	-			Amateur,  Amateur-satellite,  BMA,  Material Sensing,  Point-to-Point,  TLPR,  UWB applications
+lu		75500000000	75500000000	BROADCASTING	p		
+lu		75500000000	75500000000	BROADCASTING-SATELLITE	p		
+lu		75500000000	75500000000	FIXED	p		
+lu		75500000000	75500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		75500000000	75500000000	MOBILE	p		
+lu		75500000000	75500000000	Space Research (space-to-Earth)	s		
+lu		76000000000	76000000000	-			Amateur,  Amateur-satellite,  BMA,  Material Sensing,  Railway applications,  SRR,  TLPR,  TTT,  UWB applications
+lu		76000000000	76000000000	Amateur	s		
+lu		76000000000	76000000000	Amateur-Satellite	s		
+lu		76000000000	76000000000	RADIO ASTRONOMY	p		
+lu		76000000000	76000000000	RADIOLOCATION	p		
+lu		76000000000	76000000000	Space Research (space-to-Earth)	s		
+lu		77500000000	77500000000	-			Amateur,  Amateur-satellite,  BMA,  Material Sensing,  SRR,  TLPR,  UWB applications
+lu		77500000000	77500000000	AMATEUR	p		
+lu		77500000000	77500000000	AMATEUR-SATELLITE	p		
+lu		77500000000	77500000000	Radio Astronomy	s		
+lu		77500000000	77500000000	Space Research (space-to-Earth)	s		
+lu		78000000000	78000000000	-			Amateur,  Amateur-satellite,  BMA,  Material Sensing,  SRR,  TLPR,  UWB applications
+lu		78000000000	78000000000	Amateur	s		
+lu		78000000000	78000000000	Amateur-Satellite	s		
+lu		78000000000	78000000000	Radio Astronomy	s		
+lu		78000000000	78000000000	RADIOLOCATION	p		
+lu		78000000000	78000000000	Space Research (space-to-Earth)	s		
+lu		79000000000	79000000000	-			Amateur,  Amateur-satellite,  BMA,  Material Sensing,  SRR,  TLPR,  UWB applications
+lu		79000000000	79000000000	Amateur	s		
+lu		79000000000	79000000000	Amateur-Satellite (space-to-Earth)	s		
+lu		79000000000	79000000000	RADIO ASTRONOMY	p		
+lu		79000000000	79000000000	RADIOLOCATION	p		
+lu		79000000000	79000000000	Space Research (space-to-Earth)	s		
+lu		81000000000	81000000000	-			BMA,  Material Sensing,  Point-to-Point,  TLPR,  UWB applications
+lu		81000000000	81000000000	FIXED	p		
+lu		81000000000	81000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		81000000000	81000000000	MOBILE	p		
+lu		81000000000	81000000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+lu		81000000000	81000000000	RADIO ASTRONOMY	p		
+lu		81000000000	81000000000	Space Research (space-to-Earth)	s		
+lu		84000000000	84000000000	-			BMA,  Material Sensing,  Point-to-Point,  TLPR,  UWB applications
+lu		84000000000	84000000000	FIXED	p		
+lu		84000000000	84000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		84000000000	84000000000	MOBILE	p		
+lu		84000000000	84000000000	RADIO ASTRONOMY	p		
+lu		86000000000	86000000000	-			BMA,  Material Sensing,  UWB applications
+lu		86000000000	86000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		86000000000	86000000000	RADIO ASTRONOMY	p		
+lu		86000000000	86000000000	SPACE RESEARCH (PASSIVE)	p		
+lu		92000000000	92000000000	-			BMA,  Material Sensing,  UWB applications
+lu		92000000000	92000000000	FIXED	p		
+lu		92000000000	92000000000	MOBILE	p		
+lu		92000000000	92000000000	RADIO ASTRONOMY	p		
+lu		92000000000	92000000000	RADIOLOCATION	p		
+lu		94000000000	94000000000	-			BMA,  Material Sensing,  UWB applications
+lu		94000000000	94000000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+lu		94000000000	94000000000	Radio Astronomy	s		
+lu		94000000000	94000000000	RADIOLOCATION	p		
+lu		94000000000	94000000000	SPACE RESEARCH (ACTIVE)	p		
+lu		94100000000	94100000000	-			BMA,  Material Sensing,  UWB applications
+lu		94100000000	94100000000	FIXED	p		
+lu		94100000000	94100000000	MOBILE	p		
+lu		94100000000	94100000000	RADIO ASTRONOMY	p		
+lu		94100000000	94100000000	RADIOLOCATION	p		
+lu		95000000000	95000000000	-			BMA,  Material Sensing,  UWB applications
+lu		95000000000	95000000000	FIXED	p		
+lu		95000000000	95000000000	MOBILE	p		
+lu		95000000000	95000000000	RADIO ASTRONOMY	p		
+lu		95000000000	95000000000	RADIOLOCATION	p		
+lu		95000000000	95000000000	RADIONAVIGATION	p		
+lu		95000000000	95000000000	RADIONAVIGATION-SATELLITE	p		
+lu		100000000000	100000000000	-			BMA,  Material Sensing,  UWB applications
+lu		100000000000	100000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		100000000000	100000000000	RADIO ASTRONOMY	p		
+lu		100000000000	100000000000	SPACE RESEARCH (PASSIVE)	p		
+lu		102000000000	102000000000	-			BMA,  Material Sensing,  UWB applications
+lu		102000000000	102000000000	FIXED	p		
+lu		102000000000	102000000000	MOBILE	p		
+lu		102000000000	102000000000	RADIO ASTRONOMY	p		
+lu		105000000000	105000000000	-			BMA,  Material Sensing,  UWB applications
+lu		105000000000	105000000000	FIXED	p		
+lu		105000000000	105000000000	MOBILE	p		
+lu		105000000000	105000000000	RADIO ASTRONOMY	p		
+lu		105000000000	105000000000	SPACE RESEARCH (PASSIVE)	p		
+lu		109500000000	109500000000	-			BMA,  Material Sensing,  UWB applications
+lu		109500000000	109500000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		109500000000	109500000000	RADIO ASTRONOMY	p		
+lu		109500000000	109500000000	SPACE RESEARCH (PASSIVE)	p		
+lu		111800000000	111800000000	-			BMA,  Material Sensing,  UWB applications
+lu		111800000000	111800000000	FIXED	p		
+lu		111800000000	111800000000	MOBILE	p		
+lu		111800000000	111800000000	RADIO ASTRONOMY	p		
+lu		111800000000	111800000000	SPACE RESEARCH (PASSIVE)	p		
+lu		114250000000	114250000000	-			BMA,  Material Sensing,  UWB applications
+lu		114250000000	114250000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		114250000000	114250000000	RADIO ASTRONOMY	p		
+lu		114250000000	114250000000	SPACE RESEARCH (PASSIVE)	p		
+lu		116000000000	116000000000	-			BMA,  Material Sensing,  UWB applications
+lu		116000000000	116000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		116000000000	116000000000	INTER-SATELLITE	p		
+lu		116000000000	116000000000	SPACE RESEARCH (PASSIVE)	p		
+lu		119980000000	119980000000	-			BMA,  Material Sensing,  UWB applications
+lu		119980000000	119980000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		119980000000	119980000000	INTER-SATELLITE	p		
+lu		119980000000	119980000000	SPACE RESEARCH (PASSIVE)	p		
+lu		120020000000	120020000000	-			BMA,  ISM,  Material Sensing,  Non-specific SRDs,  UWB applications
+lu		120020000000	120020000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		120020000000	120020000000	INTER-SATELLITE	p		
+lu		120020000000	120020000000	Mobile	s		
+lu		120020000000	120020000000	SPACE RESEARCH (PASSIVE)	p		
+lu		122250000000	122250000000	-			BMA,  ISM,  Material Sensing,  Non-specific SRDs,  UWB applications
+lu		122250000000	122250000000	Amateur	s		
+lu		122250000000	122250000000	FIXED	p		
+lu		122250000000	122250000000	INTER-SATELLITE	p		
+lu		122250000000	122250000000	MOBILE	p		
+lu		123000000000	123000000000	-			BMA,  Material Sensing,  UWB applications
+lu		123000000000	123000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		123000000000	123000000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+lu		123000000000	123000000000	Radio Astronomy	s		
+lu		123000000000	123000000000	RADIONAVIGATION	p		
+lu		123000000000	123000000000	RADIONAVIGATION-SATELLITE	p		
+lu		126000000000	126000000000	-			BMA,  Material Sensing,  UWB applications
+lu		126000000000	126000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		126000000000	126000000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+lu		126000000000	126000000000	Radio Astronomy	s		
+lu		126000000000	126000000000	RADIONAVIGATION	p		
+lu		126000000000	126000000000	RADIONAVIGATION-SATELLITE	p		
+lu		130000000000	130000000000	-			BMA,  Material Sensing,  UWB applications
+lu		130000000000	130000000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+lu		130000000000	130000000000	FIXED	p		
+lu		130000000000	130000000000	INTER-SATELLITE	p		
+lu		130000000000	130000000000	MOBILE	p		
+lu		130000000000	130000000000	RADIO ASTRONOMY	p		
+lu		134000000000	134000000000	-			Amateur,  Amateur-satellite,  BMA,  Material Sensing,  UWB applications
+lu		134000000000	134000000000	AMATEUR	p		
+lu		134000000000	134000000000	AMATEUR-SATELLITE	p		
+lu		134000000000	134000000000	Radio Astronomy	s		
+lu		136000000000	136000000000	-			Amateur,  Amateur-satellite,  BMA,  Material Sensing,  UWB applications
+lu		136000000000	136000000000	Amateur	s		
+lu		136000000000	136000000000	Amateur-Satellite	s		
+lu		136000000000	136000000000	RADIO ASTRONOMY	p		
+lu		136000000000	136000000000	RADIOLOCATION	p		
+lu		141000000000	141000000000	-			Amateur,  Amateur-satellite,  BMA,  Material Sensing,  UWB applications
+lu		141000000000	141000000000	FIXED	p		
+lu		141000000000	141000000000	MOBILE	p		
+lu		141000000000	141000000000	RADIO ASTRONOMY	p		
+lu		141000000000	141000000000	RADIOLOCATION	p		
+lu		148500000000	148500000000	-			Amateur,  Amateur-satellite,  BMA,  Material Sensing,  UWB applications
+lu		148500000000	148500000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		148500000000	148500000000	RADIO ASTRONOMY	p		
+lu		148500000000	148500000000	SPACE RESEARCH (PASSIVE)	p		
+lu		151500000000	151500000000	-			BMA,  Material Sensing,  UWB applications
+lu		151500000000	151500000000	FIXED	p		
+lu		151500000000	151500000000	MOBILE	p		
+lu		151500000000	151500000000	RADIO ASTRONOMY	p		
+lu		151500000000	151500000000	RADIOLOCATION	p		
+lu		155500000000	155500000000	-			BMA,  Material Sensing,  UWB applications
+lu		155500000000	155500000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		155500000000	155500000000	FIXED	p		
+lu		155500000000	155500000000	MOBILE	p		
+lu		155500000000	155500000000	RADIO ASTRONOMY	p		
+lu		155500000000	155500000000	SPACE RESEARCH (PASSIVE)	p		
+lu		158500000000	158500000000	-			BMA,  Material Sensing,  UWB applications
+lu		158500000000	158500000000	FIXED	p		
+lu		158500000000	158500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		158500000000	158500000000	MOBILE	p		
+lu		158500000000	158500000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+lu		164000000000	164000000000	-			BMA,  Material Sensing,  UWB applications
+lu		164000000000	164000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		164000000000	164000000000	RADIO ASTRONOMY	p		
+lu		164000000000	164000000000	SPACE RESEARCH (PASSIVE)	p		
+lu		167000000000	167000000000	-			BMA,  Material Sensing,  UWB applications
+lu		167000000000	167000000000	FIXED	p		
+lu		167000000000	167000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		167000000000	167000000000	INTER-SATELLITE	p		
+lu		167000000000	167000000000	MOBILE	p		
+lu		168000000000	168000000000	-			BMA,  Material Sensing,  UWB applications
+lu		168000000000	168000000000	FIXED	p		
+lu		168000000000	168000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		168000000000	168000000000	INTER-SATELLITE	p		
+lu		168000000000	168000000000	MOBILE	p		
+lu		170000000000	170000000000	-			BMA,  Material Sensing,  UWB applications
+lu		170000000000	170000000000	FIXED	p		
+lu		170000000000	170000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		170000000000	170000000000	INTER-SATELLITE	p		
+lu		170000000000	170000000000	MOBILE	p		
+lu		174500000000	174500000000	-			BMA,  Material Sensing,  UWB applications
+lu		174500000000	174500000000	FIXED	p		
+lu		174500000000	174500000000	INTER-SATELLITE	p		
+lu		174500000000	174500000000	MOBILE	p		
+lu		174800000000	174800000000	-			BMA,  Material Sensing,  UWB applications
+lu		174800000000	174800000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		174800000000	174800000000	INTER-SATELLITE	p		
+lu		174800000000	174800000000	SPACE RESEARCH (PASSIVE)	p		
+lu		182000000000	182000000000	-			BMA,  Material Sensing,  UWB applications
+lu		182000000000	182000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		182000000000	182000000000	RADIO ASTRONOMY	p		
+lu		182000000000	182000000000	SPACE RESEARCH (PASSIVE)	p		
+lu		185000000000	185000000000	-			BMA,  Material Sensing,  UWB applications
+lu		185000000000	185000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		185000000000	185000000000	INTER-SATELLITE	p		
+lu		185000000000	185000000000	SPACE RESEARCH (PASSIVE)	p		
+lu		190000000000	190000000000	-			BMA,  Material Sensing,  UWB applications
+lu		190000000000	190000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		190000000000	190000000000	SPACE RESEARCH (PASSIVE)	p		
+lu		191800000000	191800000000	-			BMA,  Material Sensing,  UWB applications
+lu		191800000000	191800000000	FIXED	p		
+lu		191800000000	191800000000	INTER-SATELLITE	p		
+lu		191800000000	191800000000	MOBILE	p		
+lu		191800000000	191800000000	MOBILE-SATELLITE	p		
+lu		191800000000	191800000000	RADIONAVIGATION	p		
+lu		191800000000	191800000000	RADIONAVIGATION-SATELLITE	p		
+lu		200000000000	200000000000	-			BMA,  Material Sensing,  UWB applications
+lu		200000000000	200000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		200000000000	200000000000	RADIO ASTRONOMY	p		
+lu		200000000000	200000000000	SPACE RESEARCH (PASSIVE)	p		
+lu		202000000000	202000000000	-			BMA,  Material Sensing,  UWB applications
+lu		202000000000	202000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		202000000000	202000000000	RADIO ASTRONOMY	p		
+lu		202000000000	202000000000	SPACE RESEARCH (PASSIVE)	p		
+lu		209000000000	209000000000	-			BMA,  Material Sensing,  UWB applications
+lu		209000000000	209000000000	FIXED	p		
+lu		209000000000	209000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		209000000000	209000000000	MOBILE	p		
+lu		209000000000	209000000000	RADIO ASTRONOMY	p		
+lu		217000000000	217000000000	-			BMA,  Material Sensing,  UWB applications
+lu		217000000000	217000000000	FIXED	p		
+lu		217000000000	217000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		217000000000	217000000000	MOBILE	p		
+lu		217000000000	217000000000	RADIO ASTRONOMY	p		
+lu		217000000000	217000000000	SPACE RESEARCH (PASSIVE)	p		
+lu		226000000000	226000000000	-			BMA,  Material Sensing,  UWB applications
+lu		226000000000	226000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		226000000000	226000000000	RADIO ASTRONOMY	p		
+lu		226000000000	226000000000	SPACE RESEARCH (PASSIVE)	p		
+lu		231500000000	231500000000	-			BMA,  Material Sensing,  UWB applications
+lu		231500000000	231500000000	FIXED	p		
+lu		231500000000	231500000000	MOBILE	p		
+lu		231500000000	231500000000	Radiolocation	s		
+lu		232000000000	232000000000	-			BMA,  Material Sensing,  UWB applications
+lu		232000000000	232000000000	FIXED	p		
+lu		232000000000	232000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		232000000000	232000000000	MOBILE	p		
+lu		232000000000	232000000000	Radiolocation	s		
+lu		235000000000	235000000000	-			BMA,  Material Sensing,  UWB applications
+lu		235000000000	235000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		235000000000	235000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		235000000000	235000000000	SPACE RESEARCH (PASSIVE)	p		
+lu		238000000000	238000000000	-			BMA,  Material Sensing,  UWB applications
+lu		238000000000	238000000000	FIXED	p		
+lu		238000000000	238000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+lu		238000000000	238000000000	MOBILE	p		
+lu		238000000000	238000000000	RADIOLOCATION	p		
+lu		238000000000	238000000000	RADIONAVIGATION	p		
+lu		238000000000	238000000000	RADIONAVIGATION-SATELLITE	p		
+lu		240000000000	240000000000	-			BMA,  Material Sensing,  UWB applications
+lu		240000000000	240000000000	FIXED	p		
+lu		240000000000	240000000000	MOBILE	p		
+lu		240000000000	240000000000	RADIOLOCATION	p		
+lu		241000000000	241000000000	-			Amateur,  Amateur-satellite,  BMA,  ISM,  Material Sensing,  Non-specific SRDs,  UWB applications
+lu		241000000000	241000000000	Amateur	s		
+lu		241000000000	241000000000	Amateur-Satellite	s		
+lu		241000000000	241000000000	Mobile	s		
+lu		241000000000	241000000000	RADIO ASTRONOMY	p		
+lu		241000000000	241000000000	RADIOLOCATION	p		
+lu		248000000000	248000000000	-			Amateur,  Amateur-satellite,  BMA,  Material Sensing,  UWB applications
+lu		248000000000	248000000000	AMATEUR	p		
+lu		248000000000	248000000000	AMATEUR-SATELLITE	p		
+lu		248000000000	248000000000	Radio Astronomy	s		
+lu		250000000000	250000000000	-			BMA,  Material Sensing,  UWB applications
+lu		250000000000	250000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+lu		250000000000	250000000000	RADIO ASTRONOMY	p		
+lu		250000000000	250000000000	SPACE RESEARCH (PASSIVE)	p		
+lu		252000000000	252000000000	-			BMA,  Material Sensing,  UWB applications
+lu		252000000000	252000000000	FIXED	p		
+lu		252000000000	252000000000	MOBILE	p		
+lu		252000000000	252000000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+lu		252000000000	252000000000	RADIO ASTRONOMY	p		
+lu		252000000000	252000000000	RADIONAVIGATION	p		
+lu		252000000000	252000000000	RADIONAVIGATION-SATELLITE	p		
+lu		265000000000	265000000000	-			BMA,  Material Sensing,  UWB applications
+lu		265000000000	265000000000	FIXED	p		
+lu		265000000000	265000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+lu		265000000000	265000000000	MOBILE	p		
+lu		265000000000	265000000000	RADIO ASTRONOMY	p		
+lu		275000000000	275000000000	-			BMA,  UWB applications
+lu		275000000000	275000000000		p		

@@ -1,0 +1,2412 @@
+region	sub-table	lower_frequency	upper_frequency	service	category	footnotes	applications
+fi		8300	8300	-			Meteorology
+fi		8300	8300	METEOROLOGICAL AIDS	p		
+fi		9000	9000	-			Meteorology,  Radiolocation (civil)
+fi		9000	9000	METEOROLOGICAL AIDS	p		
+fi		9000	9000	RADIONAVIGATION	p		
+fi		11300	11300	-			Radiolocation (civil)
+fi		11300	11300	RADIONAVIGATION	p		
+fi		14000	14000	-			Maritime communications,  Fixed
+fi		14000	14000	MARITIME MOBILE	p		
+fi		14000	14000	FIXED	p		
+fi		19950	19950	-			Standard frequency and time signal
+fi		19950	19950	STANDARD FREQUENCY AND TIME SIGNAL	p		
+fi		20050	20050	-			Maritime communications,  Fixed
+fi		20050	20050	MARITIME MOBILE	p		
+fi		20050	20050	FIXED	p		
+fi		70000	70000	-			Maritime navigation
+fi		70000	70000	RADIONAVIGATION	p		
+fi		72000	72000	-			Fixed,  Radiolocation (civil),  Maritime communications
+fi		72000	72000	FIXED	p		
+fi		72000	72000	RADIONAVIGATION	p		
+fi		72000	72000	MARITIME MOBILE	p		
+fi		84000	84000	-			Maritime navigation
+fi		84000	84000	RADIONAVIGATION	p		
+fi		86000	86000	-			Maritime communications,  Fixed,  Radiolocation (civil)
+fi		86000	86000	MARITIME MOBILE	p		
+fi		86000	86000	FIXED	p		
+fi		86000	86000	RADIONAVIGATION	p		
+fi		90000	90000	-			Radiolocation (civil),  Fixed
+fi		90000	90000	RADIONAVIGATION	p		
+fi		90000	90000	Fixed	s		
+fi		110000	110000	-			Radiolocation (civil),  Fixed,  Maritime communications
+fi		110000	110000	RADIONAVIGATION	p		
+fi		110000	110000	FIXED	p		
+fi		110000	110000	MARITIME MOBILE	p		
+fi		112000	112000	-			Maritime navigation
+fi		112000	112000	RADIONAVIGATION	p		
+fi		115000	115000	-			Maritime navigation,  Fixed,  Maritime communications
+fi		115000	115000	RADIONAVIGATION	p		
+fi		115000	115000	Fixed	s		
+fi		115000	115000	Maritime Mobile	s		
+fi		117600	117600	-			Radiolocation (civil),  Fixed,  Maritime communications
+fi		117600	117600	RADIONAVIGATION	p		
+fi		117600	117600	FIXED	p		
+fi		117600	117600	MARITIME MOBILE	p		
+fi		126000	126000	-			Maritime navigation
+fi		126000	126000	RADIONAVIGATION	p		
+fi		129000	129000	-			Radiolocation (civil),  Fixed,  Maritime communications
+fi		129000	129000	RADIONAVIGATION	p		
+fi		129000	129000	FIXED	p		
+fi		129000	129000	MARITIME MOBILE	p		
+fi		130000	130000	-			Maritime communications,  Fixed
+fi		130000	130000	Amateur	s		
+fi		130000	130000	MARITIME MOBILE	p		
+fi		130000	130000	FIXED	p		
+fi		135700	135700	-			Amateur
+fi		135700	135700		p		
+fi		148500	148500	-			Broadcasting (terrestrial)
+fi		148500	148500	BROADCASTING	p		
+fi		255000	255000	-			Aeronautical navigation,  Broadcasting (terrestrial)
+fi		255000	255000	AERONAUTICAL RADIONAVIGATION	p		
+fi		255000	255000	BROADCASTING	p		
+fi		283500	283500	-			Aeronautical navigation,  Maritime navigation
+fi		283500	283500	AERONAUTICAL RADIONAVIGATION	p		
+fi		283500	283500	MARITIME RADIONAVIGATION	p		
+fi		315000	315000	-			Maritime navigation,  Aeronautical navigation
+fi		315000	315000	Maritime Radionavigation	s		
+fi		315000	315000	AERONAUTICAL RADIONAVIGATION	p		
+fi		325000	325000	-			Aeronautical navigation
+fi		325000	325000	AERONAUTICAL RADIONAVIGATION	p		
+fi		405000	405000	-			Aeronautical navigation,  Maritime navigation
+fi		405000	405000	RADIONAVIGATION	p		
+fi		415000	415000	-			Aeronautical navigation,  Maritime communications
+fi		415000	415000	AERONAUTICAL RADIONAVIGATION	p		
+fi		415000	415000	MARITIME MOBILE	p		
+fi		435000	435000	-			Maritime communications,  Aeronautical navigation
+fi		435000	435000	MARITIME MOBILE	p		
+fi		435000	435000	Aeronautical Radionavigation	s		
+fi		435000	435000	Amateur	s		
+fi		472000	472000	-			Amateur
+fi		472000	472000		p		
+fi		495000	495000	-			Maritime communications
+fi		495000	495000	MARITIME MOBILE	p		
+fi		505000	505000	-			Aeronautical navigation,  Maritime communications
+fi		505000	505000	AERONAUTICAL RADIONAVIGATION	p		
+fi		505000	505000	MARITIME MOBILE	p		
+fi		526500	526500	-			Broadcasting (terrestrial)
+fi		526500	526500	BROADCASTING	p		
+fi		1606500	1606500	-			Land mobile,  Fixed
+fi		1606500	1606500	LAND MOBILE	p		
+fi		1606500	1606500	FIXED	p		
+fi		1606500	1606500	MARITIME MOBILE	p		
+fi		1607000	1607000	-			DSC
+fi		1607000	1607000		p		
+fi		1625000	1625000	-			Radiolocation (civil)
+fi		1625000	1625000	RADIOLOCATION	p		
+fi		1635000	1635000	-			Maritime communications,  Fixed,  Land mobile
+fi		1635000	1635000	MARITIME MOBILE	p		
+fi		1635000	1635000	FIXED	p		
+fi		1635000	1635000	LAND MOBILE	p		
+fi		1800000	1800000	-			Radiolocation (civil)
+fi		1800000	1800000	RADIOLOCATION	p		
+fi		1810000	1810000	-			Amateur
+fi		1810000	1810000	AMATEUR	p		
+fi		1850000	1850000	-			Fixed
+fi		1850000	1850000	MOBILE	p		
+fi		1850000	1850000	FIXED	p		
+fi		1850000	1850000	Amateur	s		
+fi		1850000	1850000	-			Maritime communications
+fi		1850000	1850000		p		
+fi		1850000	1850000	-			Amateur
+fi		1850000	1850000		p		
+fi		1861000	1861000	-			Amateur
+fi		1861000	1861000		p		
+fi		1912000	1912000	-			Amateur
+fi		1912000	1912000		p		
+fi		1950000	1950000	-			Maritime communications
+fi		1950000	1950000		p		
+fi		2000000	2000000	-			Maritime communications,  Fixed
+fi		2000000	2000000	MOBILE	p		
+fi		2000000	2000000	FIXED	p		
+fi		2025000	2025000	-			Maritime communications,  Meteorology,  Fixed
+fi		2025000	2025000	MOBILE	p		
+fi		2025000	2025000	Meteorological Aids	s		
+fi		2025000	2025000	FIXED	p		
+fi		2045000	2045000	-			Fixed,  Land mobile
+fi		2045000	2045000	MARITIME MOBILE	p		
+fi		2045000	2045000	FIXED	p		
+fi		2045000	2045000	LAND MOBILE	p		
+fi		2045000	2045000	-			Maritime communications
+fi		2045000	2045000		p		
+fi		2060000	2060000	-			Maritime communications
+fi		2060000	2060000		p		
+fi		2141500	2141500	-			DSC
+fi		2141500	2141500		p		
+fi		2160000	2160000	-			Radiolocation (civil)
+fi		2160000	2160000	RADIOLOCATION	p		
+fi		2170000	2170000	-			Maritime communications
+fi		2170000	2170000	MARITIME MOBILE	p		
+fi		2173500	2173500	-			Maritime communications
+fi		2173500	2173500	MOBILE	p		
+fi		2190500	2190500	-			Maritime communications
+fi		2190500	2190500	MARITIME MOBILE	p		
+fi		2194000	2194000	-			Maritime communications,  Radiolocation (civil),  Fixed
+fi		2194000	2194000	MOBILE	p		
+fi		2194000	2194000	FIXED	p		
+fi		2300000	2300000	-			Fixed,  Maritime communications,  Broadcasting (terrestrial)
+fi		2300000	2300000	FIXED	p		
+fi		2300000	2300000	MOBILE	p		
+fi		2300000	2300000	BROADCASTING	p		
+fi		2498000	2498000	-			Standard frequency and time signal
+fi		2498000	2498000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+fi		2501000	2501000	-			Space research,  Standard frequency and time signal
+fi		2501000	2501000	Space Research	s		
+fi		2501000	2501000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+fi		2502000	2502000	-			Fixed
+fi		2502000	2502000	MOBILE	p		
+fi		2502000	2502000	FIXED	p		
+fi		2502000	2502000	-			Maritime communications
+fi		2502000	2502000		p		
+fi		2578000	2578000	-			Maritime communications
+fi		2578000	2578000		p		
+fi		2625000	2625000	-			Maritime navigation,  Maritime communications
+fi		2625000	2625000	MARITIME RADIONAVIGATION	p		
+fi		2625000	2625000	MARITIME MOBILE	p		
+fi		2650000	2650000	-			Fixed,  Maritime communications
+fi		2650000	2650000	FIXED	p		
+fi		2650000	2650000	MOBILE	p		
+fi		2850000	2850000	-			Aeronautical communications
+fi		2850000	2850000	AERONAUTICAL MOBILE (R)	p		
+fi		3025000	3025000	-			Aeronautical communications
+fi		3025000	3025000	AERONAUTICAL MOBILE (OR)	p		
+fi		3155000	3155000	-			Fixed,  Maritime communications
+fi		3155000	3155000	FIXED	p		
+fi		3155000	3155000	MOBILE	p		
+fi		3200000	3200000	-			Broadcasting (terrestrial),  Fixed,  Maritime communications
+fi		3200000	3200000	BROADCASTING	p		
+fi		3200000	3200000	FIXED	p		
+fi		3200000	3200000	MOBILE	p		
+fi		3230000	3230000	-			Broadcasting (terrestrial),  Fixed,  Maritime communications
+fi		3230000	3230000	BROADCASTING	p		
+fi		3230000	3230000	FIXED	p		
+fi		3230000	3230000	MOBILE	p		
+fi		3400000	3400000	-			Aeronautical communications
+fi		3400000	3400000	AERONAUTICAL MOBILE (R)	p		
+fi		3500000	3500000	-			Maritime communications,  Fixed,  Amateur
+fi		3500000	3500000	MOBILE	p		
+fi		3500000	3500000	FIXED	p		
+fi		3500000	3500000	AMATEUR	p		
+fi		3800000	3800000	-			Aeronautical communications,  Fixed,  Land mobile
+fi		3800000	3800000	AERONAUTICAL MOBILE (OR)	p		
+fi		3800000	3800000	FIXED	p		
+fi		3800000	3800000	LAND MOBILE	p		
+fi		3900000	3900000	-			Aeronautical communications
+fi		3900000	3900000	AERONAUTICAL MOBILE (OR)	p		
+fi		3950000	3950000	-			Broadcasting (terrestrial),  Fixed
+fi		3950000	3950000	BROADCASTING	p		
+fi		3950000	3950000	FIXED	p		
+fi		4000000	4000000	-			Maritime communications,  Fixed
+fi		4000000	4000000	MARITIME MOBILE	p		
+fi		4000000	4000000	FIXED	p		
+fi		4063000	4063000	-			
+fi		4063000	4063000	MARITIME MOBILE	p		
+fi		4063300	4063300	-			Maritime communications
+fi		4063300	4063300		p		
+fi		4066400	4066400	-			Maritime communications
+fi		4066400	4066400		p		
+fi		4147400	4147400	-			Maritime communications
+fi		4147400	4147400		p		
+fi		4154000	4154000	-			Maritime communications
+fi		4154000	4154000		p		
+fi		4172500	4172500	-			Maritime communications
+fi		4172500	4172500		p		
+fi		4181750	4181750	-			Maritime communications
+fi		4181750	4181750		p		
+fi		4187000	4187000	-			Maritime communications
+fi		4187000	4187000		p		
+fi		4202500	4202500	-			Maritime communications
+fi		4202500	4202500		p		
+fi		4207500	4207500	-			DSC
+fi		4207500	4207500		p		
+fi		4209500	4209500	-			Maritime communications
+fi		4209500	4209500		p		
+fi		4219500	4219500	-			DSC
+fi		4219500	4219500		p		
+fi		4221000	4221000	-			Maritime communications
+fi		4221000	4221000		p		
+fi		4352400	4352400	-			Maritime communications
+fi		4352400	4352400		p		
+fi		4438000	4438000	-			Fixed,  Land mobile
+fi		4438000	4438000	Radiolocation	s		
+fi		4438000	4438000	FIXED	p		
+fi		4438000	4438000	MOBILE	p		
+fi		4438000	4438000	-			Radiolocation (civil)
+fi		4438000	4438000		p		
+fi		4650000	4650000	-			Aeronautical communications
+fi		4650000	4650000	AERONAUTICAL MOBILE (R)	p		
+fi		4700000	4700000	-			Aeronautical communications
+fi		4700000	4700000	AERONAUTICAL MOBILE (OR)	p		
+fi		4750000	4750000	-			Broadcasting (terrestrial),  Fixed,  Aeronautical communications,  Land mobile
+fi		4750000	4750000	BROADCASTING	p		
+fi		4750000	4750000	FIXED	p		
+fi		4750000	4750000	AERONAUTICAL MOBILE (OR)	p		
+fi		4750000	4750000	LAND MOBILE	p		
+fi		4850000	4850000	-			Broadcasting (terrestrial),  Fixed,  Land mobile
+fi		4850000	4850000	BROADCASTING	p		
+fi		4850000	4850000	FIXED	p		
+fi		4850000	4850000	LAND MOBILE	p		
+fi		4995000	4995000	-			Standard frequency and time signal
+fi		4995000	4995000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+fi		5003000	5003000	-			Standard frequency and time signal,  Space research
+fi		5003000	5003000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+fi		5003000	5003000	Space Research	s		
+fi		5005000	5005000	-			Broadcasting (terrestrial),  Fixed
+fi		5005000	5005000	BROADCASTING	p		
+fi		5005000	5005000	FIXED	p		
+fi		5060000	5060000	-			Land mobile,  Fixed
+fi		5060000	5060000	Mobile	s		
+fi		5060000	5060000	FIXED	p		
+fi		5250000	5250000	-			Maritime communications,  Fixed
+fi		5250000	5250000	MOBILE	p		
+fi		5250000	5250000	FIXED	p		
+fi		5250000	5250000	Radiolocation	s		
+fi		5250000	5250000	-			Radiolocation (civil)
+fi		5250000	5250000		p		
+fi		5450000	5450000	-			Land mobile,  Fixed,  Aeronautical communications
+fi		5450000	5450000	LAND MOBILE	p		
+fi		5450000	5450000	FIXED	p		
+fi		5450000	5450000	AERONAUTICAL MOBILE (OR)	p		
+fi		5480000	5480000	-			Aeronautical communications
+fi		5480000	5480000	AERONAUTICAL MOBILE (R)	p		
+fi		5680000	5680000	-			Aeronautical communications
+fi		5680000	5680000	AERONAUTICAL MOBILE (OR)	p		
+fi		5730000	5730000	-			Land mobile,  Fixed
+fi		5730000	5730000	LAND MOBILE	p		
+fi		5730000	5730000	FIXED	p		
+fi		5900000	5900000	-			Broadcasting (terrestrial)
+fi		5900000	5900000	BROADCASTING	p		
+fi		5950000	5950000	-			Broadcasting (terrestrial)
+fi		5950000	5950000	BROADCASTING	p		
+fi		6200000	6200000	-			
+fi		6200000	6200000	MARITIME MOBILE	p		
+fi		6201400	6201400	-			Maritime communications
+fi		6201400	6201400		p		
+fi		6225400	6225400	-			Maritime communications
+fi		6225400	6225400		p		
+fi		6235000	6235000	-			Maritime communications
+fi		6235000	6235000		p		
+fi		6261300	6261300	-			Maritime communications
+fi		6261300	6261300		p		
+fi		6263000	6263000	-			Maritime communications
+fi		6263000	6263000		p		
+fi		6275750	6275750	-			Maritime communications
+fi		6275750	6275750		p		
+fi		6281000	6281000	-			Maritime communications
+fi		6281000	6281000		p		
+fi		6285000	6285000	-			Maritime communications
+fi		6285000	6285000		p		
+fi		6300500	6300500	-			Maritime communications
+fi		6300500	6300500		p		
+fi		6312000	6312000	-			DSC
+fi		6312000	6312000		p		
+fi		6314000	6314000	-			Maritime communications
+fi		6314000	6314000		p		
+fi		6331000	6331000	-			DSC
+fi		6331000	6331000		p		
+fi		6332000	6332000	-			Maritime communications
+fi		6332000	6332000		p		
+fi		6502400	6502400	-			Maritime communications
+fi		6502400	6502400		p		
+fi		6525000	6525000	-			Aeronautical communications
+fi		6525000	6525000	AERONAUTICAL MOBILE (R)	p		
+fi		6685000	6685000	-			Aeronautical communications
+fi		6685000	6685000	AERONAUTICAL MOBILE (OR)	p		
+fi		6765000	6765000	-			Fixed,  Land mobile
+fi		6765000	6765000	FIXED	p		
+fi		6765000	6765000	MOBILE	p		
+fi		7000000	7000000	-			Amateur,  Amateur-satellite
+fi		7000000	7000000	AMATEUR	p		
+fi		7000000	7000000	AMATEUR-SATELLITE	p		
+fi		7100000	7100000	-			Amateur
+fi		7100000	7100000	AMATEUR	p		
+fi		7200000	7200000	-			FM sound analogue
+fi		7200000	7200000	BROADCASTING	p		
+fi		7300000	7300000	-			Broadcasting (terrestrial)
+fi		7300000	7300000	BROADCASTING	p		
+fi		7400000	7400000	-			Broadcasting (terrestrial)
+fi		7400000	7400000	BROADCASTING	p		
+fi		7450000	7450000	-			Fixed,  Land mobile
+fi		7450000	7450000	FIXED	p		
+fi		7450000	7450000	MOBILE	p		
+fi		8100000	8100000	-			Maritime communications,  Fixed
+fi		8100000	8100000	MARITIME MOBILE	p		
+fi		8100000	8100000	FIXED	p		
+fi		8195000	8195000	-			
+fi		8195000	8195000	MARITIME MOBILE	p		
+fi		8196400	8196400	-			Maritime communications
+fi		8196400	8196400		p		
+fi		8295400	8295400	-			Maritime communications
+fi		8295400	8295400		p		
+fi		8302000	8302000	-			Maritime communications
+fi		8302000	8302000		p		
+fi		8340300	8340300	-			Maritime communications
+fi		8340300	8340300		p		
+fi		8342000	8342000	-			Maritime communications
+fi		8342000	8342000		p		
+fi		8365750	8365750	-			Maritime communications
+fi		8365750	8365750		p		
+fi		8371000	8371000	-			Maritime communications
+fi		8371000	8371000		p		
+fi		8376500	8376500	-			Maritime communications
+fi		8376500	8376500		p		
+fi		8396500	8396500	-			Maritime communications
+fi		8396500	8396500		p		
+fi		8414500	8414500	-			DSC
+fi		8414500	8414500		p		
+fi		8416500	8416500	-			Maritime communications
+fi		8416500	8416500		p		
+fi		8436500	8436500	-			DSC
+fi		8436500	8436500		p		
+fi		8438000	8438000	-			Maritime communications
+fi		8438000	8438000		p		
+fi		8708400	8708400	-			Maritime communications
+fi		8708400	8708400		p		
+fi		8720400	8720400	-			Maritime communications
+fi		8720400	8720400		p		
+fi		8815000	8815000	-			Aeronautical communications
+fi		8815000	8815000	AERONAUTICAL MOBILE (R)	p		
+fi		8965000	8965000	-			Aeronautical communications
+fi		8965000	8965000	AERONAUTICAL MOBILE (OR)	p		
+fi		9040000	9040000	-			Fixed
+fi		9040000	9040000	FIXED	p		
+fi		9040000	9040000	Radiolocation	s		
+fi		9305000	9305000	-			Radiolocation (civil)
+fi		9305000	9305000		p		
+fi		9400000	9400000	-			Broadcasting (terrestrial)
+fi		9400000	9400000	BROADCASTING	p		
+fi		9500000	9500000	-			Broadcasting (terrestrial)
+fi		9500000	9500000	BROADCASTING	p		
+fi		9900000	9900000	-			Fixed
+fi		9900000	9900000	FIXED	p		
+fi		9995000	9995000	-			Standard frequency and time signal
+fi		9995000	9995000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+fi		10003000	10003000	-			Standard frequency and time signal,  Space research
+fi		10003000	10003000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+fi		10003000	10003000	Space Research	s		
+fi		10005000	10005000	-			Aeronautical communications
+fi		10005000	10005000	AERONAUTICAL MOBILE (R)	p		
+fi		10100000	10100000	-			Amateur,  Fixed
+fi		10100000	10100000	Amateur	s		
+fi		10100000	10100000	FIXED	p		
+fi		10150000	10150000	-			Fixed,  Land mobile
+fi		10150000	10150000	FIXED	p		
+fi		10150000	10150000	Mobile	s		
+fi		11175000	11175000	-			Aeronautical communications
+fi		11175000	11175000	AERONAUTICAL MOBILE (OR)	p		
+fi		11275000	11275000	-			Aeronautical communications
+fi		11275000	11275000	AERONAUTICAL MOBILE (R)	p		
+fi		11400000	11400000	-			Fixed
+fi		11400000	11400000	FIXED	p		
+fi		11600000	11600000	-			Broadcasting (terrestrial)
+fi		11600000	11600000	BROADCASTING	p		
+fi		11650000	11650000	-			Broadcasting (terrestrial)
+fi		11650000	11650000	BROADCASTING	p		
+fi		12050000	12050000	-			Broadcasting (terrestrial)
+fi		12050000	12050000	BROADCASTING	p		
+fi		12100000	12100000	-			Fixed
+fi		12100000	12100000	FIXED	p		
+fi		12230000	12230000	-			
+fi		12230000	12230000	MARITIME MOBILE	p		
+fi		12231400	12231400	-			Maritime communications
+fi		12231400	12231400		p		
+fi		12354400	12354400	-			Maritime communications
+fi		12354400	12354400		p		
+fi		12370000	12370000	-			Maritime communications
+fi		12370000	12370000		p		
+fi		12420300	12420300	-			Maritime communications
+fi		12420300	12420300		p		
+fi		12422000	12422000	-			Maritime communications
+fi		12422000	12422000		p		
+fi		12477000	12477000	-			Maritime communications
+fi		12477000	12477000		p		
+fi		12549750	12549750	-			Maritime communications
+fi		12549750	12549750		p		
+fi		12555000	12555000	-			Maritime communications
+fi		12555000	12555000		p		
+fi		12560000	12560000	-			Maritime communications
+fi		12560000	12560000		p		
+fi		12577000	12577000	-			DSC
+fi		12577000	12577000		p		
+fi		12579000	12579000	-			Maritime communications
+fi		12579000	12579000		p		
+fi		12657000	12657000	-			DSC
+fi		12657000	12657000		p		
+fi		12658500	12658500	-			Maritime communications
+fi		12658500	12658500		p		
+fi		13078400	13078400	-			Maritime communications
+fi		13078400	13078400		p		
+fi		13200000	13200000	-			Aeronautical communications
+fi		13200000	13200000	AERONAUTICAL MOBILE (OR)	p		
+fi		13260000	13260000	-			Aeronautical communications
+fi		13260000	13260000	AERONAUTICAL MOBILE (R)	p		
+fi		13360000	13360000	-			Radio astronomy,  Fixed
+fi		13360000	13360000	RADIO ASTRONOMY	p		
+fi		13360000	13360000	FIXED	p		
+fi		13410000	13410000	-			Fixed,  Land mobile
+fi		13410000	13410000	FIXED	p		
+fi		13410000	13410000	Mobile	s		
+fi		13410000	13410000	Radiolocation	s		
+fi		13450000	13450000	-			Radiolocation (civil)
+fi		13450000	13450000		p		
+fi		13570000	13570000	-			Broadcasting (terrestrial)
+fi		13570000	13570000	BROADCASTING	p		
+fi		13600000	13600000	-			Broadcasting (terrestrial)
+fi		13600000	13600000	BROADCASTING	p		
+fi		13800000	13800000	-			Broadcasting (terrestrial)
+fi		13800000	13800000	BROADCASTING	p		
+fi		13870000	13870000	-			Fixed,  Land mobile
+fi		13870000	13870000	FIXED	p		
+fi		13870000	13870000	Mobile	s		
+fi		14000000	14000000	-			Amateur,  Amateur-satellite
+fi		14000000	14000000	AMATEUR	p		
+fi		14000000	14000000	AMATEUR-SATELLITE	p		
+fi		14250000	14250000	-			Amateur
+fi		14250000	14250000	AMATEUR	p		
+fi		14350000	14350000	-			Fixed,  Land mobile
+fi		14350000	14350000	FIXED	p		
+fi		14350000	14350000	Mobile	s		
+fi		14990000	14990000	-			Standard frequency and time signal
+fi		14990000	14990000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+fi		15005000	15005000	-			Standard frequency and time signal,  Space research
+fi		15005000	15005000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+fi		15005000	15005000	Space Research	s		
+fi		15010000	15010000	-			Aeronautical communications
+fi		15010000	15010000	AERONAUTICAL MOBILE (OR)	p		
+fi		15100000	15100000	-			Broadcasting (terrestrial)
+fi		15100000	15100000	BROADCASTING	p		
+fi		15600000	15600000	-			Broadcasting (terrestrial)
+fi		15600000	15600000	BROADCASTING	p		
+fi		15800000	15800000	-			Fixed
+fi		15800000	15800000	FIXED	p		
+fi		15800000	15800000	Radiolocation	s		
+fi		16100000	16100000	-			Radiolocation (civil)
+fi		16100000	16100000		p		
+fi		16360000	16360000	-			
+fi		16360000	16360000	MARITIME MOBILE	p		
+fi		16361400	16361400	-			Maritime communications
+fi		16361400	16361400		p		
+fi		16529400	16529400	-			Maritime communications
+fi		16529400	16529400		p		
+fi		16551000	16551000	-			Maritime communications
+fi		16551000	16551000		p		
+fi		16617300	16617300	-			Maritime communications
+fi		16617300	16617300		p		
+fi		16619000	16619000	-			Maritime communications
+fi		16619000	16619000		p		
+fi		16683500	16683500	-			Maritime communications
+fi		16683500	16683500		p		
+fi		16733750	16733750	-			Maritime communications
+fi		16733750	16733750		p		
+fi		16739000	16739000	-			Maritime communications
+fi		16739000	16739000		p		
+fi		16785000	16785000	-			Maritime communications
+fi		16785000	16785000		p		
+fi		16804500	16804500	-			DSC
+fi		16804500	16804500		p		
+fi		16806500	16806500	-			Maritime communications
+fi		16806500	16806500		p		
+fi		16903000	16903000	-			DSC
+fi		16903000	16903000		p		
+fi		16904500	16904500	-			Maritime communications
+fi		16904500	16904500		p		
+fi		17243400	17243400	-			Maritime communications
+fi		17243400	17243400		p		
+fi		17410000	17410000	-			Fixed
+fi		17410000	17410000	FIXED	p		
+fi		17480000	17480000	-			Broadcasting (terrestrial)
+fi		17480000	17480000	BROADCASTING	p		
+fi		17550000	17550000	-			Broadcasting (terrestrial)
+fi		17550000	17550000	BROADCASTING	p		
+fi		17900000	17900000	-			Aeronautical communications
+fi		17900000	17900000	AERONAUTICAL MOBILE (R)	p		
+fi		17970000	17970000	-			Aeronautical communications
+fi		17970000	17970000	AERONAUTICAL MOBILE (OR)	p		
+fi		18030000	18030000	-			Fixed
+fi		18030000	18030000	FIXED	p		
+fi		18052000	18052000	-			Space research,  Fixed
+fi		18052000	18052000	Space Research	s		
+fi		18052000	18052000	FIXED	p		
+fi		18068000	18068000	-			Amateur,  Amateur-satellite
+fi		18068000	18068000	AMATEUR	p		
+fi		18068000	18068000	AMATEUR-SATELLITE	p		
+fi		18168000	18168000	-			Fixed
+fi		18168000	18168000	Mobile	s		
+fi		18168000	18168000	FIXED	p		
+fi		18186000	18186000	-			Land mobile
+fi		18186000	18186000		p		
+fi		18780000	18780000	-			
+fi		18780000	18780000	MARITIME MOBILE	p		
+fi		18781400	18781400	-			Maritime communications
+fi		18781400	18781400		p		
+fi		18826400	18826400	-			Maritime communications
+fi		18826400	18826400		p		
+fi		18848000	18848000	-			Maritime communications
+fi		18848000	18848000		p		
+fi		18870500	18870500	-			Maritime communications
+fi		18870500	18870500		p		
+fi		18893000	18893000	-			Maritime communications
+fi		18893000	18893000		p		
+fi		18898500	18898500	-			DSC
+fi		18898500	18898500		p		
+fi		18900000	18900000	-			Broadcasting (terrestrial)
+fi		18900000	18900000	BROADCASTING	p		
+fi		19020000	19020000	-			Fixed
+fi		19020000	19020000	FIXED	p		
+fi		19680000	19680000	-			
+fi		19680000	19680000	MARITIME MOBILE	p		
+fi		19680500	19680500	-			Maritime communications
+fi		19680500	19680500		p		
+fi		19703500	19703500	-			DSC
+fi		19703500	19703500		p		
+fi		19705000	19705000	-			Maritime communications
+fi		19705000	19705000		p		
+fi		19756400	19756400	-			Maritime communications
+fi		19756400	19756400		p		
+fi		19800000	19800000	-			Fixed
+fi		19800000	19800000	FIXED	p		
+fi		19990000	19990000	-			Standard frequency and time signal,  Space research
+fi		19990000	19990000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+fi		19990000	19990000	Space Research	s		
+fi		19995000	19995000	-			Standard frequency and time signal
+fi		19995000	19995000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+fi		20010000	20010000	-			Fixed,  Land mobile
+fi		20010000	20010000	FIXED	p		
+fi		20010000	20010000	Mobile	s		
+fi		21000000	21000000	-			Amateur,  Amateur-satellite
+fi		21000000	21000000	AMATEUR	p		
+fi		21000000	21000000	AMATEUR-SATELLITE	p		
+fi		21450000	21450000	-			Broadcasting (terrestrial)
+fi		21450000	21450000	BROADCASTING	p		
+fi		21850000	21850000	-			Fixed
+fi		21850000	21850000	FIXED	p		
+fi		21870000	21870000	-			Fixed
+fi		21870000	21870000	FIXED	p		
+fi		21924000	21924000	-			Aeronautical communications
+fi		21924000	21924000	AERONAUTICAL MOBILE (R)	p		
+fi		22000000	22000000	-			
+fi		22000000	22000000	MARITIME MOBILE	p		
+fi		22001400	22001400	-			Maritime communications
+fi		22001400	22001400		p		
+fi		22160400	22160400	-			Maritime communications
+fi		22160400	22160400		p		
+fi		22182000	22182000	-			Maritime communications
+fi		22182000	22182000		p		
+fi		22240300	22240300	-			Maritime communications
+fi		22240300	22240300		p		
+fi		22242000	22242000	-			Maritime communications
+fi		22242000	22242000		p		
+fi		22279250	22279250	-			Maritime communications
+fi		22279250	22279250		p		
+fi		22284500	22284500	-			Maritime communications
+fi		22284500	22284500		p		
+fi		22352000	22352000	-			Maritime communications
+fi		22352000	22352000		p		
+fi		22374500	22374500	-			DSC
+fi		22374500	22374500		p		
+fi		22376000	22376000	-			Maritime communications
+fi		22376000	22376000		p		
+fi		22444000	22444000	-			DSC
+fi		22444000	22444000		p		
+fi		22445500	22445500	-			Maritime communications
+fi		22445500	22445500		p		
+fi		22697400	22697400	-			Maritime communications
+fi		22697400	22697400		p		
+fi		22855000	22855000	-			Fixed
+fi		22855000	22855000	FIXED	p		
+fi		23000000	23000000	-			Fixed,  Land mobile
+fi		23000000	23000000	FIXED	p		
+fi		23000000	23000000	Mobile	s		
+fi		23200000	23200000	-			Fixed,  Aeronautical communications
+fi		23200000	23200000	FIXED	p		
+fi		23200000	23200000	AERONAUTICAL MOBILE (OR)	p		
+fi		23350000	23350000	-			Land mobile,  Fixed
+fi		23350000	23350000	MOBILE	p		
+fi		23350000	23350000	FIXED	p		
+fi		24000000	24000000	-			Land mobile,  Fixed
+fi		24000000	24000000	LAND MOBILE	p		
+fi		24000000	24000000	FIXED	p		
+fi		24000000	24000000	Radiolocation	s		
+fi		24450000	24450000	-			Radiolocation (civil)
+fi		24450000	24450000		p		
+fi		24890000	24890000	-			Amateur,  Amateur-satellite
+fi		24890000	24890000	AMATEUR	p		
+fi		24890000	24890000	AMATEUR-SATELLITE	p		
+fi		24990000	24990000	-			Standard frequency and time signal
+fi		24990000	24990000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+fi		25005000	25005000	-			Standard frequency and time signal,  Space research
+fi		25005000	25005000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+fi		25005000	25005000	Space Research	s		
+fi		25010000	25010000	-			Land mobile,  Maritime communications
+fi		25010000	25010000	MOBILE	p		
+fi		25010000	25010000	FIXED	p		
+fi		25070000	25070000	-			
+fi		25070000	25070000	MARITIME MOBILE	p		
+fi		25071400	25071400	-			Maritime communications
+fi		25071400	25071400		p		
+fi		25101400	25101400	-			Maritime communications
+fi		25101400	25101400		p		
+fi		25123000	25123000	-			Maritime communications
+fi		25123000	25123000		p		
+fi		25161500	25161500	-			Maritime communications
+fi		25161500	25161500		p		
+fi		25171250	25171250	-			Maritime communications
+fi		25171250	25171250		p		
+fi		25173000	25173000	-			Maritime communications
+fi		25173000	25173000		p		
+fi		25193000	25193000	-			Maritime communications
+fi		25193000	25193000		p		
+fi		25208500	25208500	-			DSC
+fi		25208500	25208500		p		
+fi		25210000	25210000	-			Land mobile,  Fixed
+fi		25210000	25210000	MOBILE	p		
+fi		25210000	25210000	FIXED	p		
+fi		25550000	25550000	-			Radio astronomy
+fi		25550000	25550000	RADIO ASTRONOMY	p		
+fi		25670000	25670000	-			Broadcasting (terrestrial)
+fi		25670000	25670000	BROADCASTING	p		
+fi		26100000	26100000	-			
+fi		26100000	26100000	MARITIME MOBILE	p		
+fi		26100500	26100500	-			Maritime communications
+fi		26100500	26100500		p		
+fi		26121000	26121000	-			DSC
+fi		26121000	26121000		p		
+fi		26122500	26122500	-			Maritime communications
+fi		26122500	26122500		p		
+fi		26146400	26146400	-			Maritime communications
+fi		26146400	26146400		p		
+fi		26175000	26175000	-			
+fi		26175000	26175000	MOBILE	p		
+fi		26175000	26175000	Radiolocation	s		
+fi		26175000	26175000	-			Defence systems
+fi		26175000	26175000		p		
+fi		26200000	26200000	-			Radiolocation (civil)
+fi		26200000	26200000		p		
+fi		26825000	26825000	-			Non-specific SRDs
+fi		26825000	26825000		p		
+fi		26957000	26957000	-			Non-specific SRDs
+fi		26957000	26957000		p		
+fi		26965000	26965000	-			Paging
+fi		26965000	26965000		p		
+fi		26965000	26965000	-			DSB/SSB AM CB / CEPT PR 27
+fi		26965000	26965000		p		
+fi		26965000	26965000	-			DSB/SSB AM CB / CEPT PR 27
+fi		26965000	26965000		p		
+fi		27500000	27500000	-			
+fi		27500000	27500000	MOBILE	p		
+fi		27500000	27500000	-			Paging
+fi		27500000	27500000		p		
+fi		28000000	28000000	-			Amateur,  Amateur-satellite
+fi		28000000	28000000	AMATEUR	p		
+fi		28000000	28000000	AMATEUR-SATELLITE	p		
+fi		29560000	29560000	-			Amateur
+fi		29560000	29560000		p		
+fi		29660000	29660000	-			Amateur
+fi		29660000	29660000		p		
+fi		29700000	29700000	-			
+fi		29700000	29700000	MOBILE	p		
+fi		29700000	29700000	Radiolocation	s		
+fi		29710000	29710000	-			PMR/PAMR
+fi		29710000	29710000		p		
+fi		29810000	29810000	-			Telemetry/Telecommand (civil)
+fi		29810000	29810000		p		
+fi		29950000	29950000	-			Defence systems
+fi		29950000	29950000		p		
+fi		30000000	30000000	-			Active medical implants
+fi		30000000	30000000		p		
+fi		30020000	30020000	-			Telemetry/Telecommand (civil)
+fi		30020000	30020000		p		
+fi		30325000	30325000	-			Defence systems
+fi		30325000	30325000		p		
+fi		34350000	34350000	-			Defence systems
+fi		34350000	34350000		p		
+fi		34995000	34995000	-			Flying model control
+fi		34995000	34995000		p		
+fi		35250000	35250000	-			Defence systems
+fi		35250000	35250000		p		
+fi		35350000	35350000	-			PMR/PAMR
+fi		35350000	35350000		p		
+fi		39000000	39000000	-			Radiolocation (civil)
+fi		39000000	39000000		p		
+fi		40660000	40660000	-			Non-specific SRDs
+fi		40660000	40660000		p		
+fi		40660000	40660000	-			Non-specific SRDs
+fi		40660000	40660000		p		
+fi		40800000	40800000	-			Defence systems
+fi		40800000	40800000		p		
+fi		42000000	42000000	-			Radiolocation (civil)
+fi		42000000	42000000		p		
+fi		42400000	42400000	-			Narrow band analogue voice devices,  Radio microphones
+fi		42400000	42400000		p		
+fi		43625000	43625000	-			Defence systems
+fi		43625000	43625000		p		
+fi		47000000	47000000	-			Defence systems,  TV analogue (terrestrial)
+fi		47000000	47000000	MOBILE	p		
+fi		47000000	47000000	BROADCASTING	p		
+fi		47000000	47000000	Amateur	s		
+fi		50000000	50000000	-			Amateur
+fi		50000000	50000000		p		
+fi		51210000	51210000	-			Amateur
+fi		51210000	51210000		p		
+fi		51810000	51810000	-			Amateur
+fi		51810000	51810000		p		
+fi		68000000	68000000	-			
+fi		68000000	68000000	LAND MOBILE	p		
+fi		68000000	68000000	Amateur	s		
+fi		68025000	68025000	-			Defence systems,  PMR/PAMR
+fi		68025000	68025000		p		
+fi		70000000	70000000	-			Amateur
+fi		70000000	70000000		p		
+fi		70050000	70050000	-			Amateur
+fi		70050000	70050000		p		
+fi		70250000	70250000	-			Amateur
+fi		70250000	70250000		p		
+fi		71025000	71025000	-			PMR/PAMR
+fi		71025000	71025000		p		
+fi		72125000	72125000	-			PMR/PAMR,  Defence systems
+fi		72125000	72125000		p		
+fi		72725000	72725000	-			PMR/PAMR
+fi		72725000	72725000		p		
+fi		73000000	73000000	-			Defence systems
+fi		73000000	73000000		p		
+fi		73500000	73500000	-			PMR/PAMR
+fi		73500000	73500000		p		
+fi		74025000	74025000	-			Defence systems
+fi		74025000	74025000		p		
+fi		74800000	74800000	-			ILS
+fi		74800000	74800000	AERONAUTICAL RADIONAVIGATION	p		
+fi		75200000	75200000	-			
+fi		75200000	75200000	LAND MOBILE	p		
+fi		75225000	75225000	-			PMR/PAMR
+fi		75225000	75225000		p		
+fi		76025000	76025000	-			PMR/PAMR
+fi		76025000	76025000		p		
+fi		77125000	77125000	-			PMR/PAMR
+fi		77125000	77125000		p		
+fi		77775000	77775000	-			PMR/PAMR
+fi		77775000	77775000		p		
+fi		77850000	77850000	-			PMR/PAMR
+fi		77850000	77850000		p		
+fi		78100000	78100000	-			PMR/PAMR
+fi		78100000	78100000		p		
+fi		80025000	80025000	-			PMR/PAMR
+fi		80025000	80025000		p		
+fi		80225000	80225000	-			PMR/PAMR
+fi		80225000	80225000		p		
+fi		81025000	81025000	-			PMR/PAMR
+fi		81025000	81025000		p		
+fi		82125000	82125000	-			PMR/PAMR
+fi		82125000	82125000		p		
+fi		82775000	82775000	-			Defence systems
+fi		82775000	82775000		p		
+fi		83575000	83575000	-			PMR/PAMR
+fi		83575000	83575000		p		
+fi		83850000	83850000	-			PMR/PAMR
+fi		83850000	83850000		p		
+fi		84100000	84100000	-			PMR/PAMR
+fi		84100000	84100000		p		
+fi		86025000	86025000	-			PMR/PAMR
+fi		86025000	86025000		p		
+fi		87125000	87125000	-			Defence systems
+fi		87125000	87125000		p		
+fi		87500000	87500000	-			FM sound analogue,  Band II LPD
+fi		87500000	87500000	BROADCASTING	p		
+fi		108000000	108000000	-			Aeronautical communications
+fi		108000000	108000000	AERONAUTICAL MOBILE (R)	p		
+fi		108000000	108000000	AERONAUTICAL RADIONAVIGATION	p		
+fi		108100000	108100000	-			ILS
+fi		108100000	108100000		p		
+fi		111975000	111975000	-			VOR
+fi		111975000	111975000		p		
+fi		117975000	117975000	-			
+fi		117975000	117975000	AERONAUTICAL MOBILE (R)	p		
+fi		118000000	118000000	-			Aeronautical communications
+fi		118000000	118000000		p		
+fi		118000000	118000000	-			Aeronautical communications
+fi		118000000	118000000		p		
+fi		121475000	121475000	-			Aeronautical communications
+fi		121475000	121475000		p		
+fi		121550000	121550000	-			Aeronautical communications
+fi		121550000	121550000		p		
+fi		121550000	121550000	-			Aeronautical communications
+fi		121550000	121550000		p		
+fi		122000000	122000000	-			Aeronautical communications
+fi		122000000	122000000		p		
+fi		122000000	122000000	-			Aeronautical communications
+fi		122000000	122000000		p		
+fi		123075000	123075000	-			SAR (communications)
+fi		123075000	123075000		p		
+fi		123150000	123150000	-			Aeronautical communications
+fi		123150000	123150000		p		
+fi		123150000	123150000	-			Aeronautical communications
+fi		123150000	123150000		p		
+fi		123700000	123700000	-			Aeronautical communications
+fi		123700000	123700000		p		
+fi		123700000	123700000	-			Aeronautical communications
+fi		123700000	123700000		p		
+fi		129700000	129700000	-			Aeronautical communications
+fi		129700000	129700000		p		
+fi		129700000	129700000	-			Aeronautical communications
+fi		129700000	129700000		p		
+fi		130900000	130900000	-			Aeronautical communications
+fi		130900000	130900000		p		
+fi		130900000	130900000	-			Aeronautical communications
+fi		130900000	130900000		p		
+fi		136700000	136700000	-			Aeronautical communications
+fi		136700000	136700000		p		
+fi		137000000	137000000	-			MSS Earth stations,  Weather satellites
+fi		137000000	137000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+fi		137000000	137000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+fi		138000000	138000000	-			Defence systems
+fi		138000000	138000000	MOBILE	p		
+fi		138000000	138000000	AERONAUTICAL MOBILE (OR)	p		
+fi		138200000	138200000	-			Non-specific SRDs
+fi		138200000	138200000		p		
+fi		139000000	139000000	-			Defence systems
+fi		139000000	139000000		p		
+fi		144000000	144000000	-			Amateur,  Amateur-satellite
+fi		144000000	144000000	AMATEUR	p		
+fi		144000000	144000000	AMATEUR-SATELLITE	p		
+fi		145000000	145000000	-			Amateur
+fi		145000000	145000000		p		
+fi		145000000	145000000	-			Amateur
+fi		145000000	145000000		p		
+fi		145600000	145600000	-			Amateur
+fi		145600000	145600000		p		
+fi		145600000	145600000	-			Amateur
+fi		145600000	145600000		p		
+fi		145800000	145800000	-			Amateur-satellite
+fi		145800000	145800000		p		
+fi		146000000	146000000	-			
+fi		146000000	146000000	LAND MOBILE	p		
+fi		146000000	146000000	Mobile-Satellite (Earth-to-space)	s		
+fi		146006250	146006250	-			Telemetry/Telecommand (civil)
+fi		146006250	146006250		p		
+fi		146306250	146306250	-			PMR/PAMR
+fi		146306250	146306250		p		
+fi		146806250	146806250	-			PMR/PAMR
+fi		146806250	146806250		p		
+fi		146906250	146906250	-			PMR/PAMR
+fi		146906250	146906250		p		
+fi		148000000	148000000	-			MSS Earth stations
+fi		148000000	148000000		p		
+fi		148281250	148281250	-			PMR/PAMR
+fi		148281250	148281250		p		
+fi		149406250	149406250	-			PMR/PAMR
+fi		149406250	149406250		p		
+fi		149900000	149900000	-			MSS Earth stations,  Satellite navigation systems
+fi		149900000	149900000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+fi		149900000	149900000	RADIONAVIGATION-SATELLITE	p		
+fi		150050000	150050000	-			
+fi		150050000	150050000	MOBILE	p		
+fi		150050000	150050000	LAND MOBILE	p		
+fi		150050000	150050000	-			Defence systems,  PMR/PAMR
+fi		150050000	150050000		p		
+fi		151006250	151006250	-			PMR/PAMR
+fi		151006250	151006250		p		
+fi		151406250	151406250	-			PMR/PAMR
+fi		151406250	151406250		p		
+fi		151506250	151506250	-			PMR/PAMR
+fi		151506250	151506250		p		
+fi		152881250	152881250	-			PMR/PAMR
+fi		152881250	152881250		p		
+fi		154000000	154000000	-			
+fi		154000000	154000000	MOBILE	p		
+fi		154000000	154000000	MARITIME MOBILE	p		
+fi		154006250	154006250	-			PMR/PAMR
+fi		154006250	154006250		p		
+fi		154506250	154506250	-			PMR/PAMR
+fi		154506250	154506250		p		
+fi		154656250	154656250	-			PMR/PAMR
+fi		154656250	154656250		p		
+fi		154900000	154900000	-			Defence systems
+fi		154900000	154900000		p		
+fi		155500000	155500000	-			Defence systems,  Maritime communications
+fi		155500000	155500000		p		
+fi		156025000	156025000	-			Maritime communications
+fi		156025000	156025000		p		
+fi		156375000	156375000	-			Maritime communications
+fi		156375000	156375000		p		
+fi		156900000	156900000	-			Maritime communications
+fi		156900000	156900000		p		
+fi		157450000	157450000	-			PMR/PAMR
+fi		157450000	157450000		p		
+fi		158825000	158825000	-			PPDR
+fi		158825000	158825000		p		
+fi		160625000	160625000	-			Maritime communications
+fi		160625000	160625000		p		
+fi		160975000	160975000	-			PPDR
+fi		160975000	160975000		p		
+fi		161175000	161175000	-			PMR/PAMR
+fi		161175000	161175000		p		
+fi		161412500	161412500	-			Telemetry/Telecommand (civil)
+fi		161412500	161412500		p		
+fi		161500000	161500000	-			Maritime communications
+fi		161500000	161500000		p		
+fi		162050000	162050000	-			PMR/PAMR
+fi		162050000	162050000		p		
+fi		163425000	163425000	-			PPDR
+fi		163425000	163425000		p		
+fi		165050000	165050000	-			PPDR
+fi		165050000	165050000		p		
+fi		165300000	165300000	-			PMR/PAMR
+fi		165300000	165300000		p		
+fi		165775000	165775000	-			PMR/PAMR
+fi		165775000	165775000		p		
+fi		166000000	166000000	-			PMR/PAMR
+fi		166000000	166000000		p		
+fi		167700000	167700000	-			PMR/PAMR
+fi		167700000	167700000		p		
+fi		168575000	168575000	-			PMR/PAMR
+fi		168575000	168575000		p		
+fi		169400000	169400000	-			Non-specific SRDs
+fi		169400000	169400000		p		
+fi		169400000	169400000	-			Short Range Devices
+fi		169400000	169400000		p		
+fi		169487500	169487500	-			Short Range Devices
+fi		169487500	169487500		p		
+fi		169587500	169587500	-			Non-specific SRDs
+fi		169587500	169587500		p		
+fi		169618750	169618750	-			PMR/PAMR
+fi		169618750	169618750		p		
+fi		169625000	169625000	-			PMR/PAMR
+fi		169625000	169625000		p		
+fi		169825000	169825000	-			PMR/PAMR
+fi		169825000	169825000		p		
+fi		169900000	169900000	-			PMR/PAMR
+fi		169900000	169900000		p		
+fi		170375000	170375000	-			PMR/PAMR
+fi		170375000	170375000		p		
+fi		170600000	170600000	-			PMR/PAMR
+fi		170600000	170600000		p		
+fi		172300000	172300000	-			PMR/PAMR
+fi		172300000	172300000		p		
+fi		173175000	173175000	-			PMR/PAMR
+fi		173175000	173175000		p		
+fi		173965000	173965000	-			Aids for hearing impaired
+fi		173965000	173965000		p		
+fi		174000000	174000000	-			DVB-T,  PMSE
+fi		174000000	174000000	BROADCASTING	p		
+fi		174000000	174000000	Mobile	s		
+fi		230000000	230000000	-			T-DAB
+fi		230000000	230000000	BROADCASTING	p		
+fi		235000000	235000000	-			
+fi		235000000	235000000	MOBILE	p		
+fi		235000000	235000000	BROADCASTING	p		
+fi		235000000	235000000	FIXED	p		
+fi		235000000	235000000	-			T-DAB
+fi		235000000	235000000		p		
+fi		240000000	240000000	-			Defence systems
+fi		240000000	240000000		p		
+fi		267000000	267000000	-			Defence systems
+fi		267000000	267000000	MOBILE	p		
+fi		267000000	267000000	FIXED	p		
+fi		272000000	272000000	-			Defence systems
+fi		272000000	272000000	MOBILE	p		
+fi		272000000	272000000	FIXED	p		
+fi		273000000	273000000	-			
+fi		273000000	273000000	MOBILE	p		
+fi		273000000	273000000	FIXED	p		
+fi		273000000	273000000	-			Defence systems
+fi		273000000	273000000		p		
+fi		308000000	308000000	-			Defence systems
+fi		308000000	308000000		p		
+fi		319000000	319000000	-			Defence systems
+fi		319000000	319000000		p		
+fi		322000000	322000000	-			
+fi		322000000	322000000	MOBILE	p		
+fi		322000000	322000000	FIXED	p		
+fi		322000000	322000000	-			Defence systems
+fi		322000000	322000000		p		
+fi		328000000	328000000	-			ILS
+fi		328000000	328000000		p		
+fi		328600000	328600000	-			ILS
+fi		328600000	328600000	AERONAUTICAL RADIONAVIGATION	p		
+fi		335400000	335400000	-			
+fi		335400000	335400000	MOBILE	p		
+fi		335400000	335400000	FIXED	p		
+fi		335400000	335400000	-			ILS
+fi		335400000	335400000		p		
+fi		336000000	336000000	-			Defence systems
+fi		336000000	336000000		p		
+fi		339000000	339000000	-			
+fi		339000000	339000000	FIXED	p		
+fi		339000000	339000000	MOBILE	p		
+fi		339000000	339000000	-			Fixed,  Defence systems
+fi		339000000	339000000		p		
+fi		358500000	358500000	-			Defence systems
+fi		358500000	358500000		p		
+fi		359500000	359500000	-			Fixed
+fi		359500000	359500000		p		
+fi		378000000	378000000	-			PPDR
+fi		378000000	378000000		p		
+fi		380000000	380000000	-			
+fi		380000000	380000000	MOBILE	p		
+fi		380012500	380012500	-			PPDR
+fi		380012500	380012500		p		
+fi		385012500	385012500	-			TETRA
+fi		385012500	385012500		p		
+fi		390012500	390012500	-			PPDR
+fi		390012500	390012500		p		
+fi		395012500	395012500	-			TETRA
+fi		395012500	395012500		p		
+fi		399900000	399900000	-			Satellite navigation systems,  MSS Earth stations
+fi		399900000	399900000	RADIONAVIGATION-SATELLITE	p		
+fi		399900000	399900000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+fi		400050000	400050000	-			Standard frequency and time signal-satellite
+fi		400050000	400050000	STANDARD FREQUENCY AND TIME SIGNAL-SATELLITE	p		
+fi		400150000	400150000	-			Sondes,  MSS Earth stations
+fi		400150000	400150000	METEOROLOGICAL AIDS	p		
+fi		400150000	400150000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+fi		401000000	401000000	-			Sondes
+fi		401000000	401000000	METEOROLOGICAL AIDS	p		
+fi		401000000	401000000	METEOROLOGICAL-SATELLITE (EARTH-TO-SPACE)	p		
+fi		401000000	401000000	EARTH EXPLORATION-SATELLITE (EARTH-TO-SPACE)	p		
+fi		401000000	401000000	MOBILE	p		
+fi		401000000	401000000	-			Sondes,  Earth exploration-satellite
+fi		401000000	401000000		p		
+fi		401000000	401000000	-			Active medical implants
+fi		401000000	401000000		p		
+fi		402000000	402000000	-			Active medical implants
+fi		402000000	402000000		p		
+fi		405000000	405000000	-			Active medical implants
+fi		405000000	405000000		p		
+fi		406000000	406000000	-			PPDR
+fi		406000000	406000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+fi		406100000	406100000	-			
+fi		406100000	406100000	MOBILE	p		
+fi		406125000	406125000	-			Telemetry/Telecommand (civil)
+fi		406125000	406125000		p		
+fi		406625000	406625000	-			Telemetry/Telecommand (civil)
+fi		406625000	406625000		p		
+fi		406950000	406950000	-			Telemetry/Telecommand (civil)
+fi		406950000	406950000		p		
+fi		407025000	407025000	-			Telemetry/Telecommand (civil)
+fi		407025000	407025000		p		
+fi		407525000	407525000	-			PMR/PAMR
+fi		407525000	407525000		p		
+fi		408575000	408575000	-			Telemetry/Telecommand (civil)
+fi		408575000	408575000		p		
+fi		409012500	409012500	-			Telemetry/Telecommand (civil)
+fi		409012500	409012500		p		
+fi		410000000	410000000	-			
+fi		410000000	410000000	MOBILE	p		
+fi		410000000	410000000	FIXED	p		
+fi		410012500	410012500	-			PMR/PAMR
+fi		410012500	410012500		p		
+fi		410975000	410975000	-			Fixed
+fi		410975000	410975000		p		
+fi		412925000	412925000	-			Fixed
+fi		412925000	412925000		p		
+fi		414012500	414012500	-			TETRA
+fi		414012500	414012500		p		
+fi		416350000	416350000	-			PMR/PAMR
+fi		416350000	416350000		p		
+fi		417525000	417525000	-			PMR/PAMR
+fi		417525000	417525000		p		
+fi		417925000	417925000	-			TETRA
+fi		417925000	417925000		p		
+fi		419150000	419150000	-			PMR/PAMR
+fi		419150000	419150000		p		
+fi		419556250	419556250	-			PMR/PAMR
+fi		419556250	419556250		p		
+fi		419750000	419750000	-			Telemetry/Telecommand (civil)
+fi		419750000	419750000		p		
+fi		420000000	420000000	-			
+fi		420000000	420000000	MOBILE	p		
+fi		420000000	420000000	FIXED	p		
+fi		420012500	420012500	-			PMR/PAMR
+fi		420012500	420012500		p		
+fi		420975000	420975000	-			Fixed
+fi		420975000	420975000		p		
+fi		422925000	422925000	-			Fixed
+fi		422925000	422925000		p		
+fi		424012500	424012500	-			TETRA
+fi		424012500	424012500		p		
+fi		426350000	426350000	-			PMR/PAMR
+fi		426350000	426350000		p		
+fi		427525000	427525000	-			PMR/PAMR
+fi		427525000	427525000		p		
+fi		427925000	427925000	-			TETRA
+fi		427925000	427925000		p		
+fi		429150000	429150000	-			PMR/PAMR
+fi		429150000	429150000		p		
+fi		429556250	429556250	-			PMR/PAMR
+fi		429556250	429556250		p		
+fi		429750000	429750000	-			Telemetry/Telecommand (civil)
+fi		429750000	429750000		p		
+fi		430000000	430000000	-			
+fi		430000000	430000000	MOBILE	p		
+fi		430025000	430025000	-			Telemetry/Telecommand (civil)
+fi		430025000	430025000		p		
+fi		432000000	432000000	-			
+fi		432000000	432000000	AMATEUR	p		
+fi		432000000	432000000	AMATEUR-SATELLITE	p		
+fi		432000000	432000000	Mobile	s		
+fi		432000000	432000000	-			Amateur
+fi		432000000	432000000		p		
+fi		432500000	432500000	-			Amateur
+fi		432500000	432500000		p		
+fi		432600000	432600000	-			Amateur
+fi		432600000	432600000		p		
+fi		432600000	432600000	-			Amateur
+fi		432600000	432600000		p		
+fi		433000000	433000000	-			Amateur
+fi		433000000	433000000		p		
+fi		433000000	433000000	-			Amateur
+fi		433000000	433000000		p		
+fi		433050000	433050000	-			Non-specific SRDs
+fi		433050000	433050000		p		
+fi		434040000	434040000	-			Non-specific SRDs
+fi		434040000	434040000		p		
+fi		434500000	434500000	-			Amateur
+fi		434500000	434500000		p		
+fi		434600000	434600000	-			Amateur
+fi		434600000	434600000		p		
+fi		434600000	434600000	-			Amateur
+fi		434600000	434600000		p		
+fi		435000000	435000000	-			Amateur-satellite,  Amateur
+fi		435000000	435000000		p		
+fi		438000000	438000000	-			Defence systems,  Telemetry/Telecommand (civil)
+fi		438000000	438000000	RADIOLOCATION	p		
+fi		440000000	440000000	-			
+fi		440000000	440000000	MOBILE	p		
+fi		440012500	440012500	-			PMR/PAMR
+fi		440012500	440012500		p		
+fi		440606250	440606250	-			PMR/PAMR
+fi		440606250	440606250		p		
+fi		440906250	440906250	-			Telemetry/Telecommand (civil)
+fi		440906250	440906250		p		
+fi		441200000	441200000	-			Telemetry/Telecommand (civil)
+fi		441200000	441200000		p		
+fi		441600000	441600000	-			Telemetry/Telecommand (civil)
+fi		441600000	441600000		p		
+fi		442775000	442775000	-			PMR/PAMR
+fi		442775000	442775000		p		
+fi		443025000	443025000	-			PMR/PAMR
+fi		443025000	443025000		p		
+fi		444025000	444025000	-			PMR/PAMR
+fi		444025000	444025000		p		
+fi		444550000	444550000	-			PMR/PAMR
+fi		444550000	444550000		p		
+fi		445000000	445000000	-			PMR/PAMR
+fi		445000000	445000000		p		
+fi		446000000	446000000	-			PMR 446
+fi		446000000	446000000		p		
+fi		446100000	446100000	-			PMR 446
+fi		446100000	446100000		p		
+fi		446218750	446218750	-			Telemetry/Telecommand (civil)
+fi		446218750	446218750		p		
+fi		447006250	447006250	-			PMR/PAMR
+fi		447006250	447006250		p		
+fi		447306250	447306250	-			PMR/PAMR
+fi		447306250	447306250		p		
+fi		447718750	447718750	-			Telemetry/Telecommand (civil)
+fi		447718750	447718750		p		
+fi		448781250	448781250	-			Telemetry/Telecommand (civil)
+fi		448781250	448781250		p		
+fi		449006250	449006250	-			Telemetry/Telecommand (civil)
+fi		449006250	449006250		p		
+fi		449025000	449025000	-			PMR/PAMR
+fi		449025000	449025000		p		
+fi		449550000	449550000	-			PMR/PAMR
+fi		449550000	449550000		p		
+fi		450000000	450000000	-			
+fi		450000000	450000000	MOBILE	p		
+fi		450000000	450000000	-			Paging
+fi		450000000	450000000		p		
+fi		450325000	450325000	-			PMR/PAMR
+fi		450325000	450325000		p		
+fi		452425000	452425000	-			IMT
+fi		452425000	452425000		p		
+fi		452525000	452525000	-			PMR/PAMR
+fi		452525000	452525000		p		
+fi		453012500	453012500	-			PMR/PAMR
+fi		453012500	453012500		p		
+fi		456962500	456962500	-			PMR/PAMR
+fi		456962500	456962500		p		
+fi		457500000	457500000	-			PMR/PAMR
+fi		457500000	457500000		p		
+fi		458125000	458125000	-			PMR/PAMR
+fi		458125000	458125000		p		
+fi		459025000	459025000	-			PMR/PAMR
+fi		459025000	459025000		p		
+fi		460025000	460025000	-			PMR/PAMR
+fi		460025000	460025000		p		
+fi		462200000	462200000	-			Paging
+fi		462200000	462200000		p		
+fi		462425000	462425000	-			IMT
+fi		462425000	462425000		p		
+fi		462525000	462525000	-			PMR/PAMR
+fi		462525000	462525000		p		
+fi		463012500	463012500	-			PMR/PAMR
+fi		463012500	463012500		p		
+fi		466962500	466962500	-			PMR/PAMR
+fi		466962500	466962500		p		
+fi		467500000	467500000	-			PMR/PAMR
+fi		467500000	467500000		p		
+fi		468125000	468125000	-			Telemetry/Telecommand (civil)
+fi		468125000	468125000		p		
+fi		468725000	468725000	-			PMR/PAMR
+fi		468725000	468725000		p		
+fi		469725000	469725000	-			PMR/PAMR
+fi		469725000	469725000		p		
+fi		470000000	470000000	-			Land mobile
+fi		470000000	470000000	BROADCASTING	p		
+fi		470000000	470000000	Mobile	s		
+fi		470000000	470000000	MOBILE	p		
+fi		470000000	470000000	-			PMSE
+fi		470000000	470000000		p		
+fi		470000000	470000000	-			DVB-T
+fi		470000000	470000000		p		
+fi		694000000	694000000	-			DVB-T,  MFCN
+fi		694000000	694000000		p		
+fi		790000000	790000000	-			
+fi		790000000	790000000	MOBILE	p		
+fi		791000000	791000000	-			MFCN
+fi		791000000	791000000		p		
+fi		823000000	823000000	-			PMSE
+fi		823000000	823000000		p		
+fi		826000000	826000000	-			PMSE
+fi		826000000	826000000		p		
+fi		832000000	832000000	-			MFCN
+fi		832000000	832000000		p		
+fi		862000000	862000000	-			
+fi		862000000	862000000	MOBILE	p		
+fi		862000000	862000000	-			Land mobile
+fi		862000000	862000000		p		
+fi		863000000	863000000	-			Non-specific SRDs
+fi		863000000	863000000		p		
+fi		863000000	863000000	-			Wireless audio/multimedia,  Radio microphones
+fi		863000000	863000000		p		
+fi		864150000	864150000	-			CT2
+fi		864150000	864150000		p		
+fi		864800000	864800000	-			Narrow band analogue voice devices
+fi		864800000	864800000		p		
+fi		865000000	865000000	-			RFID
+fi		865000000	865000000		p		
+fi		868000000	868000000	-			Non-specific SRDs
+fi		868000000	868000000		p		
+fi		868600000	868600000	-			Short Range Devices
+fi		868600000	868600000		p		
+fi		868700000	868700000	-			Non-specific SRDs
+fi		868700000	868700000		p		
+fi		869200000	869200000	-			Short Range Devices
+fi		869200000	869200000		p		
+fi		869250000	869250000	-			Short Range Devices
+fi		869250000	869250000		p		
+fi		869300000	869300000	-			Alarms
+fi		869300000	869300000		p		
+fi		869400000	869400000	-			Non-specific SRDs
+fi		869400000	869400000		p		
+fi		869650000	869650000	-			Short Range Devices
+fi		869650000	869650000		p		
+fi		869700000	869700000	-			Non-specific SRDs
+fi		869700000	869700000		p		
+fi		870000000	870000000	-			Land mobile
+fi		870000000	870000000		p		
+fi		870000000	870000000	-			Asset tracking and tracing,  Non-specific SRDs,  TTT
+fi		870000000	870000000		p		
+fi		876100000	876100000	-			GSM-R
+fi		876100000	876100000		p		
+fi		880100000	880100000	-			GSM,  IMT
+fi		880100000	880100000		p		
+fi		914012500	914012500	-			CT1
+fi		914012500	914012500		p		
+fi		915000000	915000000	-			Land mobile
+fi		915000000	915000000		p		
+fi		921100000	921100000	-			GSM-R
+fi		921100000	921100000		p		
+fi		925100000	925100000	-			GSM,  IMT
+fi		925100000	925100000		p		
+fi		959012500	959012500	-			CT1
+fi		959012500	959012500		p		
+fi		960000000	960000000	-			Aeronautical communications
+fi		960000000	960000000	AERONAUTICAL RADIONAVIGATION	p		
+fi		960000000	960000000	AERONAUTICAL MOBILE (R)	p		
+fi		962000000	962000000	-			DME
+fi		962000000	962000000		p		
+fi		1025000000	1025000000	-			DME
+fi		1025000000	1025000000		p		
+fi		1088000000	1088000000	-			DME
+fi		1088000000	1088000000		p		
+fi		1101000000	1101000000	-			DME
+fi		1101000000	1101000000		p		
+fi		1151000000	1151000000	-			DME
+fi		1151000000	1151000000		p		
+fi		1164000000	1164000000	-			Satellite navigation systems
+fi		1164000000	1164000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+fi		1164000000	1164000000	AERONAUTICAL RADIONAVIGATION	p		
+fi		1164000000	1164000000	-			DME
+fi		1164000000	1164000000		p		
+fi		1215000000	1215000000	-			Radiolocation (civil),  Satellite navigation systems,  Active sensors (satellite),  Aeronautical navigation
+fi		1215000000	1215000000	RADIOLOCATION	p		
+fi		1215000000	1215000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+fi		1215000000	1215000000	EARTH EXPLORATION-SATELLITE	p		
+fi		1215000000	1215000000	AERONAUTICAL RADIONAVIGATION	p		
+fi		1240000000	1240000000	-			Satellite navigation systems,  Radiolocation (civil),  Active sensors (satellite),  Amateur,  Aeronautical navigation
+fi		1240000000	1240000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+fi		1240000000	1240000000	RADIOLOCATION	p		
+fi		1240000000	1240000000	EARTH EXPLORATION-SATELLITE	p		
+fi		1240000000	1240000000	Amateur	s		
+fi		1240000000	1240000000	AERONAUTICAL RADIONAVIGATION	p		
+fi		1260000000	1260000000	-			Satellite navigation systems,  Aeronautical navigation,  Active sensors (satellite),  Radiolocation (civil)
+fi		1260000000	1260000000	EARTH EXPLORATION-SATELLITE	p		
+fi		1260000000	1260000000	RADIOLOCATION	p		
+fi		1260000000	1260000000	Amateur	s		
+fi		1260000000	1260000000	Amateur-Satellite	s		
+fi		1260000000	1260000000	Amateur	s		
+fi		1260000000	1260000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+fi		1260000000	1260000000	AERONAUTICAL RADIONAVIGATION	p		
+fi		1260000000	1260000000	-			Amateur-satellite,  Amateur
+fi		1260000000	1260000000		p		
+fi		1270000000	1270000000	-			Amateur
+fi		1270000000	1270000000		p		
+fi		1270000000	1270000000	-			Wind profilers
+fi		1270000000	1270000000		p		
+fi		1300000000	1300000000	-			Satellite navigation systems,  Aeronautical navigation,  Radiolocation (civil)
+fi		1300000000	1300000000	RADIONAVIGATION-SATELLITE (EARTH-TO-SPACE)	p		
+fi		1300000000	1300000000	AERONAUTICAL RADIONAVIGATION	p		
+fi		1300000000	1300000000	RADIOLOCATION	p		
+fi		1350000000	1350000000	-			
+fi		1350000000	1350000000	FIXED	p		
+fi		1352000000	1352000000	-			SAP/SAB P to P audio links
+fi		1352000000	1352000000		p		
+fi		1353750000	1353750000	-			Fixed
+fi		1353750000	1353750000		p		
+fi		1360750000	1360750000	-			BWA
+fi		1360750000	1360750000		p		
+fi		1362500000	1362500000	-			BWA
+fi		1362500000	1362500000		p		
+fi		1375000000	1375000000	-			Defence systems
+fi		1375000000	1375000000		p		
+fi		1400000000	1400000000	-			Radio astronomy
+fi		1400000000	1400000000	RADIO ASTRONOMY	p		
+fi		1427000000	1427000000	-			Defence systems
+fi		1427000000	1427000000	FIXED	p		
+fi		1452000000	1452000000	-			
+fi		1452000000	1452000000	BROADCASTING	p		
+fi		1452000000	1452000000	FIXED	p		
+fi		1452000000	1452000000	-			T-DAB
+fi		1452000000	1452000000		p		
+fi		1452000000	1452000000	-			Defence systems
+fi		1452000000	1452000000		p		
+fi		1492000000	1492000000	-			
+fi		1492000000	1492000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+fi		1492000000	1492000000	FIXED	p		
+fi		1494000000	1494000000	-			SAP/SAB P to P audio links
+fi		1494000000	1494000000		p		
+fi		1495750000	1495750000	-			Fixed
+fi		1495750000	1495750000		p		
+fi		1518000000	1518000000	-			MSS Earth stations
+fi		1518000000	1518000000		p		
+fi		1519200000	1519200000	-			SAP/SAB P to P audio links
+fi		1519200000	1519200000		p		
+fi		1525000000	1525000000	-			MSS Earth stations
+fi		1525000000	1525000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+fi		1530000000	1530000000	-			
+fi		1530000000	1530000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+fi		1530000000	1530000000	-			MSS Earth stations
+fi		1530000000	1530000000		p		
+fi		1533000000	1533000000	-			MSS Earth stations
+fi		1533000000	1533000000		p		
+fi		1535000000	1535000000	-			
+fi		1535000000	1535000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+fi		1535000000	1535000000	-			MSS Earth stations
+fi		1535000000	1535000000		p		
+fi		1544000000	1544000000	-			MSS Earth stations
+fi		1544000000	1544000000		p		
+fi		1545000000	1545000000	-			MSS Earth stations
+fi		1545000000	1545000000		p		
+fi		1555000000	1555000000	-			MSS Earth stations
+fi		1555000000	1555000000		p		
+fi		1559000000	1559000000	-			Satellite navigation systems
+fi		1559000000	1559000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+fi		1610000000	1610000000	-			MSS Earth stations
+fi		1610000000	1610000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+fi		1610600000	1610600000	-			MSS Earth stations
+fi		1610600000	1610600000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+fi		1613800000	1613800000	-			MSS Earth stations
+fi		1613800000	1613800000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+fi		1613800000	1613800000	Mobile-Satellite (space-to-Earth)	s		
+fi		1626500000	1626500000	-			
+fi		1626500000	1626500000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+fi		1626500000	1626500000	-			MSS Earth stations
+fi		1626500000	1626500000		p		
+fi		1631500000	1631500000	-			MSS Earth stations
+fi		1631500000	1631500000		p		
+fi		1636500000	1636500000	-			MSS Earth stations
+fi		1636500000	1636500000		p		
+fi		1645500000	1645500000	-			MSS Earth stations
+fi		1645500000	1645500000		p		
+fi		1646500000	1646500000	-			MSS Earth stations
+fi		1646500000	1646500000		p		
+fi		1656500000	1656500000	-			MSS Earth stations
+fi		1656500000	1656500000		p		
+fi		1660000000	1660000000	-			Radio astronomy,  MSS Earth stations
+fi		1660000000	1660000000	RADIO ASTRONOMY	p		
+fi		1660000000	1660000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+fi		1660500000	1660500000	-			Radio astronomy
+fi		1660500000	1660500000	RADIO ASTRONOMY	p		
+fi		1668400000	1668400000	-			Radio astronomy,  Sondes
+fi		1668400000	1668400000	RADIO ASTRONOMY	p		
+fi		1668400000	1668400000	METEOROLOGICAL AIDS	p		
+fi		1670000000	1670000000	-			MSS Earth stations
+fi		1670000000	1670000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+fi		1670000000	1670000000	Mobile	s		
+fi		1670030300	1670030300	-			Land mobile
+fi		1670030300	1670030300		p		
+fi		1675000000	1675000000	-			Weather satellites,  Sondes
+fi		1675000000	1675000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+fi		1690000000	1690000000	-			Sondes,  Weather satellites
+fi		1690000000	1690000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+fi		1700000000	1700000000	-			Weather satellites
+fi		1700000000	1700000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+fi		1710000000	1710000000	-			
+fi		1710000000	1710000000	MOBILE	p		
+fi		1710100000	1710100000	-			GSM,  IMT
+fi		1710100000	1710100000		p		
+fi		1785000000	1785000000	-			PMSE
+fi		1785000000	1785000000		p		
+fi		1795000000	1795000000	-			Wireless audio/multimedia
+fi		1795000000	1795000000		p		
+fi		1805100000	1805100000	-			GSM,  IMT
+fi		1805100000	1805100000		p		
+fi		1881792000	1881792000	-			DECT
+fi		1881792000	1881792000		p		
+fi		1900000000	1900000000	-			IMT
+fi		1900000000	1900000000		p		
+fi		1920000000	1920000000	-			IMT
+fi		1920000000	1920000000		p		
+fi		1980000000	1980000000	-			MSS Earth stations
+fi		1980000000	1980000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+fi		2010000000	2010000000	-			IMT
+fi		2010000000	2010000000	MOBILE	p		
+fi		2025000000	2025000000	-			Defence systems
+fi		2025000000	2025000000	FIXED	p		
+fi		2070000000	2070000000	-			Fixed,  Space operations,  Earth exploration-satellite
+fi		2070000000	2070000000	FIXED	p		
+fi		2070000000	2070000000	SPACE OPERATION (EARTH-TO-SPACE) (SPACE-TO-SPACE)	p		
+fi		2070000000	2070000000	EARTH EXPLORATION-SATELLITE (EARTH-TO-SPACE) (SPACE-TO-SPACE)	p		
+fi		2110000000	2110000000	-			IMT
+fi		2110000000	2110000000	MOBILE	p		
+fi		2170000000	2170000000	-			MSS Earth stations
+fi		2170000000	2170000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+fi		2200000000	2200000000	-			Defence systems
+fi		2200000000	2200000000	FIXED	p		
+fi		2245000000	2245000000	-			Space operations,  Fixed
+fi		2245000000	2245000000	SPACE OPERATION (EARTH-TO-SPACE) (SPACE-TO-SPACE)	p		
+fi		2245000000	2245000000	FIXED	p		
+fi		2290000000	2290000000	-			Cordless cameras,  Land mobile
+fi		2290000000	2290000000	FIXED	p		
+fi		2290000000	2290000000	MOBILE	p		
+fi		2300000000	2300000000	-			
+fi		2300000000	2300000000	Amateur	s		
+fi		2300000000	2300000000	MOBILE	p		
+fi		2300000000	2300000000	Amateur-Satellite	s		
+fi		2300000000	2300000000	FIXED	p		
+fi		2300000000	2300000000	-			Amateur,  Cordless cameras
+fi		2300000000	2300000000		p		
+fi		2400000000	2400000000	-			Radiodetermination applications,  Railway applications,  Non-specific SRDs,  Wideband data transmission systems
+fi		2400000000	2400000000		p		
+fi		2400000000	2400000000	-			Amateur,  Amateur-satellite
+fi		2400000000	2400000000		p		
+fi		2446000000	2446000000	-			RFID
+fi		2446000000	2446000000		p		
+fi		2483500000	2483500000	-			Active medical implants,  Land mobile,  MSS Earth stations,  Radiodetermination applications
+fi		2483500000	2483500000	MOBILE	p		
+fi		2483500000	2483500000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+fi		2483500000	2483500000	RADIODETERMINATION-SATELLITE (SPACE-TO-EARTH)	p		
+fi		2500000000	2500000000	-			
+fi		2500000000	2500000000	MOBILE	p		
+fi		2500000000	2500000000	-			MFCN
+fi		2500000000	2500000000		p		
+fi		2570000000	2570000000	-			MFCN
+fi		2570000000	2570000000		p		
+fi		2620000000	2620000000	-			MFCN
+fi		2620000000	2620000000		p		
+fi		2690000000	2690000000	-			Radio astronomy,  Land mobile
+fi		2690000000	2690000000	RADIO ASTRONOMY	p		
+fi		2690000000	2690000000	Mobile	s		
+fi		2700000000	2700000000	-			Aeronautical navigation,  Radiolocation (civil),  Defence systems
+fi		2700000000	2700000000	AERONAUTICAL RADIONAVIGATION	p		
+fi		2700000000	2700000000	Radiolocation	s		
+fi		2900000000	2900000000	-			Radiolocation (civil),  Defence systems
+fi		2900000000	2900000000	RADIONAVIGATION	p		
+fi		2900000000	2900000000	RADIOLOCATION	p		
+fi		3100000000	3100000000	-			Radiolocation (civil),  Defence systems
+fi		3100000000	3100000000	RADIOLOCATION	p		
+fi		3300000000	3300000000	-			Radiolocation (civil),  Defence systems
+fi		3300000000	3300000000	RADIOLOCATION	p		
+fi		3400000000	3400000000	-			
+fi		3400000000	3400000000	FIXED	p		
+fi		3400000000	3400000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+fi		3400000000	3400000000	Amateur	s		
+fi		3400000000	3400000000	FIXED	p		
+fi		3400000000	3400000000	MOBILE	p		
+fi		3400000000	3400000000	-			MFCN
+fi		3400000000	3400000000		p		
+fi		3400000000	3400000000	-			Amateur
+fi		3400000000	3400000000		p		
+fi		3410000000	3410000000	-			BWA
+fi		3410000000	3410000000		p		
+fi		3490000000	3490000000	-			BWA
+fi		3490000000	3490000000		p		
+fi		3510000000	3510000000	-			BWA
+fi		3510000000	3510000000		p		
+fi		3597000000	3597000000	-			Fixed
+fi		3597000000	3597000000		p		
+fi		3600000000	3600000000	-			MFCN
+fi		3600000000	3600000000		p		
+fi		3610000000	3610000000	-			Fixed
+fi		3610000000	3610000000		p		
+fi		3611500000	3611500000	-			Fixed
+fi		3611500000	3611500000		p		
+fi		3723000000	3723000000	-			Fixed
+fi		3723000000	3723000000		p		
+fi		3737500000	3737500000	-			Fixed
+fi		3737500000	3737500000		p		
+fi		3800000000	3800000000	-			FSS Earth stations
+fi		3800000000	3800000000		p		
+fi		3810000000	3810000000	-			Fixed
+fi		3810000000	3810000000		p		
+fi		3824500000	3824500000	-			Fixed
+fi		3824500000	3824500000		p		
+fi		3930000000	3930000000	-			Fixed
+fi		3930000000	3930000000		p		
+fi		4023000000	4023000000	-			Fixed
+fi		4023000000	4023000000		p		
+fi		4037500000	4037500000	-			Fixed
+fi		4037500000	4037500000		p		
+fi		4200000000	4200000000	-			Altimeters
+fi		4200000000	4200000000	AERONAUTICAL RADIONAVIGATION	p		
+fi		4400000000	4400000000	-			
+fi		4400000000	4400000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+fi		4400000000	4400000000	MOBILE	p		
+fi		4400000000	4400000000	FIXED	p		
+fi		4400000000	4400000000	-			Defence systems
+fi		4400000000	4400000000		p		
+fi		4500000000	4500000000	-			Defence systems,  FSS Earth stations
+fi		4500000000	4500000000		p		
+fi		4800000000	4800000000	-			Defence systems
+fi		4800000000	4800000000	MOBILE	p		
+fi		4800000000	4800000000	FIXED	p		
+fi		4990000000	4990000000	-			Radio astronomy,  Defence systems
+fi		4990000000	4990000000	RADIO ASTRONOMY	p		
+fi		4990000000	4990000000	MOBILE	p		
+fi		4990000000	4990000000	FIXED	p		
+fi		5000000000	5000000000	-			
+fi		5000000000	5000000000	RADIONAVIGATION-SATELLITE (EARTH-TO-SPACE)	p		
+fi		5000000000	5000000000	AERONAUTICAL RADIONAVIGATION	p		
+fi		5000000000	5000000000	FIXED-SATELLITE	p		
+fi		5000000000	5000000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+fi		5000000000	5000000000	AERONAUTICAL MOBILE (R)	p		
+fi		5000000000	5000000000	-			Aeronautical navigation
+fi		5000000000	5000000000		p		
+fi		5000000000	5000000000	-			Satellite navigation systems
+fi		5000000000	5000000000		p		
+fi		5010000000	5010000000	-			Satellite navigation systems
+fi		5010000000	5010000000		p		
+fi		5030000000	5030000000	-			Aeronautical navigation
+fi		5030000000	5030000000		p		
+fi		5030000000	5030000000	-			Aeronautical telecommand
+fi		5030000000	5030000000		p		
+fi		5091000000	5091000000	-			FSS Earth stations
+fi		5091000000	5091000000		p		
+fi		5150000000	5150000000	-			Wideband data transmission systems,  FSS Earth stations,  Aeronautical navigation
+fi		5150000000	5150000000	MOBILE	p		
+fi		5150000000	5150000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+fi		5150000000	5150000000	AERONAUTICAL RADIONAVIGATION	p		
+fi		5250000000	5250000000	-			Wideband data transmission systems,  Earth exploration-satellite
+fi		5250000000	5250000000	MOBILE	p		
+fi		5250000000	5250000000	Earth Exploration-Satellite	s		
+fi		5350000000	5350000000	-			
+fi		5350000000	5350000000	RADIOLOCATION	p		
+fi		5350000000	5350000000	Amateur-Satellite	s		
+fi		5350000000	5350000000	Earth Exploration-Satellite	s		
+fi		5350000000	5350000000	Amateur	s		
+fi		5350000000	5350000000	MOBILE	p		
+fi		5350000000	5350000000	Amateur	s		
+fi		5350000000	5350000000	-			Earth exploration-satellite
+fi		5350000000	5350000000		p		
+fi		5350000000	5350000000	-			Radiolocation (civil)
+fi		5350000000	5350000000		p		
+fi		5400000000	5400000000	-			Defence systems
+fi		5400000000	5400000000		p		
+fi		5470000000	5470000000	-			Radiolocation (civil),  Wideband data transmission systems
+fi		5470000000	5470000000		p		
+fi		5500000000	5500000000	-			Weather radar
+fi		5500000000	5500000000		p		
+fi		5650000000	5650000000	-			Radiolocation (civil)
+fi		5650000000	5650000000		p		
+fi		5650000000	5650000000	-			Amateur,  Amateur-satellite
+fi		5650000000	5650000000		p		
+fi		5670000000	5670000000	-			Amateur
+fi		5670000000	5670000000		p		
+fi		5725000000	5725000000	-			FSS Earth stations
+fi		5725000000	5725000000	RADIOLOCATION	p		
+fi		5725000000	5725000000	Amateur	s		
+fi		5725000000	5725000000	Fixed	s		
+fi		5725000000	5725000000	MOBILE	p		
+fi		5725000000	5725000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+fi		5725000000	5725000000	Amateur-Satellite (space-to-Earth)	s		
+fi		5725000000	5725000000	Amateur	s		
+fi		5725000000	5725000000	-			Non-specific SRDs
+fi		5725000000	5725000000		p		
+fi		5725000000	5725000000	-			Amateur
+fi		5725000000	5725000000		p		
+fi		5725000000	5725000000	-			BFWA
+fi		5725000000	5725000000		p		
+fi		5795000000	5795000000	-			TTT
+fi		5795000000	5795000000		p		
+fi		5815000000	5815000000	-			BFWA
+fi		5815000000	5815000000		p		
+fi		5830000000	5830000000	-			Amateur-satellite,  Amateur
+fi		5830000000	5830000000		p		
+fi		5850000000	5850000000	-			FSS Earth stations
+fi		5850000000	5850000000		p		
+fi		5875000000	5875000000	-			Fixed
+fi		5875000000	5875000000		p		
+fi		5875000000	5875000000	-			ITS
+fi		5875000000	5875000000		p		
+fi		5925000000	5925000000	-			
+fi		5925000000	5925000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+fi		5925000000	5925000000	FIXED	p		
+fi		5925000000	5925000000	FIXED-SATELLITE (EARTH-TO-SPACE) (SPACE-TO-EARTH)	p		
+fi		5925000000	5925000000	-			FSS Earth stations
+fi		5925000000	5925000000		p		
+fi		5925000000	5925000000	-			FSS Earth stations
+fi		5925000000	5925000000		p		
+fi		5945200000	5945200000	-			Fixed
+fi		5945200000	5945200000		p		
+fi		5960025000	5960025000	-			Fixed
+fi		5960025000	5960025000		p		
+fi		6197240000	6197240000	-			Fixed
+fi		6197240000	6197240000		p		
+fi		6212065000	6212065000	-			Fixed
+fi		6212065000	6212065000		p		
+fi		6460000000	6460000000	-			Fixed
+fi		6460000000	6460000000		p		
+fi		6475000000	6475000000	-			Fixed
+fi		6475000000	6475000000		p		
+fi		6700000000	6700000000	-			FSS Earth stations
+fi		6700000000	6700000000		p		
+fi		6725000000	6725000000	-			FSS Earth stations
+fi		6725000000	6725000000		p		
+fi		6800000000	6800000000	-			Fixed
+fi		6800000000	6800000000		p		
+fi		6815000000	6815000000	-			Fixed
+fi		6815000000	6815000000		p		
+fi		7025000000	7025000000	-			FSS Earth stations
+fi		7025000000	7025000000		p		
+fi		7080000000	7080000000	-			
+fi		7080000000	7080000000	FIXED	p		
+fi		7121000000	7121000000	-			Fixed
+fi		7121000000	7121000000		p		
+fi		7289000000	7289000000	-			Fixed
+fi		7289000000	7289000000		p		
+fi		7428000000	7428000000	-			Fixed
+fi		7428000000	7428000000		p		
+fi		7501500000	7501500000	-			Fixed
+fi		7501500000	7501500000		p		
+fi		7505000000	7505000000	-			Fixed
+fi		7505000000	7505000000		p		
+fi		7596000000	7596000000	-			Fixed
+fi		7596000000	7596000000		p		
+fi		7669500000	7669500000	-			Fixed
+fi		7669500000	7669500000		p		
+fi		7673000000	7673000000	-			Fixed
+fi		7673000000	7673000000		p		
+fi		7915000000	7915000000	-			Fixed
+fi		7915000000	7915000000		p		
+fi		8045000000	8045000000	-			Fixed
+fi		8045000000	8045000000		p		
+fi		8225000000	8225000000	-			Fixed
+fi		8225000000	8225000000		p		
+fi		8355000000	8355000000	-			Fixed
+fi		8355000000	8355000000		p		
+fi		8500000000	8500000000	-			Radiolocation (civil),  Defence systems
+fi		8500000000	8500000000	RADIOLOCATION	p		
+fi		9500000000	9500000000	-			Radiodetermination applications
+fi		9500000000	9500000000		p		
+fi		10000000000	10000000000	-			Land mobile
+fi		10000000000	10000000000	FIXED	p		
+fi		10000000000	10000000000	Amateur	s		
+fi		10000000000	10000000000	MOBILE	p		
+fi		10000000000	10000000000	-			Fixed,  Amateur
+fi		10000000000	10000000000		p		
+fi		10150000000	10150000000	-			BWA
+fi		10150000000	10150000000		p		
+fi		10259000000	10259000000	-			Fixed
+fi		10259000000	10259000000		p		
+fi		10368000000	10368000000	-			Amateur
+fi		10368000000	10368000000		p		
+fi		10388500000	10388500000	-			Fixed
+fi		10388500000	10388500000		p		
+fi		10406000000	10406000000	-			Fixed
+fi		10406000000	10406000000		p		
+fi		10450000000	10450000000	-			Radiodetermination applications,  Amateur,  Amateur-satellite
+fi		10450000000	10450000000	RADIOLOCATION	p		
+fi		10450000000	10450000000	Amateur	s		
+fi		10450000000	10450000000	Amateur-Satellite	s		
+fi		10500000000	10500000000	-			
+fi		10500000000	10500000000	FIXED	p		
+fi		10500000000	10500000000	RADIOLOCATION	p		
+fi		10500000000	10500000000	-			Radiodetermination applications
+fi		10500000000	10500000000		p		
+fi		10500000000	10500000000	-			BWA
+fi		10500000000	10500000000		p		
+fi		10500000000	10500000000	-			Radiodetermination applications
+fi		10500000000	10500000000		p		
+fi		10609000000	10609000000	-			Fixed
+fi		10609000000	10609000000		p		
+fi		10654500000	10654500000	-			Fixed
+fi		10654500000	10654500000		p		
+fi		10680000000	10680000000	-			Space research
+fi		10680000000	10680000000	RADIO ASTRONOMY	p		
+fi		10700000000	10700000000	-			FSS Earth stations
+fi		10700000000	10700000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+fi		10700000000	10700000000	-			FSS Earth stations
+fi		10700000000	10700000000		p		
+fi		11200000000	11200000000	-			FSS Earth stations
+fi		11200000000	11200000000		p		
+fi		11450000000	11450000000	-			FSS Earth stations
+fi		11450000000	11450000000		p		
+fi		11700000000	11700000000	-			FSS Earth stations,  Broadcasting (satellite)
+fi		11700000000	11700000000	Fixed-Satellite (space-to-Earth)	s		
+fi		11700000000	11700000000	BROADCASTING-SATELLITE	p		
+fi		12500000000	12500000000	-			FSS Earth stations
+fi		12500000000	12500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+fi		12750000000	12750000000	-			FSS Earth stations
+fi		12750000000	12750000000	FIXED	p		
+fi		12750000000	12750000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+fi		12754500000	12754500000	-			Fixed
+fi		12754500000	12754500000		p		
+fi		12758000000	12758000000	-			Fixed
+fi		12758000000	12758000000		p		
+fi		12765000000	12765000000	-			Fixed
+fi		12765000000	12765000000		p		
+fi		12989000000	12989000000	-			Fixed
+fi		12989000000	12989000000		p		
+fi		13020500000	13020500000	-			Fixed
+fi		13020500000	13020500000		p		
+fi		13024000000	13024000000	-			Fixed
+fi		13024000000	13024000000		p		
+fi		13031000000	13031000000	-			Fixed
+fi		13031000000	13031000000		p		
+fi		13250000000	13250000000	-			Aeronautical navigation,  Earth exploration-satellite
+fi		13250000000	13250000000	AERONAUTICAL RADIONAVIGATION	p		
+fi		13250000000	13250000000	Earth Exploration-Satellite	s		
+fi		13400000000	13400000000	-			Radiodetermination applications,  Earth exploration-satellite
+fi		13400000000	13400000000	RADIOLOCATION	p		
+fi		13400000000	13400000000	EARTH EXPLORATION-SATELLITE	p		
+fi		13750000000	13750000000	-			Radiodetermination applications,  FSS Earth stations
+fi		13750000000	13750000000	RADIOLOCATION	p		
+fi		13750000000	13750000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+fi		14000000000	14000000000	-			FSS Earth stations
+fi		14000000000	14000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+fi		14000000000	14000000000	Mobile-Satellite	s		
+fi		14000000000	14000000000	-			MSS Earth stations,  FSS Earth stations
+fi		14000000000	14000000000		p		
+fi		14250000000	14250000000	-			MSS Earth stations,  FSS Earth stations
+fi		14250000000	14250000000		p		
+fi		14500000000	14500000000	-			
+fi		14500000000	14500000000	FIXED	p		
+fi		14515000000	14515000000	-			Fixed
+fi		14515000000	14515000000		p		
+fi		14627000000	14627000000	-			Fixed
+fi		14627000000	14627000000		p		
+fi		14935000000	14935000000	-			Fixed
+fi		14935000000	14935000000		p		
+fi		15243000000	15243000000	-			Fixed
+fi		15243000000	15243000000		p		
+fi		15350000000	15350000000	-			Radio astronomy
+fi		15350000000	15350000000	RADIO ASTRONOMY	p		
+fi		15400000000	15400000000	-			
+fi		15400000000	15400000000	AERONAUTICAL RADIONAVIGATION	p		
+fi		15430000000	15430000000	-			Aeronautical navigation
+fi		15430000000	15430000000		p		
+fi		15700000000	15700000000	-			Defence systems,  Radiolocation (civil)
+fi		15700000000	15700000000	RADIOLOCATION	p		
+fi		17100000000	17100000000	-			GBSAR,  Wideband data transmission systems,  Earth exploration-satellite
+fi		17100000000	17100000000	RADIOLOCATION	p		
+fi		17100000000	17100000000	EARTH EXPLORATION-SATELLITE	p		
+fi		17300000000	17300000000	-			
+fi		17300000000	17300000000	FIXED-SATELLITE (EARTH-TO-SPACE) (SPACE-TO-EARTH)	p		
+fi		17300000000	17300000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+fi		17300000000	17300000000	FIXED	p		
+fi		17300000000	17300000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+fi		17300000000	17300000000	-			FSS Earth stations
+fi		17300000000	17300000000		p		
+fi		17300000000	17300000000	-			FSS Earth stations
+fi		17300000000	17300000000		p		
+fi		17755000000	17755000000	-			Fixed
+fi		17755000000	17755000000		p		
+fi		17800000000	17800000000	-			FSS Earth stations
+fi		17800000000	17800000000		p		
+fi		18030000000	18030000000	-			Fixed
+fi		18030000000	18030000000		p		
+fi		18100000000	18100000000	-			FSS Earth stations
+fi		18100000000	18100000000		p		
+fi		18332500000	18332500000	-			Fixed
+fi		18332500000	18332500000		p		
+fi		18527500000	18527500000	-			Fixed
+fi		18527500000	18527500000		p		
+fi		18587500000	18587500000	-			Fixed
+fi		18587500000	18587500000		p		
+fi		18657500000	18657500000	-			Fixed
+fi		18657500000	18657500000		p		
+fi		18765000000	18765000000	-			Fixed
+fi		18765000000	18765000000		p		
+fi		18800000000	18800000000	-			FSS Earth stations
+fi		18800000000	18800000000		p		
+fi		19040000000	19040000000	-			Fixed
+fi		19040000000	19040000000		p		
+fi		19300000000	19300000000	-			FSS Earth stations
+fi		19300000000	19300000000	FIXED	p		
+fi		19300000000	19300000000	FIXED-SATELLITE (EARTH-TO-SPACE) (SPACE-TO-EARTH)	p		
+fi		19342500000	19342500000	-			Fixed
+fi		19342500000	19342500000		p		
+fi		19537500000	19537500000	-			Fixed
+fi		19537500000	19537500000		p		
+fi		19597500000	19597500000	-			Fixed
+fi		19597500000	19597500000		p		
+fi		19667500000	19667500000	-			Fixed
+fi		19667500000	19667500000		p		
+fi		19700000000	19700000000	-			FSS Earth stations
+fi		19700000000	19700000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+fi		20100000000	20100000000	-			FSS Earth stations,  MSS Earth stations
+fi		20100000000	20100000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+fi		20100000000	20100000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+fi		20200000000	20200000000	-			MSS Earth stations
+fi		20200000000	20200000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+fi		21200000000	21200000000	-			
+fi		21200000000	21200000000	BROADCASTING-SATELLITE	p		
+fi		21200000000	21200000000	FIXED	p		
+fi		21200000000	21200000000	RADIO ASTRONOMY	p		
+fi		21200000000	21200000000	EARTH EXPLORATION-SATELLITE	p		
+fi		21200000000	21200000000	-			Fixed
+fi		21200000000	21200000000		p		
+fi		21400000000	21400000000	-			Broadcasting (satellite)
+fi		21400000000	21400000000		p		
+fi		21650000000	21650000000	-			SRR
+fi		21650000000	21650000000		p		
+fi		22078000000	22078000000	-			Fixed
+fi		22078000000	22078000000		p		
+fi		22134000000	22134000000	-			Fixed
+fi		22134000000	22134000000		p		
+fi		22190000000	22190000000	-			Fixed
+fi		22190000000	22190000000		p		
+fi		22210000000	22210000000	-			Radio astronomy,  Earth exploration-satellite
+fi		22210000000	22210000000		p		
+fi		22435000000	22435000000	-			Fixed
+fi		22435000000	22435000000		p		
+fi		22515500000	22515500000	-			Fixed
+fi		22515500000	22515500000		p		
+fi		22585500000	22585500000	-			Fixed
+fi		22585500000	22585500000		p		
+fi		22600000000	22600000000	-			Fixed
+fi		22600000000	22600000000		p		
+fi		23086000000	23086000000	-			Fixed
+fi		23086000000	23086000000		p		
+fi		23198000000	23198000000	-			Fixed
+fi		23198000000	23198000000		p		
+fi		23366000000	23366000000	-			Fixed
+fi		23366000000	23366000000		p		
+fi		23443000000	23443000000	-			Fixed
+fi		23443000000	23443000000		p		
+fi		23523500000	23523500000	-			Fixed
+fi		23523500000	23523500000		p		
+fi		23593500000	23593500000	-			Fixed
+fi		23593500000	23593500000		p		
+fi		23600000000	23600000000	-			SRR,  Radio astronomy,  Earth exploration-satellite
+fi		23600000000	23600000000	RADIO ASTRONOMY	p		
+fi		23600000000	23600000000	EARTH EXPLORATION-SATELLITE	p		
+fi		24000000000	24000000000	-			Radiodetermination applications,  Non-specific SRDs,  SRR,  Amateur,  Amateur-satellite
+fi		24000000000	24000000000	Radiolocation	s		
+fi		24000000000	24000000000	AMATEUR	p		
+fi		24000000000	24000000000	AMATEUR-SATELLITE	p		
+fi		24050000000	24050000000	-			SRR,  Radiodetermination applications,  Non-specific SRDs,  Amateur
+fi		24050000000	24050000000	RADIOLOCATION	p		
+fi		24050000000	24050000000	Amateur	s		
+fi		24250000000	24250000000	-			SRR
+fi		24250000000	24250000000	EARTH EXPLORATION-SATELLITE (SPACE-TO-EARTH)	p		
+fi		24250000000	24250000000	FIXED	p		
+fi		24250000000	24250000000	-			Automotive SRR
+fi		24250000000	24250000000		p		
+fi		24250000000	24250000000	-			Automotive SRR
+fi		24250000000	24250000000		p		
+fi		24495000000	24495000000	-			Automotive SRR
+fi		24495000000	24495000000		p		
+fi		24549000000	24549000000	-			BWA
+fi		24549000000	24549000000		p		
+fi		25347000000	25347000000	-			Fixed
+fi		25347000000	25347000000		p		
+fi		25500000000	25500000000	-			Earth exploration-satellite
+fi		25500000000	25500000000		p		
+fi		25557000000	25557000000	-			BWA
+fi		25557000000	25557000000		p		
+fi		26355000000	26355000000	-			Fixed
+fi		26355000000	26355000000		p		
+fi		27000000000	27000000000	-			Fixed
+fi		27000000000	27000000000	FIXED	p		
+fi		27500000000	27500000000	-			FSS Earth stations
+fi		27500000000	27500000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+fi		27500000000	27500000000	FIXED	p		
+fi		27500000000	27500000000	-			FSS Earth stations
+fi		27500000000	27500000000		p		
+fi		27947500000	27947500000	-			Fixed
+fi		27947500000	27947500000		p		
+fi		28010500000	28010500000	-			Fixed
+fi		28010500000	28010500000		p		
+fi		28192500000	28192500000	-			Fixed
+fi		28192500000	28192500000		p		
+fi		28444500000	28444500000	-			FSS Earth stations
+fi		28444500000	28444500000		p		
+fi		28836500000	28836500000	-			FSS Earth stations
+fi		28836500000	28836500000		p		
+fi		28955500000	28955500000	-			Fixed
+fi		28955500000	28955500000		p		
+fi		29018500000	29018500000	-			Fixed
+fi		29018500000	29018500000		p		
+fi		29100000000	29100000000	-			Feeder links
+fi		29100000000	29100000000		p		
+fi		29200500000	29200500000	-			Fixed
+fi		29200500000	29200500000		p		
+fi		29452500000	29452500000	-			FSS Earth stations
+fi		29452500000	29452500000		p		
+fi		29500000000	29500000000	-			FSS Earth stations
+fi		29500000000	29500000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+fi		29500000000	29500000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+fi		29500000000	29500000000	-			FSS Earth stations
+fi		29500000000	29500000000		p		
+fi		31000000000	31000000000	-			Fixed,  Land mobile
+fi		31000000000	31000000000	FIXED	p		
+fi		31000000000	31000000000	MOBILE	p		
+fi		31300000000	31300000000	-			Radio astronomy,  Earth exploration-satellite
+fi		31300000000	31300000000	RADIO ASTRONOMY	p		
+fi		31300000000	31300000000	EARTH EXPLORATION-SATELLITE	p		
+fi		31500000000	31500000000	-			Space research,  Earth exploration-satellite,  Radio astronomy
+fi		31500000000	31500000000	SPACE RESEARCH	p		
+fi		31500000000	31500000000	EARTH EXPLORATION-SATELLITE	p		
+fi		31500000000	31500000000	RADIO ASTRONOMY	p		
+fi		31800000000	31800000000	-			Radiolocation (civil)
+fi		31800000000	31800000000	FIXED	p		
+fi		31800000000	31800000000	RADIONAVIGATION	p		
+fi		31899000000	31899000000	-			Fixed
+fi		31899000000	31899000000		p		
+fi		31927000000	31927000000	-			Fixed
+fi		31927000000	31927000000		p		
+fi		32711000000	32711000000	-			Fixed
+fi		32711000000	32711000000		p		
+fi		32739000000	32739000000	-			Fixed
+fi		32739000000	32739000000		p		
+fi		33400000000	33400000000	-			Radiolocation (civil)
+fi		33400000000	33400000000	RADIOLOCATION	p		
+fi		35500000000	35500000000	-			Radiolocation (civil)
+fi		35500000000	35500000000	RADIOLOCATION	p		
+fi		35500000000	35500000000	EARTH EXPLORATION-SATELLITE	p		
+fi		36000000000	36000000000	-			Radio astronomy
+fi		36000000000	36000000000	RADIO ASTRONOMY	p		
+fi		37000000000	37000000000	-			
+fi		37000000000	37000000000	FIXED	p		
+fi		37000000000	37000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+fi		37059750000	37059750000	-			Fixed
+fi		37059750000	37059750000		p		
+fi		37103500000	37103500000	-			Fixed
+fi		37103500000	37103500000		p		
+fi		37233000000	37233000000	-			Fixed
+fi		37233000000	37233000000		p		
+fi		37341500000	37341500000	-			Fixed
+fi		37341500000	37341500000		p		
+fi		37352000000	37352000000	-			Fixed
+fi		37352000000	37352000000		p		
+fi		37500000000	37500000000	-			FSS Earth stations
+fi		37500000000	37500000000		p		
+fi		37646000000	37646000000	-			Fixed
+fi		37646000000	37646000000		p		
+fi		38319750000	38319750000	-			Fixed
+fi		38319750000	38319750000		p		
+fi		38363500000	38363500000	-			Fixed
+fi		38363500000	38363500000		p		
+fi		38493000000	38493000000	-			Fixed
+fi		38493000000	38493000000		p		
+fi		38601500000	38601500000	-			Fixed
+fi		38601500000	38601500000		p		
+fi		38612000000	38612000000	-			Fixed
+fi		38612000000	38612000000		p		
+fi		38906000000	38906000000	-			Fixed
+fi		38906000000	38906000000		p		
+fi		39500000000	39500000000	-			FSS Earth stations,  Land mobile,  MSS Earth stations
+fi		39500000000	39500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+fi		39500000000	39500000000	MOBILE	p		
+fi		39500000000	39500000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+fi		40500000000	40500000000	-			Fixed,  Broadcasting (terrestrial),  Broadcasting (satellite),  FSS Earth stations
+fi		40500000000	40500000000	FIXED	p		
+fi		40500000000	40500000000	BROADCASTING	p		
+fi		40500000000	40500000000	BROADCASTING-SATELLITE	p		
+fi		40500000000	40500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+fi		40606000000	40606000000	-			Fixed
+fi		40606000000	40606000000		p		
+fi		40662000000	40662000000	-			Fixed
+fi		40662000000	40662000000		p		
+fi		42106000000	42106000000	-			Fixed
+fi		42106000000	42106000000		p		
+fi		42162000000	42162000000	-			Fixed
+fi		42162000000	42162000000		p		
+fi		42500000000	42500000000	-			Fixed,  Radio astronomy,  FSS Earth stations
+fi		42500000000	42500000000	FIXED	p		
+fi		42500000000	42500000000	RADIO ASTRONOMY	p		
+fi		42500000000	42500000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+fi		43500000000	43500000000	-			Satellite navigation systems,  Radiolocation (civil),  MSS Earth stations,  Land mobile
+fi		43500000000	43500000000	RADIONAVIGATION-SATELLITE	p		
+fi		43500000000	43500000000	RADIONAVIGATION	p		
+fi		43500000000	43500000000	MOBILE-SATELLITE	p		
+fi		43500000000	43500000000	MOBILE	p		
+fi		47000000000	47000000000	-			Amateur,  Amateur-satellite
+fi		47000000000	47000000000	AMATEUR	p		
+fi		47000000000	47000000000	AMATEUR-SATELLITE	p		
+fi		47200000000	47200000000	-			Fixed,  Land mobile,  FSS Earth stations
+fi		47200000000	47200000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+fi		47200000000	47200000000	FIXED	p		
+fi		47200000000	47200000000	RADIO ASTRONOMY	p		
+fi		47200000000	47200000000	MOBILE	p		
+fi		47200000000	47200000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+fi		47200000000	47200000000	-			HAPS
+fi		47200000000	47200000000		p		
+fi		47500000000	47500000000	-			FSS Earth stations
+fi		47500000000	47500000000		p		
+fi		47900000000	47900000000	-			HAPS
+fi		47900000000	47900000000		p		
+fi		48200000000	48200000000	-			FSS Earth stations
+fi		48200000000	48200000000		p		
+fi		48940000000	48940000000	-			Radio astronomy
+fi		48940000000	48940000000		p		
+fi		49440000000	49440000000	-			FSS Earth stations
+fi		49440000000	49440000000		p		
+fi		50200000000	50200000000	-			Space research
+fi		50200000000	50200000000	SPACE RESEARCH	p		
+fi		50400000000	50400000000	-			Fixed,  FSS Earth stations
+fi		50400000000	50400000000	FIXED	p		
+fi		50400000000	50400000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+fi		51400000000	51400000000	-			Fixed
+fi		51400000000	51400000000	FIXED	p		
+fi		52600000000	52600000000	-			Space research
+fi		52600000000	52600000000	SPACE RESEARCH	p		
+fi		55780000000	55780000000	-			Fixed
+fi		55780000000	55780000000	FIXED	p		
+fi		57000000000	57000000000	-			Non-specific SRDs,  Land mobile
+fi		57000000000	57000000000	FIXED	p		
+fi		57000000000	57000000000	MOBILE	p		
+fi		57200000000	57200000000	-			Fixed
+fi		57200000000	57200000000		p		
+fi		58200000000	58200000000	-			Space research,  Earth exploration-satellite,  Fixed,  Non-specific SRDs,  Land mobile
+fi		58200000000	58200000000	SPACE RESEARCH	p		
+fi		58200000000	58200000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+fi		58200000000	58200000000	FIXED	p		
+fi		58200000000	58200000000	MOBILE	p		
+fi		59000000000	59000000000	-			Land mobile,  Non-specific SRDs,  Fixed,  Radiolocation (civil)
+fi		59000000000	59000000000	MOBILE	p		
+fi		59000000000	59000000000	FIXED	p		
+fi		59000000000	59000000000	RADIOLOCATION	p		
+fi		59300000000	59300000000	-			Radiolocation (civil),  Land mobile,  Non-specific SRDs
+fi		59300000000	59300000000	RADIOLOCATION	p		
+fi		59300000000	59300000000	FIXED	p		
+fi		59300000000	59300000000	MOBILE	p		
+fi		59300000000	59300000000	-			Fixed
+fi		59300000000	59300000000		p		
+fi		61000000000	61000000000	-			Non-specific SRDs
+fi		61000000000	61000000000		p		
+fi		62000000000	62000000000	-			Land mobile
+fi		62000000000	62000000000		p		
+fi		63000000000	63000000000	-			TTT
+fi		63000000000	63000000000		p		
+fi		64000000000	64000000000	-			Land mobile,  Fixed
+fi		64000000000	64000000000	MOBILE	p		
+fi		64000000000	64000000000	FIXED	p		
+fi		65000000000	65000000000	-			Fixed,  Land mobile
+fi		65000000000	65000000000	FIXED	p		
+fi		65000000000	65000000000	MOBILE	p		
+fi		66000000000	66000000000	-			Satellite navigation systems,  Land mobile,  MSS Earth stations,  Radiolocation (civil)
+fi		66000000000	66000000000	RADIONAVIGATION-SATELLITE	p		
+fi		66000000000	66000000000	MOBILE	p		
+fi		66000000000	66000000000	MOBILE-SATELLITE	p		
+fi		66000000000	66000000000	RADIONAVIGATION	p		
+fi		71000000000	71000000000	-			MSS Earth stations,  Fixed,  Land mobile,  FSS Earth stations
+fi		71000000000	71000000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+fi		71000000000	71000000000	FIXED	p		
+fi		71000000000	71000000000	MOBILE	p		
+fi		71000000000	71000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+fi		74000000000	74000000000	-			
+fi		74000000000	74000000000	BROADCASTING-SATELLITE	p		
+fi		74000000000	74000000000	FIXED	p		
+fi		74000000000	74000000000	Space Research (space-to-Earth)	s		
+fi		74000000000	74000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+fi		74000000000	74000000000	MOBILE	p		
+fi		74000000000	74000000000	BROADCASTING	p		
+fi		74000000000	74000000000	-			Broadcasting (satellite),  Fixed,  Space research,  FSS Earth stations,  Land mobile,  Broadcasting (terrestrial)
+fi		74000000000	74000000000		p		
+fi		75500000000	75500000000	-			Fixed
+fi		75500000000	75500000000		p		
+fi		76000000000	76000000000	-			Amateur,  Radio astronomy,  Amateur-satellite
+fi		76000000000	76000000000	Space Research (space-to-Earth)	s		
+fi		76000000000	76000000000	RADIOLOCATION	p		
+fi		76000000000	76000000000	Amateur	s		
+fi		76000000000	76000000000	RADIO ASTRONOMY	p		
+fi		76000000000	76000000000	Amateur-Satellite	s		
+fi		76000000000	76000000000	-			Space research,  TTT
+fi		76000000000	76000000000		p		
+fi		77000000000	77000000000	-			SRR
+fi		77000000000	77000000000		p		
+fi		77500000000	77500000000	-			Space research,  Amateur-satellite,  SRR,  Amateur,  Radio astronomy
+fi		77500000000	77500000000	Space Research (space-to-Earth)	s		
+fi		77500000000	77500000000	AMATEUR-SATELLITE	p		
+fi		77500000000	77500000000	AMATEUR	p		
+fi		77500000000	77500000000	Radio Astronomy	s		
+fi		78000000000	78000000000	-			SRR,  Radiolocation (civil),  Amateur,  Radio astronomy,  Space research,  Amateur-satellite
+fi		78000000000	78000000000	RADIOLOCATION	p		
+fi		78000000000	78000000000	Amateur	s		
+fi		78000000000	78000000000	Radio Astronomy	s		
+fi		78000000000	78000000000	Space Research (space-to-Earth)	s		
+fi		78000000000	78000000000	Amateur-Satellite	s		
+fi		79000000000	79000000000	-			SRR,  Radiolocation (civil),  Radio astronomy,  Amateur,  Space research,  Amateur-satellite
+fi		79000000000	79000000000	RADIOLOCATION	p		
+fi		79000000000	79000000000	RADIO ASTRONOMY	p		
+fi		79000000000	79000000000	Amateur	s		
+fi		79000000000	79000000000	Space Research (space-to-Earth)	s		
+fi		79000000000	79000000000	Amateur-Satellite	s		
+fi		81000000000	81000000000	-			Fixed,  Land mobile,  FSS Earth stations,  MSS Earth stations,  Radio astronomy,  Space research
+fi		81000000000	81000000000	FIXED	p		
+fi		81000000000	81000000000	MOBILE	p		
+fi		81000000000	81000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+fi		81000000000	81000000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+fi		81000000000	81000000000	RADIO ASTRONOMY	p		
+fi		81000000000	81000000000	Space Research (space-to-Earth)	s		
+fi		81000000000	81000000000	Amateur	s		
+fi		81000000000	81000000000	Amateur-Satellite	s		
+fi		81000000000	81000000000	-			Amateur,  Amateur-satellite
+fi		81000000000	81000000000		p		
+fi		84000000000	84000000000	-			Fixed,  Land mobile,  FSS Earth stations,  Radio astronomy
+fi		84000000000	84000000000	FIXED	p		
+fi		84000000000	84000000000	MOBILE	p		
+fi		84000000000	84000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+fi		84000000000	84000000000	RADIO ASTRONOMY	p		
+fi		86000000000	86000000000	-			Radio astronomy
+fi		86000000000	86000000000	RADIO ASTRONOMY	p		
+fi		92000000000	92000000000	-			Radio astronomy,  Fixed,  Land mobile,  Radiolocation (civil)
+fi		92000000000	92000000000	RADIO ASTRONOMY	p		
+fi		92000000000	92000000000	FIXED	p		
+fi		92000000000	92000000000	MOBILE	p		
+fi		92000000000	92000000000	RADIOLOCATION	p		
+fi		94000000000	94000000000	-			Space research,  Earth exploration-satellite,  Radiolocation (civil),  Radio astronomy
+fi		94000000000	94000000000	SPACE RESEARCH (ACTIVE)	p		
+fi		94000000000	94000000000	EARTH EXPLORATION-SATELLITE	p		
+fi		94000000000	94000000000	RADIOLOCATION	p		
+fi		94000000000	94000000000	Radio Astronomy	s		
+fi		94100000000	94100000000	-			Radio astronomy,  Fixed,  Land mobile,  Radiolocation (civil)
+fi		94100000000	94100000000	RADIO ASTRONOMY	p		
+fi		94100000000	94100000000	FIXED	p		
+fi		94100000000	94100000000	MOBILE	p		
+fi		94100000000	94100000000	RADIOLOCATION	p		
+fi		95000000000	95000000000	-			Radio astronomy,  Land mobile,  Radiolocation (civil),  Satellite navigation systems,  Fixed
+fi		95000000000	95000000000	RADIO ASTRONOMY	p		
+fi		95000000000	95000000000	MOBILE	p		
+fi		95000000000	95000000000	RADIONAVIGATION	p		
+fi		95000000000	95000000000	RADIONAVIGATION-SATELLITE	p		
+fi		95000000000	95000000000	FIXED	p		
+fi		95000000000	95000000000	RADIOLOCATION	p		
+fi		100000000000	100000000000	-			Earth exploration-satellite,  Radio astronomy,  Space research
+fi		100000000000	100000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+fi		100000000000	100000000000	RADIO ASTRONOMY	p		
+fi		100000000000	100000000000	SPACE RESEARCH (PASSIVE)	p		
+fi		102000000000	102000000000	-			Radio astronomy,  Fixed,  Land mobile
+fi		102000000000	102000000000	RADIO ASTRONOMY	p		
+fi		102000000000	102000000000	FIXED	p		
+fi		102000000000	102000000000	MOBILE	p		
+fi		105000000000	105000000000	-			Radio astronomy,  Fixed,  Land mobile,  Space research
+fi		105000000000	105000000000	RADIO ASTRONOMY	p		
+fi		105000000000	105000000000	FIXED	p		
+fi		105000000000	105000000000	MOBILE	p		
+fi		105000000000	105000000000	SPACE RESEARCH (PASSIVE)	p		
+fi		109500000000	109500000000	-			Earth exploration-satellite,  Radio astronomy,  Space research
+fi		109500000000	109500000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+fi		109500000000	109500000000	RADIO ASTRONOMY	p		
+fi		109500000000	109500000000	SPACE RESEARCH (PASSIVE)	p		
+fi		111800000000	111800000000	-			Space research,  Fixed,  Land mobile,  Radio astronomy
+fi		111800000000	111800000000	SPACE RESEARCH (PASSIVE)	p		
+fi		111800000000	111800000000	FIXED	p		
+fi		111800000000	111800000000	MOBILE	p		
+fi		111800000000	111800000000	RADIO ASTRONOMY	p		
+fi		114250000000	114250000000	-			Earth exploration-satellite,  Radio astronomy,  Space research
+fi		114250000000	114250000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+fi		114250000000	114250000000	RADIO ASTRONOMY	p		
+fi		114250000000	114250000000	SPACE RESEARCH (PASSIVE)	p		
+fi		116000000000	116000000000	-			Inter-satellite links,  Earth exploration-satellite,  Space research
+fi		116000000000	116000000000	INTER-SATELLITE	p		
+fi		116000000000	116000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+fi		116000000000	116000000000	SPACE RESEARCH (PASSIVE)	p		
+fi		119980000000	119980000000	-			Earth exploration-satellite,  Inter-satellite links,  Space research
+fi		119980000000	119980000000	MOBILE	p		
+fi		119980000000	119980000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+fi		119980000000	119980000000	INTER-SATELLITE	p		
+fi		119980000000	119980000000	SPACE RESEARCH (PASSIVE)	p		
+fi		122000000000	122000000000	-			Non-specific SRDs
+fi		122000000000	122000000000		p		
+fi		122250000000	122250000000	-			Inter-satellite links,  Fixed,  Non-specific SRDs,  Amateur
+fi		122250000000	122250000000	INTER-SATELLITE	p		
+fi		122250000000	122250000000	FIXED	p		
+fi		122250000000	122250000000	MOBILE	p		
+fi		122250000000	122250000000	Amateur	s		
+fi		123000000000	123000000000	-			Radio astronomy,  FSS Earth stations,  MSS Earth stations,  Radiolocation (civil),  Satellite navigation systems
+fi		123000000000	123000000000	Radio Astronomy	s		
+fi		123000000000	123000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+fi		123000000000	123000000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+fi		123000000000	123000000000	RADIONAVIGATION	p		
+fi		123000000000	123000000000	RADIONAVIGATION-SATELLITE	p		
+fi		130000000000	130000000000	-			Inter-satellite links,  Fixed,  Land mobile,  Earth exploration-satellite,  Radio astronomy
+fi		130000000000	130000000000	INTER-SATELLITE	p		
+fi		130000000000	130000000000	FIXED	p		
+fi		130000000000	130000000000	MOBILE	p		
+fi		130000000000	130000000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+fi		130000000000	130000000000	RADIO ASTRONOMY	p		
+fi		134000000000	134000000000	-			Radio astronomy,  Amateur,  Amateur-satellite
+fi		134000000000	134000000000	Radio Astronomy	s		
+fi		134000000000	134000000000	AMATEUR	p		
+fi		134000000000	134000000000	AMATEUR-SATELLITE	p		
+fi		136000000000	136000000000	-			Radio astronomy,  Radiolocation (civil),  Amateur,  Amateur-satellite
+fi		136000000000	136000000000	RADIO ASTRONOMY	p		
+fi		136000000000	136000000000	RADIOLOCATION	p		
+fi		136000000000	136000000000	Amateur	s		
+fi		136000000000	136000000000	Amateur-Satellite	s		
+fi		141000000000	141000000000	-			Fixed,  Land mobile
+fi		141000000000	141000000000	FIXED	p		
+fi		141000000000	141000000000	MOBILE	p		
+fi		148500000000	148500000000	-			Space research,  Earth exploration-satellite,  Radio astronomy
+fi		148500000000	148500000000	SPACE RESEARCH (PASSIVE)	p		
+fi		148500000000	148500000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+fi		148500000000	148500000000	RADIO ASTRONOMY	p		
+fi		151500000000	151500000000	-			Radio astronomy,  Fixed,  Land mobile,  Radiolocation (civil)
+fi		151500000000	151500000000	RADIO ASTRONOMY	p		
+fi		151500000000	151500000000	FIXED	p		
+fi		151500000000	151500000000	MOBILE	p		
+fi		151500000000	151500000000	RADIOLOCATION	p		
+fi		155500000000	155500000000	-			Space research,  Fixed,  Land mobile,  Earth exploration-satellite,  Radio astronomy
+fi		155500000000	155500000000	SPACE RESEARCH (PASSIVE)	p		
+fi		155500000000	155500000000	FIXED	p		
+fi		155500000000	155500000000	MOBILE	p		
+fi		155500000000	155500000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+fi		155500000000	155500000000	RADIO ASTRONOMY	p		
+fi		158500000000	158500000000	-			MSS Earth stations,  Fixed,  FSS Earth stations,  Land mobile
+fi		158500000000	158500000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+fi		158500000000	158500000000	FIXED	p		
+fi		158500000000	158500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+fi		158500000000	158500000000	MOBILE	p		
+fi		164000000000	164000000000	-			Radio astronomy,  Earth exploration-satellite,  Space research
+fi		164000000000	164000000000	RADIO ASTRONOMY	p		
+fi		164000000000	164000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+fi		164000000000	164000000000	SPACE RESEARCH (PASSIVE)	p		
+fi		167000000000	167000000000	-			Inter-satellite links,  Fixed,  Land mobile,  FSS Earth stations
+fi		167000000000	167000000000	INTER-SATELLITE	p		
+fi		167000000000	167000000000	FIXED	p		
+fi		167000000000	167000000000	MOBILE	p		
+fi		167000000000	167000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+fi		174500000000	174500000000	-			Inter-satellite links,  Fixed,  Land mobile
+fi		174500000000	174500000000	INTER-SATELLITE	p		
+fi		174500000000	174500000000	FIXED	p		
+fi		174500000000	174500000000	MOBILE	p		
+fi		174800000000	174800000000	-			Space research,  Earth exploration-satellite,  Inter-satellite links
+fi		174800000000	174800000000	SPACE RESEARCH (PASSIVE)	p		
+fi		174800000000	174800000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+fi		174800000000	174800000000	INTER-SATELLITE	p		
+fi		182000000000	182000000000	-			Radio astronomy
+fi		182000000000	182000000000	RADIO ASTRONOMY	p		
+fi		185000000000	185000000000	-			Inter-satellite links,  Earth exploration-satellite,  Space research
+fi		185000000000	185000000000	INTER-SATELLITE	p		
+fi		185000000000	185000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+fi		185000000000	185000000000	SPACE RESEARCH (PASSIVE)	p		
+fi		190000000000	190000000000	-			Earth exploration-satellite,  Space research
+fi		190000000000	190000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+fi		190000000000	190000000000	SPACE RESEARCH (PASSIVE)	p		
+fi		191800000000	191800000000	-			MSS Earth stations,  Land mobile,  Inter-satellite links,  Satellite navigation systems,  Radiolocation (civil),  Fixed
+fi		191800000000	191800000000	MOBILE-SATELLITE	p		
+fi		191800000000	191800000000	MOBILE	p		
+fi		191800000000	191800000000	INTER-SATELLITE	p		
+fi		191800000000	191800000000	RADIONAVIGATION-SATELLITE	p		
+fi		191800000000	191800000000	RADIONAVIGATION	p		
+fi		191800000000	191800000000	FIXED	p		
+fi		200000000000	200000000000	-			Earth exploration-satellite,  Radio astronomy,  Space research
+fi		200000000000	200000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+fi		200000000000	200000000000	RADIO ASTRONOMY	p		
+fi		200000000000	200000000000	SPACE RESEARCH (PASSIVE)	p		
+fi		202000000000	202000000000	-			Earth exploration-satellite,  Radio astronomy,  Space research
+fi		202000000000	202000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+fi		202000000000	202000000000	RADIO ASTRONOMY	p		
+fi		202000000000	202000000000	SPACE RESEARCH (PASSIVE)	p		
+fi		209000000000	209000000000	-			Radio astronomy,  Fixed,  FSS Earth stations,  Land mobile
+fi		209000000000	209000000000	RADIO ASTRONOMY	p		
+fi		209000000000	209000000000	FIXED	p		
+fi		209000000000	209000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+fi		209000000000	209000000000	MOBILE	p		
+fi		217000000000	217000000000	-			Space research,  Radio astronomy,  Fixed,  FSS Earth stations,  Land mobile
+fi		217000000000	217000000000	SPACE RESEARCH (PASSIVE)	p		
+fi		217000000000	217000000000	RADIO ASTRONOMY	p		
+fi		217000000000	217000000000	FIXED	p		
+fi		217000000000	217000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+fi		217000000000	217000000000	MOBILE	p		
+fi		226000000000	226000000000	-			Earth exploration-satellite,  Radio astronomy,  Space research
+fi		226000000000	226000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+fi		226000000000	226000000000	RADIO ASTRONOMY	p		
+fi		226000000000	226000000000	SPACE RESEARCH (PASSIVE)	p		
+fi		231500000000	231500000000	-			Fixed,  Land mobile,  Radiolocation (civil)
+fi		231500000000	231500000000	FIXED	p		
+fi		231500000000	231500000000	MOBILE	p		
+fi		231500000000	231500000000	Radiolocation	s		
+fi		232000000000	232000000000	-			Fixed,  Land mobile,  FSS Earth stations,  Radiolocation (civil)
+fi		232000000000	232000000000	FIXED	p		
+fi		232000000000	232000000000	MOBILE	p		
+fi		232000000000	232000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+fi		232000000000	232000000000	Radiolocation	s		
+fi		235000000000	235000000000	-			Space research,  Earth exploration-satellite,  FSS Earth stations
+fi		235000000000	235000000000	SPACE RESEARCH (PASSIVE)	p		
+fi		235000000000	235000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+fi		235000000000	235000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+fi		238000000000	238000000000	-			Satellite navigation systems,  Fixed,  Land mobile,  FSS Earth stations,  Radiolocation (civil)
+fi		238000000000	238000000000	RADIONAVIGATION-SATELLITE	p		
+fi		238000000000	238000000000	FIXED	p		
+fi		238000000000	238000000000	MOBILE	p		
+fi		238000000000	238000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+fi		238000000000	238000000000	RADIOLOCATION	p		
+fi		238000000000	238000000000	RADIONAVIGATION	p		
+fi		240000000000	240000000000	-			Fixed,  Land mobile,  Radiolocation (civil)
+fi		240000000000	240000000000	FIXED	p		
+fi		240000000000	240000000000	MOBILE	p		
+fi		240000000000	240000000000	RADIOLOCATION	p		
+fi		241000000000	241000000000	-			Amateur,  Radio astronomy,  Amateur-satellite
+fi		241000000000	241000000000	RADIOLOCATION	p		
+fi		241000000000	241000000000	Amateur	s		
+fi		241000000000	241000000000	RADIO ASTRONOMY	p		
+fi		241000000000	241000000000	Amateur-Satellite	s		
+fi		244000000000	244000000000	-			Non-specific SRDs
+fi		244000000000	244000000000		p		
+fi		248000000000	248000000000	-			Radio astronomy,  Amateur,  Amateur-satellite
+fi		248000000000	248000000000	Radio Astronomy	s		
+fi		248000000000	248000000000	AMATEUR	p		
+fi		248000000000	248000000000	AMATEUR-SATELLITE	p		
+fi		250000000000	250000000000	-			Radio astronomy,  Earth exploration-satellite,  Space research
+fi		250000000000	250000000000	RADIO ASTRONOMY	p		
+fi		250000000000	250000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+fi		250000000000	250000000000	SPACE RESEARCH (PASSIVE)	p		
+fi		252000000000	252000000000	-			Satellite navigation systems,  Land mobile,  Radiolocation (civil),  Radio astronomy,  Fixed,  MSS Earth stations
+fi		252000000000	252000000000	RADIONAVIGATION-SATELLITE	p		
+fi		252000000000	252000000000	MOBILE	p		
+fi		252000000000	252000000000	RADIONAVIGATION	p		
+fi		252000000000	252000000000	RADIO ASTRONOMY	p		
+fi		252000000000	252000000000	FIXED	p		
+fi		252000000000	252000000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+fi		265000000000	265000000000	-			Radio astronomy,  Fixed,  Land mobile,  FSS Earth stations
+fi		265000000000	265000000000	RADIO ASTRONOMY	p		
+fi		265000000000	265000000000	FIXED	p		
+fi		265000000000	265000000000	MOBILE	p		
+fi		265000000000	265000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+fi		275000000000	275000000000	-			
+fi		275000000000	275000000000	Not allocated	s		

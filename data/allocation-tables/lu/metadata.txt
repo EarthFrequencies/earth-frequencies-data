@@ -1,0 +1,4 @@
+name	value
+iso2	lu
+name_en	Luxembourg
+parentRegions	itu1, eu

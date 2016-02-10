@@ -1,0 +1,4 @@
+name	value
+iso2	bg
+name_en	Bulgaria
+parentRegions	itu1, eu

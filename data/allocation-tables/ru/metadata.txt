@@ -1,0 +1,4 @@
+name	value
+iso2	ru
+name_en	Russian Federation
+parentRegions	itu1, eu

@@ -1,0 +1,4 @@
+name	value
+iso2	no
+name_en	Norway
+parentRegions	itu1, eu

@@ -1,0 +1,2508 @@
+region	sub-table	lower_frequency	upper_frequency	service	category	footnotes	applications
+ee		8300	8300	-			
+ee		8300	8300	NOT ALLOCATED 	p	5.54B, 5.54A	
+ee		9000	9000	-			Inductive applications
+ee		9000	9000		p		
+ee		9000	9000	-			
+ee		9000	9000	Mobile	s		
+ee		9000	9000	RADIONAVIGATION 	p	5.54A	
+ee		11300	11300	-			
+ee		11300	11300	Mobile	s		
+ee		11300	11300	RADIONAVIGATION	p		
+ee		14000	14000	-			
+ee		14000	14000	FIXED 	p	5.55, 5.56, 5.57	
+ee		14000	14000	Mobile	s		
+ee		19950	19950	-			
+ee		19950	19950	Mobile	s		
+ee		19950	19950	STANDARD FREQUENCY AND TIME SIGNAL (20 KHZ)	p		
+ee		20050	20050	-			
+ee		20050	20050	FIXED 	p	5.58, 5.57	
+ee		20050	20050	Mobile	s		
+ee		70000	70000	-			
+ee		70000	70000	Mobile	s		
+ee		70000	70000	RADIONAVIGATION 	p	5.60	
+ee		72000	72000	-			
+ee		72000	72000	FIXED 	p	5.57	
+ee		72000	72000	RADIONAVIGATION 	p	5.56, 5.60	
+ee		72000	72000	Mobile	s		
+ee		84000	84000	-			
+ee		84000	84000	Mobile	s		
+ee		84000	84000	RADIONAVIGATION 	p	5.60	
+ee		86000	86000	-			
+ee		86000	86000	FIXED 	p	5.56, 5.57	
+ee		86000	86000	Mobile	s		
+ee		90000	90000	-			
+ee		90000	90000	Mobile	s		
+ee		90000	90000	Fixed 	s	5.62, 5.64	
+ee		90000	90000	RADIONAVIGATION	p		
+ee		110000	110000	-			
+ee		110000	110000	FIXED 	p	5.64	
+ee		110000	110000	RADIONAVIGATION	p		
+ee		110000	110000	Mobile	s		
+ee		112000	112000	-			
+ee		112000	112000	Mobile	s		
+ee		112000	112000	RADIONAVIGATION 	p	5.60	
+ee		115000	115000	-			
+ee		115000	115000	RADIONAVIGATION 	p	5.60	
+ee		115000	115000	Mobile	s		
+ee		117600	117600	-			
+ee		117600	117600	Mobile	s		
+ee		117600	117600	FIXED 	p	5.64	
+ee		117600	117600	RADIONAVIGATION 	p	5.60	
+ee		126000	126000	-			
+ee		126000	126000	RADIONAVIGATION 	p	5.60	
+ee		126000	126000	Mobile	s		
+ee		129000	129000	-			
+ee		129000	129000	Mobile	s		
+ee		129000	129000	FIXED 	p	5.64	
+ee		129000	129000	RADIONAVIGATION 	p	5.60	
+ee		130000	130000	-			
+ee		130000	130000	FIXED 	p	5.64	
+ee		130000	130000	MARITIME MOBILE	p		
+ee		130000	130000	Mobile	s		
+ee		135700	135700	-			Amateur
+ee		135700	135700	Amateur 	s	5.67A	
+ee		148500	148500	-			Broadcasting
+ee		148500	148500	BROADCASTING	p		
+ee		148500	148500	Mobile	s		
+ee		255000	255000	-			Broadcasting
+ee		255000	255000	BROADCASTING	p		
+ee		255000	255000	Mobile	s		
+ee		283500	283500	-			Beacons (maritime)
+ee		283500	283500	Aeronautical Radionavigation	s		
+ee		283500	283500	MARITIME RADIONAVIGATION 	p	5.74, 5.73	
+ee		283500	283500	Mobile	s		
+ee		315000	315000	-			Medical implants
+ee		315000	315000		p		
+ee		315000	315000	-			Beacons (aeronautical)
+ee		315000	315000	AERONAUTICAL RADIONAVIGATION 	p	5.75, 5.73	
+ee		315000	315000	Mobile	s		
+ee		325000	325000	-			Beacons (aeronautical)
+ee		325000	325000	AERONAUTICAL RADIONAVIGATION	p		
+ee		325000	325000	Mobile	s		
+ee		405000	405000	-			Beacons (aeronautical),  Beacons (maritime)
+ee		405000	405000	Mobile	s		
+ee		405000	405000	RADIONAVIGATION 	p	5.76	
+ee		415000	415000	-			Beacons (aeronautical)
+ee		415000	415000	AERONAUTICAL RADIONAVIGATION 	p	5.79	
+ee		415000	415000	Mobile	s		
+ee		435000	435000	-			
+ee		435000	435000	MARITIME MOBILE 	p	5.79, 5.79A, 5.84	
+ee		435000	435000	-			Beacons (aeronautical),  NAVTEX,  Maritime communications,  Tracking, tracing and data acquisition
+ee		435000	435000	Aeronautical Radionavigation 	s	5.79, 5.77, 5.80, 5.82	
+ee		435000	435000	Mobile	s		
+ee		475000	475000	-			
+ee		475000	475000	Amateur 	s	5.80B, 5.80A	
+ee		495000	495000	-			GMDSS
+ee		495000	495000	Mobile	s		
+ee		505000	505000	-			Maritime communications,  NAVTEX,  Beacons (aeronautical)
+ee		505000	505000	AERONAUTICAL RADIONAVIGATION	p		
+ee		505000	505000	MARITIME MOBILE	p		
+ee		505000	505000	Mobile	s		
+ee		526500	526500	-			Broadcasting
+ee		526500	526500	BROADCASTING	p		
+ee		526500	526500	Mobile	s		
+ee		1429000	1429000	-			Point-to-Point
+ee		1429000	1429000		p		
+ee		1559000	1559000	-			GPR/WPR
+ee		1559000	1559000		p		
+ee		1606500	1606500	-			Maritime communications,  DSC
+ee		1606500	1606500	MARITIME MOBILE 	p	5.92, 5.90	
+ee		1606500	1606500	Mobile	s		
+ee		1625000	1625000	-			
+ee		1625000	1625000	Mobile	s		
+ee		1625000	1625000	RADIOLOCATION 	p	5.93	
+ee		1635000	1635000	-			Maritime communications
+ee		1635000	1635000	MARITIME MOBILE 	p	5.96, 5.92, 5.90	
+ee		1635000	1635000	Mobile	s		
+ee		1650000	1650000	-			Defence systems
+ee		1650000	1650000		p		
+ee		1800000	1800000	-			
+ee		1800000	1800000	Mobile	s		
+ee		1800000	1800000	RADIOLOCATION 	p	5.93	
+ee		1810000	1810000	-			Amateur
+ee		1810000	1810000	AMATEUR 	p	5.100, 5.98	
+ee		1810000	1810000	Mobile	s		
+ee		1850000	1850000	-			Maritime communications
+ee		1850000	1850000	Amateur	s		
+ee		1850000	1850000	LAND MOBILE	p		
+ee		1850000	1850000	MARITIME MOBILE 	p	5.103, 5.96, 5.92	
+ee		1850000	1850000	Mobile	s		
+ee		1850000	1850000	-			Amateur
+ee		1850000	1850000		p		
+ee		2000000	2000000	-			Maritime communications
+ee		2000000	2000000	LAND MOBILE	p		
+ee		2000000	2000000	MARITIME MOBILE 	p	5.103, 5.92	
+ee		2000000	2000000	Mobile	s		
+ee		2025000	2025000	-			Maritime communications
+ee		2025000	2025000	LAND MOBILE	p		
+ee		2025000	2025000	MARITIME MOBILE 	p	5.103, 5.104, 5.92	
+ee		2025000	2025000	Mobile	s		
+ee		2045000	2045000	-			Maritime communications,  PMR/PAMR
+ee		2045000	2045000	FIXED	p		
+ee		2045000	2045000	LAND MOBILE	p		
+ee		2045000	2045000	MARITIME MOBILE 	p	5.92	
+ee		2045000	2045000	Mobile	s		
+ee		2045000	2045000	-			On-board communications
+ee		2045000	2045000		p		
+ee		2045000	2045000	-			Defence systems
+ee		2045000	2045000		p		
+ee		2127000	2127000	-			Defence systems
+ee		2127000	2127000		p		
+ee		2141500	2141500	-			DSC
+ee		2141500	2141500		p		
+ee		2160000	2160000	-			
+ee		2160000	2160000	Mobile	s		
+ee		2160000	2160000	RADIOLOCATION 	p	5.93	
+ee		2170000	2170000	-			Maritime communications
+ee		2170000	2170000	MARITIME MOBILE	p		
+ee		2170000	2170000	Mobile	s		
+ee		2173500	2173500	-			DSC,  GMDSS,  SAR (communications)
+ee		2173500	2173500	Mobile	s		
+ee		2173500	2173500	MOBILE (DISTRESS AND CALLING) 	p	5.111, 5.110, 5.108, 5.109	
+ee		2190500	2190500	-			
+ee		2190500	2190500	MARITIME MOBILE	p		
+ee		2190500	2190500	Mobile	s		
+ee		2194000	2194000	-			Defence systems,  Maritime communications
+ee		2194000	2194000	FIXED	p		
+ee		2194000	2194000	MOBILE EXCEPT AERONAUTICAL MOBILE (R) 	p	5.103, 5.92	
+ee		2194000	2194000	Mobile	s		
+ee		2300000	2300000	-			Maritime communications,  Defence systems
+ee		2300000	2300000	FIXED	p		
+ee		2300000	2300000	Mobile	s		
+ee		2300000	2300000	MOBILE EXCEPT AERONAUTICAL MOBILE (R) 	p	5.103, 5.113	
+ee		2391000	2391000	-			SAP/SAB and ENG/OB
+ee		2391000	2391000		p		
+ee		2498000	2498000	-			
+ee		2498000	2498000	Mobile	s		
+ee		2498000	2498000	STANDARD FREQUENCY AND TIME SIGNAL (2 500 KHZ)	p		
+ee		2501000	2501000	-			
+ee		2501000	2501000	Mobile	s		
+ee		2501000	2501000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+ee		2502000	2502000	-			Maritime communications
+ee		2502000	2502000	FIXED	p		
+ee		2502000	2502000	Mobile	s		
+ee		2502000	2502000	MOBILE EXCEPT AERONAUTICAL MOBILE (R) 	p	5.103, 5.92	
+ee		2625000	2625000	-			Maritime communications
+ee		2625000	2625000	MARITIME MOBILE 	p	5.92	
+ee		2625000	2625000	MARITIME RADIONAVIGATION	p		
+ee		2625000	2625000	Mobile	s		
+ee		2650000	2650000	-			Maritime communications
+ee		2650000	2650000	FIXED	p		
+ee		2650000	2650000	Mobile	s		
+ee		2650000	2650000	MOBILE EXCEPT AERONAUTICAL MOBILE (R) 	p	5.103, 5.92	
+ee		2650000	2650000	-			Defence systems
+ee		2650000	2650000		p		
+ee		2715000	2715000	-			Defence systems
+ee		2715000	2715000		p		
+ee		2725000	2725000	-			Defence systems
+ee		2725000	2725000		p		
+ee		2850000	2850000	-			SAR (communications),  AGA communications (civil)
+ee		2850000	2850000	AERONAUTICAL MOBILE (R) 	p	5.115, 5.111	
+ee		2850000	2850000	Mobile	s		
+ee		3025000	3025000	-			Defence systems
+ee		3025000	3025000	AERONAUTICAL MOBILE (OR)	p		
+ee		3025000	3025000	Mobile	s		
+ee		3155000	3155000	-			
+ee		3155000	3155000	FIXED	p		
+ee		3155000	3155000	-			Maritime communications
+ee		3155000	3155000	MARITIME MOBILE 	p	5.116	
+ee		3155000	3155000	Mobile	s		
+ee		3155000	3155000	-			Defence systems
+ee		3155000	3155000		p		
+ee		3200000	3200000	-			Maritime communications,  Defence systems
+ee		3200000	3200000	Mobile	s		
+ee		3200000	3200000	MOBILE EXCEPT AERONAUTICAL MOBILE (R) 	p	5.116, 5.113	
+ee		3230000	3230000	-			Maritime communications
+ee		3230000	3230000	MARITIME MOBILE 	p	5.116, 5.113	
+ee		3230000	3230000	Mobile	s		
+ee		3230000	3230000	-			Defence systems
+ee		3230000	3230000		p		
+ee		3400000	3400000	-			Radiolocation (military)
+ee		3400000	3400000		p		
+ee		3400000	3400000	-			AGA communications (civil)
+ee		3400000	3400000	AERONAUTICAL MOBILE (R)	p		
+ee		3400000	3400000	Mobile	s		
+ee		3400000	3400000	-			Amateur
+ee		3400000	3400000		p		
+ee		3500000	3500000	-			Maritime communications
+ee		3500000	3500000	AMATEUR	p		
+ee		3500000	3500000	FIXED	p		
+ee		3500000	3500000	MARITIME MOBILE 	p	5.92	
+ee		3500000	3500000	Mobile	s		
+ee		3600000	3600000	-			Defence systems
+ee		3600000	3600000		p		
+ee		3800000	3800000	-			
+ee		3800000	3800000	FIXED	p		
+ee		3800000	3800000	LAND MOBILE	p		
+ee		3800000	3800000	Mobile	s		
+ee		3800000	3800000	-			Defence systems
+ee		3800000	3800000		p		
+ee		3810000	3810000	-			Defence systems
+ee		3810000	3810000		p		
+ee		3820000	3820000	-			Defence systems
+ee		3820000	3820000		p		
+ee		3900000	3900000	-			Defence systems
+ee		3900000	3900000	AERONAUTICAL MOBILE (OR)	p		
+ee		3900000	3900000	Mobile	s		
+ee		3950000	3950000	-			AM sound analogue
+ee		3950000	3950000	BROADCASTING	p		
+ee		3950000	3950000	Mobile	s		
+ee		4000000	4000000	-			Maritime communications
+ee		4000000	4000000	FIXED	p		
+ee		4000000	4000000	MARITIME MOBILE 	p	5.127	
+ee		4000000	4000000	Mobile	s		
+ee		4063000	4063000	-			NAVTEX
+ee		4063000	4063000	MARITIME MOBILE 	p	5.132A, 5.110, 5.109, 5.128, 5.130, 5.131, 5.132, 5.79A	
+ee		4063000	4063000	Mobile	s		
+ee		4063000	4063000	-			Maritime communications
+ee		4063000	4063000		p		
+ee		4065000	4065000	-			Maritime communications,  Defence systems
+ee		4065000	4065000		p		
+ee		4125000	4125000	-			GMDSS
+ee		4125000	4125000		p		
+ee		4146000	4146000	-			Maritime communications
+ee		4146000	4146000		p		
+ee		4152000	4152000	-			Maritime communications
+ee		4152000	4152000		p		
+ee		4172000	4172000	-			Maritime communications
+ee		4172000	4172000		p		
+ee		4181750	4181750	-			Maritime communications
+ee		4181750	4181750		p		
+ee		4186750	4186750	-			Maritime communications
+ee		4186750	4186750		p		
+ee		4202250	4202250	-			Maritime communications
+ee		4202250	4202250		p		
+ee		4207250	4207250	-			DSC
+ee		4207250	4207250		p		
+ee		4209250	4209250	-			Maritime communications
+ee		4209250	4209250		p		
+ee		4219250	4219250	-			Defence systems
+ee		4219250	4219250		p		
+ee		4219250	4219250	-			DSC
+ee		4219250	4219250		p		
+ee		4221000	4221000	-			Maritime communications
+ee		4221000	4221000		p		
+ee		4234000	4234000	-			Railway applications
+ee		4234000	4234000		p		
+ee		4351000	4351000	-			Maritime communications
+ee		4351000	4351000		p		
+ee		4438000	4438000	-			Maritime communications
+ee		4438000	4438000	FIXED	p		
+ee		4438000	4438000	Mobile 	s	5.132B	
+ee		4438000	4438000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		4516000	4516000	-			Railway applications
+ee		4516000	4516000		p		
+ee		4650000	4650000	-			AGA communications (civil)
+ee		4650000	4650000	AERONAUTICAL MOBILE (R)	p		
+ee		4650000	4650000	Mobile	s		
+ee		4700000	4700000	-			Defence systems
+ee		4700000	4700000	AERONAUTICAL MOBILE (OR)	p		
+ee		4700000	4700000	Mobile	s		
+ee		4750000	4750000	-			Defence systems
+ee		4750000	4750000	AERONAUTICAL MOBILE (OR)	p		
+ee		4750000	4750000	FIXED 	p	5.113	
+ee		4750000	4750000	Mobile	s		
+ee		4850000	4850000	-			Defence systems
+ee		4850000	4850000	FIXED 	p	5.113	
+ee		4850000	4850000	LAND MOBILE	p		
+ee		4850000	4850000	Mobile	s		
+ee		4995000	4995000	-			
+ee		4995000	4995000	Mobile	s		
+ee		4995000	4995000	STANDARD FREQUENCY AND TIME SIGNAL (5 000 KHZ)	p		
+ee		5003000	5003000	-			
+ee		5003000	5003000	Mobile	s		
+ee		5003000	5003000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+ee		5005000	5005000	-			Defence systems
+ee		5005000	5005000	FIXED 	p	5.113	
+ee		5005000	5005000	Mobile	s		
+ee		5060000	5060000	-			
+ee		5060000	5060000	Mobile	s		
+ee		5060000	5060000	-			
+ee		5060000	5060000	FIXED 	p	5.133	
+ee		5060000	5060000	Mobile except aeronautical mobile	s		
+ee		5150000	5150000	-			Land mobile
+ee		5150000	5150000		p		
+ee		5250000	5250000	-			
+ee		5250000	5250000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		5250000	5250000	FIXED	p		
+ee		5250000	5250000	-			
+ee		5250000	5250000	Radiolocation 	s	5.132A	
+ee		5250000	5250000	-			Defence systems
+ee		5250000	5250000		p		
+ee		5260000	5260000	-			Defence systems
+ee		5260000	5260000		p		
+ee		5450000	5450000	-			Defence systems
+ee		5450000	5450000	FIXED	p		
+ee		5450000	5450000	LAND MOBILE	p		
+ee		5450000	5450000	Mobile	s		
+ee		5480000	5480000	-			AGA communications (civil)
+ee		5480000	5480000	AERONAUTICAL MOBILE (R) 	p	5.115, 5.111	
+ee		5480000	5480000	Mobile	s		
+ee		5679000	5679000	-			GMDSS
+ee		5679000	5679000		p		
+ee		5680000	5680000	-			Defence systems
+ee		5680000	5680000	AERONAUTICAL MOBILE (OR) 	p	5.115, 5.111	
+ee		5680000	5680000	Mobile	s		
+ee		5730000	5730000	-			
+ee		5730000	5730000	FIXED	p		
+ee		5730000	5730000	LAND MOBILE	p		
+ee		5730000	5730000	Mobile	s		
+ee		5730000	5730000	-			Defence systems
+ee		5730000	5730000		p		
+ee		5830000	5830000	-			Defence systems
+ee		5830000	5830000		p		
+ee		5900000	5900000	-			AM sound analogue
+ee		5900000	5900000	BROADCASTING 	p	5.134, 5.136	
+ee		5900000	5900000	Mobile	s		
+ee		5950000	5950000	-			AM sound analogue
+ee		5950000	5950000	BROADCASTING	p		
+ee		5950000	5950000	Mobile	s		
+ee		6200000	6200000	-			Defence systems
+ee		6200000	6200000	MARITIME MOBILE 	p	5.110, 5.109, 5.130, 5.132, 5.137	
+ee		6200000	6200000	Mobile	s		
+ee		6200000	6200000	-			Maritime communications
+ee		6200000	6200000		p		
+ee		6215000	6215000	-			GMDSS
+ee		6215000	6215000		p		
+ee		6224000	6224000	-			Maritime communications
+ee		6224000	6224000		p		
+ee		6233000	6233000	-			Maritime communications
+ee		6233000	6233000		p		
+ee		6261000	6261000	-			Maritime communications
+ee		6261000	6261000		p		
+ee		6262750	6262750	-			Maritime communications
+ee		6262750	6262750		p		
+ee		6275750	6275750	-			Maritime communications
+ee		6275750	6275750		p		
+ee		6280750	6280750	-			Maritime communications
+ee		6280750	6280750		p		
+ee		6284750	6284750	-			Maritime communications
+ee		6284750	6284750		p		
+ee		6300250	6300250	-			Maritime communications
+ee		6300250	6300250		p		
+ee		6311750	6311750	-			DSC
+ee		6311750	6311750		p		
+ee		6330750	6330750	-			DSC
+ee		6330750	6330750		p		
+ee		6332500	6332500	-			Maritime communications
+ee		6332500	6332500		p		
+ee		6501000	6501000	-			Maritime communications
+ee		6501000	6501000		p		
+ee		6525000	6525000	-			AGA communications (civil)
+ee		6525000	6525000	AERONAUTICAL MOBILE (R)	p		
+ee		6525000	6525000	Mobile	s		
+ee		6685000	6685000	-			Defence systems
+ee		6685000	6685000	AERONAUTICAL MOBILE (OR)	p		
+ee		6685000	6685000	Mobile	s		
+ee		6765000	6765000	-			
+ee		6765000	6765000	FIXED	p		
+ee		6765000	6765000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.138	
+ee		6765000	6765000	Mobile	s		
+ee		6765000	6765000	-			Defence systems
+ee		6765000	6765000		p		
+ee		6765000	6765000	-			ISM,  Non-specific SRDs
+ee		6765000	6765000		p		
+ee		6900000	6900000	-			Defence systems
+ee		6900000	6900000		p		
+ee		6935000	6935000	-			Defence systems
+ee		6935000	6935000		p		
+ee		7000000	7000000	-			Amateur
+ee		7000000	7000000	AMATEUR	p		
+ee		7000000	7000000	AMATEUR-SATELLITE	p		
+ee		7000000	7000000	Mobile	s		
+ee		7100000	7100000	-			Amateur
+ee		7100000	7100000	AMATEUR	p		
+ee		7100000	7100000	Mobile	s		
+ee		7200000	7200000	-			AM sound analogue
+ee		7200000	7200000	BROADCASTING	p		
+ee		7200000	7200000	Mobile	s		
+ee		7300000	7300000	-			
+ee		7300000	7300000	Mobile	s		
+ee		7300000	7300000	-			Broadcasting
+ee		7300000	7300000	BROADCASTING 	p	5.143B, 5.134, 5.143	
+ee		7350000	7350000	-			Defence systems
+ee		7350000	7350000		p		
+ee		7400000	7400000	-			Short Range Devices
+ee		7400000	7400000	BROADCASTING 	p	5.143B	
+ee		7400000	7400000	Land Mobile	s		
+ee		7400000	7400000	Fixed	s		
+ee		7450000	7450000	-			
+ee		7450000	7450000	FIXED	p		
+ee		7450000	7450000	-			Short Range Devices
+ee		7450000	7450000	MOBILE	p		
+ee		7650000	7650000	-			Defence systems
+ee		7650000	7650000		p		
+ee		8100000	8100000	-			Maritime communications
+ee		8100000	8100000	MARITIME MOBILE	p		
+ee		8195000	8195000	-			Defence systems,  SAR (communications)
+ee		8195000	8195000	MARITIME MOBILE 	p	5.111, 5.110, 5.109, 5.132, 5.145	
+ee		8195000	8195000	Mobile	s		
+ee		8195000	8195000	-			Maritime communications
+ee		8195000	8195000		p		
+ee		8291000	8291000	-			GMDSS
+ee		8291000	8291000		p		
+ee		8294000	8294000	-			Maritime communications
+ee		8294000	8294000		p		
+ee		8300000	8300000	-			Maritime communications
+ee		8300000	8300000		p		
+ee		8340000	8340000	-			Maritime communications
+ee		8340000	8340000		p		
+ee		8341750	8341750	-			Maritime communications
+ee		8341750	8341750		p		
+ee		8365750	8365750	-			Maritime communications
+ee		8365750	8365750		p		
+ee		8376250	8376250	-			Maritime communications
+ee		8376250	8376250		p		
+ee		8396250	8396250	-			Maritime communications
+ee		8396250	8396250		p		
+ee		8414250	8414250	-			DSC
+ee		8414250	8414250		p		
+ee		8416250	8416250	-			Maritime communications
+ee		8416250	8416250		p		
+ee		8436250	8436250	-			DSC
+ee		8436250	8436250		p		
+ee		8438000	8438000	-			Maritime communications
+ee		8438000	8438000		p		
+ee		8707000	8707000	-			Maritime communications
+ee		8707000	8707000		p		
+ee		8815000	8815000	-			AGA communications (civil)
+ee		8815000	8815000	AERONAUTICAL MOBILE (R)	p		
+ee		8815000	8815000	Mobile	s		
+ee		8965000	8965000	-			Defence systems
+ee		8965000	8965000	AERONAUTICAL MOBILE (OR)	p		
+ee		8965000	8965000	Mobile	s		
+ee		9040000	9040000	-			
+ee		9040000	9040000	FIXED	p		
+ee		9040000	9040000	Mobile	s		
+ee		9040000	9040000	-			Defence systems
+ee		9040000	9040000		p		
+ee		9220000	9220000	-			Defence systems
+ee		9220000	9220000		p		
+ee		9400000	9400000	-			AM sound analogue
+ee		9400000	9400000	BROADCASTING	p		
+ee		9400000	9400000	Mobile	s		
+ee		9500000	9500000	-			AM sound analogue
+ee		9500000	9500000	BROADCASTING	p		
+ee		9500000	9500000	Mobile	s		
+ee		9900000	9900000	-			
+ee		9900000	9900000	FIXED	p		
+ee		9900000	9900000	Mobile	s		
+ee		9995000	9995000	-			
+ee		9995000	9995000	Mobile	s		
+ee		9995000	9995000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+ee		10003000	10003000	-			
+ee		10003000	10003000	Mobile	s		
+ee		10003000	10003000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+ee		10005000	10005000	-			AGA communications (civil)
+ee		10005000	10005000	AERONAUTICAL MOBILE (R)	p		
+ee		10005000	10005000	Mobile	s		
+ee		10100000	10100000	-			Defence systems,  Amateur
+ee		10100000	10100000	Amateur	s		
+ee		10100000	10100000	FIXED	p		
+ee		10100000	10100000	Mobile	s		
+ee		10150000	10150000	-			
+ee		10150000	10150000	Mobile	s		
+ee		10150000	10150000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		10150000	10150000	-			Defence systems
+ee		10150000	10150000		p		
+ee		10190000	10190000	-			Defence systems
+ee		10190000	10190000		p		
+ee		11100000	11100000	-			Railway applications
+ee		11100000	11100000		p		
+ee		11175000	11175000	-			Railway applications,  Defence systems
+ee		11175000	11175000	AERONAUTICAL MOBILE (OR)	p		
+ee		11175000	11175000	Mobile	s		
+ee		11275000	11275000	-			AGA communications (civil),  Railway applications
+ee		11275000	11275000	AERONAUTICAL MOBILE (R)	p		
+ee		11275000	11275000	Mobile	s		
+ee		11400000	11400000	-			Railway applications,  Defence systems
+ee		11400000	11400000	FIXED	p		
+ee		11400000	11400000	Mobile	s		
+ee		11600000	11600000	-			AM sound analogue,  Railway applications
+ee		11600000	11600000	BROADCASTING	p		
+ee		11600000	11600000	Mobile	s		
+ee		11650000	11650000	-			Railway applications,  AM sound analogue
+ee		11650000	11650000	BROADCASTING	p		
+ee		11650000	11650000	Mobile	s		
+ee		12050000	12050000	-			AM sound analogue,  Railway applications
+ee		12050000	12050000	BROADCASTING	p		
+ee		12050000	12050000	Mobile	s		
+ee		12100000	12100000	-			Railway applications
+ee		12100000	12100000	FIXED	p		
+ee		12100000	12100000	Mobile	s		
+ee		12230000	12230000	-			Railway applications
+ee		12230000	12230000	MARITIME MOBILE	p		
+ee		12230000	12230000	Mobile	s		
+ee		12230000	12230000	-			Maritime communications
+ee		12230000	12230000		p		
+ee		12290000	12290000	-			GMDSS
+ee		12290000	12290000		p		
+ee		12353000	12353000	-			Maritime communications
+ee		12353000	12353000		p		
+ee		12368000	12368000	-			Maritime communications
+ee		12368000	12368000		p		
+ee		12420000	12420000	-			Maritime communications
+ee		12420000	12420000		p		
+ee		12421750	12421750	-			Maritime communications
+ee		12421750	12421750		p		
+ee		12476750	12476750	-			Maritime communications
+ee		12476750	12476750		p		
+ee		12549750	12549750	-			Maritime communications
+ee		12549750	12549750		p		
+ee		12554750	12554750	-			Maritime communications
+ee		12554750	12554750		p		
+ee		12559750	12559750	-			Maritime communications
+ee		12559750	12559750		p		
+ee		12576750	12576750	-			DSC
+ee		12576750	12576750		p		
+ee		12578750	12578750	-			Maritime communications
+ee		12578750	12578750		p		
+ee		12658500	12658500	-			Maritime communications
+ee		12658500	12658500		p		
+ee		13077000	13077000	-			Maritime communications
+ee		13077000	13077000		p		
+ee		13200000	13200000	-			Defence systems,  Railway applications
+ee		13200000	13200000	AERONAUTICAL MOBILE (OR)	p		
+ee		13200000	13200000	Mobile	s		
+ee		13260000	13260000	-			Railway applications,  AGA communications (civil)
+ee		13260000	13260000	AERONAUTICAL MOBILE (R)	p		
+ee		13260000	13260000	Mobile	s		
+ee		13360000	13360000	-			Railway applications
+ee		13360000	13360000	FIXED	p		
+ee		13360000	13360000	Mobile	s		
+ee		13360000	13360000	RADIO ASTRONOMY	p		
+ee		13410000	13410000	-			Railway applications,  Defence systems
+ee		13410000	13410000	FIXED	p		
+ee		13410000	13410000	Mobile	s		
+ee		13553000	13553000	-			ISM,  Non-specific SRDs
+ee		13553000	13553000		p		
+ee		13570000	13570000	-			Railway applications,  AM sound analogue
+ee		13570000	13570000	BROADCASTING	p		
+ee		13570000	13570000	Mobile	s		
+ee		13600000	13600000	-			AM sound analogue,  Railway applications,  Railway applications
+ee		13600000	13600000	BROADCASTING	p		
+ee		13600000	13600000	Mobile	s		
+ee		13800000	13800000	-			Railway applications,  AM sound analogue
+ee		13800000	13800000	BROADCASTING	p		
+ee		13800000	13800000	Mobile	s		
+ee		13870000	13870000	-			Defence systems,  Railway applications
+ee		13870000	13870000	FIXED	p		
+ee		13870000	13870000	Mobile	s		
+ee		13870000	13870000	Mobile except aeronautical mobile	s		
+ee		14000000	14000000	-			ESV
+ee		14000000	14000000		p		
+ee		14000000	14000000	-			Railway applications,  Amateur
+ee		14000000	14000000	AMATEUR	p		
+ee		14000000	14000000	AMATEUR-SATELLITE	p		
+ee		14000000	14000000	Mobile	s		
+ee		14250000	14250000	-			Amateur,  Railway applications
+ee		14250000	14250000	AMATEUR	p		
+ee		14250000	14250000	Mobile	s		
+ee		14350000	14350000	-			Railway applications
+ee		14350000	14350000	FIXED	p		
+ee		14350000	14350000	Mobile	s		
+ee		14350000	14350000	Mobile except aeronautical mobile	s		
+ee		14350000	14350000	-			Defence systems
+ee		14350000	14350000		p		
+ee		14990000	14990000	-			Railway applications
+ee		14990000	14990000	Mobile	s		
+ee		14990000	14990000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+ee		15005000	15005000	-			Railway applications
+ee		15005000	15005000	Mobile	s		
+ee		15005000	15005000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+ee		15010000	15010000	-			Railway applications,  Defence systems
+ee		15010000	15010000	AERONAUTICAL MOBILE (OR)	p		
+ee		15010000	15010000	Mobile	s		
+ee		15100000	15100000	-			AM sound analogue,  Railway applications
+ee		15100000	15100000	BROADCASTING	p		
+ee		15100000	15100000	Mobile	s		
+ee		15202750	15202750	-			Defence systems
+ee		15202750	15202750		p		
+ee		15600000	15600000	-			AM sound analogue,  Railway applications
+ee		15600000	15600000	BROADCASTING	p		
+ee		15600000	15600000	Mobile	s		
+ee		15800000	15800000	-			Railway applications,  Defence systems
+ee		15800000	15800000	FIXED	p		
+ee		15800000	15800000	Mobile	s		
+ee		16360000	16360000	-			
+ee		16360000	16360000	MARITIME MOBILE	p		
+ee		16360000	16360000	Mobile	s		
+ee		16360000	16360000	-			Maritime communications
+ee		16360000	16360000		p		
+ee		16420000	16420000	-			GMDSS
+ee		16420000	16420000		p		
+ee		16528000	16528000	-			Maritime communications
+ee		16528000	16528000		p		
+ee		16549000	16549000	-			Maritime communications
+ee		16549000	16549000		p		
+ee		16617000	16617000	-			Maritime communications
+ee		16617000	16617000		p		
+ee		16618750	16618750	-			Maritime communications
+ee		16618750	16618750		p		
+ee		16683250	16683250	-			Maritime communications
+ee		16683250	16683250		p		
+ee		16733750	16733750	-			Maritime communications
+ee		16733750	16733750		p		
+ee		16738750	16738750	-			Maritime communications
+ee		16738750	16738750		p		
+ee		16784750	16784750	-			Maritime communications
+ee		16784750	16784750		p		
+ee		16804250	16804250	-			DSC
+ee		16804250	16804250		p		
+ee		16806250	16806250	-			Maritime communications
+ee		16806250	16806250		p		
+ee		16902750	16902750	-			DSC
+ee		16902750	16902750		p		
+ee		16904500	16904500	-			Maritime communications
+ee		16904500	16904500		p		
+ee		17242000	17242000	-			Maritime communications
+ee		17242000	17242000		p		
+ee		17410000	17410000	-			
+ee		17410000	17410000	FIXED	p		
+ee		17410000	17410000	Mobile	s		
+ee		17480000	17480000	-			AM sound analogue
+ee		17480000	17480000	BROADCASTING	p		
+ee		17480000	17480000	Mobile	s		
+ee		17550000	17550000	-			AM sound analogue
+ee		17550000	17550000	BROADCASTING	p		
+ee		17550000	17550000	Mobile	s		
+ee		17900000	17900000	-			AGA communications (civil)
+ee		17900000	17900000	AERONAUTICAL MOBILE (R)	p		
+ee		17900000	17900000	Mobile	s		
+ee		17970000	17970000	-			Defence systems
+ee		17970000	17970000	AERONAUTICAL MOBILE (OR)	p		
+ee		17970000	17970000	Mobile	s		
+ee		18030000	18030000	-			
+ee		18030000	18030000	FIXED	p		
+ee		18030000	18030000	Mobile	s		
+ee		18052000	18052000	-			
+ee		18052000	18052000	FIXED	p		
+ee		18052000	18052000	Mobile	s		
+ee		18068000	18068000	-			Amateur
+ee		18068000	18068000	AMATEUR	p		
+ee		18068000	18068000	AMATEUR-SATELLITE	p		
+ee		18068000	18068000	Mobile	s		
+ee		18168000	18168000	-			Defence systems
+ee		18168000	18168000	FIXED	p		
+ee		18168000	18168000	Mobile	s		
+ee		18168000	18168000	Mobile except aeronautical mobile	s		
+ee		18780000	18780000	-			
+ee		18780000	18780000	MARITIME MOBILE	p		
+ee		18780000	18780000	Mobile	s		
+ee		18780000	18780000	-			Maritime communications
+ee		18780000	18780000		p		
+ee		18825000	18825000	-			Maritime communications
+ee		18825000	18825000		p		
+ee		18846000	18846000	-			Maritime communications
+ee		18846000	18846000		p		
+ee		18870000	18870000	-			Maritime communications
+ee		18870000	18870000		p		
+ee		18892750	18892750	-			Maritime communications
+ee		18892750	18892750		p		
+ee		18898250	18898250	-			DSC
+ee		18898250	18898250		p		
+ee		18900000	18900000	-			AM sound analogue
+ee		18900000	18900000	BROADCASTING	p		
+ee		18900000	18900000	Mobile	s		
+ee		19020000	19020000	-			
+ee		19020000	19020000	FIXED	p		
+ee		19020000	19020000	Mobile	s		
+ee		19680000	19680000	-			MSI
+ee		19680000	19680000	MARITIME MOBILE	p		
+ee		19680000	19680000	Mobile	s		
+ee		19680250	19680250	-			Maritime communications
+ee		19680250	19680250		p		
+ee		19703250	19703250	-			DSC
+ee		19703250	19703250		p		
+ee		19705000	19705000	-			Maritime communications
+ee		19705000	19705000		p		
+ee		19755000	19755000	-			Maritime communications
+ee		19755000	19755000		p		
+ee		19800000	19800000	-			
+ee		19800000	19800000	FIXED	p		
+ee		19800000	19800000	Mobile	s		
+ee		19990000	19990000	-			
+ee		19990000	19990000	Mobile	s		
+ee		19990000	19990000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+ee		19995000	19995000	-			
+ee		19995000	19995000	Mobile	s		
+ee		19995000	19995000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+ee		20010000	20010000	-			
+ee		20010000	20010000	FIXED	p		
+ee		20010000	20010000	Mobile	s		
+ee		20100000	20100000	-			Defence systems
+ee		20100000	20100000		p		
+ee		21000000	21000000	-			Amateur,  Amateur-satellite
+ee		21000000	21000000	AMATEUR	p		
+ee		21000000	21000000	AMATEUR-SATELLITE	p		
+ee		21000000	21000000	Mobile	s		
+ee		21450000	21450000	-			AM sound analogue
+ee		21450000	21450000	BROADCASTING	p		
+ee		21450000	21450000	Mobile	s		
+ee		21850000	21850000	-			
+ee		21850000	21850000	FIXED	p		
+ee		21850000	21850000	Mobile	s		
+ee		21870000	21870000	-			
+ee		21870000	21870000	FIXED	p		
+ee		21870000	21870000	Mobile	s		
+ee		21924000	21924000	-			AGA communications (civil)
+ee		21924000	21924000	AERONAUTICAL MOBILE (R)	p		
+ee		21924000	21924000	Mobile	s		
+ee		22000000	22000000	-			MSI
+ee		22000000	22000000	MARITIME MOBILE	p		
+ee		22000000	22000000	Mobile	s		
+ee		22000000	22000000	-			Maritime communications
+ee		22000000	22000000		p		
+ee		22159000	22159000	-			Maritime communications
+ee		22159000	22159000		p		
+ee		22180000	22180000	-			Maritime communications
+ee		22180000	22180000		p		
+ee		22240000	22240000	-			Maritime communications
+ee		22240000	22240000		p		
+ee		22241750	22241750	-			Maritime communications
+ee		22241750	22241750		p		
+ee		22279250	22279250	-			Maritime communications
+ee		22279250	22279250		p		
+ee		22284250	22284250	-			Maritime communications
+ee		22284250	22284250		p		
+ee		22351750	22351750	-			Maritime communications
+ee		22351750	22351750		p		
+ee		22374250	22374250	-			DSC
+ee		22374250	22374250		p		
+ee		22375750	22375750	-			Maritime communications
+ee		22375750	22375750		p		
+ee		22443750	22443750	-			DSC
+ee		22443750	22443750		p		
+ee		22445500	22445500	-			Maritime communications
+ee		22445500	22445500		p		
+ee		22696000	22696000	-			Maritime communications
+ee		22696000	22696000		p		
+ee		22855000	22855000	-			Defence systems
+ee		22855000	22855000	FIXED	p		
+ee		22855000	22855000	Mobile	s		
+ee		23000000	23000000	-			Defence systems
+ee		23000000	23000000	FIXED	p		
+ee		23000000	23000000	Mobile	s		
+ee		23200000	23200000	-			Defence systems
+ee		23200000	23200000	AERONAUTICAL MOBILE (OR)	p		
+ee		23200000	23200000	Mobile	s		
+ee		23350000	23350000	-			
+ee		23350000	23350000	FIXED	p		
+ee		23350000	23350000	Mobile	s		
+ee		24000000	24000000	-			Defence systems
+ee		24000000	24000000	FIXED	p		
+ee		24000000	24000000	Mobile	s		
+ee		24890000	24890000	-			Amateur,  Amateur-satellite
+ee		24890000	24890000	AMATEUR	p		
+ee		24890000	24890000	AMATEUR-SATELLITE	p		
+ee		24890000	24890000	Mobile	s		
+ee		24990000	24990000	-			
+ee		24990000	24990000	Mobile	s		
+ee		24990000	24990000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+ee		25005000	25005000	-			
+ee		25005000	25005000	Mobile	s		
+ee		25005000	25005000	STANDARD FREQUENCY AND TIME SIGNAL	p		
+ee		25010000	25010000	-			
+ee		25010000	25010000	FIXED	p		
+ee		25010000	25010000	Mobile	s		
+ee		25010000	25010000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		25070000	25070000	-			
+ee		25070000	25070000	MARITIME MOBILE	p		
+ee		25070000	25070000	Mobile	s		
+ee		25070000	25070000	-			Maritime communications
+ee		25070000	25070000		p		
+ee		25100000	25100000	-			Maritime communications
+ee		25100000	25100000		p		
+ee		25121000	25121000	-			Maritime communications
+ee		25121000	25121000		p		
+ee		25161250	25161250	-			Maritime communications
+ee		25161250	25161250		p		
+ee		25171250	25171250	-			Maritime communications
+ee		25171250	25171250		p		
+ee		25172750	25172750	-			Maritime communications
+ee		25172750	25172750		p		
+ee		25192750	25192750	-			Maritime communications
+ee		25192750	25192750		p		
+ee		25208250	25208250	-			DSC
+ee		25208250	25208250		p		
+ee		25210000	25210000	-			Defence systems
+ee		25210000	25210000	FIXED	p		
+ee		25210000	25210000	Mobile	s		
+ee		25210000	25210000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		25550000	25550000	-			
+ee		25550000	25550000	Mobile	s		
+ee		25550000	25550000	RADIO ASTRONOMY	p		
+ee		25670000	25670000	-			AM sound analogue
+ee		25670000	25670000	BROADCASTING	p		
+ee		25670000	25670000	Mobile	s		
+ee		26100000	26100000	-			MSI
+ee		26100000	26100000	MARITIME MOBILE	p		
+ee		26100000	26100000	Mobile	s		
+ee		26100250	26100250	-			Maritime communications
+ee		26100250	26100250		p		
+ee		26120750	26120750	-			DSC
+ee		26120750	26120750		p		
+ee		26122500	26122500	-			Maritime communications
+ee		26122500	26122500		p		
+ee		26145000	26145000	-			Maritime communications
+ee		26145000	26145000		p		
+ee		26175000	26175000	-			
+ee		26175000	26175000	FIXED	p		
+ee		26175000	26175000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		26175000	26175000	-			Defence systems
+ee		26175000	26175000		p		
+ee		26460000	26460000	-			Defence systems
+ee		26460000	26460000		p		
+ee		26957000	26957000	-			ISM,  Non-specific SRDs
+ee		26957000	26957000		p		
+ee		26960000	26960000	-			DSB/SSB AM CB / CEPT PR 27
+ee		26960000	26960000		p		
+ee		26995000	26995000	-			Model control
+ee		26995000	26995000		p		
+ee		27095000	27095000	-			Railway applications
+ee		27095000	27095000		p		
+ee		27410000	27410000	-			Defence systems
+ee		27410000	27410000		p		
+ee		27439000	27439000	-			Paging
+ee		27439000	27439000		p		
+ee		27500000	27500000	-			
+ee		27500000	27500000	FIXED	p		
+ee		27500000	27500000	METEOROLOGICAL AIDS	p		
+ee		27500000	27500000	Mobile	s		
+ee		28000000	28000000	-			Amateur-satellite,  Amateur
+ee		28000000	28000000	AMATEUR	p		
+ee		28000000	28000000	AMATEUR-SATELLITE	p		
+ee		28000000	28000000	Mobile	s		
+ee		29700000	29700000	-			Defence systems
+ee		29700000	29700000	Land Mobile	s		
+ee		29700000	29700000	MOBILE	p		
+ee		30000000	30000000	-			Medical implants
+ee		30000000	30000000		p		
+ee		30005000	30005000	-			Medical implants
+ee		30005000	30005000	Land Mobile	s		
+ee		30005000	30005000	MOBILE	p		
+ee		30010000	30010000	-			PMR/PAMR,  Medical implants
+ee		30010000	30010000	FIXED	p		
+ee		30010000	30010000	MOBILE	p		
+ee		30010000	30010000	-			Defence systems
+ee		30010000	30010000		p		
+ee		33300000	33300000	-			Defence systems
+ee		33300000	33300000		p		
+ee		34995000	34995000	-			Model control
+ee		34995000	34995000		p		
+ee		37500000	37500000	-			PMR/PAMR
+ee		37500000	37500000	Land Mobile	s		
+ee		37500000	37500000	MOBILE	p		
+ee		37600000	37600000	-			Defence systems
+ee		37600000	37600000		p		
+ee		37600000	37600000	-			Radio microphones
+ee		37600000	37600000		p		
+ee		38250000	38250000	-			PMR/PAMR
+ee		38250000	38250000	Land Mobile	s		
+ee		38250000	38250000	MOBILE	p		
+ee		39000000	39000000	-			Meteor scatter communications
+ee		39000000	39000000		p		
+ee		39986000	39986000	-			PMR/PAMR
+ee		39986000	39986000	MOBILE	p		
+ee		40020000	40020000	-			PMR/PAMR
+ee		40020000	40020000	Land Mobile	s		
+ee		40020000	40020000	MOBILE	p		
+ee		40400000	40400000	-			Defence systems
+ee		40400000	40400000		p		
+ee		40660000	40660000	-			ISM,  Model control,  Non-specific SRDs
+ee		40660000	40660000		p		
+ee		40980000	40980000	-			Defence systems
+ee		40980000	40980000	MOBILE	p		
+ee		41015000	41015000	-			PMR/PAMR
+ee		41015000	41015000	MOBILE	p		
+ee		41015000	41015000	-			Defence systems
+ee		41015000	41015000		p		
+ee		43750000	43750000	-			Defence systems
+ee		43750000	43750000		p		
+ee		47000000	47000000	-			
+ee		47000000	47000000	Amateur	s		
+ee		47000000	47000000	BROADCASTING	p		
+ee		47000000	47000000	Land Mobile	s		
+ee		47000000	47000000	-			Defence systems
+ee		47000000	47000000		p		
+ee		48000000	48000000	-			Land mobile
+ee		48000000	48000000		p		
+ee		49500000	49500000	-			Non-specific SRDs
+ee		49500000	49500000		p		
+ee		50000000	50000000	-			Amateur
+ee		50000000	50000000		p		
+ee		57000000	57000000	-			Defence systems
+ee		57000000	57000000		p		
+ee		58000000	58000000	-			TV analogue (terrestrial)
+ee		58000000	58000000		p		
+ee		58000000	58000000	-			PMR/PAMR
+ee		58000000	58000000		p		
+ee		59000000	59000000	-			Defence systems
+ee		59000000	59000000		p		
+ee		65000000	65000000	-			PMR/PAMR
+ee		65000000	65000000		p		
+ee		68000000	68000000	-			
+ee		68000000	68000000	AMATEUR	p		
+ee		68000000	68000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		68000000	68000000	-			Land mobile
+ee		68000000	68000000		p		
+ee		70000000	70000000	-			Amateur
+ee		70000000	70000000		p		
+ee		70140000	70140000	-			Flying model control
+ee		70140000	70140000		p		
+ee		71950000	71950000	-			Land mobile
+ee		71950000	71950000		p		
+ee		73300000	73300000	-			Defence systems
+ee		73300000	73300000		p		
+ee		74200000	74200000	-			PMR/PAMR
+ee		74200000	74200000		p		
+ee		74800000	74800000	-			Beacons (aeronautical)
+ee		74800000	74800000	AERONAUTICAL RADIONAVIGATION	p		
+ee		75200000	75200000	-			
+ee		75200000	75200000	LAND MOBILE	p		
+ee		75200000	75200000	-			PMR/PAMR
+ee		75200000	75200000		p		
+ee		77700000	77700000	-			PMR/PAMR
+ee		77700000	77700000		p		
+ee		77800000	77800000	-			PMR/PAMR
+ee		77800000	77800000		p		
+ee		78487000	78487000	-			PMR/PAMR
+ee		78487000	78487000		p		
+ee		78687000	78687000	-			PMR/PAMR
+ee		78687000	78687000		p		
+ee		79000000	79000000	-			Defence systems
+ee		79000000	79000000		p		
+ee		81750000	81750000	-			PMR/PAMR
+ee		81750000	81750000		p		
+ee		84600000	84600000	-			PMR/PAMR
+ee		84600000	84600000		p		
+ee		85000000	85000000	-			PMR/PAMR
+ee		85000000	85000000		p		
+ee		87500000	87500000	-			FM sound analogue,  Wireless audio/multimedia
+ee		87500000	87500000	BROADCASTING	p		
+ee		87500000	87500000	Mobile	s		
+ee		108000000	108000000	-			VOR,  ILS
+ee		108000000	108000000	AERONAUTICAL RADIONAVIGATION	p		
+ee		117975000	117975000	-			SAR (communications),  AGA communications (civil),  EPIRBs
+ee		117975000	117975000	AERONAUTICAL MOBILE (OR)	p		
+ee		117975000	117975000	AERONAUTICAL MOBILE (R)	p		
+ee		117975000	117975000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ee		132000000	132000000	-			Defence systems
+ee		132000000	132000000		p		
+ee		136000000	136000000	-			AGA communications (civil)
+ee		136000000	136000000	AERONAUTICAL MOBILE (R)	p		
+ee		137000000	137000000	-			S-PCS
+ee		137000000	137000000		p		
+ee		137000000	137000000	-			
+ee		137000000	137000000	Mobile except aeronautical mobile	s		
+ee		137000000	137000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ee		137025000	137025000	-			
+ee		137025000	137025000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+ee		137025000	137025000	Mobile except aeronautical mobile (R)	s		
+ee		137025000	137025000	Mobile-Satellite (space-to-Earth)	s		
+ee		137175000	137175000	-			
+ee		137175000	137175000	Mobile except aeronautical mobile (R)	s		
+ee		137175000	137175000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ee		137825000	137825000	-			
+ee		137825000	137825000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+ee		137825000	137825000	Mobile except aeronautical mobile (R)	s		
+ee		137825000	137825000	Mobile-Satellite (space-to-Earth)	s		
+ee		138000000	138000000	-			Defence systems
+ee		138000000	138000000		p		
+ee		138000000	138000000	-			
+ee		138000000	138000000	AERONAUTICAL MOBILE (OR)	p		
+ee		138000000	138000000	Land Mobile	s		
+ee		138200000	138200000	-			Non-specific SRDs
+ee		138200000	138200000		p		
+ee		143600000	143600000	-			
+ee		143600000	143600000	AERONAUTICAL MOBILE (OR)	p		
+ee		143600000	143600000	Land Mobile	s		
+ee		143650000	143650000	-			
+ee		143650000	143650000	AERONAUTICAL MOBILE (OR)	p		
+ee		144000000	144000000	-			Amateur-satellite,  Amateur
+ee		144000000	144000000	AMATEUR	p		
+ee		144000000	144000000	AMATEUR-SATELLITE	p		
+ee		146000000	146000000	-			Land mobile
+ee		146000000	146000000	LAND MOBILE	p		
+ee		148000000	148000000	-			S-PCS
+ee		148000000	148000000		p		
+ee		148000000	148000000	-			Land mobile
+ee		148000000	148000000	LAND MOBILE	p		
+ee		148000000	148000000	Mobile-Satellite (Earth-to-space)	s		
+ee		149900000	149900000	-			
+ee		149900000	149900000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ee		150050000	150050000	-			
+ee		150050000	150050000	LAND MOBILE	p		
+ee		150050000	150050000	-			PMR/PAMR
+ee		150050000	150050000		p		
+ee		150900000	150900000	-			PMR/PAMR
+ee		150900000	150900000		p		
+ee		151375000	151375000	-			PMR/PAMR
+ee		151375000	151375000		p		
+ee		151400000	151400000	-			PMR/PAMR
+ee		151400000	151400000		p		
+ee		151775000	151775000	-			PMR/PAMR
+ee		151775000	151775000		p		
+ee		151800000	151800000	-			PMR/PAMR
+ee		151800000	151800000		p		
+ee		151925000	151925000	-			PMR/PAMR
+ee		151925000	151925000		p		
+ee		152100000	152100000	-			PMR/PAMR
+ee		152100000	152100000		p		
+ee		152125000	152125000	-			PMR/PAMR
+ee		152125000	152125000		p		
+ee		153000000	153000000	-			PMR/PAMR
+ee		153000000	153000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		153275000	153275000	-			PMR/PAMR
+ee		153275000	153275000		p		
+ee		154000000	154000000	-			DSC,  Maritime communications,  SAR (communications)
+ee		154000000	154000000	MARITIME MOBILE	p		
+ee		154000000	154000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		154000000	154000000	-			PMR/PAMR
+ee		154000000	154000000		p		
+ee		154500000	154500000	-			PMR/PAMR,  PMR/PAMR
+ee		154500000	154500000		p		
+ee		154650000	154650000	-			PMR/PAMR
+ee		154650000	154650000		p		
+ee		155450000	155450000	-			Animal tracking
+ee		155450000	155450000		p		
+ee		155500000	155500000	-			Maritime communications
+ee		155500000	155500000		p		
+ee		156025000	156025000	-			Maritime communications
+ee		156025000	156025000		p		
+ee		156375000	156375000	-			Maritime communications
+ee		156375000	156375000		p		
+ee		156525000	156525000	-			Maritime communications
+ee		156525000	156525000		p		
+ee		156537500	156537500	-			Maritime communications
+ee		156537500	156537500		p		
+ee		156650000	156650000	-			Maritime communications
+ee		156650000	156650000		p		
+ee		156675000	156675000	-			Maritime communications
+ee		156675000	156675000		p		
+ee		156762500	156762500	-			
+ee		156762500	156762500	MARITIME MOBILE (DISTRESS AND CALLING)	p		
+ee		156762500	156762500	-			Maritime communications
+ee		156762500	156762500		p		
+ee		156800000	156800000	-			Maritime communications
+ee		156800000	156800000		p		
+ee		156812500	156812500	-			Maritime communications
+ee		156812500	156812500		p		
+ee		156837500	156837500	-			
+ee		156837500	156837500	LAND MOBILE	p		
+ee		156837500	156837500	MARITIME MOBILE	p		
+ee		156837500	156837500	Mobile	s		
+ee		156850000	156850000	-			Maritime communications
+ee		156850000	156850000		p		
+ee		156900000	156900000	-			Maritime communications
+ee		156900000	156900000		p		
+ee		157375000	157375000	-			Maritime communications
+ee		157375000	157375000		p		
+ee		157450000	157450000	-			PMR/PAMR
+ee		157450000	157450000		p		
+ee		160000000	160000000	-			PMR/PAMR
+ee		160000000	160000000		p		
+ee		160625000	160625000	-			Maritime communications
+ee		160625000	160625000		p		
+ee		160975000	160975000	-			PMR/PAMR
+ee		160975000	160975000		p		
+ee		161500000	161500000	-			Maritime communications
+ee		161500000	161500000		p		
+ee		161975000	161975000	-			AIS
+ee		161975000	161975000		p		
+ee		162025000	162025000	-			AIS
+ee		162025000	162025000		p		
+ee		162050000	162050000	-			PMR/PAMR
+ee		162050000	162050000		p		
+ee		164825000	164825000	-			PMR/PAMR
+ee		164825000	164825000		p		
+ee		165200000	165200000	-			PMR/PAMR
+ee		165200000	165200000		p		
+ee		165225000	165225000	-			PMR/PAMR
+ee		165225000	165225000		p		
+ee		166775000	166775000	-			PMR/PAMR
+ee		166775000	166775000		p		
+ee		167625000	167625000	-			PMR/PAMR
+ee		167625000	167625000		p		
+ee		169412500	169412500	-			Aids for hearing impaired
+ee		169412500	169412500		p		
+ee		169475000	169475000	-			Alarms
+ee		169475000	169475000		p		
+ee		169487500	169487500	-			Aids for hearing impaired
+ee		169487500	169487500		p		
+ee		169587500	169587500	-			Alarms
+ee		169587500	169587500		p		
+ee		169825000	169825000	-			PMR/PAMR
+ee		169825000	169825000		p		
+ee		171150000	171150000	-			PMR/PAMR
+ee		171150000	171150000		p		
+ee		171175000	171175000	-			PPDR
+ee		171175000	171175000		p		
+ee		171450000	171450000	-			PPDR
+ee		171450000	171450000		p		
+ee		172500000	172500000	-			PPDR
+ee		172500000	172500000		p		
+ee		172550000	172550000	-			PPDR
+ee		172550000	172550000		p		
+ee		173200000	173200000	-			Detection of movement and alert
+ee		173200000	173200000		p		
+ee		173350000	173350000	-			Social alarms
+ee		173350000	173350000		p		
+ee		174000000	174000000	-			DVB-T
+ee		174000000	174000000	BROADCASTING	p		
+ee		174000000	174000000	Land Mobile	s		
+ee		174000000	174000000	-			Radio microphones
+ee		174000000	174000000		p		
+ee		223000000	223000000	-			DVB-T
+ee		223000000	223000000	BROADCASTING	p		
+ee		230000000	230000000	-			T-DAB
+ee		230000000	230000000	BROADCASTING	p		
+ee		230000000	230000000	FIXED	p		
+ee		230000000	230000000	MOBILE	p		
+ee		235000000	235000000	-			
+ee		235000000	235000000	BROADCASTING	p		
+ee		235000000	235000000	FIXED	p		
+ee		235000000	235000000	MOBILE	p		
+ee		235000000	235000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ee		235000000	235000000	-			T-DAB
+ee		235000000	235000000		p		
+ee		238432000	238432000	-			Defence systems
+ee		238432000	238432000		p		
+ee		242950000	242950000	-			EPIRBs
+ee		242950000	242950000		p		
+ee		267000000	267000000	-			Defence systems
+ee		267000000	267000000	FIXED	p		
+ee		267000000	267000000	MOBILE	p		
+ee		272000000	272000000	-			Defence systems
+ee		272000000	272000000	FIXED	p		
+ee		272000000	272000000	MOBILE	p		
+ee		273000000	273000000	-			Defence systems
+ee		273000000	273000000	FIXED	p		
+ee		273000000	273000000	MOBILE	p		
+ee		308000000	308000000	-			SAP/SAB P to P audio links
+ee		308000000	308000000		p		
+ee		312000000	312000000	-			SAP/SAB P to P video links,  Defence systems
+ee		312000000	312000000	FIXED	p		
+ee		312000000	312000000	MOBILE	p		
+ee		315000000	315000000	-			Defence systems,  SAP/SAB P to P audio links
+ee		315000000	315000000	FIXED	p		
+ee		315000000	315000000	MOBILE	p		
+ee		322000000	322000000	-			Defence systems
+ee		322000000	322000000	FIXED	p		
+ee		322000000	322000000	MOBILE	p		
+ee		328600000	328600000	-			ILS
+ee		328600000	328600000	AERONAUTICAL RADIONAVIGATION	p		
+ee		335400000	335400000	-			Defence systems
+ee		335400000	335400000	FIXED	p		
+ee		335400000	335400000	MOBILE	p		
+ee		335400000	335400000	-			Defence systems
+ee		335400000	335400000		p		
+ee		380000000	380000000	-			PPDR
+ee		380000000	380000000		p		
+ee		380000000	380000000	-			
+ee		380000000	380000000	LAND MOBILE	p		
+ee		384800000	384800000	-			AGA communications (civil)
+ee		384800000	384800000		p		
+ee		385000000	385000000	-			
+ee		385000000	385000000	LAND MOBILE	p		
+ee		386000000	386000000	-			Land mobile
+ee		386000000	386000000		p		
+ee		387000000	387000000	-			
+ee		387000000	387000000	MOBILE	p		
+ee		387000000	387000000	-			Land mobile,  Defence systems
+ee		387000000	387000000		p		
+ee		389900000	389900000	-			Land mobile
+ee		389900000	389900000		p		
+ee		390000000	390000000	-			
+ee		390000000	390000000	MOBILE	p		
+ee		390000000	390000000	-			PPDR
+ee		390000000	390000000		p		
+ee		390000000	390000000	-			
+ee		390000000	390000000	LAND MOBILE	p		
+ee		394800000	394800000	-			AGA communications (civil)
+ee		394800000	394800000		p		
+ee		395000000	395000000	-			Land mobile,  Defence systems
+ee		395000000	395000000		p		
+ee		399900000	399900000	-			
+ee		399900000	399900000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ee		399900000	399900000	RADIONAVIGATION-SATELLITE	p		
+ee		400050000	400050000	-			
+ee		400050000	400050000	STANDARD FREQUENCY AND TIME SIGNAL-SATELLITE	p		
+ee		400150000	400150000	-			
+ee		400150000	400150000	METEOROLOGICAL AIDS	p		
+ee		400150000	400150000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+ee		400150000	400150000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ee		401000000	401000000	-			Medical implants
+ee		401000000	401000000		p		
+ee		401000000	401000000	-			Fixed
+ee		401000000	401000000	METEOROLOGICAL AIDS	p		
+ee		402000000	402000000	-			
+ee		402000000	402000000	Land Mobile	s		
+ee		402000000	402000000	METEOROLOGICAL AIDS	p		
+ee		403000000	403000000	-			Sondes
+ee		403000000	403000000	Land Mobile	s		
+ee		403000000	403000000	METEOROLOGICAL AIDS	p		
+ee		406000000	406000000	-			EPIRBs
+ee		406000000	406000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ee		406100000	406100000	-			Land mobile
+ee		406100000	406100000	LAND MOBILE	p		
+ee		407025000	407025000	-			Maritime
+ee		407025000	407025000		p		
+ee		410000000	410000000	-			
+ee		410000000	410000000	FIXED	p		
+ee		410000000	410000000	LAND MOBILE	p		
+ee		410000000	410000000	-			PPDR
+ee		410000000	410000000		p		
+ee		412500000	412500000	-			Land mobile
+ee		412500000	412500000		p		
+ee		414925000	414925000	-			PPDR
+ee		414925000	414925000		p		
+ee		415000000	415000000	-			Fixed
+ee		415000000	415000000		p		
+ee		420000000	420000000	-			
+ee		420000000	420000000	FIXED	p		
+ee		420000000	420000000	LAND MOBILE	p		
+ee		420000000	420000000	-			PPDR
+ee		420000000	420000000		p		
+ee		422500000	422500000	-			Land mobile
+ee		422500000	422500000		p		
+ee		424925000	424925000	-			PPDR
+ee		424925000	424925000		p		
+ee		425000000	425000000	-			Fixed
+ee		425000000	425000000		p		
+ee		430000000	430000000	-			Fixed
+ee		430000000	430000000	FIXED	p		
+ee		432000000	432000000	-			Amateur,  Earth exploration-satellite
+ee		432000000	432000000	AMATEUR	p		
+ee		432000000	432000000	Amateur-Satellite	s		
+ee		432000000	432000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ee		432000000	432000000	Land Mobile	s		
+ee		433050000	433050000	-			ISM,  Non-specific SRDs
+ee		433050000	433050000		p		
+ee		435000000	435000000	-			Amateur-satellite
+ee		435000000	435000000		p		
+ee		438000000	438000000	-			Fixed
+ee		438000000	438000000	FIXED	p		
+ee		440000000	440000000	-			Fixed
+ee		440000000	440000000	FIXED	p		
+ee		440000000	440000000	LAND MOBILE	p		
+ee		440000000	440000000	-			PMR/PAMR
+ee		440000000	440000000		p		
+ee		442500000	442500000	-			Fixed
+ee		442500000	442500000		p		
+ee		443000000	443000000	-			PMR/PAMR
+ee		443000000	443000000		p		
+ee		445000000	445000000	-			Fixed
+ee		445000000	445000000		p		
+ee		446000000	446000000	-			PMR 446
+ee		446000000	446000000		p		
+ee		446100000	446100000	-			PMR 446
+ee		446100000	446100000		p		
+ee		450000000	450000000	-			
+ee		450000000	450000000	Fixed	s		
+ee		450000000	450000000	MOBILE	p		
+ee		450000000	450000000	-			PMR/PAMR
+ee		450000000	450000000		p		
+ee		453000000	453000000	-			Land mobile
+ee		453000000	453000000		p		
+ee		457525000	457525000	-			On-board communications
+ee		457525000	457525000		p		
+ee		457575000	457575000	-			PMR/PAMR
+ee		457575000	457575000		p		
+ee		458100000	458100000	-			PMR/PAMR
+ee		458100000	458100000		p		
+ee		460000000	460000000	-			
+ee		460000000	460000000	MOBILE	p		
+ee		460000000	460000000	-			PMR/PAMR
+ee		460000000	460000000		p		
+ee		463000000	463000000	-			Land mobile
+ee		463000000	463000000		p		
+ee		467525000	467525000	-			On-board communications
+ee		467525000	467525000		p		
+ee		467575000	467575000	-			PMR/PAMR
+ee		467575000	467575000		p		
+ee		468100000	468100000	-			PMR/PAMR
+ee		468100000	468100000		p		
+ee		470000000	470000000	-			DVB-T
+ee		470000000	470000000	BROADCASTING	p		
+ee		470000000	470000000	Mobile	s		
+ee		790000000	790000000	-			TRA-ECS
+ee		790000000	790000000	BROADCASTING	p		
+ee		790000000	790000000	Land Mobile	s		
+ee		862000000	862000000	-			
+ee		862000000	862000000	Land Mobile	s		
+ee		862000000	862000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		863000000	863000000	-			Non-specific SRDs
+ee		863000000	863000000		p		
+ee		863000000	863000000	-			Wireless audio/multimedia,  SAP/SAB P to P audio links
+ee		863000000	863000000		p		
+ee		865000000	865000000	-			RFID
+ee		865000000	865000000		p		
+ee		868600000	868600000	-			Alarms
+ee		868600000	868600000		p		
+ee		869300000	869300000	-			Non-specific SRDs
+ee		869300000	869300000		p		
+ee		870000000	870000000	-			Land mobile
+ee		870000000	870000000		p		
+ee		876000000	876000000	-			GSM-R
+ee		876000000	876000000		p		
+ee		880000000	880000000	-			GSM
+ee		880000000	880000000		p		
+ee		890000000	890000000	-			TRA-ECS
+ee		890000000	890000000		p		
+ee		915000000	915000000	-			Land mobile
+ee		915000000	915000000		p		
+ee		921000000	921000000	-			GSM-R
+ee		921000000	921000000		p		
+ee		925000000	925000000	-			GSM
+ee		925000000	925000000		p		
+ee		935000000	935000000	-			TRA-ECS
+ee		935000000	935000000		p		
+ee		960000000	960000000	-			Defence systems,  Aeronautical navigation
+ee		960000000	960000000	AERONAUTICAL RADIONAVIGATION	p		
+ee		1215000000	1215000000	-			Defence systems
+ee		1215000000	1215000000		p		
+ee		1215000000	1215000000	-			
+ee		1215000000	1215000000	RADIOLOCATION	p		
+ee		1215000000	1215000000	RADIONAVIGATION	p		
+ee		1240000000	1240000000	-			Amateur
+ee		1240000000	1240000000	RADIOLOCATION	p		
+ee		1240000000	1240000000	RADIOLOCATION-SATELLITE	p		
+ee		1240000000	1240000000	RADIONAVIGATION	p		
+ee		1240000000	1240000000	RADIONAVIGATION-SATELLITE	p		
+ee		1260000000	1260000000	-			Amateur-satellite
+ee		1260000000	1260000000		p		
+ee		1300000000	1300000000	-			
+ee		1300000000	1300000000	AERONAUTICAL RADIONAVIGATION	p		
+ee		1300000000	1300000000	RADIOLOCATION	p		
+ee		1350000000	1350000000	-			
+ee		1350000000	1350000000	FIXED	p		
+ee		1350000000	1350000000	-			Defence systems
+ee		1350000000	1350000000		p		
+ee		1375000000	1375000000	-			Defence systems
+ee		1375000000	1375000000		p		
+ee		1400000000	1400000000	-			
+ee		1400000000	1400000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		1400000000	1400000000	SPACE RESEARCH (PASSIVE)	p		
+ee		1427000000	1427000000	-			Defence systems
+ee		1427000000	1427000000	FIXED	p		
+ee		1427000000	1427000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.341, 5.338A	
+ee		1429000000	1429000000	-			Defence systems
+ee		1429000000	1429000000	FIXED	p		
+ee		1452000000	1452000000	-			
+ee		1452000000	1452000000	BROADCASTING	p		
+ee		1452000000	1452000000	-			T-DAB
+ee		1452000000	1452000000		p		
+ee		1479500000	1479500000	-			Satellite radio
+ee		1479500000	1479500000		p		
+ee		1492000000	1492000000	-			Defence systems
+ee		1492000000	1492000000		p		
+ee		1492000000	1492000000	-			
+ee		1492000000	1492000000	FIXED	p		
+ee		1492000000	1492000000	-			Defence systems
+ee		1492000000	1492000000		p		
+ee		1518000000	1518000000	-			Satellite systems (civil)
+ee		1518000000	1518000000	FIXED	p		
+ee		1518000000	1518000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ee		1518000000	1518000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.342, 5.341	
+ee		1525000000	1525000000	-			MSS Earth stations,  INMARSAT
+ee		1525000000	1525000000		p		
+ee		1525000000	1525000000	-			
+ee		1525000000	1525000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ee		1530000000	1530000000	-			GMDSS
+ee		1530000000	1530000000		p		
+ee		1530000000	1530000000	-			
+ee		1530000000	1530000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ee		1535000000	1535000000	-			
+ee		1535000000	1535000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ee		1544000000	1544000000	-			GMDSS
+ee		1544000000	1544000000		p		
+ee		1559000000	1559000000	-			Defence systems,  GPS
+ee		1559000000	1559000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+ee		1610000000	1610000000	-			S-PCS
+ee		1610000000	1610000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ee		1610600000	1610600000	-			S-PCS
+ee		1610600000	1610600000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ee		1613800000	1613800000	-			
+ee		1613800000	1613800000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ee		1613800000	1613800000	Mobile-Satellite (space-to-Earth)	s		
+ee		1613800000	1613800000	-			S-PCS
+ee		1613800000	1613800000		p		
+ee		1621350000	1621350000	-			S-PCS
+ee		1621350000	1621350000		p		
+ee		1626500000	1626500000	-			MSS Earth stations,  INMARSAT
+ee		1626500000	1626500000		p		
+ee		1626500000	1626500000	-			
+ee		1626500000	1626500000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ee		1626500000	1626500000	-			GMDSS
+ee		1626500000	1626500000		p		
+ee		1645500000	1645500000	-			GMDSS
+ee		1645500000	1645500000		p		
+ee		1660000000	1660000000	-			
+ee		1660000000	1660000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ee		1660500000	1660500000	-			
+ee		1660500000	1660500000	RADIO ASTRONOMY	p		
+ee		1660500000	1660500000	SPACE RESEARCH (PASSIVE)	p		
+ee		1668000000	1668000000	-			
+ee		1668000000	1668000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ee		1668000000	1668000000	RADIO ASTRONOMY	p		
+ee		1668000000	1668000000	SPACE RESEARCH (PASSIVE)	p		
+ee		1668400000	1668400000	-			Defence systems
+ee		1668400000	1668400000	FIXED	p		
+ee		1668400000	1668400000	METEOROLOGICAL AIDS	p		
+ee		1668400000	1668400000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		1668400000	1668400000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ee		1668400000	1668400000	RADIO ASTRONOMY	p		
+ee		1670000000	1670000000	-			Satellite systems (civil)
+ee		1670000000	1670000000	FIXED	p		
+ee		1670000000	1670000000	MOBILE	p		
+ee		1670000000	1670000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ee		1675000000	1675000000	-			Defence systems
+ee		1675000000	1675000000	FIXED	p		
+ee		1675000000	1675000000	METEOROLOGICAL AIDS	p		
+ee		1675000000	1675000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+ee		1690000000	1690000000	-			Defence systems
+ee		1690000000	1690000000	Fixed	s		
+ee		1690000000	1690000000	METEOROLOGICAL AIDS	p		
+ee		1690000000	1690000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+ee		1700000000	1700000000	-			Defence systems
+ee		1700000000	1700000000	FIXED	p		
+ee		1700000000	1700000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+ee		1700000000	1700000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		1710000000	1710000000	-			UWB applications,  GPR/WPR
+ee		1710000000	1710000000		p		
+ee		1710000000	1710000000	-			
+ee		1710000000	1710000000	FIXED	p		
+ee		1710000000	1710000000	Land Mobile	s		
+ee		1710000000	1710000000	MOBILE	p		
+ee		1710000000	1710000000	-			Land mobile,  Land mobile,  TRA-ECS
+ee		1710000000	1710000000		p		
+ee		1730000000	1730000000	-			BMA
+ee		1730000000	1730000000		p		
+ee		1785000000	1785000000	-			SAP/SAB P to P video links,  SAP/SAB P to P audio links,  Radio microphones
+ee		1785000000	1785000000		p		
+ee		1795000000	1795000000	-			Wireless audio/multimedia
+ee		1795000000	1795000000		p		
+ee		1805000000	1805000000	-			TRA-ECS,  Land mobile
+ee		1805000000	1805000000		p		
+ee		1880000000	1880000000	-			DECT
+ee		1880000000	1880000000		p		
+ee		1885000000	1885000000	-			
+ee		1885000000	1885000000	FIXED	p		
+ee		1885000000	1885000000	MOBILE	p		
+ee		1885000000	1885000000	-			DECT
+ee		1885000000	1885000000		p		
+ee		1900200000	1900200000	-			TRA-ECS
+ee		1900200000	1900200000		p		
+ee		1920300000	1920300000	-			TRA-ECS,  TRA-ECS
+ee		1920300000	1920300000		p		
+ee		1930000000	1930000000	-			
+ee		1930000000	1930000000	FIXED	p		
+ee		1930000000	1930000000	MOBILE	p		
+ee		1980000000	1980000000	-			S-PCS,  IMT-2000 satellite component
+ee		1980000000	1980000000	FIXED	p		
+ee		1980000000	1980000000	MOBILE	p		
+ee		1980000000	1980000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ee		2010000000	2010000000	-			
+ee		2010000000	2010000000	FIXED	p		
+ee		2010000000	2010000000	MOBILE	p		
+ee		2025000000	2025000000	-			
+ee		2025000000	2025000000	FIXED	p		
+ee		2025000000	2025000000	MOBILE	p		
+ee		2025000000	2025000000	-			Defence systems
+ee		2025000000	2025000000		p		
+ee		2075250000	2075250000	-			SAP/SAB P to P audio links,  Fixed
+ee		2075250000	2075250000		p		
+ee		2110000000	2110000000	-			
+ee		2110000000	2110000000	FIXED	p		
+ee		2110000000	2110000000	MOBILE	p		
+ee		2110300000	2110300000	-			TRA-ECS
+ee		2110300000	2110300000	MOBILE	p		
+ee		2120000000	2120000000	-			
+ee		2120000000	2120000000	FIXED	p		
+ee		2120000000	2120000000	MOBILE	p		
+ee		2160000000	2160000000	-			
+ee		2160000000	2160000000	FIXED	p		
+ee		2160000000	2160000000	MOBILE	p		
+ee		2170000000	2170000000	-			IMT-2000 satellite component,  S-PCS
+ee		2170000000	2170000000	FIXED	p		
+ee		2170000000	2170000000	MOBILE	p		
+ee		2170000000	2170000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ee		2200000000	2200000000	-			Fixed
+ee		2200000000	2200000000	FIXED	p		
+ee		2200000000	2200000000	MOBILE	p		
+ee		2200000000	2200000000	-			Defence systems
+ee		2200000000	2200000000		p		
+ee		2250250000	2250250000	-			Fixed
+ee		2250250000	2250250000		p		
+ee		2290000000	2290000000	-			Fixed
+ee		2290000000	2290000000	FIXED	p		
+ee		2300000000	2300000000	-			Defence systems
+ee		2300000000	2300000000	Amateur	s		
+ee		2300000000	2300000000	FIXED	p		
+ee		2300000000	2300000000	MOBILE	p		
+ee		2300000000	2300000000	Radiolocation	s		
+ee		2300000000	2300000000	-			TRA-ECS
+ee		2300000000	2300000000		p		
+ee		2310000000	2310000000	-			Amateur
+ee		2310000000	2310000000		p		
+ee		2390000000	2390000000	-			SAP/SAB vehicular audio links
+ee		2390000000	2390000000		p		
+ee		2400000000	2400000000	-			ISM
+ee		2400000000	2400000000		p		
+ee		2400000000	2400000000	-			Radio LANs,  Non-specific SRDs,  Detection of movement and alert
+ee		2400000000	2400000000		p		
+ee		2400000000	2400000000	-			Defence systems,  Amateur,  Amateur-satellite
+ee		2400000000	2400000000	Amateur	s		
+ee		2400000000	2400000000	Amateur-Satellite	s		
+ee		2400000000	2400000000	FIXED	p		
+ee		2400000000	2400000000	Land Mobile	s		
+ee		2400000000	2400000000	MOBILE	p		
+ee		2400000000	2400000000	Radiolocation	s		
+ee		2446000000	2446000000	-			RFID,  Railway applications
+ee		2446000000	2446000000		p		
+ee		2450000000	2450000000	-			Defence systems
+ee		2450000000	2450000000	FIXED	p		
+ee		2450000000	2450000000	Land Mobile	s		
+ee		2450000000	2450000000	MOBILE	p		
+ee		2450000000	2450000000	Radiolocation	s		
+ee		2483500000	2483500000	-			S-PCS
+ee		2483500000	2483500000	FIXED	p		
+ee		2483500000	2483500000	MOBILE	p		
+ee		2483500000	2483500000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ee		2500000000	2500000000	-			TRA-ECS
+ee		2500000000	2500000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		2520000000	2520000000	-			TRA-ECS
+ee		2520000000	2520000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		2655000000	2655000000	-			TRA-ECS
+ee		2655000000	2655000000	Earth Exploration-Satellite (passive)	s		
+ee		2655000000	2655000000	FIXED	p		
+ee		2655000000	2655000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		2655000000	2655000000	Space Research (passive)	s		
+ee		2670000000	2670000000	-			TRA-ECS
+ee		2670000000	2670000000	FIXED	p		
+ee		2670000000	2670000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		2690000000	2690000000	-			
+ee		2690000000	2690000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		2690000000	2690000000	SPACE RESEARCH (PASSIVE)	p		
+ee		2700000000	2700000000	-			Defence systems,  Aeronautical surveillance
+ee		2700000000	2700000000	AERONAUTICAL RADIONAVIGATION	p		
+ee		2900000000	2900000000	-			Aeronautical surveillance,  Defence systems
+ee		2900000000	2900000000	Radiolocation	s		
+ee		2900000000	2900000000	RADIONAVIGATION	p		
+ee		3100000000	3100000000	-			Defence systems
+ee		3100000000	3100000000	RADIOLOCATION	p		
+ee		3300000000	3300000000	-			Defence systems
+ee		3300000000	3300000000	RADIOLOCATION	p		
+ee		3400000000	3400000000	-			TRA-ECS
+ee		3400000000	3400000000	FIXED	p		
+ee		3400000000	3400000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		3400000000	3400000000	Radiolocation	s		
+ee		3600000000	3600000000	-			FSS Earth stations
+ee		3600000000	3600000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		3600000000	3600000000	-			TRA-ECS
+ee		3600000000	3600000000		p		
+ee		3700000000	3700000000	-			ESV
+ee		3700000000	3700000000		p		
+ee		4200000000	4200000000	-			Altimeters
+ee		4200000000	4200000000	AERONAUTICAL RADIONAVIGATION	p		
+ee		4234000000	4234000000	-			Eurobalise
+ee		4234000000	4234000000		p		
+ee		4400000000	4400000000	-			Defence systems
+ee		4400000000	4400000000	FIXED	p		
+ee		4400000000	4400000000	MOBILE	p		
+ee		4500000000	4500000000	-			TLPR
+ee		4500000000	4500000000		p		
+ee		4500000000	4500000000	-			Defence systems
+ee		4500000000	4500000000	FIXED	p		
+ee		4500000000	4500000000	MOBILE	p		
+ee		4800000000	4800000000	-			Defence systems
+ee		4800000000	4800000000	FIXED	p		
+ee		4800000000	4800000000	MOBILE	p		
+ee		4800000000	4800000000	Radio Astronomy	s		
+ee		4990000000	4990000000	-			Defence systems
+ee		4990000000	4990000000	FIXED	p		
+ee		4990000000	4990000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		4990000000	4990000000	RADIO ASTRONOMY	p		
+ee		5000000000	5000000000	-			Aeronautical navigation
+ee		5000000000	5000000000	AERONAUTICAL RADIONAVIGATION	p		
+ee		5150000000	5150000000	-			
+ee		5150000000	5150000000	Mobile	s		
+ee		5150000000	5150000000	-			Aeronautical navigation
+ee		5150000000	5150000000	AERONAUTICAL RADIONAVIGATION	p		
+ee		5150000000	5150000000	Land Mobile	s		
+ee		5150000000	5150000000	MOBILE	p		
+ee		5250000000	5250000000	-			Defence systems
+ee		5250000000	5250000000	Land Mobile	s		
+ee		5250000000	5250000000	RADIOLOCATION	p		
+ee		5255000000	5255000000	-			Defence systems
+ee		5255000000	5255000000	Mobile	s		
+ee		5255000000	5255000000	RADIOLOCATION	p		
+ee		5350000000	5350000000	-			Defence systems,  Aeronautical navigation
+ee		5350000000	5350000000	AERONAUTICAL RADIONAVIGATION	p		
+ee		5350000000	5350000000	Radiolocation	s		
+ee		5460000000	5460000000	-			Defence systems
+ee		5460000000	5460000000	Mobile	s		
+ee		5460000000	5460000000	RADIONAVIGATION	p		
+ee		5470000000	5470000000	-			Defence systems
+ee		5470000000	5470000000	Mobile	s		
+ee		5470000000	5470000000	-			
+ee		5470000000	5470000000	MARITIME RADIONAVIGATION	p		
+ee		5470000000	5470000000	Mobile	s		
+ee		5470000000	5470000000	Radiolocation	s		
+ee		5650000000	5650000000	-			Amateur
+ee		5650000000	5650000000	Amateur	s		
+ee		5650000000	5650000000	Amateur-Satellite	s		
+ee		5650000000	5650000000	Mobile	s		
+ee		5650000000	5650000000	RADIOLOCATION	p		
+ee		5650000000	5650000000	-			Amateur-satellite
+ee		5650000000	5650000000		p		
+ee		5725000000	5725000000	-			ISM,  Non-specific SRDs
+ee		5725000000	5725000000		p		
+ee		5725000000	5725000000	-			Defence systems
+ee		5725000000	5725000000	Amateur	s		
+ee		5725000000	5725000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		5725000000	5725000000	Mobile	s		
+ee		5725000000	5725000000	RADIOLOCATION	p		
+ee		5795000000	5795000000	-			TTT
+ee		5795000000	5795000000		p		
+ee		5805000000	5805000000	-			TTT
+ee		5805000000	5805000000		p		
+ee		5830000000	5830000000	-			Defence systems
+ee		5830000000	5830000000	Amateur	s		
+ee		5830000000	5830000000	Amateur-Satellite	s		
+ee		5830000000	5830000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		5830000000	5830000000	Mobile	s		
+ee		5830000000	5830000000	RADIOLOCATION	p		
+ee		5850000000	5850000000	-			
+ee		5850000000	5850000000	FIXED	p		
+ee		5850000000	5850000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		5850000000	5850000000	Mobile	s		
+ee		5855000000	5855000000	-			ITS
+ee		5855000000	5855000000		p		
+ee		5875000000	5875000000	-			ITS
+ee		5875000000	5875000000		p		
+ee		5925000000	5925000000	-			FSS Earth stations
+ee		5925000000	5925000000	FIXED	p		
+ee		5925000000	5925000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		5925000000	5925000000	-			Point-to-Point,  ESV
+ee		5925000000	5925000000		p		
+ee		6425000000	6425000000	-			Point-to-Point
+ee		6425000000	6425000000		p		
+ee		6700000000	6700000000	-			
+ee		6700000000	6700000000	FIXED	p		
+ee		6700000000	6700000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE)	p		
+ee		7075000000	7075000000	-			
+ee		7075000000	7075000000	FIXED	p		
+ee		7075000000	7075000000	-			Point-to-Point
+ee		7075000000	7075000000		p		
+ee		7125000000	7125000000	-			Point-to-Point
+ee		7125000000	7125000000		p		
+ee		7250000000	7250000000	-			Defence systems
+ee		7250000000	7250000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		7250000000	7250000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ee		7300000000	7300000000	-			Point-to-Point
+ee		7300000000	7300000000		p		
+ee		7300000000	7300000000	-			
+ee		7300000000	7300000000	FIXED	p		
+ee		7300000000	7300000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		7450000000	7450000000	-			
+ee		7450000000	7450000000	FIXED	p		
+ee		7450000000	7450000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		7550000000	7550000000	-			SAP/SAB P to P video links,  SAP/SAB P to P audio links
+ee		7550000000	7550000000	FIXED	p		
+ee		7550000000	7550000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		7550000000	7550000000	MOBILE	p		
+ee		7750000000	7750000000	-			
+ee		7750000000	7750000000	FIXED	p		
+ee		7850000000	7850000000	-			
+ee		7850000000	7850000000	FIXED	p		
+ee		7900000000	7900000000	-			Defence systems
+ee		7900000000	7900000000	FIXED	p		
+ee		7900000000	7900000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		7900000000	7900000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ee		8025000000	8025000000	-			
+ee		8025000000	8025000000	FIXED	p		
+ee		8025000000	8025000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		8175000000	8175000000	-			
+ee		8175000000	8175000000	FIXED	p		
+ee		8175000000	8175000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		8215000000	8215000000	-			Defence systems
+ee		8215000000	8215000000		p		
+ee		8215000000	8215000000	-			
+ee		8215000000	8215000000	FIXED	p		
+ee		8215000000	8215000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		8400000000	8400000000	-			
+ee		8400000000	8400000000	FIXED	p		
+ee		8500000000	8500000000	-			TLPR
+ee		8500000000	8500000000		p		
+ee		8500000000	8500000000	-			
+ee		8500000000	8500000000	RADIOLOCATION	p		
+ee		8550000000	8550000000	-			
+ee		8550000000	8550000000	RADIOLOCATION	p		
+ee		8650000000	8650000000	-			
+ee		8650000000	8650000000	RADIOLOCATION	p		
+ee		8750000000	8750000000	-			Defence systems,  Airborne doppler navigation aids
+ee		8750000000	8750000000	AERONAUTICAL RADIONAVIGATION	p		
+ee		8750000000	8750000000	RADIOLOCATION	p		
+ee		8850000000	8850000000	-			Defence systems
+ee		8850000000	8850000000	MARITIME RADIONAVIGATION	p		
+ee		8850000000	8850000000	RADIOLOCATION	p		
+ee		9000000000	9000000000	-			Defence systems
+ee		9000000000	9000000000	AERONAUTICAL RADIONAVIGATION	p		
+ee		9000000000	9000000000	Radiolocation	s		
+ee		9200000000	9200000000	-			Detection of movement and alert
+ee		9200000000	9200000000		p		
+ee		9200000000	9200000000	-			Defence systems,  Maritime navigation
+ee		9200000000	9200000000	Land Mobile	s		
+ee		9200000000	9200000000	MARITIME RADIONAVIGATION	p		
+ee		9200000000	9200000000	RADIOLOCATION	p		
+ee		9300000000	9300000000	-			Maritime navigation,  Defence systems
+ee		9300000000	9300000000	Land Mobile	s		
+ee		9300000000	9300000000	Radiolocation	s		
+ee		9300000000	9300000000	RADIONAVIGATION	p		
+ee		9500000000	9500000000	-			Detection of movement and alert
+ee		9500000000	9500000000		p		
+ee		9500000000	9500000000	-			Defence systems
+ee		9500000000	9500000000	Land Mobile	s		
+ee		9500000000	9500000000	RADIOLOCATION	p		
+ee		9500000000	9500000000	RADIONAVIGATION	p		
+ee		9800000000	9800000000	-			Defence systems
+ee		9800000000	9800000000	Land Mobile	s		
+ee		9800000000	9800000000	RADIOLOCATION	p		
+ee		10000000000	10000000000	-			Amateur
+ee		10000000000	10000000000	Amateur	s		
+ee		10000000000	10000000000	FIXED	p		
+ee		10000000000	10000000000	RADIOLOCATION	p		
+ee		10150000000	10150000000	-			Subscriber access excluding MWS,  Fixed
+ee		10150000000	10150000000		p		
+ee		10300000000	10300000000	-			SAP/SAB and ENG/OB
+ee		10300000000	10300000000		p		
+ee		10313250000	10313250000	-			Fixed
+ee		10313250000	10313250000		p		
+ee		10450000000	10450000000	-			
+ee		10450000000	10450000000	Amateur	s		
+ee		10450000000	10450000000	Amateur-Satellite	s		
+ee		10450000000	10450000000	RADIOLOCATION	p		
+ee		10500000000	10500000000	-			Fixed,  Subscriber access excluding MWS
+ee		10500000000	10500000000		p		
+ee		10500000000	10500000000	-			
+ee		10500000000	10500000000	FIXED	p		
+ee		10550000000	10550000000	-			
+ee		10550000000	10550000000	FIXED	p		
+ee		10600000000	10600000000	-			
+ee		10600000000	10600000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		10600000000	10600000000	FIXED	p		
+ee		10600000000	10600000000	SPACE RESEARCH (PASSIVE)	p		
+ee		10680000000	10680000000	-			Passive sensors (satellite)
+ee		10680000000	10680000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		10680000000	10680000000	SPACE RESEARCH (PASSIVE)	p		
+ee		10700000000	10700000000	-			FSS Earth stations,  SIT/SUT
+ee		10700000000	10700000000		p		
+ee		10700000000	10700000000	-			SNG,  ESV,  VSAT,  Fixed
+ee		10700000000	10700000000	FIXED	p		
+ee		10700000000	10700000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE)	p		
+ee		10700000000	10700000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		11700000000	11700000000	-			Broadcasting (satellite)
+ee		11700000000	11700000000	BROADCASTING-SATELLITE	p		
+ee		11700000000	11700000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		11700000000	11700000000	Mobile except aeronautical mobile	s		
+ee		12500000000	12500000000	-			ESV,  SNG,  VSAT
+ee		12500000000	12500000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE)	p		
+ee		12750000000	12750000000	-			Fixed
+ee		12750000000	12750000000	FIXED	p		
+ee		12750000000	12750000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		13250000000	13250000000	-			
+ee		13250000000	13250000000	AERONAUTICAL RADIONAVIGATION	p		
+ee		13400000000	13400000000	-			Detection of movement and alert
+ee		13400000000	13400000000		p		
+ee		13400000000	13400000000	-			Radiolocation (military)
+ee		13400000000	13400000000	Land Mobile	s		
+ee		13400000000	13400000000	RADIOLOCATION	p		
+ee		13750000000	13750000000	-			
+ee		13750000000	13750000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		13750000000	13750000000	Land Mobile	s		
+ee		13750000000	13750000000	RADIOLOCATION	p		
+ee		14000000000	14000000000	-			SNG,  VSAT
+ee		14000000000	14000000000		p		
+ee		14000000000	14000000000	-			FSS Earth stations
+ee		14000000000	14000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		14000000000	14000000000	Mobile-Satellite (Earth-to-space)	s		
+ee		14000000000	14000000000	RADIONAVIGATION	p		
+ee		14250000000	14250000000	-			
+ee		14250000000	14250000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		14250000000	14250000000	Mobile-Satellite (Earth-to-space)	s		
+ee		14250000000	14250000000	RADIONAVIGATION	p		
+ee		14300000000	14300000000	-			
+ee		14300000000	14300000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		14300000000	14300000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		14300000000	14300000000	Mobile-Satellite (Earth-to-space)	s		
+ee		14400000000	14400000000	-			
+ee		14400000000	14400000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		14400000000	14400000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		14400000000	14400000000	Mobile-Satellite (Earth-to-space)	s		
+ee		14470000000	14470000000	-			
+ee		14470000000	14470000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		14470000000	14470000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		14470000000	14470000000	Mobile-Satellite (Earth-to-space)	s		
+ee		14500000000	14500000000	-			Fixed
+ee		14500000000	14500000000	FIXED	p		
+ee		14500000000	14500000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		14500000000	14500000000	MOBILE	p		
+ee		14782750000	14782750000	-			Defence systems
+ee		14782750000	14782750000		p		
+ee		14800000000	14800000000	-			Fixed
+ee		14800000000	14800000000	FIXED	p		
+ee		14800000000	14800000000	MOBILE	p		
+ee		14854000000	14854000000	-			Defence systems
+ee		14854000000	14854000000		p		
+ee		14914000000	14914000000	-			Defence systems
+ee		14914000000	14914000000		p		
+ee		15274000000	15274000000	-			Defence systems
+ee		15274000000	15274000000		p		
+ee		15334000000	15334000000	-			Defence systems
+ee		15334000000	15334000000		p		
+ee		15350000000	15350000000	-			
+ee		15350000000	15350000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		15350000000	15350000000	SPACE RESEARCH (PASSIVE)	p		
+ee		15400000000	15400000000	-			
+ee		15400000000	15400000000	AERONAUTICAL RADIONAVIGATION	p		
+ee		15430000000	15430000000	-			
+ee		15430000000	15430000000	AERONAUTICAL RADIONAVIGATION	p		
+ee		15630000000	15630000000	-			
+ee		15630000000	15630000000	AERONAUTICAL RADIONAVIGATION	p		
+ee		15700000000	15700000000	-			Defence systems
+ee		15700000000	15700000000		p		
+ee		15700000000	15700000000	-			
+ee		15700000000	15700000000	RADIOLOCATION	p		
+ee		16600000000	16600000000	-			
+ee		16600000000	16600000000	RADIOLOCATION	p		
+ee		17100000000	17100000000	-			GBSAR
+ee		17100000000	17100000000		p		
+ee		17100000000	17100000000	-			
+ee		17100000000	17100000000	Mobile	s		
+ee		17100000000	17100000000	RADIOLOCATION	p		
+ee		17200000000	17200000000	-			
+ee		17200000000	17200000000	Mobile	s		
+ee		17200000000	17200000000	RADIOLOCATION	p		
+ee		17300000000	17300000000	-			
+ee		17300000000	17300000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		17300000000	17300000000	Radiolocation	s		
+ee		17700000000	17700000000	-			Fixed
+ee		17700000000	17700000000	FIXED	p		
+ee		17700000000	17700000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE)	p		
+ee		18100000000	18100000000	-			Fixed
+ee		18100000000	18100000000	FIXED	p		
+ee		18100000000	18100000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		18100000000	18100000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		18400000000	18400000000	-			Fixed
+ee		18400000000	18400000000		p		
+ee		18400000000	18400000000	-			
+ee		18400000000	18400000000	FIXED	p		
+ee		18400000000	18400000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		18600000000	18600000000	-			
+ee		18600000000	18600000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		18600000000	18600000000	FIXED	p		
+ee		18600000000	18600000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		18600000000	18600000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+ee		18600000000	18600000000	Space Research (passive)	s		
+ee		18800000000	18800000000	-			
+ee		18800000000	18800000000	FIXED	p		
+ee		18800000000	18800000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		19300000000	19300000000	-			
+ee		19300000000	19300000000	FIXED	p		
+ee		19300000000	19300000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		19700000000	19700000000	-			SIT/SUT
+ee		19700000000	19700000000		p		
+ee		19700000000	19700000000	-			
+ee		19700000000	19700000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		19700000000	19700000000	Mobile-Satellite (space-to-Earth)	s		
+ee		20100000000	20100000000	-			
+ee		20100000000	20100000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		20100000000	20100000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ee		20200000000	20200000000	-			Defence systems
+ee		20200000000	20200000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		20200000000	20200000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ee		21200000000	21200000000	-			SAP/SAB and ENG/OB
+ee		21200000000	21200000000	FIXED	p		
+ee		21200000000	21200000000	MOBILE	p		
+ee		21400000000	21400000000	-			Satellite TV,  Fixed
+ee		21400000000	21400000000	BROADCASTING-SATELLITE	p		
+ee		21400000000	21400000000	FIXED	p		
+ee		21650000000	21650000000	-			TTT
+ee		21650000000	21650000000		p		
+ee		22000000000	22000000000	-			Fixed
+ee		22000000000	22000000000	FIXED	p		
+ee		22000000000	22000000000	Land Mobile	s		
+ee		22210000000	22210000000	-			Fixed
+ee		22210000000	22210000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		22210000000	22210000000	FIXED	p		
+ee		22210000000	22210000000	Land Mobile	s		
+ee		22210000000	22210000000	SPACE RESEARCH (PASSIVE)	p		
+ee		22500000000	22500000000	-			Fixed
+ee		22500000000	22500000000	FIXED	p		
+ee		22500000000	22500000000	Land Mobile	s		
+ee		22550000000	22550000000	-			
+ee		22550000000	22550000000	FIXED	p		
+ee		22550000000	22550000000	Land Mobile	s		
+ee		23000000000	23000000000	-			
+ee		23000000000	23000000000	FIXED	p		
+ee		23000000000	23000000000	Mobile	s		
+ee		23550000000	23550000000	-			
+ee		23550000000	23550000000	FIXED	p		
+ee		23550000000	23550000000	Mobile	s		
+ee		23600000000	23600000000	-			
+ee		23600000000	23600000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		23600000000	23600000000	Mobile	s		
+ee		23600000000	23600000000	SPACE RESEARCH (PASSIVE)	p		
+ee		24000000000	24000000000	-			ISM
+ee		24000000000	24000000000		p		
+ee		24000000000	24000000000	-			
+ee		24000000000	24000000000	AMATEUR	p		
+ee		24000000000	24000000000	AMATEUR-SATELLITE	p		
+ee		24000000000	24000000000	Mobile	s		
+ee		24050000000	24050000000	-			TLPR
+ee		24050000000	24050000000		p		
+ee		24050000000	24050000000	-			
+ee		24050000000	24050000000	Amateur	s		
+ee		24050000000	24050000000	Mobile	s		
+ee		24050000000	24050000000	RADIOLOCATION	p		
+ee		24250000000	24250000000	-			
+ee		24250000000	24250000000	FIXED	p		
+ee		24250000000	24250000000	Mobile	s		
+ee		24450000000	24450000000	-			
+ee		24450000000	24450000000	FIXED	p		
+ee		24450000000	24450000000	Mobile	s		
+ee		24500000000	24500000000	-			Fixed,  Subscriber access excluding MWS
+ee		24500000000	24500000000		p		
+ee		24650000000	24650000000	-			
+ee		24650000000	24650000000	FIXED	p		
+ee		24650000000	24650000000	Mobile	s		
+ee		24750000000	24750000000	-			
+ee		24750000000	24750000000	FIXED	p		
+ee		24750000000	24750000000	Land Mobile	s		
+ee		25250000000	25250000000	-			
+ee		25250000000	25250000000	FIXED	p		
+ee		25250000000	25250000000	Land Mobile	s		
+ee		25500000000	25500000000	-			
+ee		25500000000	25500000000	FIXED	p		
+ee		25500000000	25500000000	Land Mobile	s		
+ee		25500000000	25500000000	MOBILE	p		
+ee		25500000000	25500000000	-			Subscriber access excluding MWS,  Fixed
+ee		25500000000	25500000000		p		
+ee		27000000000	27000000000	-			
+ee		27000000000	27000000000	FIXED	p		
+ee		27500000000	27500000000	-			Subscriber access excluding MWS,  Fixed
+ee		27500000000	27500000000		p		
+ee		27500000000	27500000000	-			Satellite TV
+ee		27500000000	27500000000	FIXED	p		
+ee		27500000000	27500000000	Fixed-Satellite (space-to-Earth)	s		
+ee		27500000000	27500000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE)	p		
+ee		28500000000	28500000000	-			Satellite TV
+ee		28500000000	28500000000	FIXED	p		
+ee		28500000000	28500000000	Fixed-Satellite (space-to-Earth)	s		
+ee		28500000000	28500000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE)	p		
+ee		29100000000	29100000000	-			Satellite TV
+ee		29100000000	29100000000	FIXED	p		
+ee		29100000000	29100000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		29100000000	29100000000	Fixed-Satellite (space-to-Earth)	s		
+ee		29500000000	29500000000	-			SIT/SUT
+ee		29500000000	29500000000		p		
+ee		29500000000	29500000000	-			Satellite TV
+ee		29500000000	29500000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		29500000000	29500000000	Fixed-Satellite (space-to-Earth)	s		
+ee		29500000000	29500000000	Mobile-Satellite (Earth-to-space)	s		
+ee		29900000000	29900000000	-			Satellite TV
+ee		29900000000	29900000000	Fixed-Satellite (space-to-Earth)	s		
+ee		29900000000	29900000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE)	p		
+ee		29900000000	29900000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ee		30000000000	30000000000	-			
+ee		30000000000	30000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		30000000000	30000000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ee		31000000000	31000000000	-			
+ee		31000000000	31000000000	FIXED	p		
+ee		31000000000	31000000000	MOBILE	p		
+ee		31300000000	31300000000	-			
+ee		31300000000	31300000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		31300000000	31300000000	SPACE RESEARCH (PASSIVE)	p		
+ee		31500000000	31500000000	-			
+ee		31500000000	31500000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		31500000000	31500000000	FIXED	p		
+ee		31500000000	31500000000	SPACE RESEARCH (PASSIVE)	p		
+ee		31800000000	31800000000	-			Fixed
+ee		31800000000	31800000000		p		
+ee		31800000000	31800000000	-			
+ee		31800000000	31800000000	FIXED	p		
+ee		31800000000	31800000000	RADIONAVIGATION	p		
+ee		32000000000	32000000000	-			Fixed
+ee		32000000000	32000000000	FIXED	p		
+ee		32000000000	32000000000	RADIONAVIGATION	p		
+ee		32300000000	32300000000	-			Fixed
+ee		32300000000	32300000000	FIXED	p		
+ee		32300000000	32300000000	RADIONAVIGATION	p		
+ee		33000000000	33000000000	-			
+ee		33000000000	33000000000	FIXED	p		
+ee		33000000000	33000000000	RADIONAVIGATION	p		
+ee		33400000000	33400000000	-			Defence systems
+ee		33400000000	33400000000	Mobile	s		
+ee		33400000000	33400000000	RADIOLOCATION	p		
+ee		34200000000	34200000000	-			Defence systems,  Detection of movement and alert
+ee		34200000000	34200000000	Mobile	s		
+ee		34200000000	34200000000	RADIOLOCATION	p		
+ee		34700000000	34700000000	-			Detection of movement and alert,  Defence systems
+ee		34700000000	34700000000	Mobile	s		
+ee		34700000000	34700000000	RADIOLOCATION	p		
+ee		35200000000	35200000000	-			Detection of movement and alert
+ee		35200000000	35200000000	METEOROLOGICAL AIDS	p		
+ee		35200000000	35200000000	Mobile	s		
+ee		35200000000	35200000000	RADIOLOCATION	p		
+ee		35500000000	35500000000	-			Detection of movement and alert
+ee		35500000000	35500000000	METEOROLOGICAL AIDS	p		
+ee		35500000000	35500000000	Mobile	s		
+ee		35500000000	35500000000	RADIOLOCATION	p		
+ee		36000000000	36000000000	-			Defence systems
+ee		36000000000	36000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		36000000000	36000000000	FIXED	p		
+ee		36000000000	36000000000	MOBILE	p		
+ee		36000000000	36000000000	SPACE RESEARCH (PASSIVE)	p		
+ee		37000000000	37000000000	-			Fixed
+ee		37000000000	37000000000	FIXED	p		
+ee		37086000000	37086000000	-			Defence systems
+ee		37086000000	37086000000		p		
+ee		37500000000	37500000000	-			Fixed
+ee		37500000000	37500000000	FIXED	p		
+ee		37500000000	37500000000	Fixed-Satellite (space-to-Earth)	s		
+ee		38000000000	38000000000	-			Fixed
+ee		38000000000	38000000000	FIXED	p		
+ee		38000000000	38000000000	Fixed-Satellite (space-to-Earth)	s		
+ee		38346000000	38346000000	-			Defence systems
+ee		38346000000	38346000000		p		
+ee		39500000000	39500000000	-			Satellite systems (civil)
+ee		39500000000	39500000000		p		
+ee		39500000000	39500000000	-			
+ee		39500000000	39500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		39500000000	39500000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ee		40000000000	40000000000	-			
+ee		40000000000	40000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		40000000000	40000000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ee		40500000000	40500000000	-			MWS
+ee		40500000000	40500000000	BROADCASTING	p		
+ee		40500000000	40500000000	Broadcasting-Satellite	s		
+ee		40500000000	40500000000	FIXED	p		
+ee		40500000000	40500000000	Mobile-Satellite (space-to-Earth)	s		
+ee		41000000000	41000000000	-			
+ee		41000000000	41000000000	BROADCASTING	p		
+ee		41000000000	41000000000	Broadcasting-Satellite	s		
+ee		41000000000	41000000000	FIXED	p		
+ee		41000000000	41000000000	Fixed-Satellite (space-to-Earth)	s		
+ee		41000000000	41000000000	-			MWS
+ee		41000000000	41000000000		p		
+ee		42000000000	42000000000	-			MWS
+ee		42000000000	42000000000		p		
+ee		42500000000	42500000000	-			MWS
+ee		42500000000	42500000000	FIXED	p		
+ee		42500000000	42500000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		43500000000	43500000000	-			
+ee		43500000000	43500000000	MOBILE	p		
+ee		43500000000	43500000000	MOBILE-SATELLITE	p		
+ee		43500000000	43500000000	RADIONAVIGATION	p		
+ee		43500000000	43500000000	-			Defence systems
+ee		43500000000	43500000000		p		
+ee		47000000000	47000000000	-			Amateur-satellite,  Amateur
+ee		47000000000	47000000000	AMATEUR	p		
+ee		47000000000	47000000000	AMATEUR-SATELLITE	p		
+ee		47200000000	47200000000	-			SAP/SAB and ENG/OB
+ee		47200000000	47200000000		p		
+ee		47200000000	47200000000	-			
+ee		47200000000	47200000000	FIXED	p		
+ee		47200000000	47200000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		47200000000	47200000000	MOBILE	p		
+ee		47200000000	47200000000	RADIO ASTRONOMY	p		
+ee		47500000000	47500000000	-			
+ee		47500000000	47500000000	FIXED	p		
+ee		47500000000	47500000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		47500000000	47500000000	MOBILE	p		
+ee		47900000000	47900000000	-			
+ee		47900000000	47900000000	FIXED	p		
+ee		47900000000	47900000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		47900000000	47900000000	MOBILE	p		
+ee		48200000000	48200000000	-			
+ee		48200000000	48200000000	FIXED	p		
+ee		48200000000	48200000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		48200000000	48200000000	MOBILE	p		
+ee		48500000000	48500000000	-			SAP/SAB P to P audio links,  SAP/SAB P to P video links
+ee		48500000000	48500000000		p		
+ee		48540000000	48540000000	-			
+ee		48540000000	48540000000	FIXED	p		
+ee		48540000000	48540000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		49440000000	49440000000	-			
+ee		49440000000	49440000000	FIXED	p		
+ee		49440000000	49440000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		50200000000	50200000000	-			
+ee		50200000000	50200000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		50200000000	50200000000	SPACE RESEARCH (PASSIVE)	p		
+ee		50400000000	50400000000	-			Defence systems
+ee		50400000000	50400000000	FIXED	p		
+ee		50400000000	50400000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		50400000000	50400000000	MOBILE	p		
+ee		51400000000	51400000000	-			Fixed
+ee		51400000000	51400000000	FIXED	p		
+ee		52600000000	52600000000	-			
+ee		52600000000	52600000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		52600000000	52600000000	SPACE RESEARCH (PASSIVE)	p		
+ee		54250000000	54250000000	-			
+ee		54250000000	54250000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		54250000000	54250000000	SPACE RESEARCH (PASSIVE)	p		
+ee		55780000000	55780000000	-			Fixed
+ee		55780000000	55780000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		55780000000	55780000000	FIXED	p		
+ee		55780000000	55780000000	SPACE RESEARCH (PASSIVE)	p		
+ee		56900000000	56900000000	-			Fixed
+ee		56900000000	56900000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		56900000000	56900000000	FIXED	p		
+ee		56900000000	56900000000	MOBILE	p		
+ee		56900000000	56900000000	SPACE RESEARCH (PASSIVE)	p		
+ee		57000000000	57000000000	-			TLPR
+ee		57000000000	57000000000		p		
+ee		57000000000	57000000000	-			
+ee		57000000000	57000000000	Radiodetermination	s		
+ee		57000000000	57000000000	-			Fixed
+ee		57000000000	57000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		57000000000	57000000000	FIXED	p		
+ee		57000000000	57000000000	SPACE RESEARCH (PASSIVE)	p		
+ee		58200000000	58200000000	-			Fixed
+ee		58200000000	58200000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		58200000000	58200000000	FIXED	p		
+ee		58200000000	58200000000	SPACE RESEARCH (PASSIVE)	p		
+ee		59000000000	59000000000	-			Defence systems
+ee		59000000000	59000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		59000000000	59000000000	FIXED	p		
+ee		59000000000	59000000000	MOBILE	p		
+ee		59000000000	59000000000	RADIOLOCATION	p		
+ee		59000000000	59000000000	SPACE RESEARCH (PASSIVE)	p		
+ee		59300000000	59300000000	-			
+ee		59300000000	59300000000	FIXED	p		
+ee		59300000000	59300000000	Land Mobile	s		
+ee		59300000000	59300000000	MOBILE	p		
+ee		59300000000	59300000000	RADIOLOCATION	p		
+ee		59300000000	59300000000	-			Defence systems
+ee		59300000000	59300000000		p		
+ee		61000000000	61000000000	-			ISM,  Non-specific SRDs
+ee		61000000000	61000000000		p		
+ee		63000000000	63000000000	-			TTT
+ee		63000000000	63000000000		p		
+ee		64000000000	64000000000	-			Fixed
+ee		64000000000	64000000000	FIXED	p		
+ee		65000000000	65000000000	-			Fixed
+ee		65000000000	65000000000	FIXED	p		
+ee		66000000000	66000000000	-			
+ee		66000000000	66000000000	MOBILE	p		
+ee		66000000000	66000000000	MOBILE-SATELLITE	p		
+ee		66000000000	66000000000	RADIONAVIGATION	p		
+ee		66000000000	66000000000	RADIONAVIGATION-SATELLITE	p		
+ee		71000000000	71000000000	-			
+ee		71000000000	71000000000	FIXED	p		
+ee		71000000000	71000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		71000000000	71000000000	MOBILE	p		
+ee		71000000000	71000000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ee		74000000000	74000000000	-			
+ee		74000000000	74000000000	Radiodetermination	s		
+ee		74000000000	74000000000	-			
+ee		74000000000	74000000000	BROADCASTING	p		
+ee		74000000000	74000000000	BROADCASTING-SATELLITE	p		
+ee		74000000000	74000000000	FIXED	p		
+ee		74000000000	74000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		74000000000	74000000000	MOBILE	p		
+ee		74000000000	74000000000	Space Research (space-to-Earth)	s		
+ee		75500000000	75500000000	-			Amateur,  Amateur-satellite
+ee		75500000000	75500000000	AMATEUR	p		
+ee		75500000000	75500000000	AMATEUR-SATELLITE	p		
+ee		75500000000	75500000000	BROADCASTING	p		
+ee		75500000000	75500000000	BROADCASTING-SATELLITE	p		
+ee		75500000000	75500000000	FIXED	p		
+ee		75500000000	75500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		75500000000	75500000000	Space Research (space-to-Earth)	s		
+ee		76000000000	76000000000	-			
+ee		76000000000	76000000000	Amateur	s		
+ee		76000000000	76000000000	Amateur-Satellite	s		
+ee		76000000000	76000000000	Mobile	s		
+ee		76000000000	76000000000	RADIO ASTRONOMY	p		
+ee		76000000000	76000000000	RADIOLOCATION	p		
+ee		76000000000	76000000000	Space Research (space-to-Earth)	s		
+ee		76000000000	76000000000	-			TTT
+ee		76000000000	76000000000		p		
+ee		77000000000	77000000000	-			SRR
+ee		77000000000	77000000000		p		
+ee		77500000000	77500000000	-			
+ee		77500000000	77500000000	AMATEUR	p		
+ee		77500000000	77500000000	AMATEUR-SATELLITE	p		
+ee		77500000000	77500000000	Mobile	s		
+ee		77500000000	77500000000	Radio Astronomy	s		
+ee		77500000000	77500000000	Space Research (space-to-Earth)	s		
+ee		78000000000	78000000000	-			
+ee		78000000000	78000000000	Amateur	s		
+ee		78000000000	78000000000	Amateur-Satellite	s		
+ee		78000000000	78000000000	Earth Exploration-Satellite	s		
+ee		78000000000	78000000000	Mobile	s		
+ee		78000000000	78000000000	Radio Astronomy	s		
+ee		78000000000	78000000000	RADIOLOCATION	p		
+ee		78000000000	78000000000	Space Research (space-to-Earth)	s		
+ee		79000000000	79000000000	-			
+ee		79000000000	79000000000	Amateur	s		
+ee		79000000000	79000000000	Amateur-Satellite	s		
+ee		79000000000	79000000000	Mobile	s		
+ee		79000000000	79000000000	RADIO ASTRONOMY	p		
+ee		79000000000	79000000000	RADIOLOCATION	p		
+ee		79000000000	79000000000	Space Research (space-to-Earth)	s		
+ee		81000000000	81000000000	-			
+ee		81000000000	81000000000	Radiodetermination	s		
+ee		81000000000	81000000000	-			
+ee		81000000000	81000000000	Amateur	s		
+ee		81000000000	81000000000	Amateur-Satellite	s		
+ee		81000000000	81000000000	FIXED	p		
+ee		81000000000	81000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		81000000000	81000000000	MOBILE	p		
+ee		81000000000	81000000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ee		81000000000	81000000000	RADIO ASTRONOMY	p		
+ee		81000000000	81000000000	Space Research (space-to-Earth)	s		
+ee		84000000000	84000000000	-			
+ee		84000000000	84000000000	FIXED	p		
+ee		84000000000	84000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		84000000000	84000000000	MOBILE	p		
+ee		84000000000	84000000000	RADIO ASTRONOMY	p		
+ee		86000000000	86000000000	-			
+ee		86000000000	86000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		86000000000	86000000000	RADIO ASTRONOMY	p		
+ee		86000000000	86000000000	SPACE RESEARCH (PASSIVE)	p		
+ee		92000000000	92000000000	-			
+ee		92000000000	92000000000	FIXED	p		
+ee		92000000000	92000000000	MOBILE	p		
+ee		92000000000	92000000000	RADIO ASTRONOMY	p		
+ee		92000000000	92000000000	RADIOLOCATION	p		
+ee		94000000000	94000000000	-			
+ee		94000000000	94000000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ee		94000000000	94000000000	Radio Astronomy	s		
+ee		94000000000	94000000000	RADIOLOCATION	p		
+ee		94000000000	94000000000	SPACE RESEARCH (ACTIVE)	p		
+ee		94100000000	94100000000	-			
+ee		94100000000	94100000000	FIXED	p		
+ee		94100000000	94100000000	MOBILE	p		
+ee		94100000000	94100000000	RADIO ASTRONOMY	p		
+ee		94100000000	94100000000	RADIOLOCATION	p		
+ee		95000000000	95000000000	-			
+ee		95000000000	95000000000	FIXED	p		
+ee		95000000000	95000000000	MOBILE	p		
+ee		95000000000	95000000000	RADIO ASTRONOMY	p		
+ee		95000000000	95000000000	RADIOLOCATION	p		
+ee		95000000000	95000000000	RADIONAVIGATION	p		
+ee		95000000000	95000000000	RADIONAVIGATION-SATELLITE	p		
+ee		100000000000	100000000000	-			
+ee		100000000000	100000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		100000000000	100000000000	RADIO ASTRONOMY	p		
+ee		100000000000	100000000000	SPACE RESEARCH (PASSIVE)	p		
+ee		102000000000	102000000000	-			
+ee		102000000000	102000000000	FIXED	p		
+ee		102000000000	102000000000	MOBILE	p		
+ee		102000000000	102000000000	RADIO ASTRONOMY	p		
+ee		105000000000	105000000000	-			
+ee		105000000000	105000000000	FIXED	p		
+ee		105000000000	105000000000	MOBILE	p		
+ee		105000000000	105000000000	RADIO ASTRONOMY	p		
+ee		105000000000	105000000000	SPACE RESEARCH (PASSIVE)	p		
+ee		109500000000	109500000000	-			
+ee		109500000000	109500000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		109500000000	109500000000	RADIO ASTRONOMY	p		
+ee		109500000000	109500000000	SPACE RESEARCH (PASSIVE)	p		
+ee		111800000000	111800000000	-			
+ee		111800000000	111800000000	FIXED	p		
+ee		111800000000	111800000000	MOBILE	p		
+ee		111800000000	111800000000	RADIO ASTRONOMY	p		
+ee		111800000000	111800000000	SPACE RESEARCH (PASSIVE)	p		
+ee		114250000000	114250000000	-			
+ee		114250000000	114250000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		114250000000	114250000000	RADIO ASTRONOMY	p		
+ee		114250000000	114250000000	SPACE RESEARCH (PASSIVE)	p		
+ee		116000000000	116000000000	-			
+ee		116000000000	116000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		116000000000	116000000000	SPACE RESEARCH (PASSIVE)	p		
+ee		119980000000	119980000000	-			
+ee		119980000000	119980000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		119980000000	119980000000	FIXED	p		
+ee		119980000000	119980000000	SPACE RESEARCH (PASSIVE)	p		
+ee		120020000000	120020000000	-			
+ee		120020000000	120020000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		120020000000	120020000000	Mobile	s		
+ee		120020000000	120020000000	SPACE RESEARCH (PASSIVE)	p		
+ee		122000000000	122000000000	-			ISM,  Non-specific SRDs
+ee		122000000000	122000000000		p		
+ee		122250000000	122250000000	-			
+ee		122250000000	122250000000	Amateur	s		
+ee		122250000000	122250000000	FIXED	p		
+ee		122250000000	122250000000	Land Mobile	s		
+ee		122250000000	122250000000	MOBILE	p		
+ee		123000000000	123000000000	-			
+ee		123000000000	123000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		123000000000	123000000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ee		123000000000	123000000000	Radio Astronomy	s		
+ee		123000000000	123000000000	RADIONAVIGATION	p		
+ee		123000000000	123000000000	RADIONAVIGATION-SATELLITE	p		
+ee		126000000000	126000000000	-			
+ee		126000000000	126000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		126000000000	126000000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ee		126000000000	126000000000	Radio Astronomy	s		
+ee		126000000000	126000000000	RADIONAVIGATION	p		
+ee		126000000000	126000000000	RADIONAVIGATION-SATELLITE	p		
+ee		130000000000	130000000000	-			
+ee		130000000000	130000000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+ee		130000000000	130000000000	FIXED	p		
+ee		130000000000	130000000000	MOBILE	p		
+ee		130000000000	130000000000	RADIO ASTRONOMY	p		
+ee		134000000000	134000000000	-			Amateur,  Amateur-satellite
+ee		134000000000	134000000000		p		
+ee		134000000000	134000000000	-			
+ee		134000000000	134000000000	AMATEUR	p		
+ee		134000000000	134000000000	AMATEUR-SATELLITE	p		
+ee		134000000000	134000000000	Radio Astronomy	s		
+ee		136000000000	136000000000	-			
+ee		136000000000	136000000000	Amateur	s		
+ee		136000000000	136000000000	Amateur-Satellite	s		
+ee		136000000000	136000000000	RADIO ASTRONOMY	p		
+ee		136000000000	136000000000	RADIOLOCATION	p		
+ee		141000000000	141000000000	-			
+ee		141000000000	141000000000	FIXED	p		
+ee		141000000000	141000000000	MOBILE	p		
+ee		141000000000	141000000000	RADIO ASTRONOMY	p		
+ee		141000000000	141000000000	RADIOLOCATION	p		
+ee		148500000000	148500000000	-			
+ee		148500000000	148500000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		148500000000	148500000000	RADIO ASTRONOMY	p		
+ee		148500000000	148500000000	SPACE RESEARCH (PASSIVE)	p		
+ee		151500000000	151500000000	-			
+ee		151500000000	151500000000	FIXED	p		
+ee		151500000000	151500000000	MOBILE	p		
+ee		151500000000	151500000000	RADIO ASTRONOMY	p		
+ee		151500000000	151500000000	RADIOLOCATION	p		
+ee		155500000000	155500000000	-			
+ee		155500000000	155500000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		155500000000	155500000000	FIXED	p		
+ee		155500000000	155500000000	MOBILE	p		
+ee		155500000000	155500000000	RADIO ASTRONOMY	p		
+ee		155500000000	155500000000	SPACE RESEARCH (PASSIVE)	p		
+ee		158500000000	158500000000	-			
+ee		158500000000	158500000000	FIXED	p		
+ee		158500000000	158500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		158500000000	158500000000	MOBILE	p		
+ee		158500000000	158500000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+ee		164000000000	164000000000	-			
+ee		164000000000	164000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		164000000000	164000000000	RADIO ASTRONOMY	p		
+ee		164000000000	164000000000	SPACE RESEARCH (PASSIVE)	p		
+ee		167000000000	167000000000	-			
+ee		167000000000	167000000000	FIXED	p		
+ee		167000000000	167000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		167000000000	167000000000	MOBILE	p		
+ee		168000000000	168000000000	-			
+ee		168000000000	168000000000	FIXED	p		
+ee		168000000000	168000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		168000000000	168000000000	MOBILE	p		
+ee		170000000000	170000000000	-			
+ee		170000000000	170000000000	FIXED	p		
+ee		170000000000	170000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		170000000000	170000000000	MOBILE	p		
+ee		174500000000	174500000000	-			
+ee		174500000000	174500000000	FIXED	p		
+ee		174500000000	174500000000	MOBILE	p		
+ee		174800000000	174800000000	-			
+ee		174800000000	174800000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		174800000000	174800000000	SPACE RESEARCH (PASSIVE)	p		
+ee		182000000000	182000000000	-			
+ee		182000000000	182000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		182000000000	182000000000	RADIO ASTRONOMY	p		
+ee		182000000000	182000000000	SPACE RESEARCH (PASSIVE)	p		
+ee		185000000000	185000000000	-			
+ee		185000000000	185000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		185000000000	185000000000	SPACE RESEARCH (PASSIVE)	p		
+ee		190000000000	190000000000	-			
+ee		190000000000	190000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		190000000000	190000000000	SPACE RESEARCH (PASSIVE)	p		
+ee		191800000000	191800000000	-			
+ee		191800000000	191800000000	FIXED	p		
+ee		191800000000	191800000000	MOBILE	p		
+ee		191800000000	191800000000	MOBILE-SATELLITE	p		
+ee		191800000000	191800000000	RADIONAVIGATION	p		
+ee		191800000000	191800000000	RADIONAVIGATION-SATELLITE	p		
+ee		200000000000	200000000000	-			
+ee		200000000000	200000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		200000000000	200000000000	RADIO ASTRONOMY	p		
+ee		200000000000	200000000000	SPACE RESEARCH (PASSIVE)	p		
+ee		202000000000	202000000000	-			
+ee		202000000000	202000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		202000000000	202000000000	RADIO ASTRONOMY	p		
+ee		202000000000	202000000000	SPACE RESEARCH (PASSIVE)	p		
+ee		209000000000	209000000000	-			
+ee		209000000000	209000000000	FIXED	p		
+ee		209000000000	209000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		209000000000	209000000000	MOBILE	p		
+ee		209000000000	209000000000	RADIO ASTRONOMY	p		
+ee		217000000000	217000000000	-			
+ee		217000000000	217000000000	FIXED	p		
+ee		217000000000	217000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		217000000000	217000000000	MOBILE	p		
+ee		217000000000	217000000000	RADIO ASTRONOMY	p		
+ee		217000000000	217000000000	SPACE RESEARCH (PASSIVE)	p		
+ee		226000000000	226000000000	-			
+ee		226000000000	226000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		226000000000	226000000000	SPACE RESEARCH (PASSIVE)	p		
+ee		231500000000	231500000000	-			
+ee		231500000000	231500000000	FIXED	p		
+ee		231500000000	231500000000	MOBILE	p		
+ee		231500000000	231500000000	Radiolocation	s		
+ee		232000000000	232000000000	-			
+ee		232000000000	232000000000	FIXED	p		
+ee		232000000000	232000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		232000000000	232000000000	MOBILE	p		
+ee		232000000000	232000000000	Radiolocation	s		
+ee		235000000000	235000000000	-			
+ee		235000000000	235000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		235000000000	235000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		235000000000	235000000000	SPACE RESEARCH (PASSIVE)	p		
+ee		238000000000	238000000000	-			
+ee		238000000000	238000000000	FIXED	p		
+ee		238000000000	238000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+ee		238000000000	238000000000	MOBILE	p		
+ee		238000000000	238000000000	RADIOLOCATION	p		
+ee		238000000000	238000000000	RADIONAVIGATION	p		
+ee		238000000000	238000000000	RADIONAVIGATION-SATELLITE	p		
+ee		240000000000	240000000000	-			
+ee		240000000000	240000000000	FIXED	p		
+ee		240000000000	240000000000	MOBILE	p		
+ee		240000000000	240000000000	RADIOLOCATION	p		
+ee		241000000000	241000000000	-			Amateur-satellite,  Amateur
+ee		241000000000	241000000000	Amateur	s		
+ee		241000000000	241000000000	Amateur-Satellite	s		
+ee		241000000000	241000000000	Mobile	s		
+ee		241000000000	241000000000	RADIO ASTRONOMY	p		
+ee		241000000000	241000000000	RADIOLOCATION	p		
+ee		244000000000	244000000000	-			ISM,  Non-specific SRDs
+ee		244000000000	244000000000		p		
+ee		248000000000	248000000000	-			Amateur,  Amateur-satellite
+ee		248000000000	248000000000	AMATEUR	p		
+ee		248000000000	248000000000	AMATEUR-SATELLITE	p		
+ee		248000000000	248000000000	Radio Astronomy	s		
+ee		250000000000	250000000000	-			
+ee		250000000000	250000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+ee		250000000000	250000000000	RADIO ASTRONOMY	p		
+ee		250000000000	250000000000	SPACE RESEARCH (PASSIVE)	p		
+ee		252000000000	252000000000	-			
+ee		252000000000	252000000000	FIXED	p		
+ee		252000000000	252000000000	MOBILE	p		
+ee		252000000000	252000000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+ee		252000000000	252000000000	RADIO ASTRONOMY	p		
+ee		252000000000	252000000000	RADIONAVIGATION	p		
+ee		252000000000	252000000000	RADIONAVIGATION-SATELLITE	p		
+ee		265000000000	265000000000	-			
+ee		265000000000	265000000000	FIXED	p		
+ee		265000000000	265000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+ee		265000000000	265000000000	MOBILE	p		
+ee		265000000000	265000000000	RADIO ASTRONOMY	p		

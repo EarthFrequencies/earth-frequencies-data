@@ -1,0 +1,2396 @@
+region	sub-table	lower_frequency	upper_frequency	service	category	footnotes	applications
+si		0	0	-		5.53, 5.54	
+si		0	0	NOT ALLOCATED	p		
+si		8300	8300	-			Lightning detection systems
+si		8300	8300	METEOROLOGICAL AIDS 	p	5.54A	
+si		9000	9000	-			UWB applications
+si		9000	9000		p		
+si		9000	9000	-			Active medical implants
+si		9000	9000		p		
+si		9000	9000	-			Inductive applications
+si		9000	9000		p		
+si		9000	9000	-			Lightning detection systems,  Maritime navigation,  Aeronautical navigation
+si		9000	9000	METEOROLOGICAL AIDS 	p	5.54A	
+si		9000	9000	RADIONAVIGATION	p		
+si		11300	11300	-			Maritime navigation,  Aeronautical navigation
+si		11300	11300	RADIONAVIGATION	p		
+si		14000	14000	-			Defence systems,  Maritime
+si		14000	14000	FIXED	p		
+si		14000	14000	MARITIME MOBILE 	p	5.57	
+si		19950	19950	-			Standard frequency and time signal
+si		19950	19950	STANDARD FREQUENCY AND TIME SIGNAL (20 KHZ)	p		
+si		20050	20050	-			Defence systems
+si		20050	20050		p		
+si		20050	20050	-			Maritime,  Standard frequency and time signal
+si		20050	20050	FIXED	p		
+si		20050	20050	MARITIME MOBILE	p		
+si		59750	59750	-			Inductive applications
+si		59750	59750		p		
+si		60250	60250	-			Inductive applications
+si		60250	60250		p		
+si		70000	70000	-			Aeronautical navigation,  Maritime navigation
+si		70000	70000	RADIONAVIGATION 	p	5.60	
+si		72000	72000	-			Aeronautical navigation,  Maritime navigation,  Standard frequency and time signal
+si		72000	72000	FIXED	p		
+si		72000	72000	MARITIME MOBILE 	p	5.57	
+si		72000	72000	RADIONAVIGATION 	p	5.60	
+si		74750	74750	-			Inductive applications
+si		74750	74750		p		
+si		75250	75250	-			Inductive applications
+si		75250	75250		p		
+si		77250	77250	-			Inductive applications
+si		77250	77250		p		
+si		77750	77750	-			Inductive applications
+si		77750	77750		p		
+si		84000	84000	-			Aeronautical navigation,  Maritime navigation
+si		84000	84000	RADIONAVIGATION 	p	5.60	
+si		86000	86000	-			Aeronautical navigation,  Maritime navigation
+si		86000	86000	FIXED	p		
+si		86000	86000	MARITIME MOBILE 	p	5.57	
+si		86000	86000	RADIONAVIGATION	p		
+si		90000	90000	-			Inductive applications
+si		90000	90000		p		
+si		90000	90000	-		5.64	Aeronautical navigation,  Maritime navigation
+si		90000	90000	Fixed	s		
+si		90000	90000	RADIONAVIGATION 	p	5.62	
+si		110000	110000	-		5.64	Aeronautical navigation,  Maritime navigation
+si		110000	110000	FIXED	p		
+si		110000	110000	MARITIME MOBILE	p		
+si		110000	110000	RADIONAVIGATION	p		
+si		112000	112000	-			Aeronautical navigation,  Maritime navigation
+si		112000	112000	RADIONAVIGATION 	p	5.60	
+si		115000	115000	-		5.64	Aeronautical navigation,  Maritime navigation
+si		115000	115000	Fixed	s		
+si		115000	115000	Maritime Mobile	s		
+si		115000	115000	RADIONAVIGATION 	p	5.60	
+si		117600	117600	-		5.64	Aeronautical navigation,  Maritime navigation
+si		117600	117600	FIXED	p		
+si		117600	117600	MARITIME MOBILE	p		
+si		117600	117600	RADIONAVIGATION 	p	5.60	
+si		119000	119000	-			Inductive applications
+si		119000	119000		p		
+si		126000	126000	-			Aeronautical navigation,  Maritime navigation
+si		126000	126000	RADIONAVIGATION 	p	5.60	
+si		128600	128600	-			Inductive applications
+si		128600	128600		p		
+si		129000	129000	-		5.64	Aeronautical navigation,  Maritime navigation,  Standard frequency and time signal
+si		129000	129000	FIXED	p		
+si		129000	129000	MARITIME MOBILE	p		
+si		129000	129000	RADIONAVIGATION 	p	5.60	
+si		129600	129600	-			Inductive applications
+si		129600	129600		p		
+si		130000	130000	-		5.64	Maritime,  Amateur
+si		130000	130000	Amateur 	s	5.67A	
+si		130000	130000	FIXED	p		
+si		130000	130000	MARITIME MOBILE	p		
+si		135000	135000	-			Inductive applications
+si		135000	135000		p		
+si		140000	140000	-			Inductive applications
+si		140000	140000		p		
+si		148500	148500	-			Inductive applications
+si		148500	148500		p		
+si		148500	148500	-			AM sound analogue,  DRM
+si		148500	148500	BROADCASTING	p		
+si		255000	255000	-			Beacons (aeronautical),  AM sound analogue,  DRM
+si		255000	255000	AERONAUTICAL RADIONAVIGATION	p		
+si		255000	255000	BROADCASTING	p		
+si		283500	283500	-			Defence systems
+si		283500	283500		p		
+si		283500	283500	-		5.74	Beacons (aeronautical),  Beacons (maritime)
+si		283500	283500	AERONAUTICAL RADIONAVIGATION	p		
+si		283500	283500	MARITIME RADIONAVIGATION (RADIOBEACONS) 	p	5.73	
+si		315000	315000	-			Active medical implants
+si		315000	315000		p		
+si		315000	315000	-			Beacons (aeronautical),  Beacons (maritime)
+si		315000	315000	AERONAUTICAL RADIONAVIGATION	p		
+si		315000	315000	Maritime Radionavigation 	s	5.73	
+si		325000	325000	-			Beacons (aeronautical)
+si		325000	325000	AERONAUTICAL RADIONAVIGATION	p		
+si		400000	400000	-			Inductive applications
+si		400000	400000		p		
+si		405000	405000	-			Beacons (aeronautical),  Maritime navigation
+si		405000	405000	RADIONAVIGATION 	p	5.76	
+si		415000	415000	-			Maritime,  Beacons (aeronautical)
+si		415000	415000	AERONAUTICAL RADIONAVIGATION	p		
+si		415000	415000	MARITIME MOBILE 	p	5.79	
+si		435000	435000	-		5.82	Beacons (aeronautical),  Maritime
+si		435000	435000	Aeronautical Radionavigation	s		
+si		435000	435000	MARITIME MOBILE 	p	5.79	
+si		456900	456900	-			Emergency detection,  Non-specific SRDs
+si		456900	456900		p		
+si		472000	472000	-		5.82	Amateur,  Beacons (aeronautical),  Maritime
+si		472000	472000	MARITIME MOBILE 	p	5.79	
+si		472000	472000	Amateur 	s	5.80A	
+si		472000	472000	Aeronautical Radionavigation	s		
+si		479000	479000	-		5.82	Beacons (aeronautical),  Maritime,  NAVTEX
+si		479000	479000	MARITIME MOBILE 	p	5.79, 5.79A	
+si		479000	479000	Aeronautical Radionavigation 	s	5.82	
+si		495000	495000	-			Beacons (aeronautical),  Maritime
+si		495000	495000	MARITIME MOBILE	p		
+si		505000	505000	-			Beacons (aeronautical),  Maritime,  NAVTEX
+si		505000	505000	AERONAUTICAL RADIONAVIGATION	p		
+si		505000	505000	MARITIME MOBILE 	p	5.79A, 5.84	
+si		526500	526500	-			AM sound analogue,  DRM
+si		526500	526500	BROADCASTING	p		
+si		984000	984000	-			Eurobalise,  TTT
+si		984000	984000		p		
+si		1606500	1606500	-			Defence systems
+si		1606500	1606500		p		
+si		1606500	1606500	-		5.92	Land military systems,  Maritime
+si		1606500	1606500	FIXED	p		
+si		1606500	1606500	LAND MOBILE	p		
+si		1606500	1606500	MARITIME MOBILE 	p	5.90	
+si		1625000	1625000	-			Radiolocation (military)
+si		1625000	1625000	RADIOLOCATION	p		
+si		1635000	1635000	-		5.92	Land military systems,  Maritime
+si		1635000	1635000	FIXED	p		
+si		1635000	1635000	LAND MOBILE	p		
+si		1635000	1635000	MARITIME MOBILE 	p	5.90	
+si		1800000	1800000	-			Radiolocation (military)
+si		1800000	1800000	RADIOLOCATION	p		
+si		1810000	1810000	-		5.100, 5.99	Amateur
+si		1810000	1810000	AMATEUR	p		
+si		1850000	1850000	-			Defence systems
+si		1850000	1850000		p		
+si		1850000	1850000	-		5.103, 5.92	Land military systems,  Maritime,  Amateur
+si		1850000	1850000	Amateur	s		
+si		1850000	1850000	FIXED	p		
+si		1850000	1850000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		2000000	2000000	-		5.103, 5.92	Land military systems,  Maritime
+si		2000000	2000000	FIXED	p		
+si		2000000	2000000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+si		2025000	2025000	-		5.103, 5.92	Land military systems,  Maritime,  Oceanographic buoys
+si		2025000	2025000	FIXED	p		
+si		2025000	2025000	Meteorological Aids 	s	5.104	
+si		2025000	2025000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+si		2045000	2045000	-		5.92	Land military systems,  Maritime
+si		2045000	2045000	FIXED	p		
+si		2045000	2045000	LAND MOBILE	p		
+si		2045000	2045000	MARITIME MOBILE	p		
+si		2160000	2160000	-			Radiolocation (military)
+si		2160000	2160000	RADIOLOCATION	p		
+si		2170000	2170000	-			Maritime
+si		2170000	2170000	MARITIME MOBILE	p		
+si		2173500	2173500	-		5.108, 5.109, 5.110, 5.111	Maritime,  GMDSS,  NAVTEX,  DSC
+si		2173500	2173500	MOBILE (DISTRESS AND CALLING)	p		
+si		2190500	2190500	-			Maritime
+si		2190500	2190500	MARITIME MOBILE	p		
+si		2194000	2194000	-		5.103, 5.92	Land military systems
+si		2194000	2194000	FIXED	p		
+si		2194000	2194000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+si		2300000	2300000	-		5.103	Land military systems
+si		2300000	2300000	FIXED	p		
+si		2300000	2300000	BROADCASTING 	p	5.113	
+si		2300000	2300000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+si		2498000	2498000	-			Standard frequency and time signal
+si		2498000	2498000	STANDARD FREQUENCY AND TIME SIGNAL (2 500 KHZ)	p		
+si		2501000	2501000	-			Standard frequency and time signal,  Space research
+si		2501000	2501000	Space Research	s		
+si		2501000	2501000	STANDARD FREQUENCY AND TIME SIGNAL (2 500 KHZ)	p		
+si		2502000	2502000	-		5.103, 5.92	Land military systems
+si		2502000	2502000	FIXED	p		
+si		2502000	2502000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+si		2625000	2625000	-		5.92	Maritime
+si		2625000	2625000	MARITIME MOBILE	p		
+si		2625000	2625000	MARITIME RADIONAVIGATION	p		
+si		2650000	2650000	-		5.103, 5.92	Land military systems
+si		2650000	2650000	FIXED	p		
+si		2650000	2650000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+si		2850000	2850000	-		5.111, 5.115	SAR (communications),  Aeronautical communications
+si		2850000	2850000	AERONAUTICAL MOBILE (R)	p		
+si		3025000	3025000	-			Defence systems
+si		3025000	3025000		p		
+si		3025000	3025000	-			Aeronautical military systems
+si		3025000	3025000	AERONAUTICAL MOBILE (OR)	p		
+si		3155000	3155000	-			Inductive applications
+si		3155000	3155000		p		
+si		3155000	3155000	-		5.116	Land military systems,  Maritime
+si		3155000	3155000	FIXED	p		
+si		3155000	3155000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+si		3200000	3200000	-		5.116	Land military systems,  Maritime
+si		3200000	3200000	BROADCASTING 	p	5.113	
+si		3200000	3200000	FIXED	p		
+si		3200000	3200000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+si		3230000	3230000	-		5.116	Land military systems,  Maritime
+si		3230000	3230000	BROADCASTING 	p	5.113	
+si		3230000	3230000	FIXED	p		
+si		3230000	3230000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		3400000	3400000	-			Aeronautical communications
+si		3400000	3400000	AERONAUTICAL MOBILE (R)	p		
+si		3500000	3500000	-			Defence systems
+si		3500000	3500000		p		
+si		3500000	3500000	-		5.92	Amateur,  Land military systems
+si		3500000	3500000	AMATEUR	p		
+si		3500000	3500000	FIXED	p		
+si		3500000	3500000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		3800000	3800000	-			Land military systems,  Aeronautical military systems
+si		3800000	3800000	AERONAUTICAL MOBILE (OR)	p		
+si		3800000	3800000	FIXED	p		
+si		3800000	3800000	LAND MOBILE	p		
+si		3900000	3900000	-			Aeronautical military systems
+si		3900000	3900000	AERONAUTICAL MOBILE (OR)	p		
+si		3950000	3950000	-			Land military systems,  AM sound analogue,  DRM
+si		3950000	3950000	BROADCASTING	p		
+si		3950000	3950000	FIXED	p		
+si		4000000	4000000	-			Land military systems,  Maritime
+si		4000000	4000000	FIXED	p		
+si		4000000	4000000	MARITIME MOBILE 	p	5.127	
+si		4063000	4063000	-			Maritime,  GMDSS,  DSC,  NAVTEX,  MSI
+si		4063000	4063000	MARITIME MOBILE 	p	5.110, 5.109, 5.130, 5.131, 5.132, 5.79A	
+si		4438000	4438000	-			Land military systems,  Radiolocation (civil)
+si		4438000	4438000	FIXED	p		
+si		4438000	4438000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+si		4438000	4438000	Radiolocation 	s	5.132A	
+si		4488000	4488000	-			Land military systems
+si		4488000	4488000	FIXED	p		
+si		4488000	4488000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+si		4650000	4650000	-			Aeronautical communications
+si		4650000	4650000	AERONAUTICAL MOBILE (R)	p		
+si		4700000	4700000	-			Aeronautical military systems
+si		4700000	4700000	AERONAUTICAL MOBILE (OR)	p		
+si		4750000	4750000	-			Defence systems
+si		4750000	4750000		p		
+si		4750000	4750000	-			Land military systems,  Aeronautical military systems
+si		4750000	4750000	AERONAUTICAL MOBILE (OR)	p		
+si		4750000	4750000	BROADCASTING 	p	5.113	
+si		4750000	4750000	FIXED	p		
+si		4750000	4750000	LAND MOBILE	p		
+si		4850000	4850000	-			Land military systems
+si		4850000	4850000	BROADCASTING 	p	5.113	
+si		4850000	4850000	FIXED	p		
+si		4850000	4850000	LAND MOBILE	p		
+si		4995000	4995000	-			Standard frequency and time signal
+si		4995000	4995000	STANDARD FREQUENCY AND TIME SIGNAL (5 000 KHZ)	p		
+si		5000000	5000000	-			Inductive applications
+si		5000000	5000000		p		
+si		5003000	5003000	-			Standard frequency and time signal
+si		5003000	5003000	Space Research	s		
+si		5003000	5003000	STANDARD FREQUENCY AND TIME SIGNAL (5 000 KHZ)	p		
+si		5005000	5005000	-			Defence systems
+si		5005000	5005000		p		
+si		5005000	5005000	-			Land military systems
+si		5005000	5005000	BROADCASTING 	p	5.113	
+si		5005000	5005000	FIXED	p		
+si		5060000	5060000	-			Land military systems
+si		5060000	5060000	FIXED	p		
+si		5060000	5060000	Mobile except aeronautical mobile	s		
+si		5250000	5250000	-			Land military systems,  Radiolocation (civil)
+si		5250000	5250000	FIXED	p		
+si		5250000	5250000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		5250000	5250000	Radiolocation 	s	5.132A	
+si		5275000	5275000	-			Land military systems
+si		5275000	5275000	FIXED	p		
+si		5275000	5275000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		5450000	5450000	-			Land military systems,  Aeronautical military systems
+si		5450000	5450000	AERONAUTICAL MOBILE (OR)	p		
+si		5450000	5450000	FIXED	p		
+si		5450000	5450000	LAND MOBILE	p		
+si		5480000	5480000	-		5.111, 5.115	Aeronautical communications,  SAR (communications)
+si		5480000	5480000	AERONAUTICAL MOBILE (R)	p		
+si		5680000	5680000	-			Defence systems
+si		5680000	5680000		p		
+si		5680000	5680000	-		5.111, 5.115	Aeronautical military systems,  SAR (communications)
+si		5680000	5680000	AERONAUTICAL MOBILE (OR)	p		
+si		5730000	5730000	-			Land military systems
+si		5730000	5730000	FIXED	p		
+si		5730000	5730000	LAND MOBILE	p		
+si		5900000	5900000	-		5.136	AM sound analogue,  DRM
+si		5900000	5900000	BROADCASTING 	p	5.134	
+si		5950000	5950000	-			AM sound analogue,  DRM
+si		5950000	5950000	BROADCASTING	p		
+si		6200000	6200000	-		5.137	Defence systems,  Maritime,  GMDSS,  DSC,  NAVTEX,  MSI
+si		6200000	6200000	MARITIME MOBILE 	p	5.110, 5.109, 5.130, 5.132	
+si		6525000	6525000	-			Aeronautical communications
+si		6525000	6525000	AERONAUTICAL MOBILE (R)	p		
+si		6685000	6685000	-			Defence systems
+si		6685000	6685000		p		
+si		6685000	6685000	-			Aeronautical military systems
+si		6685000	6685000	AERONAUTICAL MOBILE (OR)	p		
+si		6765000	6765000	-		5.138	Land military systems,  Fixed
+si		6765000	6765000	FIXED	p		
+si		6765000	6765000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+si		6765000	6765000	-			Inductive applications,  ISM,  Non-specific SRDs
+si		6765000	6765000		p		
+si		7000000	7000000	-			Amateur,  Amateur-satellite
+si		7000000	7000000	AMATEUR	p		
+si		7000000	7000000	AMATEUR-SATELLITE	p		
+si		7100000	7100000	-			Amateur
+si		7100000	7100000	AMATEUR	p		
+si		7200000	7200000	-			AM sound analogue,  DRM
+si		7200000	7200000	BROADCASTING	p		
+si		7300000	7300000	-			Railway applications
+si		7300000	7300000		p		
+si		7300000	7300000	-		5.143, 5.143B	AM sound analogue,  DRM
+si		7300000	7300000	BROADCASTING 	p	5.134	
+si		7400000	7400000	-			Inductive applications
+si		7400000	7400000		p		
+si		7400000	7400000	-		5.143B	AM sound analogue
+si		7400000	7400000	BROADCASTING	p		
+si		7450000	7450000	-			Defence systems
+si		7450000	7450000		p		
+si		7450000	7450000	-			Land military systems
+si		7450000	7450000	FIXED	p		
+si		7450000	7450000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+si		8100000	8100000	-			Land military systems,  Maritime
+si		8100000	8100000	FIXED	p		
+si		8100000	8100000	MARITIME MOBILE	p		
+si		8195000	8195000	-		5.111	Maritime,  GMDSS,  DSC,  NAVTEX,  MSI
+si		8195000	8195000	MARITIME MOBILE 	p	5.110, 5.109, 5.132, 5.145	
+si		8815000	8815000	-			Aeronautical communications
+si		8815000	8815000	AERONAUTICAL MOBILE (R)	p		
+si		8965000	8965000	-			Defence systems
+si		8965000	8965000		p		
+si		8965000	8965000	-			Aeronautical military systems
+si		8965000	8965000	AERONAUTICAL MOBILE (OR)	p		
+si		9040000	9040000	-			Land military systems
+si		9040000	9040000	FIXED	p		
+si		9305000	9305000	-			Land military systems,  Radiolocation (civil)
+si		9305000	9305000	FIXED	p		
+si		9305000	9305000	Radiolocation 	s	5.145A	
+si		9355000	9355000	-			Land military systems
+si		9355000	9355000	FIXED	p		
+si		9400000	9400000	-		5.146	AM sound analogue,  DRM
+si		9400000	9400000	BROADCASTING 	p	5.134	
+si		9500000	9500000	-		5.147	AM sound analogue,  DRM
+si		9500000	9500000	BROADCASTING	p		
+si		9900000	9900000	-			Defence systems,  Land military systems
+si		9900000	9900000	FIXED	p		
+si		9995000	9995000	-		5.111	Standard frequency and time signal,  SAR (communications)
+si		9995000	9995000	STANDARD FREQUENCY AND TIME SIGNAL (10 000 KHZ)	p		
+si		10003000	10003000	-		5.111	Standard frequency and time signal,  SAR (communications),  Space research
+si		10003000	10003000	Space Research	s		
+si		10003000	10003000	STANDARD FREQUENCY AND TIME SIGNAL (10 000 KHZ)	p		
+si		10005000	10005000	-			Aeronautical communications
+si		10005000	10005000	AERONAUTICAL MOBILE (R)	p		
+si		10100000	10100000	-			Defence systems
+si		10100000	10100000		p		
+si		10100000	10100000	-			Land military systems,  Amateur
+si		10100000	10100000	Amateur	s		
+si		10100000	10100000	FIXED	p		
+si		10150000	10150000	-			Land military systems
+si		10150000	10150000	FIXED	p		
+si		10150000	10150000	Mobile except aeronautical mobile (R)	s		
+si		10200000	10200000	-			Inductive applications
+si		10200000	10200000		p		
+si		11175000	11175000	-			Aeronautical military systems
+si		11175000	11175000	AERONAUTICAL MOBILE (OR)	p		
+si		11275000	11275000	-			Aeronautical communications
+si		11275000	11275000	AERONAUTICAL MOBILE (R)	p		
+si		11400000	11400000	-			Defence systems,  Land military systems
+si		11400000	11400000	FIXED	p		
+si		11600000	11600000	-		5.146	AM sound analogue,  DRM
+si		11600000	11600000	BROADCASTING 	p	5.134	
+si		11650000	11650000	-		5.147	AM sound analogue,  DRM
+si		11650000	11650000	BROADCASTING	p		
+si		11810000	11810000	-			Inductive applications
+si		11810000	11810000		p		
+si		12050000	12050000	-		5.146	AM sound analogue,  DRM
+si		12050000	12050000	BROADCASTING 	p	5.134	
+si		12100000	12100000	-			Defence systems
+si		12100000	12100000		p		
+si		12100000	12100000	-			Land military systems
+si		12100000	12100000	FIXED	p		
+si		12230000	12230000	-			Maritime,  GMDSS,  DSC,  NAVTEX,  MSI
+si		12230000	12230000	MARITIME MOBILE 	p	5.110, 5.109, 5.132, 5.145	
+si		12500000	12500000	-			Active medical implants
+si		12500000	12500000		p		
+si		13200000	13200000	-			Aeronautical military systems
+si		13200000	13200000	AERONAUTICAL MOBILE (OR)	p		
+si		13260000	13260000	-			Aeronautical communications
+si		13260000	13260000	AERONAUTICAL MOBILE (R)	p		
+si		13360000	13360000	-			Defence systems
+si		13360000	13360000		p		
+si		13360000	13360000	-		5.149	Radio astronomy
+si		13360000	13360000	FIXED	p		
+si		13360000	13360000	RADIO ASTRONOMY	p		
+si		13410000	13410000	-			Land military systems
+si		13410000	13410000	FIXED	p		
+si		13410000	13410000	Mobile except aeronautical mobile (R)	s		
+si		13450000	13450000	-			Land military systems,  Radiolocation (civil)
+si		13450000	13450000	FIXED	p		
+si		13450000	13450000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+si		13450000	13450000	RADIOLOCATION 	p	5.132A	
+si		13550000	13550000	-		5.150	Land military systems
+si		13550000	13550000	FIXED	p		
+si		13550000	13550000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+si		13553000	13553000	-			Inductive applications,  ISM,  Non-specific SRDs,  RFID
+si		13553000	13553000		p		
+si		13570000	13570000	-		5.151	AM sound analogue,  DRM
+si		13570000	13570000	BROADCASTING 	p	5.134	
+si		13600000	13600000	-			AM sound analogue,  DRM
+si		13600000	13600000	BROADCASTING	p		
+si		13800000	13800000	-		5.151	AM sound analogue,  DRM
+si		13800000	13800000	BROADCASTING 	p	5.134	
+si		13870000	13870000	-			Defence systems,  Land military systems
+si		13870000	13870000	FIXED	p		
+si		13870000	13870000	Mobile except aeronautical mobile (R)	s		
+si		14000000	14000000	-			Amateur,  Amateur-satellite
+si		14000000	14000000	AMATEUR	p		
+si		14000000	14000000	AMATEUR-SATELLITE	p		
+si		14250000	14250000	-			Amateur
+si		14250000	14250000	AMATEUR	p		
+si		14350000	14350000	-			Defence systems,  Land military systems
+si		14350000	14350000	FIXED	p		
+si		14350000	14350000	Mobile except aeronautical mobile (R)	s		
+si		14725000	14725000	-			Defence systems
+si		14725000	14725000		p		
+si		14990000	14990000	-			Standard frequency and time signal
+si		14990000	14990000	STANDARD FREQUENCY AND TIME SIGNAL (15 000 KHZ)	p		
+si		15005000	15005000	-			Standard frequency and time signal
+si		15005000	15005000	Space Research	s		
+si		15005000	15005000	STANDARD FREQUENCY AND TIME SIGNAL (15 000 KHZ)	p		
+si		15010000	15010000	-			Defence systems,  Aeronautical military systems
+si		15010000	15010000	AERONAUTICAL MOBILE (OR)	p		
+si		15100000	15100000	-			AM sound analogue,  DRM
+si		15100000	15100000	BROADCASTING	p		
+si		15600000	15600000	-		5.146	AM sound analogue,  DRM
+si		15600000	15600000	BROADCASTING 	p	5.134	
+si		15800000	15800000	-			Defence systems
+si		15800000	15800000		p		
+si		15800000	15800000	-			Land military systems
+si		15800000	15800000	FIXED	p		
+si		16100000	16100000	-			Land military systems,  Radiolocation (civil)
+si		16100000	16100000	FIXED	p		
+si		16100000	16100000	Radiolocation 	s	5.145A	
+si		16200000	16200000	-			Land military systems
+si		16200000	16200000	FIXED	p		
+si		16360000	16360000	-			Maritime,  GMDSS,  DSC,  NAVTEX,  MSI
+si		16360000	16360000	MARITIME MOBILE 	p	5.110, 5.109, 5.132, 5.145	
+si		17410000	17410000	-			Land military systems
+si		17410000	17410000	FIXED	p		
+si		17480000	17480000	-		5.146	AM sound analogue,  DRM
+si		17480000	17480000	BROADCASTING 	p	5.134	
+si		17550000	17550000	-			AM sound analogue,  DRM
+si		17550000	17550000	BROADCASTING	p		
+si		17900000	17900000	-			Aeronautical communications
+si		17900000	17900000	AERONAUTICAL MOBILE (R)	p		
+si		17970000	17970000	-			Defence systems,  Aeronautical military systems
+si		17970000	17970000	AERONAUTICAL MOBILE (OR)	p		
+si		18030000	18030000	-			Land military systems
+si		18030000	18030000	FIXED	p		
+si		18052000	18052000	-			Land military systems,  Space research
+si		18052000	18052000	FIXED	p		
+si		18052000	18052000	Space Research	s		
+si		18068000	18068000	-			Amateur,  Amateur-satellite
+si		18068000	18068000	AMATEUR	p		
+si		18068000	18068000	AMATEUR-SATELLITE	p		
+si		18168000	18168000	-			Defence systems
+si		18168000	18168000		p		
+si		18168000	18168000	-			Land military systems
+si		18168000	18168000	FIXED	p		
+si		18168000	18168000	Mobile except aeronautical mobile	s		
+si		18780000	18780000	-			Maritime,  DSC
+si		18780000	18780000	MARITIME MOBILE	p		
+si		18900000	18900000	-			AM sound analogue,  DRM
+si		18900000	18900000	BROADCASTING 	p	5.134	
+si		19020000	19020000	-			Defence systems
+si		19020000	19020000		p		
+si		19020000	19020000	-			Land military systems
+si		19020000	19020000	FIXED	p		
+si		19680000	19680000	-			Maritime,  DSC,  MSI
+si		19680000	19680000	MARITIME MOBILE 	p	5.132	
+si		19800000	19800000	-			Land military systems
+si		19800000	19800000	FIXED	p		
+si		19990000	19990000	-		5.111	Standard frequency and time signal,  SAR (communications),  Space research
+si		19990000	19990000	Space Research	s		
+si		19990000	19990000	STANDARD FREQUENCY AND TIME SIGNAL (20 000 KHZ)	p		
+si		19995000	19995000	-		5.111	Standard frequency and time signal,  SAR (communications)
+si		19995000	19995000	STANDARD FREQUENCY AND TIME SIGNAL (20 000 KHZ)	p		
+si		20010000	20010000	-			Defence systems,  Land military systems
+si		20010000	20010000	FIXED	p		
+si		20010000	20010000	Mobile	s		
+si		21000000	21000000	-			Amateur,  Amateur-satellite
+si		21000000	21000000	AMATEUR	p		
+si		21000000	21000000	AMATEUR-SATELLITE	p		
+si		21450000	21450000	-			AM sound analogue,  DRM
+si		21450000	21450000	BROADCASTING	p		
+si		21850000	21850000	-			Defence systems
+si		21850000	21850000		p		
+si		21850000	21850000	-			Land military systems
+si		21850000	21850000	FIXED	p		
+si		21870000	21870000	-			Land military systems
+si		21870000	21870000	FIXED 	p	5.155B	
+si		21924000	21924000	-			Aeronautical communications
+si		21924000	21924000	AERONAUTICAL MOBILE (R)	p		
+si		22000000	22000000	-			Defence systems
+si		22000000	22000000		p		
+si		22000000	22000000	-			Maritime,  DSC,  MSI
+si		22000000	22000000	MARITIME MOBILE 	p	5.132	
+si		22855000	22855000	-			Land military systems
+si		22855000	22855000	FIXED	p		
+si		23000000	23000000	-			Land military systems
+si		23000000	23000000	FIXED	p		
+si		23000000	23000000	Mobile except aeronautical mobile (R)	s		
+si		23200000	23200000	-			Land military systems,  Aeronautical military systems
+si		23200000	23200000	AERONAUTICAL MOBILE (OR)	p		
+si		23200000	23200000	FIXED 	p	5.156A	
+si		23350000	23350000	-			Land military systems
+si		23350000	23350000	FIXED	p		
+si		23350000	23350000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.157	
+si		24000000	24000000	-			Land military systems
+si		24000000	24000000	FIXED	p		
+si		24000000	24000000	LAND MOBILE	p		
+si		24450000	24450000	-			Land military systems,  Radiolocation (civil)
+si		24450000	24450000	FIXED	p		
+si		24450000	24450000	LAND MOBILE	p		
+si		24450000	24450000	Radiolocation 	s	5.132A	
+si		24450000	24450000	-			
+si		24450000	24450000	INTER-SATELLITE	p		
+si		24600000	24600000	-			Land military systems
+si		24600000	24600000	FIXED	p		
+si		24600000	24600000	LAND MOBILE	p		
+si		24890000	24890000	-			Amateur,  Amateur-satellite
+si		24890000	24890000	AMATEUR	p		
+si		24890000	24890000	AMATEUR-SATELLITE	p		
+si		24990000	24990000	-			Standard frequency and time signal
+si		24990000	24990000	STANDARD FREQUENCY AND TIME SIGNAL (25 000 KHZ)	p		
+si		25005000	25005000	-			Standard frequency and time signal,  Space research
+si		25005000	25005000	Space Research	s		
+si		25005000	25005000	STANDARD FREQUENCY AND TIME SIGNAL (25 000 KHZ)	p		
+si		25010000	25010000	-			Defence systems
+si		25010000	25010000		p		
+si		25010000	25010000	-			Land military systems
+si		25010000	25010000	FIXED	p		
+si		25010000	25010000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		25070000	25070000	-			Maritime,  DSC
+si		25070000	25070000	MARITIME MOBILE	p		
+si		25210000	25210000	-			Land military systems
+si		25210000	25210000	FIXED	p		
+si		25210000	25210000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		25550000	25550000	-		5.149	Radio astronomy
+si		25550000	25550000	RADIO ASTRONOMY	p		
+si		25670000	25670000	-			AM sound analogue,  DRM
+si		25670000	25670000	BROADCASTING	p		
+si		26100000	26100000	-			Defence systems
+si		26100000	26100000		p		
+si		26100000	26100000	-			Maritime,  DSC,  MSI
+si		26100000	26100000	MARITIME MOBILE 	p	5.132	
+si		26175000	26175000	-			Land military systems,  Fixed
+si		26175000	26175000	FIXED	p		
+si		26175000	26175000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		26200000	26200000	-			Land military systems,  Fixed,  Radiolocation (civil)
+si		26200000	26200000	FIXED	p		
+si		26200000	26200000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		26200000	26200000	Radiolocation 	s	5.132A	
+si		26350000	26350000	-		5.150	Land military systems,  Fixed,  Paging,  CB radio
+si		26350000	26350000	FIXED	p		
+si		26350000	26350000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		26350000	26350000	-			Inductive applications
+si		26350000	26350000		p		
+si		26957000	26957000	-			Non-specific SRDs,  ISM
+si		26957000	26957000		p		
+si		26990000	26990000	-			Model control
+si		26990000	26990000		p		
+si		27090000	27090000	-			Eurobalise
+si		27090000	27090000		p		
+si		27500000	27500000	-			Land military systems,  Meteorology
+si		27500000	27500000	FIXED	p		
+si		27500000	27500000	METEOROLOGICAL AIDS	p		
+si		27500000	27500000	MOBILE	p		
+si		28000000	28000000	-			Amateur,  Amateur-satellite
+si		28000000	28000000	AMATEUR	p		
+si		28000000	28000000	AMATEUR-SATELLITE	p		
+si		29700000	29700000	-			Defence systems
+si		29700000	29700000		p		
+si		29700000	29700000	-			Radio microphones
+si		29700000	29700000		p		
+si		29700000	29700000	-			Land military systems,  PMR
+si		29700000	29700000	MOBILE	p		
+si		30000000	30000000	-			GPR/WPR
+si		30000000	30000000		p		
+si		30000000	30000000	-			Active medical implants
+si		30000000	30000000		p		
+si		30005000	30005000	-			Land military systems,  PMR
+si		30005000	30005000	MOBILE	p		
+si		30010000	30010000	-			Land military systems,  PMR
+si		30010000	30010000	MOBILE	p		
+si		30300000	30300000	-			Defence systems
+si		30300000	30300000		p		
+si		32150000	32150000	-			Defence systems
+si		32150000	32150000		p		
+si		34995000	34995000	-			Flying model control
+si		34995000	34995000		p		
+si		37500000	37500000	-		5.149	Land military systems,  PMR,  Radio astronomy
+si		37500000	37500000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		37500000	37500000	Radio Astronomy	s		
+si		38250000	38250000	-			Land military systems,  PMR
+si		38250000	38250000		p		
+si		38250000	38250000	-			
+si		38250000	38250000	MOBILE	p		
+si		39000000	39000000	-			
+si		39000000	39000000	MOBILE	p		
+si		39000000	39000000	Radiolocation 	s	5.132A	
+si		39500000	39500000	-			
+si		39500000	39500000	MOBILE	p		
+si		39986000	39986000	-			Land military systems,  PMR,  Space research
+si		39986000	39986000	MOBILE	p		
+si		39986000	39986000	Space Research	s		
+si		40020000	40020000	-			Land military systems,  PMR
+si		40020000	40020000	MOBILE	p		
+si		40660000	40660000	-		5.150	Land military systems,  Paging,  Amateur,  Non-specific SRDs,  Model control,  ISM
+si		40660000	40660000	Amateur	s		
+si		40660000	40660000	MOBILE	p		
+si		40700000	40700000	-			Land military systems
+si		40700000	40700000	MOBILE	p		
+si		40710000	40710000	-			Model control
+si		40710000	40710000		p		
+si		40965000	40965000	-			Model control
+si		40965000	40965000		p		
+si		40980000	40980000	-			Land military systems,  Space research
+si		40980000	40980000	MOBILE	p		
+si		40980000	40980000	Space Research	s		
+si		41000000	41000000	-			Defence systems
+si		41000000	41000000		p		
+si		41015000	41015000	-		5.161B	Land military systems
+si		41015000	41015000	MOBILE	p		
+si		41015000	41015000	FIXED	p		
+si		44000000	44000000	-		5.162A	Land military systems,  Wind profilers
+si		44000000	44000000	MOBILE	p		
+si		46400000	46400000	-		5.162A	Land military systems,  Wind profilers
+si		46400000	46400000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		47000000	47000000	-		5.162A, 5.164	Land military systems,  Paging,  PMR,  Wind profilers,  Amateur
+si		47000000	47000000	Amateur	s		
+si		47000000	47000000	LAND MOBILE	p		
+si		68000000	68000000	-		5.149	Land military systems,  PMR,  Amateur,  Continuum measurements
+si		68000000	68000000	Amateur	s		
+si		68000000	68000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		68000000	68000000	Radio Astronomy	s		
+si		73300000	73300000	-			Defence systems
+si		73300000	73300000		p		
+si		74800000	74800000	-		5.180	ILS
+si		74800000	74800000	AERONAUTICAL RADIONAVIGATION	p		
+si		75200000	75200000	-			Land military systems,  PMR
+si		75200000	75200000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		79000000	79000000	-			Defence systems
+si		79000000	79000000		p		
+si		80000000	80000000	-			Defence systems
+si		80000000	80000000		p		
+si		84500000	84500000	-			Defence systems
+si		84500000	84500000		p		
+si		87500000	87500000	-			Wireless audio/multimedia
+si		87500000	87500000		p		
+si		87500000	87500000	-			FM sound analogue,  T-DAB
+si		87500000	87500000	BROADCASTING	p		
+si		100000000	100000000	-			FM sound analogue,  T-DAB
+si		100000000	100000000	BROADCASTING	p		
+si		108000000	108000000	-			Defence systems
+si		108000000	108000000		p		
+si		108000000	108000000	-		5.197A	Aeronautical communications,  VOR,  ILS
+si		108000000	108000000	AERONAUTICAL RADIONAVIGATION	p		
+si		117975000	117975000	-		5.111, 5.200	Aeronautical communications,  SAR (communications),  EPIRBs
+si		117975000	117975000	AERONAUTICAL MOBILE (R)	p		
+si		117975000	117975000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+si		137000000	137000000	-			Defence systems
+si		137000000	137000000		p		
+si		137000000	137000000	-		5.208	Aeronautical military systems,  Weather satellites,  MSS Earth stations,  Space operations,  Space research,  Aeronautical communications
+si		137000000	137000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+si		137000000	137000000	MOBILE	p		
+si		137000000	137000000	MOBILE-SATELLITE (SPACE-TO-EARTH) 	p	5.208A, 5.208B, 5.209	
+si		137000000	137000000	Space Operation (space-to-Earth)	s		
+si		137000000	137000000	Space Research (space-to-Earth)	s		
+si		137025000	137025000	-		5.208	Aeronautical military systems,  Weather satellites,  MSS Earth stations,  Space operations,  Space research,  Aeronautical communications
+si		137025000	137025000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+si		137025000	137025000	MOBILE	p		
+si		137025000	137025000	Mobile-Satellite (space-to-Earth) 	s	5.208A, 5.208B, 5.209	
+si		137025000	137025000	Space Operation (space-to-Earth)	s		
+si		137025000	137025000	Space Research (space-to-Earth)	s		
+si		137175000	137175000	-		5.208	Aeronautical military systems,  Weather satellites,  MSS Earth stations,  Space operations,  Space research,  Aeronautical communications
+si		137175000	137175000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+si		137175000	137175000	MOBILE	p		
+si		137175000	137175000	MOBILE-SATELLITE (SPACE-TO-EARTH) 	p	5.208A, 5.208B, 5.209	
+si		137175000	137175000	Space Operation (space-to-Earth)	s		
+si		137175000	137175000	Space Research (space-to-Earth)	s		
+si		137825000	137825000	-		5.208	Aeronautical military systems,  Weather satellites,  MSS Earth stations,  Space operations,  Space research,  Aeronautical communications
+si		137825000	137825000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+si		137825000	137825000	MOBILE	p		
+si		137825000	137825000	Mobile-Satellite (space-to-Earth) 	s	5.208A, 5.208B, 5.209	
+si		137825000	137825000	Space Operation (space-to-Earth)	s		
+si		137825000	137825000	Space Research (space-to-Earth)	s		
+si		138000000	138000000	-			Defence systems
+si		138000000	138000000		p		
+si		138000000	138000000	-		5.211	Land military systems,  Aeronautical military systems
+si		138000000	138000000	AERONAUTICAL MOBILE (OR)	p		
+si		143600000	143600000	-		5.211	Land military systems,  Aeronautical military systems,  Space research
+si		143600000	143600000	AERONAUTICAL MOBILE (OR)	p		
+si		143600000	143600000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+si		143650000	143650000	-		5.211	Land military systems,  Aeronautical military systems
+si		143650000	143650000	AERONAUTICAL MOBILE (OR)	p		
+si		144000000	144000000	-			Amateur,  Amateur-satellite
+si		144000000	144000000	AMATEUR	p		
+si		144000000	144000000	AMATEUR-SATELLITE	p		
+si		146000000	146000000	-			Land military systems,  On-site paging,  PMR
+si		146000000	146000000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+si		146000000	146000000	-			Defence systems
+si		146000000	146000000		p		
+si		148000000	148000000	-		5.218, 5.219, 5.221	Land military systems,  MSS Earth stations,  PMR
+si		148000000	148000000	MOBILE	p		
+si		148000000	148000000	MOBILE-SATELLITE (EARTH-TO-SPACE) 	p	5.209	
+si		148000000	148000000	-			Animal tracking
+si		148000000	148000000		p		
+si		149125000	149125000	-			Defence systems
+si		149125000	149125000		p		
+si		149900000	149900000	-		5.220, 5.222, 5.223	MSS Earth stations,  PMR
+si		149900000	149900000	MOBILE	p		
+si		149900000	149900000	MOBILE-SATELLITE (EARTH-TO-SPACE) 	p	5.224A, 5.209	
+si		149900000	149900000	RADIONAVIGATION-SATELLITE 	p	5.224B	
+si		150050000	150050000	-		5.149	Defence systems,  PMR,  Land military systems,  Radio astronomy
+si		150050000	150050000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		150050000	150050000	RADIO ASTRONOMY	p		
+si		150050000	150050000	FIXED	p		
+si		151800000	151800000	-			Animal tracking
+si		151800000	151800000		p		
+si		153000000	153000000	-			Land military systems,  PMR
+si		153000000	153000000	FIXED	p		
+si		153000000	153000000	Meteorological Aids	s		
+si		153000000	153000000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+si		153800000	153800000	-			Defence systems
+si		153800000	153800000		p		
+si		154000000	154000000	-		5.226	Land military systems,  PMR,  Maritime
+si		154000000	154000000	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+si		154000000	154000000	FIXED	p		
+si		155725000	155725000	-			Defence systems
+si		155725000	155725000		p		
+si		156000000	156000000	-			Defence systems
+si		156000000	156000000		p		
+si		156487500	156487500	-		5.111, 5.226, 5.227	Maritime,  DSC
+si		156487500	156487500	MARITIME MOBILE (DISTRESS AND CALLING VIA DSC)	p		
+si		156562500	156562500	-		5.226	Maritime
+si		156562500	156562500	FIXED	p		
+si		156562500	156562500	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+si		156762500	156762500	-		5.111, 5.226, 5.228	Maritime
+si		156762500	156762500	FIXED	p		
+si		156762500	156762500	MOBILE EXCEPT AERONAUTICAL MOBILE (R)	p		
+si		156787500	156787500	-		5.111, 5.226	GMDSS
+si		156787500	156787500	MARITIME MOBILE (DISTRESS AND CALLING)	p		
+si		156812500	156812500	-		5.111, 5.226, 5.228	Maritime
+si		156812500	156812500	MARITIME MOBILE	p		
+si		156812500	156812500	Mobile-Satellite (Earth-to-space)	s		
+si		156837500	156837500	-		5.226	Maritime,  PMR,  Land military systems
+si		156837500	156837500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		156837500	156837500	FIXED	p		
+si		157600000	157600000	-			Defence systems
+si		157600000	157600000		p		
+si		160600000	160600000	-			Defence systems
+si		160600000	160600000		p		
+si		161475000	161475000	-			Defence systems
+si		161475000	161475000		p		
+si		161962500	161962500	-		5.226, 5.228A, 5.228B	Maritime,  AIS
+si		161962500	161962500	FIXED	p		
+si		161962500	161962500	Mobile-Satellite (Earth-to-space) 	s	5.228F	
+si		161962500	161962500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		161987500	161987500	-			Maritime,  AIS
+si		161987500	161987500		p		
+si		161987500	161987500	-		5.226	
+si		161987500	161987500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		161987500	161987500	FIXED	p		
+si		162012500	162012500	-		5.226, 5.228A, 5.228B	
+si		162012500	162012500	FIXED	p		
+si		162012500	162012500	Mobile-Satellite (Earth-to-space) 	s	5.228F	
+si		162012500	162012500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		162037500	162037500	-		5.226	Maritime,  Land military systems,  PPDR,  PMR
+si		162037500	162037500	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		162037500	162037500	FIXED	p		
+si		162100000	162100000	-			Defence systems
+si		162100000	162100000		p		
+si		168550000	168550000	-			Defence systems
+si		168550000	168550000		p		
+si		169400000	169400000	-			Aids for hearing impaired
+si		169400000	169400000		p		
+si		169400000	169400000	-			Meter reading,  Aids for hearing impaired,  Non-specific SRDs
+si		169400000	169400000		p		
+si		169475000	169475000	-			Non-specific SRDs
+si		169475000	169475000		p		
+si		169487500	169487500	-			Non-specific SRDs,  Aids for hearing impaired
+si		169487500	169487500		p		
+si		169587500	169587500	-			Non-specific SRDs
+si		169587500	169587500		p		
+si		169825000	169825000	-			Aids for hearing impaired
+si		169825000	169825000		p		
+si		173050000	173050000	-			Defence systems
+si		173050000	173050000		p		
+si		173965000	173965000	-			Aids for hearing impaired
+si		173965000	173965000		p		
+si		174000000	174000000	-			DVB-T,  T-DAB,  Broadcasting (terrestrial)
+si		174000000	174000000	BROADCASTING	p		
+si		174000000	174000000	-			Radio microphones
+si		174000000	174000000		p		
+si		223000000	223000000	-			Broadcasting (terrestrial),  Land military systems,  DVB-T,  T-DAB
+si		223000000	223000000	BROADCASTING	p		
+si		223000000	223000000	Fixed	s		
+si		223000000	223000000	Mobile	s		
+si		225000000	225000000	-			Defence systems
+si		225000000	225000000		p		
+si		230000000	230000000	-			Defence systems
+si		230000000	230000000		p		
+si		230000000	230000000	-			Land military systems
+si		230000000	230000000	MOBILE	p		
+si		235000000	235000000	-		5.111, 5.254, 5.256	Land military systems,  Aeronautical communications,  SAR (communications),  EPIRBs
+si		235000000	235000000	MOBILE	p		
+si		267000000	267000000	-		5.254, 5.257	Land military systems,  Space operations
+si		267000000	267000000	MOBILE	p		
+si		267000000	267000000	Space Operation (space-to-Earth)	s		
+si		272000000	272000000	-		5.254	Land military systems,  Space operations
+si		272000000	272000000	FIXED	p		
+si		272000000	272000000	MOBILE	p		
+si		272000000	272000000	SPACE OPERATION (SPACE-TO-EARTH)	p		
+si		273000000	273000000	-		5.254	Land military systems
+si		273000000	273000000	MOBILE	p		
+si		312000000	312000000	-			Land military systems,  MSS Earth stations
+si		312000000	312000000	MOBILE	p		
+si		312000000	312000000	Mobile-Satellite (Earth-to-space)	s		
+si		315000000	315000000	-		5.254	Land military systems
+si		315000000	315000000	MOBILE	p		
+si		322000000	322000000	-		5.149	Land military systems,  VLBI observations
+si		322000000	322000000	MOBILE	p		
+si		322000000	322000000	RADIO ASTRONOMY	p		
+si		328650000	328650000	-			Defence systems,  Land military systems,  ILS
+si		328650000	328650000	AERONAUTICAL RADIONAVIGATION 	p	5.258	
+si		335400000	335400000	-		5.254	Land military systems,  Point-to-Multipoint
+si		335400000	335400000	MOBILE	p		
+si		335400000	335400000	-			Defence systems
+si		335400000	335400000		p		
+si		370900000	370900000	-			Defence systems
+si		370900000	370900000		p		
+si		371875000	371875000	-			Defence systems
+si		371875000	371875000		p		
+si		373150000	373150000	-			Defence systems
+si		373150000	373150000		p		
+si		373625000	373625000	-			Defence systems
+si		373625000	373625000		p		
+si		379400000	379400000	-			Defence systems
+si		379400000	379400000		p		
+si		379900000	379900000	-			Defence systems
+si		379900000	379900000		p		
+si		380000000	380000000	-		5.254	PPDR
+si		380000000	380000000	MOBILE	p		
+si		385000000	385000000	-		5.254	Land military systems
+si		385000000	385000000	MOBILE	p		
+si		387000000	387000000	-			MSS Earth stations,  Defence systems
+si		387000000	387000000	MOBILE	p		
+si		387000000	387000000	Mobile-Satellite (space-to-Earth) 	s	5.208A, 5.208B, 5.254, 5.255	
+si		390000000	390000000	-			Defence systems
+si		390000000	390000000		p		
+si		390000000	390000000	-		5.254	PPDR
+si		390000000	390000000	MOBILE	p		
+si		395000000	395000000	-		5.254	Land military systems
+si		395000000	395000000	MOBILE	p		
+si		399900000	399900000	-			MSS Earth stations,  Space research
+si		399900000	399900000	MOBILE-SATELLITE (EARTH-TO-SPACE) 	p	5.224A, 5.209	
+si		399900000	399900000	RADIONAVIGATION-SATELLITE 	p	5.224B, 5.222, 5.260	
+si		400050000	400050000	-		5.261	Standard frequency and time signal
+si		400050000	400050000	STANDARD FREQUENCY AND TIME SIGNAL-SATELLITE (400.1 MHZ)	p		
+si		400150000	400150000	-			Defence systems
+si		400150000	400150000		p		
+si		400150000	400150000	-		5.264	Sondes,  Space research,  Space operations,  MSS Earth stations
+si		400150000	400150000	METEOROLOGICAL AIDS	p		
+si		400150000	400150000	METEOROLOGICAL-SATELLITE (EARTH-TO-SPACE)	p		
+si		400150000	400150000	MOBILE-SATELLITE (SPACE-TO-EARTH) 	p	5.208A, 5.208B, 5.209	
+si		400150000	400150000	SPACE OPERATION (SPACE-TO-EARTH) 	p	5.263	
+si		400150000	400150000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+si		401000000	401000000	-			Sondes,  Weather satellites,  Earth exploration-satellite,  Active medical implants
+si		401000000	401000000	EARTH EXPLORATION-SATELLITE (EARTH-TO-SPACE)	p		
+si		401000000	401000000	METEOROLOGICAL AIDS	p		
+si		401000000	401000000	METEOROLOGICAL-SATELLITE (EARTH-TO-SPACE)	p		
+si		402000000	402000000	-			Active medical implants
+si		402000000	402000000		p		
+si		402000000	402000000	-			Sondes,  Weather satellites,  Earth exploration-satellite
+si		402000000	402000000	EARTH EXPLORATION-SATELLITE (EARTH-TO-SPACE)	p		
+si		402000000	402000000	METEOROLOGICAL AIDS	p		
+si		402000000	402000000	METEOROLOGICAL-SATELLITE (EARTH-TO-SPACE)	p		
+si		403000000	403000000	-			PPDR,  Sondes
+si		403000000	403000000	Fixed	s		
+si		403000000	403000000	METEOROLOGICAL AIDS	p		
+si		403000000	403000000	Mobile except aeronautical mobile	s		
+si		404900000	404900000	-			Defence systems
+si		404900000	404900000		p		
+si		405000000	405000000	-			Active medical implants
+si		405000000	405000000		p		
+si		406000000	406000000	-		5.266, 5.267	EPIRBs,  MSS Earth stations
+si		406000000	406000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+si		406100000	406100000	-			Defence systems
+si		406100000	406100000		p		
+si		406100000	406100000	-		5.149	BWA,  PPDR,  PMR,  Radio astronomy
+si		406100000	406100000	LAND MOBILE	p		
+si		406100000	406100000	RADIO ASTRONOMY	p		
+si		409900000	409900000	-			Defence systems
+si		409900000	409900000		p		
+si		410000000	410000000	-		5.268	PPDR,  BWA,  PMR/PAMR
+si		410000000	410000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		420000000	420000000	-			PPDR,  BWA,  PMR/PAMR
+si		420000000	420000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		420000000	420000000	Radiolocation	s		
+si		420000000	420000000	-			Defence systems
+si		420000000	420000000		p		
+si		430000000	430000000	-			Amateur
+si		430000000	430000000	AMATEUR	p		
+si		430000000	430000000	FIXED 	p	5.275	
+si		430000000	430000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.275	
+si		430000000	430000000	RADIOLOCATION	p		
+si		432000000	432000000	-		5.138, 5.280, 5.282	Amateur,  Earth exploration-satellite,  Amateur-satellite
+si		432000000	432000000	AMATEUR	p		
+si		432000000	432000000	AMATEUR-SATELLITE	p		
+si		432000000	432000000	Earth Exploration-Satellite (active) 	s	5.279A	
+si		432000000	432000000	RADIOLOCATION	p		
+si		433050000	433050000	-			ISM,  Non-specific SRDs
+si		433050000	433050000		p		
+si		438000000	438000000	-			Amateur
+si		438000000	438000000	AMATEUR	p		
+si		438000000	438000000	FIXED 	p	5.275	
+si		438000000	438000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.275	
+si		438000000	438000000	RADIOLOCATION	p		
+si		440000000	440000000	-		5.286	Land military systems,  PMR,  On-site paging,  PMR 446
+si		440000000	440000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		440000000	440000000	Radiolocation	s		
+si		440000000	440000000	-			Defence systems
+si		440000000	440000000		p		
+si		442750000	442750000	-			Defence systems
+si		442750000	442750000		p		
+si		445650000	445650000	-			Defence systems
+si		445650000	445650000		p		
+si		446000000	446000000	-			Defence systems
+si		446000000	446000000		p		
+si		446200000	446200000	-			Defence systems
+si		446200000	446200000		p		
+si		450000000	450000000	-		5.209, 5.286, 5.286A	Land military systems,  PMR,  On-site paging
+si		450000000	450000000	MOBILE 	p	5.286AA	
+si		450000000	450000000	-			Defence systems
+si		450000000	450000000		p		
+si		452700000	452700000	-			Defence systems
+si		452700000	452700000		p		
+si		455000000	455000000	-		5.209, 5.286A	Land military systems,  PMR,  On-site paging
+si		455000000	455000000	MOBILE 	p	5.286AA	
+si		455650000	455650000	-			Defence systems
+si		455650000	455650000		p		
+si		456000000	456000000	-		5.287	Land military systems,  PMR,  On-site paging,  On-board communications
+si		456000000	456000000	MOBILE 	p	5.286AA	
+si		459000000	459000000	-		5.209, 5.286A	PMR,  On-site paging
+si		459000000	459000000	MOBILE 	p	5.286AA	
+si		460000000	460000000	-		5.287, 5.289	PMR,  On-site paging,  On-board communications
+si		460000000	460000000	Meteorological-Satellite (space-to-Earth)	s		
+si		460000000	460000000	MOBILE 	p	5.286AA	
+si		460000000	460000000	FIXED	p		
+si		470000000	470000000	-		5.149, 5.306, 5.311A, 5.312A	Continuum measurements,  VLBI observations,  DVB-T,  Broadcasting (terrestrial),  Radio microphones,  TRA-ECS
+si		470000000	470000000	BROADCASTING	p		
+si		470000000	470000000	Mobile	s		
+si		470000000	470000000	Radio Astronomy	s		
+si		470000000	470000000	-			Radio microphones
+si		470000000	470000000		p		
+si		786000000	786000000	-			Radio microphones
+si		786000000	786000000		p		
+si		790000000	790000000	-			TRA-ECS
+si		790000000	790000000	FIXED	p		
+si		790000000	790000000	Mobile except aeronautical mobile 	s	5.317A, 5.316B	
+si		823000000	823000000	-			Radio microphones
+si		823000000	823000000		p		
+si		826000000	826000000	-			Radio microphones
+si		826000000	826000000		p		
+si		862000000	862000000	-			Land military systems,  Defence systems
+si		862000000	862000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.317A	
+si		862000000	862000000	FIXED	p		
+si		863000000	863000000	-			Non-specific SRDs
+si		863000000	863000000		p		
+si		863000000	863000000	-			Non-specific SRDs,  Radio microphones,  Wireless audio/multimedia
+si		863000000	863000000		p		
+si		864800000	864800000	-			Wireless audio/multimedia
+si		864800000	864800000		p		
+si		865000000	865000000	-			Non-specific SRDs,  RFID
+si		865000000	865000000		p		
+si		868000000	868000000	-			Non-specific SRDs
+si		868000000	868000000		p		
+si		868600000	868600000	-			Alarms
+si		868600000	868600000		p		
+si		868700000	868700000	-			Non-specific SRDs
+si		868700000	868700000		p		
+si		869200000	869200000	-			Alarms
+si		869200000	869200000		p		
+si		869250000	869250000	-			Alarms
+si		869250000	869250000		p		
+si		869300000	869300000	-			Alarms
+si		869300000	869300000		p		
+si		869400000	869400000	-			Non-specific SRDs
+si		869400000	869400000		p		
+si		869650000	869650000	-			Alarms
+si		869650000	869650000		p		
+si		869700000	869700000	-			Non-specific SRDs
+si		869700000	869700000		p		
+si		870000000	870000000	-			Vehicle and infrastructure radar,  Non-specific SRDs,  Land military systems,  PMR
+si		870000000	870000000	FIXED	p		
+si		870000000	870000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.317A	
+si		870000000	870000000	-			Non-specific SRDs,  Tracking, tracing and data acquisition
+si		870000000	870000000		p		
+si		870000000	870000000	-			Defence systems
+si		870000000	870000000		p		
+si		876000000	876000000	-			GSM-R
+si		876000000	876000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.317A	
+si		876000000	876000000	FIXED	p		
+si		880000000	880000000	-			
+si		880000000	880000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.317A	
+si		880000000	880000000	FIXED	p		
+si		880000000	880000000	-			GSM,  Digital cellular,  TRA-ECS
+si		880000000	880000000		p		
+si		890000000	890000000	-			TRA-ECS,  GSM,  MCV
+si		890000000	890000000		p		
+si		915000000	915000000	-			Non-specific SRDs
+si		915000000	915000000		p		
+si		915000000	915000000	-			Land military systems,  PMR,  Non-specific SRDs,  RFID
+si		915000000	915000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.317A	
+si		915000000	915000000	Radiolocation	s		
+si		915000000	915000000	FIXED	p		
+si		915000000	915000000	-			Defence systems
+si		915000000	915000000		p		
+si		916100000	916100000	-			Aids for hearing impaired
+si		916100000	916100000		p		
+si		917300000	917300000	-			Aids for hearing impaired
+si		917300000	917300000		p		
+si		918500000	918500000	-			Aids for hearing impaired
+si		918500000	918500000		p		
+si		919700000	919700000	-			Aids for hearing impaired
+si		919700000	919700000		p		
+si		921000000	921000000	-			GSM-R
+si		921000000	921000000	FIXED	p		
+si		921000000	921000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.317A	
+si		921000000	921000000	Radiolocation	s		
+si		925000000	925000000	-			
+si		925000000	925000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.317A	
+si		925000000	925000000	Radiolocation	s		
+si		925000000	925000000	FIXED	p		
+si		925000000	925000000	-			GSM,  MCV,  TRA-ECS
+si		925000000	925000000		p		
+si		935000000	935000000	-			TRA-ECS,  GSM,  MCV
+si		935000000	935000000		p		
+si		942000000	942000000	-			GSM,  MCV,  TRA-ECS
+si		942000000	942000000		p		
+si		960000000	960000000	-			Defence systems
+si		960000000	960000000		p		
+si		960000000	960000000	-			DME,  JTIDS/MIDS,  SSR,  TACAN-DME
+si		960000000	960000000	AERONAUTICAL RADIONAVIGATION 	p	5.328	
+si		960000000	960000000	AERONAUTICAL MOBILE (R) 	p	5.327A	
+si		1164000000	1164000000	-		5.328A	DME,  TACAN-DME,  SSR,  JTIDS/MIDS,  GALILEO,  GLONASS
+si		1164000000	1164000000	AERONAUTICAL RADIONAVIGATION 	p	5.328	
+si		1164000000	1164000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE) 	p	5.328B	
+si		1215000000	1215000000	-			BMA
+si		1215000000	1215000000		p		
+si		1215000000	1215000000	-		5.332	DME,  TACAN-DME,  SSR,  JTIDS/MIDS,  GLONASS,  GPS,  Active sensors (satellite),  Space research,  Radiolocation (military)
+si		1215000000	1215000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+si		1215000000	1215000000	RADIOLOCATION	p		
+si		1215000000	1215000000	RADIONAVIGATION 	p	5.331	
+si		1215000000	1215000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE) 	p	5.329, 5.328B, 5.329A	
+si		1215000000	1215000000	SPACE RESEARCH (ACTIVE)	p		
+si		1240000000	1240000000	-		5.332, 5.335A	Aeronautical navigation,  GLONASS,  GALILEO,  Wind profilers,  Active sensors (satellite),  Space research,  Radiolocation (military),  Amateur,  Amateur-satellite
+si		1240000000	1240000000	Amateur	s		
+si		1240000000	1240000000	Amateur-Satellite 	s	5.282	
+si		1240000000	1240000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+si		1240000000	1240000000	RADIOLOCATION	p		
+si		1240000000	1240000000	RADIONAVIGATION 	p	5.331	
+si		1240000000	1240000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE) 	p	5.329, 5.328B, 5.329A	
+si		1240000000	1240000000	SPACE RESEARCH (ACTIVE)	p		
+si		1300000000	1300000000	-		5.149, 5.337A	Radiolocation (military),  Spectral line observations
+si		1300000000	1300000000	AERONAUTICAL RADIONAVIGATION 	p	5.337	
+si		1300000000	1300000000	RADIOLOCATION	p		
+si		1300000000	1300000000	RADIONAVIGATION-SATELLITE (EARTH-TO-SPACE)	p		
+si		1350000000	1350000000	-		5.149, 5.338A, 5.339	Land military systems,  Point-to-Point,  Spectral line observations
+si		1350000000	1350000000	FIXED	p		
+si		1350000000	1350000000	MOBILE	p		
+si		1350000000	1350000000	RADIOLOCATION	p		
+si		1350500000	1350500000	-			Defence systems
+si		1350500000	1350500000		p		
+si		1400000000	1400000000	-		5.340, 5.341	Passive sensors (satellite),  Space research,  Radio astronomy
+si		1400000000	1400000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		1400000000	1400000000	RADIO ASTRONOMY	p		
+si		1400000000	1400000000	SPACE RESEARCH (PASSIVE)	p		
+si		1427000000	1427000000	-		5.338A, 5.341	Point-to-Point,  Space operations
+si		1427000000	1427000000	FIXED	p		
+si		1427000000	1427000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		1427000000	1427000000	SPACE OPERATION (EARTH-TO-SPACE)	p		
+si		1429000000	1429000000	-		5.338A, 5.341	Point-to-Point
+si		1429000000	1429000000	FIXED	p		
+si		1429000000	1429000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		1452000000	1452000000	-		5.341, 5.345	TRA-ECS
+si		1452000000	1452000000	BROADCASTING	p		
+si		1452000000	1452000000	BROADCASTING-SATELLITE 	p	5.208B	
+si		1452000000	1452000000	Fixed	s		
+si		1452000000	1452000000	Mobile except aeronautical mobile	s		
+si		1492000000	1492000000	-		5.341	Land military systems,  Fixed,  Radio microphones
+si		1492000000	1492000000	FIXED	p		
+si		1492000000	1492000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		1492500000	1492500000	-			Defence systems
+si		1492500000	1492500000		p		
+si		1518000000	1518000000	-		5.341	SAP/SAB P to P audio links,  MSS Earth stations
+si		1518000000	1518000000	FIXED	p		
+si		1518000000	1518000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		1518000000	1518000000	MOBILE-SATELLITE (SPACE-TO-EARTH) 	p	5.348, 5.351A	
+si		1525000000	1525000000	-		5.341, 5.351, 5.354	SAP/SAB P to P audio links,  MSS Earth stations,  Space operations
+si		1525000000	1525000000	FIXED	p		
+si		1525000000	1525000000	Mobile except aeronautical mobile	s		
+si		1525000000	1525000000	MOBILE-SATELLITE (SPACE-TO-EARTH) 	p	5.208B, 5.351A	
+si		1525000000	1525000000	SPACE OPERATION (SPACE-TO-EARTH)	p		
+si		1530000000	1530000000	-			Defence systems
+si		1530000000	1530000000		p		
+si		1530000000	1530000000	-		5.341, 5.351, 5.354	Tactical radio relay,  MSS Earth stations,  Space operations,  Earth exploration-satellite
+si		1530000000	1530000000	Earth Exploration-Satellite	s		
+si		1530000000	1530000000	Mobile except aeronautical mobile	s		
+si		1530000000	1530000000	MOBILE-SATELLITE (SPACE-TO-EARTH) 	p	5.208B, 5.353A, 5.351A	
+si		1530000000	1530000000	SPACE OPERATION (SPACE-TO-EARTH)	p		
+si		1535000000	1535000000	-		5.341, 5.351, 5.353A, 5.354, 5.356, 5.357, 5.357A	Tactical radio relay,  SAR (communications),  GMDSS,  MSS Earth stations
+si		1535000000	1535000000	MOBILE-SATELLITE (SPACE-TO-EARTH) 	p	5.208B, 5.351A	
+si		1559000000	1559000000	-		5.341	Tactical radio relay,  GALILEO,  GLONASS,  GPS
+si		1559000000	1559000000	AERONAUTICAL RADIONAVIGATION	p		
+si		1559000000	1559000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE) 	p	5.208B, 5.328B, 5.329A	
+si		1610000000	1610000000	-		5.341, 5.364, 5.366, 5.367, 5.368, 5.371, 5.372	Tactical radio relay,  MSS Earth stations,  S-PCS
+si		1610000000	1610000000	AERONAUTICAL RADIONAVIGATION	p		
+si		1610000000	1610000000	MOBILE-SATELLITE (EARTH-TO-SPACE) 	p	5.351A	
+si		1610600000	1610600000	-		5.149, 5.341, 5.364, 5.366, 5.367, 5.368, 5.371, 5.372	Tactical radio relay,  Radio astronomy,  MSS Earth stations,  S-PCS
+si		1610600000	1610600000	AERONAUTICAL RADIONAVIGATION	p		
+si		1610600000	1610600000	MOBILE-SATELLITE (EARTH-TO-SPACE) 	p	5.351A	
+si		1610600000	1610600000	RADIO ASTRONOMY	p		
+si		1613800000	1613800000	-		5.341, 5.364, 5.365, 5.366, 5.367, 5.368, 5.371, 5.372	Tactical radio relay,  MSS Earth stations,  S-PCS
+si		1613800000	1613800000	AERONAUTICAL RADIONAVIGATION	p		
+si		1613800000	1613800000	MOBILE-SATELLITE (EARTH-TO-SPACE) 	p	5.351A	
+si		1613800000	1613800000	Mobile-Satellite (space-to-Earth) 	s	5.208B	
+si		1626500000	1626500000	-		5.341, 5.351, 5.353A, 5.354, 5.357A, 5.374, 5.375, 5.376	Tactical radio relay,  SAR (communications),  GMDSS,  MSS Earth stations
+si		1626500000	1626500000	MOBILE-SATELLITE (EARTH-TO-SPACE) 	p	5.351A	
+si		1660000000	1660000000	-		5.149, 5.341, 5.351, 5.354, 5.376A	Tactical radio relay,  VLBI observations,  MSS Earth stations
+si		1660000000	1660000000	MOBILE-SATELLITE (EARTH-TO-SPACE) 	p	5.351A	
+si		1660000000	1660000000	RADIO ASTRONOMY	p		
+si		1660500000	1660500000	-		5.149, 5.341, 5.379A	Tactical radio relay,  VLBI observations,  Space research
+si		1660500000	1660500000	Fixed	s		
+si		1660500000	1660500000	Mobile except aeronautical mobile	s		
+si		1660500000	1660500000	RADIO ASTRONOMY	p		
+si		1660500000	1660500000	SPACE RESEARCH (PASSIVE)	p		
+si		1668000000	1668000000	-		5.149, 5.341, 5.379A	Tactical radio relay,  VLBI observations,  Space research,  MSS Earth stations
+si		1668000000	1668000000	Fixed	s		
+si		1668000000	1668000000	Mobile except aeronautical mobile	s		
+si		1668000000	1668000000	MOBILE-SATELLITE (EARTH-TO-SPACE) 	p	5.351A, 5.379B, 5.379C	
+si		1668000000	1668000000	RADIO ASTRONOMY	p		
+si		1668000000	1668000000	SPACE RESEARCH (PASSIVE)	p		
+si		1668400000	1668400000	-		5.149, 5.341, 5.379D	Tactical radio relay,  Radio astronomy,  Sondes,  MSS Earth stations
+si		1668400000	1668400000	FIXED	p		
+si		1668400000	1668400000	METEOROLOGICAL AIDS	p		
+si		1668400000	1668400000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		1668400000	1668400000	MOBILE-SATELLITE (EARTH-TO-SPACE) 	p	5.351A, 5.379B, 5.379C	
+si		1668400000	1668400000	RADIO ASTRONOMY	p		
+si		1670000000	1670000000	-		5.341, 5.379D, 5.380A	Tactical radio relay,  Sondes,  MSS Earth stations,  Weather satellites
+si		1670000000	1670000000	FIXED	p		
+si		1670000000	1670000000	METEOROLOGICAL AIDS	p		
+si		1670000000	1670000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+si		1670000000	1670000000	MOBILE	p		
+si		1670000000	1670000000	MOBILE-SATELLITE (EARTH-TO-SPACE) 	p	5.351A, 5.379B	
+si		1675000000	1675000000	-		5.341	Tactical radio relay,  Weather satellites
+si		1675000000	1675000000	FIXED	p		
+si		1675000000	1675000000	METEOROLOGICAL AIDS	p		
+si		1675000000	1675000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+si		1675000000	1675000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		1690000000	1690000000	-		5.289, 5.341	Tactical radio relay,  Weather satellites
+si		1690000000	1690000000	Fixed	s		
+si		1690000000	1690000000	METEOROLOGICAL AIDS	p		
+si		1690000000	1690000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+si		1690000000	1690000000	Mobile except aeronautical mobile	s		
+si		1700000000	1700000000	-		5.289, 5.341	Tactical radio relay,  Weather satellites
+si		1700000000	1700000000	FIXED	p		
+si		1700000000	1700000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+si		1700000000	1700000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		1710000000	1710000000	-		5.149, 5.341, 5.385	Radio astronomy,  TRA-ECS,  GSM,  MCA,  MCV
+si		1710000000	1710000000	FIXED	p		
+si		1710000000	1710000000	MOBILE 	p	5.384A	
+si		1785000000	1785000000	-			Defence systems
+si		1785000000	1785000000		p		
+si		1785000000	1785000000	-			Tactical radio relay,  Radio microphones
+si		1785000000	1785000000	FIXED	p		
+si		1785000000	1785000000	MOBILE	p		
+si		1795000000	1795000000	-			Wireless audio/multimedia
+si		1795000000	1795000000		p		
+si		1800000000	1800000000	-			BWA,  Radio microphones
+si		1800000000	1800000000	Fixed	s		
+si		1800000000	1800000000	MOBILE	p		
+si		1805000000	1805000000	-			TRA-ECS,  GSM,  MCA,  MCV
+si		1805000000	1805000000	FIXED	p		
+si		1805000000	1805000000	MOBILE 	p	5.384A	
+si		1880000000	1880000000	-		5.388	DECT
+si		1880000000	1880000000	FIXED	p		
+si		1880000000	1880000000	MOBILE 	p	5.384A, 5.388A	
+si		1900000000	1900000000	-		5.388	IMT,  MCA,  TRA-ECS
+si		1900000000	1900000000	FIXED	p		
+si		1900000000	1900000000	MOBILE 	p	5.388A	
+si		1900000000	1900000000	-			DA2GC
+si		1900000000	1900000000		p		
+si		1930000000	1930000000	-		5.388	TRA-ECS,  MCA,  IMT
+si		1930000000	1930000000	FIXED	p		
+si		1930000000	1930000000	MOBILE 	p	5.388A	
+si		1980000000	1980000000	-		5.388, 5.389A	MSS Earth stations,  S-PCS
+si		1980000000	1980000000	FIXED	p		
+si		1980000000	1980000000	MOBILE	p		
+si		1980000000	1980000000	MOBILE-SATELLITE (EARTH-TO-SPACE) 	p	5.351A	
+si		2010000000	2010000000	-		5.388	IMT
+si		2010000000	2010000000	FIXED	p		
+si		2010000000	2010000000	MOBILE 	p	5.388A	
+si		2025000000	2025000000	-		5.392	Land military systems,  Cordless cameras,  Space research,  Space operations,  Earth exploration-satellite
+si		2025000000	2025000000	EARTH EXPLORATION-SATELLITE (EARTH-TO-SPACE) (SPACE-TO-SPACE)	p		
+si		2025000000	2025000000	FIXED	p		
+si		2025000000	2025000000	MOBILE 	p	5.391	
+si		2025000000	2025000000	SPACE OPERATION	p		
+si		2025000000	2025000000	SPACE RESEARCH	p		
+si		2025000000	2025000000	-			Defence systems
+si		2025000000	2025000000		p		
+si		2070000000	2070000000	-			Defence systems
+si		2070000000	2070000000		p		
+si		2110000000	2110000000	-		5.388	TRA-ECS,  Space research,  MCA
+si		2110000000	2110000000	FIXED	p		
+si		2110000000	2110000000	MOBILE 	p	5.388A	
+si		2110000000	2110000000	SPACE RESEARCH (DEEP SPACE)	p		
+si		2120000000	2120000000	-		5.388	MCA,  TRA-ECS
+si		2120000000	2120000000	FIXED	p		
+si		2120000000	2120000000	MOBILE 	p	5.388A	
+si		2170000000	2170000000	-		5.388, 5.389A	MSS Earth stations,  S-PCS
+si		2170000000	2170000000	FIXED	p		
+si		2170000000	2170000000	MOBILE	p		
+si		2170000000	2170000000	MOBILE-SATELLITE (SPACE-TO-EARTH) 	p	5.351A	
+si		2200000000	2200000000	-		5.392	Fixed radio relay (military),  Earth exploration-satellite,  Space operations,  Space research
+si		2200000000	2200000000	EARTH EXPLORATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+si		2200000000	2200000000	FIXED	p		
+si		2200000000	2200000000	MOBILE 	p	5.391	
+si		2200000000	2200000000	SPACE OPERATION	p		
+si		2200000000	2200000000	SPACE RESEARCH	p		
+si		2200000000	2200000000	-			Defence systems
+si		2200000000	2200000000		p		
+si		2255000000	2255000000	-			Defence systems,  Cordless cameras,  SAP/SAB P to P video links
+si		2255000000	2255000000		p		
+si		2290000000	2290000000	-			Cordless cameras,  SAP/SAB P to P video links,  Space research
+si		2290000000	2290000000	FIXED	p		
+si		2290000000	2290000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		2290000000	2290000000	SPACE RESEARCH (DEEP SPACE) (SPACE-TO-EARTH)	p		
+si		2300000000	2300000000	-			Cordless cameras,  SAP/SAB P to P video links,  Amateur,  TRA-ECS
+si		2300000000	2300000000	Amateur	s		
+si		2300000000	2300000000	FIXED	p		
+si		2300000000	2300000000	MOBILE 	p	5.384A	
+si		2300000000	2300000000	Radiolocation	s		
+si		2400000000	2400000000	-			ISM
+si		2400000000	2400000000		p		
+si		2400000000	2400000000	-			Non-specific SRDs,  Radio LANs,  Detection of movement and alert
+si		2400000000	2400000000		p		
+si		2400000000	2400000000	-		5.150, 5.282	Amateur-satellite,  Cordless cameras,  SAP/SAB P to P video links,  Amateur
+si		2400000000	2400000000	Amateur	s		
+si		2400000000	2400000000	Amateur-Satellite	s		
+si		2400000000	2400000000	FIXED	p		
+si		2400000000	2400000000	MOBILE	p		
+si		2446000000	2446000000	-			RFID
+si		2446000000	2446000000		p		
+si		2450000000	2450000000	-		5.150	Cordless cameras,  SAP/SAB P to P video links
+si		2450000000	2450000000	FIXED	p		
+si		2450000000	2450000000	MOBILE	p		
+si		2450000000	2450000000	Radiolocation	s		
+si		2483500000	2483500000	-		5.150, 5.402	MSS Earth stations,  S-PCS,  Cordless cameras,  SAP/SAB P to P video links,  Active medical implants,  Tracking, tracing and data acquisition
+si		2483500000	2483500000	RADIODETERMINATION-SATELLITE 	p	5.398	
+si		2483500000	2483500000	Radiolocation	s		
+si		2483500000	2483500000	FIXED	p		
+si		2483500000	2483500000	MOBILE	p		
+si		2483500000	2483500000	MOBILE-SATELLITE (SPACE-TO-EARTH) 	p	5.351A	
+si		2500000000	2500000000	-			TRA-ECS
+si		2500000000	2500000000	FIXED 	p	5.410	
+si		2500000000	2500000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.384A	
+si		2520000000	2520000000	-		5.339	TRA-ECS
+si		2520000000	2520000000	FIXED 	p	5.410	
+si		2520000000	2520000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.384A	
+si		2655000000	2655000000	-		5.149, 5.208B	TRA-ECS,  Continuum measurements,  Earth exploration-satellite,  Space research
+si		2655000000	2655000000	Earth Exploration-Satellite (passive)	s		
+si		2655000000	2655000000	FIXED 	p	5.410	
+si		2655000000	2655000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.384A	
+si		2655000000	2655000000	Radio Astronomy	s		
+si		2655000000	2655000000	Space Research (passive)	s		
+si		2670000000	2670000000	-		5.149	TRA-ECS,  Continuum measurements
+si		2670000000	2670000000	FIXED 	p	5.410	
+si		2670000000	2670000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.384A	
+si		2670000000	2670000000	Radio Astronomy	s		
+si		2690000000	2690000000	-		5.340	Passive sensors (satellite),  Space research,  Radio astronomy
+si		2690000000	2690000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		2690000000	2690000000	RADIO ASTRONOMY	p		
+si		2690000000	2690000000	SPACE RESEARCH (PASSIVE)	p		
+si		2700000000	2700000000	-			Defence systems
+si		2700000000	2700000000		p		
+si		2700000000	2700000000	-		5.423	Aeronautical navigation,  Weather radar,  Cordless cameras,  Radiolocation (military)
+si		2700000000	2700000000	AERONAUTICAL RADIONAVIGATION 	p	5.337	
+si		2700000000	2700000000	Radiolocation	s		
+si		2900000000	2900000000	-		5.425, 5.427	Aeronautical navigation,  Radiolocation (military)
+si		2900000000	2900000000	RADIOLOCATION 	p	5.424A	
+si		2900000000	2900000000	RADIONAVIGATION 	p	5.426	
+si		3100000000	3100000000	-			Non-specific SRDs
+si		3100000000	3100000000		p		
+si		3100000000	3100000000	-			Defence systems
+si		3100000000	3100000000		p		
+si		3100000000	3100000000	-		5.149	Radio astronomy,  Radiolocation (military),  Space research,  Earth exploration-satellite
+si		3100000000	3100000000	Earth Exploration-Satellite (active)	s		
+si		3100000000	3100000000	RADIOLOCATION	p		
+si		3100000000	3100000000	Space Research (active)	s		
+si		3300000000	3300000000	-		5.149	Radio astronomy,  Radiolocation (military)
+si		3300000000	3300000000	RADIOLOCATION	p		
+si		3400000000	3400000000	-			LT2,  LAES
+si		3400000000	3400000000		p		
+si		3400000000	3400000000	-			Defence systems,  Radiolocation (military),  FSS Earth stations,  Amateur
+si		3400000000	3400000000	Amateur	s		
+si		3400000000	3400000000	FIXED	p		
+si		3400000000	3400000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		3400000000	3400000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.430A	
+si		3400000000	3400000000	Radiolocation	s		
+si		3410000000	3410000000	-			TRA-ECS,  BWA,  FSS Earth stations
+si		3410000000	3410000000	FIXED	p		
+si		3410000000	3410000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		3410000000	3410000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.430A	
+si		3600000000	3600000000	-			TRA-ECS,  FSS Earth stations,  ESV
+si		3600000000	3600000000	FIXED	p		
+si		3600000000	3600000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		3600000000	3600000000	Mobile	s		
+si		3800000000	3800000000	-			Point-to-Point,  FSS Earth stations,  ESV
+si		3800000000	3800000000	FIXED	p		
+si		3800000000	3800000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		3800000000	3800000000	Mobile	s		
+si		4200000000	4200000000	-			UWB applications
+si		4200000000	4200000000		p		
+si		4200000000	4200000000	-		5.440	Defence systems,  Altimeters
+si		4200000000	4200000000	AERONAUTICAL RADIONAVIGATION 	p	5.438	
+si		4400000000	4400000000	-			Defence systems
+si		4400000000	4400000000		p		
+si		4400000000	4400000000	-			Land military systems
+si		4400000000	4400000000	FIXED	p		
+si		4400000000	4400000000	MOBILE	p		
+si		4500000000	4500000000	-			TLPR
+si		4500000000	4500000000		p		
+si		4500000000	4500000000	-			Land military systems
+si		4500000000	4500000000	FIXED	p		
+si		4500000000	4500000000	FIXED-SATELLITE (SPACE-TO-EARTH) 	p	5.441	
+si		4500000000	4500000000	MOBILE	p		
+si		4800000000	4800000000	-		5.149, 5.339	Land military systems,  Radio astronomy
+si		4800000000	4800000000	FIXED	p		
+si		4800000000	4800000000	MOBILE 	p	5.442	
+si		4800000000	4800000000	Radio Astronomy	s		
+si		4990000000	4990000000	-		5.149, 5.443B	Land military systems,  Radio astronomy
+si		4990000000	4990000000	FIXED	p		
+si		4990000000	4990000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		4990000000	4990000000	RADIO ASTRONOMY	p		
+si		5000000000	5000000000	-			Defence systems
+si		5000000000	5000000000		p		
+si		5000000000	5000000000	-			Aeronautical navigation,  GALILEO,  Aeronautical satcoms
+si		5000000000	5000000000	AERONAUTICAL RADIONAVIGATION	p		
+si		5000000000	5000000000	AERONAUTICAL MOBILE-SATELLITE (R) 	p	5.443AA	
+si		5000000000	5000000000	RADIONAVIGATION-SATELLITE (EARTH-TO-SPACE)	p		
+si		5010000000	5010000000	-		5.328B, 5.443B	Aeronautical navigation,  GALILEO,  Aeronautical satcoms
+si		5010000000	5010000000	AERONAUTICAL RADIONAVIGATION	p		
+si		5010000000	5010000000	RADIONAVIGATION-SATELLITE (SPACE-TO-EARTH) (SPACE-TO-SPACE)	p		
+si		5010000000	5010000000	AERONAUTICAL MOBILE-SATELLITE (R) 	p	5.443AA	
+si		5030000000	5030000000	-		5.444	MLS,  Aeronautical satcoms
+si		5030000000	5030000000	AERONAUTICAL RADIONAVIGATION	p		
+si		5030000000	5030000000	AERONAUTICAL MOBILE (R) 	p	5.443C	
+si		5030000000	5030000000	AERONAUTICAL MOBILE-SATELLITE (R) 	p	5.443D	
+si		5091000000	5091000000	-		5.444, 5.444A	MLS,  Aeronautical satcoms
+si		5091000000	5091000000	AERONAUTICAL MOBILE-SATELLITE (R) 	p	5.443AA	
+si		5091000000	5091000000	AERONAUTICAL RADIONAVIGATION	p		
+si		5091000000	5091000000	AERONAUTICAL MOBILE 	p	5.444B	
+si		5150000000	5150000000	-			Radio LANs
+si		5150000000	5150000000		p		
+si		5150000000	5150000000	-		5.446C, 5.447B, 5.447C	Aeronautical telemetry,  Feeder links,  BBDR
+si		5150000000	5150000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.447A	
+si		5150000000	5150000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.446B, 5.446A	
+si		5250000000	5250000000	-		5.448A	Radiolocation (civil),  Weather radar,  Active sensors (satellite),  Space research
+si		5250000000	5250000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+si		5250000000	5250000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.446A, 5.447F	
+si		5250000000	5250000000	RADIOLOCATION	p		
+si		5250000000	5250000000	SPACE RESEARCH 	p	5.447D	
+si		5255000000	5255000000	-		5.448A	Radiolocation (civil),  Weather radar,  Active sensors (satellite),  Space research
+si		5255000000	5255000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+si		5255000000	5255000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.446A, 5.447F	
+si		5255000000	5255000000	RADIOLOCATION	p		
+si		5255000000	5255000000	SPACE RESEARCH (ACTIVE)	p		
+si		5350000000	5350000000	-			Radiolocation (civil),  Weather radar,  Active sensors (satellite),  Space research
+si		5350000000	5350000000	AERONAUTICAL RADIONAVIGATION 	p	5.449	
+si		5350000000	5350000000	EARTH EXPLORATION-SATELLITE (ACTIVE) 	p	5.448B	
+si		5350000000	5350000000	RADIOLOCATION 	p	5.448D	
+si		5350000000	5350000000	SPACE RESEARCH (ACTIVE) 	p	5.448C	
+si		5460000000	5460000000	-		5.448B	Radiolocation (civil),  Weather radar,  Active sensors (satellite),  Space research
+si		5460000000	5460000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+si		5460000000	5460000000	RADIOLOCATION 	p	5.448D	
+si		5460000000	5460000000	RADIONAVIGATION 	p	5.449	
+si		5460000000	5460000000	SPACE RESEARCH (ACTIVE)	p		
+si		5470000000	5470000000	-			Radio LANs
+si		5470000000	5470000000		p		
+si		5470000000	5470000000	-		5.448B	Radiolocation (civil),  Weather radar,  Active sensors (satellite),  Space research
+si		5470000000	5470000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+si		5470000000	5470000000	MARITIME RADIONAVIGATION	p		
+si		5470000000	5470000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.446A, 5.450A	
+si		5470000000	5470000000	RADIOLOCATION 	p	5.450B	
+si		5470000000	5470000000	SPACE RESEARCH (ACTIVE)	p		
+si		5570000000	5570000000	-		5.452	Radiolocation (civil),  Weather radar
+si		5570000000	5570000000	MARITIME RADIONAVIGATION	p		
+si		5570000000	5570000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.446A, 5.450A	
+si		5570000000	5570000000	RADIOLOCATION 	p	5.450B	
+si		5650000000	5650000000	-		5.282	Radiolocation (civil),  Weather radar,  Amateur
+si		5650000000	5650000000	Amateur	s		
+si		5650000000	5650000000	MOBILE EXCEPT AERONAUTICAL MOBILE 	p	5.446A, 5.450A	
+si		5650000000	5650000000	RADIOLOCATION	p		
+si		5725000000	5725000000	-			Non-specific SRDs,  TTT,  ISM
+si		5725000000	5725000000		p		
+si		5725000000	5725000000	-		5.150	Weather radar,  BFWA,  Amateur
+si		5725000000	5725000000	Amateur	s		
+si		5725000000	5725000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+si		5725000000	5725000000	Mobile	s		
+si		5725000000	5725000000	RADIOLOCATION	p		
+si		5795000000	5795000000	-			TTT
+si		5795000000	5795000000		p		
+si		5830000000	5830000000	-		5.150	Weather radar,  BFWA,  Amateur-satellite
+si		5830000000	5830000000	Amateur	s		
+si		5830000000	5830000000	Amateur-Satellite (space-to-Earth)	s		
+si		5830000000	5830000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+si		5830000000	5830000000	RADIOLOCATION	p		
+si		5850000000	5850000000	-		5.150	FSS Earth stations,  BFWA,  ITS
+si		5850000000	5850000000	FIXED	p		
+si		5850000000	5850000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+si		5850000000	5850000000	MOBILE	p		
+si		5855000000	5855000000	-			DA2GC
+si		5855000000	5855000000		p		
+si		5925000000	5925000000	-		5.149, 5.440, 5.458	Point-to-Point,  FSS Earth stations,  ESV,  Passive sensors (satellite),  Radio astronomy
+si		5925000000	5925000000	Earth Exploration-Satellite (passive)	s		
+si		5925000000	5925000000	FIXED	p		
+si		5925000000	5925000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.457A	
+si		6000000000	6000000000	-			LAES,  Non-specific SRDs,  LT2
+si		6000000000	6000000000		p		
+si		6000000000	6000000000	-			LPR,  Non-specific SRDs,  UWB applications
+si		6000000000	6000000000		p		
+si		6700000000	6700000000	-		5.458, 5.458A, 5.458B, 5.458C	Point-to-Point,  Passive sensors (satellite),  FSS Earth stations,  MSS Earth stations
+si		6700000000	6700000000	Earth Exploration-Satellite (passive)	s		
+si		6700000000	6700000000	FIXED	p		
+si		6700000000	6700000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.441	
+si		7075000000	7075000000	-		5.458	Point-to-Point,  Passive sensors (satellite)
+si		7075000000	7075000000	Earth Exploration-Satellite (passive)	s		
+si		7075000000	7075000000	FIXED	p		
+si		7145000000	7145000000	-		5.458	Point-to-Point,  Space research,  Passive sensors (satellite),  Space operations
+si		7145000000	7145000000	Earth Exploration-Satellite (Earth-to-space)	s		
+si		7145000000	7145000000	FIXED	p		
+si		7145000000	7145000000	MOBILE	p		
+si		7145000000	7145000000	Space Operation (Earth-to-space)	s		
+si		7145000000	7145000000	SPACE RESEARCH (EARTH-TO-SPACE) 	p	5.460	
+si		7235000000	7235000000	-		5.458	Point-to-Point,  Passive sensors (satellite),  Space research,  Space operations
+si		7235000000	7235000000	Earth Exploration-Satellite (Earth-to-space)	s		
+si		7235000000	7235000000	FIXED	p		
+si		7235000000	7235000000	Space Operation (Earth-to-space)	s		
+si		7235000000	7235000000	Space Research (Earth-to-space)	s		
+si		7250000000	7250000000	-		5.461	Defence systems,  Satellite systems (military),  Point-to-Point
+si		7250000000	7250000000	FIXED	p		
+si		7250000000	7250000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		7250000000	7250000000	MOBILE	p		
+si		7300000000	7300000000	-			TTT
+si		7300000000	7300000000		p		
+si		7300000000	7300000000	-		5.461	Point-to-Point
+si		7300000000	7300000000	FIXED	p		
+si		7300000000	7300000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		7300000000	7300000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		7450000000	7450000000	-		5.461A	Point-to-Point,  Weather satellites
+si		7450000000	7450000000	FIXED	p		
+si		7450000000	7450000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		7450000000	7450000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+si		7450000000	7450000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		7550000000	7550000000	-			Point-to-Point,  Weather satellites
+si		7550000000	7550000000	FIXED	p		
+si		7550000000	7550000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		7550000000	7550000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		7750000000	7750000000	-			Point-to-Point,  Weather satellites
+si		7750000000	7750000000	FIXED	p		
+si		7750000000	7750000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH) 	p	5.461B	
+si		7750000000	7750000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		7900000000	7900000000	-		5.461	Satellite systems (military),  Point-to-Point
+si		7900000000	7900000000	FIXED	p		
+si		7900000000	7900000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+si		7900000000	7900000000	MOBILE	p		
+si		7975000000	7975000000	-			Defence systems
+si		7975000000	7975000000		p		
+si		8025000000	8025000000	-			Defence systems
+si		8025000000	8025000000		p		
+si		8025000000	8025000000	-		5.462A	Earth exploration-satellite (military),  Point-to-Point,  Land mobile
+si		8025000000	8025000000	EARTH EXPLORATION-SATELLITE (SPACE-TO-EARTH)	p		
+si		8025000000	8025000000	FIXED	p		
+si		8025000000	8025000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+si		8025000000	8025000000	MOBILE 	p	5.463	
+si		8175000000	8175000000	-		5.462A	Earth exploration-satellite (military),  Weather satellites,  Point-to-Point,  Land mobile
+si		8175000000	8175000000	EARTH EXPLORATION-SATELLITE (SPACE-TO-EARTH)	p		
+si		8175000000	8175000000	FIXED	p		
+si		8175000000	8175000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+si		8175000000	8175000000	METEOROLOGICAL-SATELLITE (EARTH-TO-SPACE)	p		
+si		8175000000	8175000000	MOBILE 	p	5.463	
+si		8215000000	8215000000	-		5.462A	Earth exploration-satellite (military),  Point-to-Point
+si		8215000000	8215000000	EARTH EXPLORATION-SATELLITE (SPACE-TO-EARTH)	p		
+si		8215000000	8215000000	FIXED	p		
+si		8215000000	8215000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+si		8215000000	8215000000	MOBILE 	p	5.463	
+si		8400000000	8400000000	-			Point-to-Point,  Space research
+si		8400000000	8400000000	FIXED	p		
+si		8400000000	8400000000	SPACE RESEARCH (SPACE-TO-EARTH) 	p	5.465	
+si		8500000000	8500000000	-			TLPR
+si		8500000000	8500000000		p		
+si		8500000000	8500000000	-			Defence systems
+si		8500000000	8500000000		p		
+si		8500000000	8500000000	-			UWB applications
+si		8500000000	8500000000		p		
+si		8500000000	8500000000	-			Aeronautical navigation,  Radiolocation (military)
+si		8500000000	8500000000	RADIOLOCATION	p		
+si		8550000000	8550000000	-		5.469A	Aeronautical navigation,  Radiolocation (military),  Active sensors (satellite)
+si		8550000000	8550000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+si		8550000000	8550000000	RADIOLOCATION	p		
+si		8550000000	8550000000	SPACE RESEARCH (ACTIVE)	p		
+si		8650000000	8650000000	-			Aeronautical navigation,  Radiolocation (military)
+si		8650000000	8650000000	RADIOLOCATION	p		
+si		8750000000	8750000000	-			Aeronautical navigation,  Radiolocation (military)
+si		8750000000	8750000000	AERONAUTICAL RADIONAVIGATION 	p	5.470	
+si		8750000000	8750000000	RADIOLOCATION	p		
+si		8850000000	8850000000	-			Aeronautical navigation,  Radiolocation (military)
+si		8850000000	8850000000	MARITIME RADIONAVIGATION 	p	5.472	
+si		8850000000	8850000000	RADIOLOCATION	p		
+si		9000000000	9000000000	-			Aeronautical navigation,  Radiolocation (military)
+si		9000000000	9000000000	AERONAUTICAL RADIONAVIGATION 	p	5.337	
+si		9000000000	9000000000	Radiolocation	s		
+si		9200000000	9200000000	-			Detection of movement and alert
+si		9200000000	9200000000		p		
+si		9200000000	9200000000	-		5.474	Aeronautical navigation,  Radiolocation (military)
+si		9200000000	9200000000	MARITIME RADIONAVIGATION 	p	5.472	
+si		9200000000	9200000000	RADIOLOCATION	p		
+si		9300000000	9300000000	-		5.427, 5.474, 5.475, 5.475A, 5.475B, 5.476A	Aeronautical navigation,  Radiolocation (military),  Space research,  Earth exploration-satellite
+si		9300000000	9300000000	RADIOLOCATION	p		
+si		9300000000	9300000000	RADIONAVIGATION	p		
+si		9300000000	9300000000	SPACE RESEARCH (ACTIVE)	p		
+si		9300000000	9300000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+si		9500000000	9500000000	-		5.476A	Aeronautical navigation,  Radiolocation (military),  Earth exploration-satellite,  Space research
+si		9500000000	9500000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+si		9500000000	9500000000	RADIOLOCATION	p		
+si		9500000000	9500000000	SPACE RESEARCH (ACTIVE)	p		
+si		9800000000	9800000000	-		5.478A, 5.478B	Aeronautical navigation,  Radiolocation (military),  Space research,  Earth exploration-satellite
+si		9800000000	9800000000	RADIOLOCATION	p		
+si		9800000000	9800000000	Earth Exploration-Satellite (active)	s		
+si		9800000000	9800000000	Space Research (active)	s		
+si		9900000000	9900000000	-		5.479	Aeronautical navigation,  Radiolocation (military),  Weather satellites
+si		9900000000	9900000000	RADIOLOCATION	p		
+si		10000000000	10000000000	-		5.479	BWA,  Weather satellites,  Amateur
+si		10000000000	10000000000	Amateur	s		
+si		10000000000	10000000000	FIXED	p		
+si		10000000000	10000000000	MOBILE	p		
+si		10000000000	10000000000	RADIOLOCATION	p		
+si		10150000000	10150000000	-			Point-to-Point,  BWA,  Amateur
+si		10150000000	10150000000	Amateur	s		
+si		10150000000	10150000000	FIXED	p		
+si		10150000000	10150000000	MOBILE	p		
+si		10150000000	10150000000	RADIOLOCATION	p		
+si		10300000000	10300000000	-			BWA,  Amateur
+si		10300000000	10300000000	Amateur	s		
+si		10300000000	10300000000	FIXED	p		
+si		10300000000	10300000000	Mobile	s		
+si		10300000000	10300000000	RADIOLOCATION	p		
+si		10450000000	10450000000	-			BWA,  Amateur,  Amateur-satellite
+si		10450000000	10450000000	Amateur	s		
+si		10450000000	10450000000	Amateur-Satellite	s		
+si		10450000000	10450000000	FIXED	p		
+si		10450000000	10450000000	MOBILE	p		
+si		10450000000	10450000000	RADIOLOCATION	p		
+si		10500000000	10500000000	-			Detection of movement and alert
+si		10500000000	10500000000		p		
+si		10500000000	10500000000	-			Point-to-Point,  BWA
+si		10500000000	10500000000	FIXED	p		
+si		10500000000	10500000000	MOBILE	p		
+si		10500000000	10500000000	Radiolocation	s		
+si		10550000000	10550000000	-			Point-to-Point,  BWA
+si		10550000000	10550000000	FIXED	p		
+si		10550000000	10550000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		10550000000	10550000000	Radiolocation	s		
+si		10600000000	10600000000	-		5.149, 5.482, 5.482A	VLBI observations,  Point-to-Point,  BWA,  Space research,  Earth exploration-satellite
+si		10600000000	10600000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		10600000000	10600000000	FIXED	p		
+si		10600000000	10600000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		10600000000	10600000000	RADIO ASTRONOMY	p		
+si		10600000000	10600000000	Radiolocation	s		
+si		10600000000	10600000000	SPACE RESEARCH (PASSIVE)	p		
+si		10680000000	10680000000	-		5.340	Radio astronomy,  VLBI observations,  Space research,  Earth exploration-satellite
+si		10680000000	10680000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		10680000000	10680000000	RADIO ASTRONOMY	p		
+si		10680000000	10680000000	SPACE RESEARCH (PASSIVE)	p		
+si		10700000000	10700000000	-			Point-to-Point,  FSS Earth stations,  VSAT,  AES,  SIT/SUT,  ESV,  HEST,  LEST
+si		10700000000	10700000000	FIXED	p		
+si		10700000000	10700000000	FIXED-SATELLITE (SPACE-TO-EARTH) 	p	5.441, 5.484A	
+si		10700000000	10700000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.484	
+si		10700000000	10700000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		11700000000	11700000000	-		5.487, 5.487A	MWS,  Broadcasting (satellite),  SIT/SUT,  FSS Earth stations,  HEST,  LEST
+si		11700000000	11700000000	BROADCASTING	p		
+si		11700000000	11700000000	BROADCASTING-SATELLITE 	p	5.492	
+si		11700000000	11700000000	FIXED	p		
+si		11700000000	11700000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		12500000000	12500000000	-			FSS Earth stations,  AES,  VSAT,  SNG,  ESV,  SIT/SUT,  HEST,  LEST
+si		12500000000	12500000000	FIXED-SATELLITE (SPACE-TO-EARTH) 	p	5.484A	
+si		12750000000	12750000000	-			Point-to-Point,  FSS Earth stations
+si		12750000000	12750000000	FIXED	p		
+si		12750000000	12750000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.441	
+si		13250000000	13250000000	-			Defence systems
+si		13250000000	13250000000		p		
+si		13250000000	13250000000	-		5.498A	Radiolocation (civil),  Airborne doppler navigation aids,  Space research,  Earth exploration-satellite
+si		13250000000	13250000000	AERONAUTICAL RADIONAVIGATION 	p	5.497	
+si		13250000000	13250000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+si		13250000000	13250000000	SPACE RESEARCH (ACTIVE)	p		
+si		13400000000	13400000000	-			Detection of movement and alert
+si		13400000000	13400000000		p		
+si		13400000000	13400000000	-		5.501A, 5.501B	Airborne doppler navigation aids,  Radiolocation (civil),  Radiolocation (military),  Space research,  Earth exploration-satellite,  Standard frequency and time signal-satellite
+si		13400000000	13400000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+si		13400000000	13400000000	RADIOLOCATION	p		
+si		13400000000	13400000000	SPACE RESEARCH	p		
+si		13400000000	13400000000	Standard Frequency and Time Signal-Satellite (Earth-to-space)	s		
+si		13750000000	13750000000	-		5.502, 5.503	FSS Earth stations,  Radiolocation (civil),  VLBI observations,  Radiolocation (military),  Space research,  Earth exploration-satellite,  Standard frequency and time signal-satellite
+si		13750000000	13750000000	Earth Exploration-Satellite	s		
+si		13750000000	13750000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.484A	
+si		13750000000	13750000000	RADIOLOCATION	p		
+si		13750000000	13750000000	Space Research	s		
+si		13750000000	13750000000	Standard Frequency and Time Signal-Satellite (Earth-to-space)	s		
+si		14000000000	14000000000	-		5.504A	AES,  FSS Earth stations,  VSAT,  SNG,  ESV,  HEST,  LEST,  MSS Earth stations,  Space research
+si		14000000000	14000000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.506, 5.457A, 5.484A	
+si		14000000000	14000000000	Mobile-Satellite (Earth-to-space) 	s	5.506A, 5.504B	
+si		14000000000	14000000000	Space Research	s		
+si		14250000000	14250000000	-		5.504A	AES,  FSS Earth stations,  VSAT,  SNG,  ESV,  MSS Earth stations,  Space research
+si		14250000000	14250000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.506, 5.457A, 5.484A	
+si		14250000000	14250000000	Mobile-Satellite (Earth-to-space) 	s	5.506A, 5.504B	
+si		14250000000	14250000000	RADIONAVIGATION 	p	5.504	
+si		14250000000	14250000000	Space Research	s		
+si		14300000000	14300000000	-		5.504A	AES,  FSS Earth stations,  VSAT,  SNG,  ESV,  MSS Earth stations
+si		14300000000	14300000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.457A, 5.506A, 5.484A	
+si		14300000000	14300000000	Mobile-Satellite (Earth-to-space) 	s	5.506A, 5.504B	
+si		14300000000	14300000000	Radionavigation-Satellite	s		
+si		14400000000	14400000000	-		5.504A	AES,  FSS Earth stations,  VSAT,  SNG,  ESV,  MSS Earth stations
+si		14400000000	14400000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.506, 5.457A, 5.484A	
+si		14400000000	14400000000	Mobile-Satellite (Earth-to-space) 	s	5.504B, 5.506A	
+si		14470000000	14470000000	-		5.149, 5.504A	AES,  FSS Earth stations,  VSAT,  SNG,  ESV,  MSS Earth stations,  Radio astronomy
+si		14470000000	14470000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.506, 5.457A, 5.484A	
+si		14470000000	14470000000	Mobile-Satellite (Earth-to-space) 	s	5.506A, 5.504B	
+si		14470000000	14470000000	Radio Astronomy	s		
+si		14500000000	14500000000	-			Land military systems,  Point-to-Point,  Space research
+si		14500000000	14500000000	FIXED	p		
+si		14500000000	14500000000	MOBILE	p		
+si		14500000000	14500000000	Space Research	s		
+si		14500000000	14500000000	-			Defence systems
+si		14500000000	14500000000		p		
+si		14725000000	14725000000	-			Defence systems
+si		14725000000	14725000000		p		
+si		14800000000	14800000000	-			Land military systems,  Point-to-Point,  VLBI observations,  Space research
+si		14800000000	14800000000	FIXED	p		
+si		14800000000	14800000000	MOBILE	p		
+si		14800000000	14800000000	Space Research	s		
+si		15145000000	15145000000	-			Defence systems
+si		15145000000	15145000000		p		
+si		15350000000	15350000000	-		5.340	VLBI observations,  Space research,  Earth exploration-satellite
+si		15350000000	15350000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		15350000000	15350000000	RADIO ASTRONOMY	p		
+si		15350000000	15350000000	SPACE RESEARCH (PASSIVE)	p		
+si		15400000000	15400000000	-		5.511D	Radiolocation (civil)
+si		15400000000	15400000000	AERONAUTICAL RADIONAVIGATION	p		
+si		15400000000	15400000000	RADIOLOCATION 	p	5.511F, 5.511E	
+si		15430000000	15430000000	-		5.511C	FSS Earth stations,  Radiolocation (civil)
+si		15430000000	15430000000	RADIOLOCATION 	p	5.511F, 5.511E	
+si		15430000000	15430000000	AERONAUTICAL RADIONAVIGATION	p		
+si		15430000000	15430000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.511A	
+si		15630000000	15630000000	-		5.511D	Radiolocation (civil)
+si		15630000000	15630000000	AERONAUTICAL RADIONAVIGATION	p		
+si		15630000000	15630000000	RADIOLOCATION 	p	5.511F, 5.511E	
+si		15700000000	15700000000	-			Defence systems
+si		15700000000	15700000000		p		
+si		15700000000	15700000000	-			Radiolocation (military)
+si		15700000000	15700000000	RADIOLOCATION	p		
+si		16600000000	16600000000	-			Radiolocation (military),  Space research
+si		16600000000	16600000000	RADIOLOCATION	p		
+si		16600000000	16600000000	Space Research (Earth-to-space)	s		
+si		17100000000	17100000000	-			GBSAR
+si		17100000000	17100000000		p		
+si		17100000000	17100000000	-			Radiolocation (military)
+si		17100000000	17100000000	Mobile	s		
+si		17100000000	17100000000	RADIOLOCATION	p		
+si		17200000000	17200000000	-		5.513A	Radiolocation (military),  Space research,  Earth exploration-satellite
+si		17200000000	17200000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+si		17200000000	17200000000	Mobile	s		
+si		17200000000	17200000000	RADIOLOCATION	p		
+si		17200000000	17200000000	SPACE RESEARCH (ACTIVE)	p		
+si		17300000000	17300000000	-			Radiolocation (military),  Feeder links,  GSO ESOMPs,  NGSO ESOMPs
+si		17300000000	17300000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.116	
+si		17300000000	17300000000	FIXED-SATELLITE (SPACE-TO-EARTH) 	p	5.516B, 5.516A	
+si		17300000000	17300000000	Radiolocation	s		
+si		17700000000	17700000000	-			GSO ESOMPs,  NGSO ESOMPs,  Point-to-Point,  FSS Earth stations,  Feeder links
+si		17700000000	17700000000	FIXED	p		
+si		17700000000	17700000000	FIXED-SATELLITE (SPACE-TO-EARTH) 	p	5.484A	
+si		17700000000	17700000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.516	
+si		18100000000	18100000000	-		5.519	Point-to-Point,  FSS Earth stations,  Weather satellites,  NGSO ESOMPs,  GSO ESOMPs
+si		18100000000	18100000000	FIXED	p		
+si		18100000000	18100000000	FIXED-SATELLITE (SPACE-TO-EARTH) 	p	5.484A	
+si		18100000000	18100000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.520	
+si		18100000000	18100000000	METEOROLOGICAL-SATELLITE (SPACE-TO-EARTH)	p		
+si		18400000000	18400000000	-			GSO ESOMPs,  NGSO ESOMPs,  Point-to-Point,  FSS Earth stations
+si		18400000000	18400000000	FIXED	p		
+si		18400000000	18400000000	FIXED-SATELLITE (SPACE-TO-EARTH) 	p	5.484A	
+si		18400000000	18400000000	MOBILE	p		
+si		18600000000	18600000000	-		5.522A	Point-to-Point,  FSS Earth stations,  Passive sensors (satellite),  Space research,  GSO ESOMPs,  NGSO ESOMPs
+si		18600000000	18600000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		18600000000	18600000000	FIXED	p		
+si		18600000000	18600000000	FIXED-SATELLITE (SPACE-TO-EARTH) 	p	5.522B	
+si		18600000000	18600000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		18600000000	18600000000	Space Research (passive)	s		
+si		18800000000	18800000000	-			GSO ESOMPs,  NGSO ESOMPs,  Point-to-Point,  FSS Earth stations
+si		18800000000	18800000000	FIXED	p		
+si		18800000000	18800000000	FIXED-SATELLITE (SPACE-TO-EARTH) 	p	5.523A	
+si		18800000000	18800000000	MOBILE	p		
+si		19300000000	19300000000	-			Point-to-Point,  FSS Earth stations,  GSO ESOMPs,  NGSO ESOMPs
+si		19300000000	19300000000	FIXED	p		
+si		19300000000	19300000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE) 	p	5.523D, 5.523C, 5.523B, 5.523E	
+si		19300000000	19300000000	MOBILE	p		
+si		19700000000	19700000000	-		5.525	NGSO ESOMPs,  GSO ESOMPs,  FSS Earth stations,  SIT/SUT,  HEST,  LEST,  MSS Earth stations
+si		19700000000	19700000000	FIXED-SATELLITE (SPACE-TO-EARTH) 	p	5.516B, 5.484A	
+si		19700000000	19700000000	Mobile-Satellite (space-to-Earth)	s		
+si		20100000000	20100000000	-		5.525, 5.526, 5.527, 5.528	FSS Earth stations,  SIT/SUT,  HEST,  LEST,  GSO ESOMPs,  NGSO ESOMPs
+si		20100000000	20100000000	FIXED-SATELLITE (SPACE-TO-EARTH) 	p	5.516B, 5.484A	
+si		20100000000	20100000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+si		20200000000	20200000000	-			Defence systems,  Satellite systems (military),  Standard frequency and time signal-satellite
+si		20200000000	20200000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		20200000000	20200000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+si		20200000000	20200000000	Standard Frequency and Time Signal-Satellite	s		
+si		21200000000	21200000000	-			SAP/SAB P to P video links,  Space research,  Earth exploration-satellite
+si		21200000000	21200000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		21200000000	21200000000	FIXED	p		
+si		21200000000	21200000000	MOBILE	p		
+si		21200000000	21200000000	SPACE RESEARCH (PASSIVE)	p		
+si		21400000000	21400000000	-		5.530A, 5.530B, 5.530C, 5.530D	Broadcasting (satellite),  SAP/SAB P to P video links
+si		21400000000	21400000000	BROADCASTING-SATELLITE 	p	5.208B	
+si		21400000000	21400000000	MOBILE	p		
+si		21400000000	21400000000	FIXED	p		
+si		21650000000	21650000000	-			Automotive SRR
+si		21650000000	21650000000		p		
+si		22000000000	22000000000	-			Point-to-Point,  SAP/SAB P to P video links,  Radio astronomy,  Space research
+si		22000000000	22000000000	FIXED	p		
+si		22000000000	22000000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		22000000000	22000000000	RADIO ASTRONOMY	p		
+si		22000000000	22000000000	SPACE RESEARCH (PASSIVE)	p		
+si		22210000000	22210000000	-		5.149, 5.532	Point-to-Point,  SAP/SAB P to P video links,  Space research,  Earth exploration-satellite,  Radio astronomy
+si		22210000000	22210000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		22210000000	22210000000	FIXED	p		
+si		22210000000	22210000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		22210000000	22210000000	RADIO ASTRONOMY	p		
+si		22210000000	22210000000	SPACE RESEARCH (PASSIVE)	p		
+si		22500000000	22500000000	-			Point-to-Point,  SAP/SAB P to P video links,  Space research,  Radio astronomy
+si		22500000000	22500000000	FIXED	p		
+si		22500000000	22500000000	MOBILE	p		
+si		22500000000	22500000000	RADIO ASTRONOMY	p		
+si		22500000000	22500000000	SPACE RESEARCH (PASSIVE)	p		
+si		22550000000	22550000000	-		5.149	
+si		22550000000	22550000000	FIXED	p		
+si		22550000000	22550000000	INTER-SATELLITE 	p	5.338A	
+si		22550000000	22550000000	MOBILE	p		
+si		22550000000	22550000000	SPACE RESEARCH (EARTH-TO-SPACE) 	p	5.532A	
+si		22550000000	22550000000	-			Point-to-Point,  SAP/SAB P to P video links,  Space research,  Inter-satellite links,  Radio astronomy
+si		22550000000	22550000000		p		
+si		22600000000	22600000000	-			SAP/SAB P to P video links,  Radio astronomy,  Space research,  Inter-satellite links
+si		22600000000	22600000000		p		
+si		23000000000	23000000000	-			Point-to-Point,  SAP/SAB P to P video links,  Radio astronomy,  Inter-satellite links
+si		23000000000	23000000000		p		
+si		23150000000	23150000000	-			
+si		23150000000	23150000000	FIXED	p		
+si		23150000000	23150000000	INTER-SATELLITE 	p	5.338A	
+si		23150000000	23150000000	MOBILE	p		
+si		23550000000	23550000000	-			Point-to-Point,  SAP/SAB P to P video links,  Inter-satellite links
+si		23550000000	23550000000	FIXED	p		
+si		23550000000	23550000000	INTER-SATELLITE	p		
+si		23550000000	23550000000	MOBILE	p		
+si		23600000000	23600000000	-		5.340	Radio astronomy,  Passive sensors (satellite),  Space research
+si		23600000000	23600000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		23600000000	23600000000	RADIO ASTRONOMY	p		
+si		23600000000	23600000000	SPACE RESEARCH (PASSIVE)	p		
+si		24000000000	24000000000	-			Non-specific SRDs,  ISM
+si		24000000000	24000000000		p		
+si		24000000000	24000000000	-		5.150	Amateur,  Amateur-satellite
+si		24000000000	24000000000	AMATEUR	p		
+si		24000000000	24000000000	AMATEUR-SATELLITE	p		
+si		24050000000	24050000000	-			TLPR
+si		24050000000	24050000000		p		
+si		24050000000	24050000000	-			LPR
+si		24050000000	24050000000		p		
+si		24050000000	24050000000	-		5.150	Defence systems,  Weather satellites,  Radiolocation (military),  Point-to-Point,  SAP/SAB P to P video links,  Amateur,  Earth exploration-satellite,  Detection of movement and alert,  TTT
+si		24050000000	24050000000	Amateur	s		
+si		24050000000	24050000000	Earth Exploration-Satellite (active)	s		
+si		24050000000	24050000000	Fixed	s		
+si		24050000000	24050000000	Mobile	s		
+si		24050000000	24050000000	RADIOLOCATION	p		
+si		24075000000	24075000000	-			Vehicle and infrastructure radar
+si		24075000000	24075000000		p		
+si		24150000000	24150000000	-			Non-specific SRDs
+si		24150000000	24150000000		p		
+si		24250000000	24250000000	-			Automotive SRR,  Vehicle and infrastructure radar
+si		24250000000	24250000000		p		
+si		24250000000	24250000000	-			Point-to-Point,  SAP/SAB P to P video links
+si		24250000000	24250000000	FIXED	p		
+si		24250000000	24250000000	MOBILE	p		
+si		24450000000	24450000000	-			Point-to-Point,  SAP/SAB P to P video links
+si		24450000000	24450000000	FIXED	p		
+si		24450000000	24450000000	INTER-SATELLITE	p		
+si		24500000000	24500000000	-			BWA
+si		24500000000	24500000000		p		
+si		24500000000	24500000000	-			
+si		24500000000	24500000000	FIXED	p		
+si		24500000000	24500000000	INTER-SATELLITE	p		
+si		24650000000	24650000000	-			
+si		24650000000	24650000000	FIXED	p		
+si		24650000000	24650000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.532B	
+si		24650000000	24650000000	INTER-SATELLITE	p		
+si		24750000000	24750000000	-			Point-to-Point,  BWA
+si		24750000000	24750000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.532B	
+si		24750000000	24750000000	FIXED	p		
+si		25250000000	25250000000	-			Point-to-Point,  Inter-satellite links,  Standard frequency and time signal-satellite
+si		25250000000	25250000000	FIXED	p		
+si		25250000000	25250000000	INTER-SATELLITE 	p	5.536	
+si		25250000000	25250000000	MOBILE	p		
+si		25250000000	25250000000	Standard Frequency and Time Signal-Satellite (Earth-to-space)	s		
+si		25500000000	25500000000	-		5.536A	Point-to-Point,  BWA,  Inter-satellite links,  Standard frequency and time signal-satellite,  Earth exploration-satellite,  Space research
+si		25500000000	25500000000	Earth Exploration-Satellite (space-to-Earth)	s		
+si		25500000000	25500000000	FIXED	p		
+si		25500000000	25500000000	INTER-SATELLITE 	p	5.536	
+si		25500000000	25500000000	MOBILE	p		
+si		25500000000	25500000000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+si		25500000000	25500000000	Standard Frequency and Time Signal-Satellite (Earth-to-space)	s		
+si		26500000000	26500000000	-			Defence systems,  Land military systems
+si		26500000000	26500000000	FIXED	p		
+si		26500000000	26500000000	INTER-SATELLITE 	p	5.536	
+si		26500000000	26500000000	MOBILE	p		
+si		27500000000	27500000000	-		5.538, 5.540	Point-to-Point,  BWA,  Feeder links,  NGSO ESOMPs,  GSO ESOMPs
+si		27500000000	27500000000	FIXED	p		
+si		27500000000	27500000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE) 	p	5.539, 5.516B, 5.484A	
+si		28500000000	28500000000	-		5.540	GSO ESOMPs,  NGSO ESOMPs,  Point-to-Point,  BWA,  Feeder links,  Earth exploration-satellite
+si		28500000000	28500000000	Earth Exploration-Satellite (Earth-to-space) 	s	5.541	
+si		28500000000	28500000000	FIXED	p		
+si		28500000000	28500000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.523A, 5.539, 5.516B, 5.484A	
+si		29100000000	29100000000	-		5.540	BWA,  Feeder links,  Earth exploration-satellite
+si		29100000000	29100000000	Earth Exploration-Satellite (Earth-to-space) 	s	5.541	
+si		29100000000	29100000000	FIXED	p		
+si		29100000000	29100000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.523C, 5.523E, 5.535A, 5.541A, 5.539, 5.516B	
+si		29500000000	29500000000	-		5.540	FSS Earth stations,  SIT/SUT,  HEST,  LEST,  Earth exploration-satellite,  NGSO ESOMPs,  GSO ESOMPs
+si		29500000000	29500000000	Earth Exploration-Satellite (Earth-to-space) 	s	5.541	
+si		29500000000	29500000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.539, 5.516B, 5.484A	
+si		29500000000	29500000000	Mobile-Satellite (Earth-to-space)	s		
+si		29900000000	29900000000	-		5.525, 5.526, 5.527, 5.538, 5.540	GSO ESOMPs,  NGSO ESOMPs,  FSS Earth stations,  SIT/SUT,  HEST,  LEST,  Earth exploration-satellite
+si		29900000000	29900000000	Earth Exploration-Satellite (Earth-to-space) 	s	5.541, 5.543	
+si		29900000000	29900000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE) 	p	5.539, 5.516B, 5.484A	
+si		29900000000	29900000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+si		30000000000	30000000000	-			Defence systems,  Satellite systems (military),  Standard frequency and time signal-satellite
+si		30000000000	30000000000	FIXED-SATELLITE (SPACE-TO-EARTH) (EARTH-TO-SPACE) 	p	5.338A	
+si		30000000000	30000000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+si		30000000000	30000000000	Standard Frequency and Time Signal-Satellite	s		
+si		31000000000	31000000000	-		5.149	Radio astronomy,  Point-to-Point,  Space research
+si		31000000000	31000000000	FIXED 	p	5.338A	
+si		31000000000	31000000000	MOBILE	p		
+si		31000000000	31000000000	Standard Frequency and Time Signal-Satellite	s		
+si		31000000000	31000000000	Space Research 	s	5.444	
+si		31300000000	31300000000	-		5.340	Radio astronomy,  Earth exploration-satellite,  Space research
+si		31300000000	31300000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		31300000000	31300000000	RADIO ASTRONOMY	p		
+si		31300000000	31300000000	SPACE RESEARCH (PASSIVE)	p		
+si		31500000000	31500000000	-		5.149	Radio astronomy,  Fixed,  Earth exploration-satellite,  Space research
+si		31500000000	31500000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		31500000000	31500000000	Fixed	s		
+si		31500000000	31500000000	Mobile except aeronautical mobile	s		
+si		31500000000	31500000000	RADIO ASTRONOMY	p		
+si		31500000000	31500000000	SPACE RESEARCH (PASSIVE)	p		
+si		31800000000	31800000000	-		5.547, 5.548	Point-to-Point,  Point-to-Multipoint,  Space research
+si		31800000000	31800000000	FIXED 	p	5.547A	
+si		31800000000	31800000000	RADIONAVIGATION	p		
+si		31800000000	31800000000	SPACE RESEARCH (DEEP SPACE) (SPACE-TO-EARTH)	p		
+si		32000000000	32000000000	-		5.547, 5.548	Point-to-Point,  Point-to-Multipoint,  Space research
+si		32000000000	32000000000	FIXED 	p	5.547A	
+si		32000000000	32000000000	RADIONAVIGATION	p		
+si		32000000000	32000000000	SPACE RESEARCH (DEEP SPACE) (SPACE-TO-EARTH)	p		
+si		32300000000	32300000000	-		5.547, 5.548	Point-to-Point,  Point-to-Multipoint,  Inter-satellite links
+si		32300000000	32300000000	FIXED 	p	5.547A	
+si		32300000000	32300000000	INTER-SATELLITE	p		
+si		32300000000	32300000000	RADIONAVIGATION	p		
+si		33000000000	33000000000	-		5.547	Point-to-Point,  Point-to-Multipoint
+si		33000000000	33000000000	FIXED 	p	5.547A	
+si		33000000000	33000000000	RADIONAVIGATION	p		
+si		33400000000	33400000000	-			Defence systems
+si		33400000000	33400000000		p		
+si		33400000000	33400000000	-			Radiolocation (military)
+si		33400000000	33400000000	RADIOLOCATION	p		
+si		34200000000	34200000000	-			Radiolocation (military),  Space research
+si		34200000000	34200000000	RADIOLOCATION	p		
+si		34200000000	34200000000	SPACE RESEARCH (DEEP SPACE) (EARTH-TO-SPACE)	p		
+si		34700000000	34700000000	-			Radiolocation (military),  Space research
+si		34700000000	34700000000	RADIOLOCATION	p		
+si		34700000000	34700000000	Space Research	s		
+si		35200000000	35200000000	-			Radiolocation (military),  Meteorology
+si		35200000000	35200000000	METEOROLOGICAL AIDS	p		
+si		35200000000	35200000000	RADIOLOCATION	p		
+si		35500000000	35500000000	-		5.549A	Radiolocation (military),  Meteorology,  Earth exploration-satellite,  Space research
+si		35500000000	35500000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+si		35500000000	35500000000	METEOROLOGICAL AIDS	p		
+si		35500000000	35500000000	RADIOLOCATION	p		
+si		35500000000	35500000000	SPACE RESEARCH (ACTIVE)	p		
+si		36000000000	36000000000	-		5.149, 5.550A	Land military systems,  Radio astronomy,  Earth exploration-satellite,  Space research
+si		36000000000	36000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		36000000000	36000000000	FIXED	p		
+si		36000000000	36000000000	MOBILE	p		
+si		36000000000	36000000000	SPACE RESEARCH (PASSIVE)	p		
+si		37000000000	37000000000	-			Defence systems
+si		37000000000	37000000000		p		
+si		37000000000	37000000000	-		5.547	Point-to-Point,  Space research
+si		37000000000	37000000000	FIXED	p		
+si		37000000000	37000000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		37000000000	37000000000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+si		37500000000	37500000000	-		5.547	Point-to-Point,  FSS Earth stations,  Space research,  Earth exploration-satellite
+si		37500000000	37500000000	Earth Exploration-Satellite (space-to-Earth)	s		
+si		37500000000	37500000000	FIXED	p		
+si		37500000000	37500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		37500000000	37500000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		37500000000	37500000000	SPACE RESEARCH (SPACE-TO-EARTH)	p		
+si		38000000000	38000000000	-		5.547	Point-to-Point,  FSS Earth stations,  Earth exploration-satellite
+si		38000000000	38000000000	Earth Exploration-Satellite (space-to-Earth)	s		
+si		38000000000	38000000000	FIXED	p		
+si		38000000000	38000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		38000000000	38000000000	MOBILE	p		
+si		39500000000	39500000000	-		5.547	FSS Earth stations,  Earth exploration-satellite
+si		39500000000	39500000000	Earth Exploration-Satellite (space-to-Earth)	s		
+si		39500000000	39500000000	FIXED	p		
+si		39500000000	39500000000	FIXED-SATELLITE (SPACE-TO-EARTH) 	p	5.516B	
+si		39500000000	39500000000	MOBILE	p		
+si		39500000000	39500000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+si		40000000000	40000000000	-			FSS Earth stations,  Earth exploration-satellite,  Space research
+si		40000000000	40000000000	Earth Exploration-Satellite (space-to-Earth)	s		
+si		40000000000	40000000000	FIXED	p		
+si		40000000000	40000000000	FIXED-SATELLITE (SPACE-TO-EARTH) 	p	5.516B	
+si		40000000000	40000000000	MOBILE	p		
+si		40000000000	40000000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+si		40000000000	40000000000	SPACE RESEARCH (EARTH-TO-SPACE)	p		
+si		40500000000	40500000000	-		5.547	FSS Earth stations,  MWS
+si		40500000000	40500000000	BROADCASTING	p		
+si		40500000000	40500000000	BROADCASTING-SATELLITE	p		
+si		40500000000	40500000000	FIXED	p		
+si		40500000000	40500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		40500000000	40500000000	Mobile	s		
+si		41000000000	41000000000	-		5.547, 5.551H, 5.551I	Point-to-Point,  FSS Earth stations,  MWS
+si		41000000000	41000000000	BROADCASTING	p		
+si		41000000000	41000000000	BROADCASTING-SATELLITE	p		
+si		41000000000	41000000000	FIXED	p		
+si		41000000000	41000000000	Mobile	s		
+si		42500000000	42500000000	-		5.149, 5.547	MWS,  Spectral line observations,  Point-to-Point
+si		42500000000	42500000000	FIXED	p		
+si		42500000000	42500000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.552	
+si		42500000000	42500000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		42500000000	42500000000	RADIO ASTRONOMY	p		
+si		43500000000	43500000000	-		5.554	Land military systems
+si		43500000000	43500000000	MOBILE 	p	5.553	
+si		43500000000	43500000000	MOBILE-SATELLITE	p		
+si		43500000000	43500000000	RADIONAVIGATION	p		
+si		43500000000	43500000000	RADIONAVIGATION-SATELLITE	p		
+si		43500000000	43500000000	-			Defence systems
+si		43500000000	43500000000		p		
+si		47000000000	47000000000	-			Amateur,  Amateur-satellite
+si		47000000000	47000000000	AMATEUR	p		
+si		47000000000	47000000000	AMATEUR-SATELLITE	p		
+si		47200000000	47200000000	-		5.552A	Fixed,  Feeder links,  HAPS,  Amateur
+si		47200000000	47200000000	Amateur	s		
+si		47200000000	47200000000	FIXED	p		
+si		47200000000	47200000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.552	
+si		47200000000	47200000000	MOBILE	p		
+si		47500000000	47500000000	-			FSS Earth stations,  Feeder links,  Amateur
+si		47500000000	47500000000	Amateur	s		
+si		47500000000	47500000000	FIXED	p		
+si		47500000000	47500000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.552	
+si		47500000000	47500000000	FIXED-SATELLITE (SPACE-TO-EARTH) 	p	5.554A, 5.516B	
+si		47500000000	47500000000	MOBILE	p		
+si		47900000000	47900000000	-		5.552A	Fixed,  Feeder links,  HAPS,  Amateur
+si		47900000000	47900000000	Amateur	s		
+si		47900000000	47900000000	Fixed	s		
+si		47900000000	47900000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.552	
+si		47900000000	47900000000	MOBILE	p		
+si		48200000000	48200000000	-			Point-to-Point,  FSS Earth stations,  Feeder links,  Amateur
+si		48200000000	48200000000	Amateur	s		
+si		48200000000	48200000000	FIXED	p		
+si		48200000000	48200000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.552	
+si		48200000000	48200000000	FIXED-SATELLITE (SPACE-TO-EARTH) 	p	5.555B, 5.554A, 5.516B	
+si		48200000000	48200000000	MOBILE	p		
+si		48540000000	48540000000	-		5.149, 5.340	Point-to-Point,  Feeder links,  Spectral line observations
+si		48540000000	48540000000	FIXED	p		
+si		48540000000	48540000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.552	
+si		48540000000	48540000000	MOBILE	p		
+si		48540000000	48540000000	RADIO ASTRONOMY 	p	5.555	
+si		49440000000	49440000000	-			Point-to-Point,  FSS Earth stations
+si		49440000000	49440000000	FIXED	p		
+si		49440000000	49440000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.552, 5.338A	
+si		49440000000	49440000000	FIXED-SATELLITE (SPACE-TO-EARTH) 	p	5.555B, 5.554A, 5.516B	
+si		49440000000	49440000000	MOBILE	p		
+si		50200000000	50200000000	-			Passive sensors (satellite),  Space research
+si		50200000000	50200000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		50200000000	50200000000	SPACE RESEARCH (PASSIVE)	p		
+si		50400000000	50400000000	-			Defence systems,  Satellite systems (military)
+si		50400000000	50400000000	FIXED	p		
+si		50400000000	50400000000	FIXED-SATELLITE (EARTH-TO-SPACE) 	p	5.338A	
+si		50400000000	50400000000	MOBILE	p		
+si		50400000000	50400000000	Mobile-Satellite (Earth-to-space)	s		
+si		51400000000	51400000000	-		5.547, 5.556	Point-to-Point
+si		51400000000	51400000000	FIXED 	p	5.338A	
+si		51400000000	51400000000	MOBILE	p		
+si		52600000000	52600000000	-		5.340, 5.556	Passive sensors (satellite),  Space research
+si		52600000000	52600000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		52600000000	52600000000	SPACE RESEARCH (PASSIVE)	p		
+si		54250000000	54250000000	-			Passive sensors (satellite),  Space research,  Inter-satellite links
+si		54250000000	54250000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		54250000000	54250000000	INTER-SATELLITE 	p	5.556A	
+si		54250000000	54250000000	SPACE RESEARCH (PASSIVE)	p		
+si		55780000000	55780000000	-		5.547	Point-to-Point,  Passive sensors (satellite),  Space research,  Inter-satellite links
+si		55780000000	55780000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		55780000000	55780000000	FIXED 	p	5.557A	
+si		55780000000	55780000000	INTER-SATELLITE 	p	5.556A	
+si		55780000000	55780000000	MOBILE 	p	5.558	
+si		55780000000	55780000000	SPACE RESEARCH (PASSIVE)	p		
+si		56900000000	56900000000	-		5.547	Point-to-Point,  Passive sensors (satellite),  Space research,  Inter-satellite links
+si		56900000000	56900000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		56900000000	56900000000	FIXED	p		
+si		56900000000	56900000000	INTER-SATELLITE 	p	5.558A	
+si		56900000000	56900000000	MOBILE 	p	5.558	
+si		56900000000	56900000000	SPACE RESEARCH (PASSIVE)	p		
+si		57000000000	57000000000	-			Wideband data transmission systems
+si		57000000000	57000000000		p		
+si		57000000000	57000000000	-			TLPR,  LPR,  Non-specific SRDs
+si		57000000000	57000000000		p		
+si		57000000000	57000000000	-		5.547	Point-to-Point,  BWA,  Passive sensors (satellite),  Space research,  Inter-satellite links
+si		57000000000	57000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		57000000000	57000000000	FIXED	p		
+si		57000000000	57000000000	INTER-SATELLITE 	p	5.558A	
+si		57000000000	57000000000	MOBILE 	p	5.558	
+si		57000000000	57000000000	SPACE RESEARCH (PASSIVE)	p		
+si		58200000000	58200000000	-		5.547, 5.556	Point-to-Point,  BWA,  Passive sensors (satellite),  Space research
+si		58200000000	58200000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		58200000000	58200000000	FIXED	p		
+si		58200000000	58200000000	MOBILE	p		
+si		58200000000	58200000000	SPACE RESEARCH (PASSIVE)	p		
+si		59000000000	59000000000	-			Defence systems
+si		59000000000	59000000000		p		
+si		59000000000	59000000000	-			Land military systems,  Passive sensors (satellite),  Space research,  Inter-satellite links
+si		59000000000	59000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		59000000000	59000000000	FIXED	p		
+si		59000000000	59000000000	INTER-SATELLITE 	p	5.556A	
+si		59000000000	59000000000	MOBILE 	p	5.558	
+si		59000000000	59000000000	RADIOLOCATION 	p	5.559	
+si		59000000000	59000000000	SPACE RESEARCH (PASSIVE)	p		
+si		59300000000	59300000000	-			Land military systems,  Inter-satellite links
+si		59300000000	59300000000	FIXED	p		
+si		59300000000	59300000000	INTER-SATELLITE	p		
+si		59300000000	59300000000	MOBILE 	p	5.558	
+si		59300000000	59300000000	RADIOLOCATION 	p	5.559	
+si		61000000000	61000000000	-			Defence systems
+si		61000000000	61000000000		p		
+si		61000000000	61000000000	-		5.138	Land military systems,  BWA,  Point-to-Point,  Inter-satellite links,  Non-specific SRDs,  ISM
+si		61000000000	61000000000	FIXED	p		
+si		61000000000	61000000000	INTER-SATELLITE	p		
+si		61000000000	61000000000	MOBILE 	p	5.558	
+si		61000000000	61000000000	RADIOLOCATION 	p	5.559	
+si		61500000000	61500000000	-			BWA,  Point-to-Point,  Land military systems,  Land mobile,  Inter-satellite links
+si		61500000000	61500000000	FIXED	p		
+si		61500000000	61500000000	INTER-SATELLITE	p		
+si		61500000000	61500000000	MOBILE 	p	5.558	
+si		61500000000	61500000000	RADIOLOCATION 	p	5.559	
+si		63000000000	63000000000	-			BWA,  Point-to-Point,  ITS,  Inter-satellite links,  Vehicle and infrastructure radar
+si		63000000000	63000000000	FIXED	p		
+si		63000000000	63000000000	INTER-SATELLITE	p		
+si		63000000000	63000000000	MOBILE 	p	5.558	
+si		63000000000	63000000000	RADIOLOCATION 	p	5.559	
+si		64000000000	64000000000	-		5.547, 5.556	Point-to-Point,  Inter-satellite links
+si		64000000000	64000000000	FIXED	p		
+si		64000000000	64000000000	INTER-SATELLITE	p		
+si		64000000000	64000000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		65000000000	65000000000	-		5.547	Point-to-Point,  Inter-satellite links,  Space research,  Earth exploration-satellite
+si		65000000000	65000000000	EARTH EXPLORATION-SATELLITE	p		
+si		65000000000	65000000000	FIXED	p		
+si		65000000000	65000000000	INTER-SATELLITE	p		
+si		65000000000	65000000000	MOBILE EXCEPT AERONAUTICAL MOBILE	p		
+si		65000000000	65000000000	SPACE RESEARCH	p		
+si		66000000000	66000000000	-		5.554	
+si		66000000000	66000000000	INTER-SATELLITE	p		
+si		66000000000	66000000000	MOBILE 	p	5.533, 5.558	
+si		66000000000	66000000000	MOBILE-SATELLITE	p		
+si		66000000000	66000000000	RADIONAVIGATION	p		
+si		66000000000	66000000000	RADIONAVIGATION-SATELLITE	p		
+si		66000000000	66000000000	-			Inter-satellite links
+si		66000000000	66000000000		p		
+si		71000000000	71000000000	-			Defence systems,  Satellite systems (military)
+si		71000000000	71000000000	FIXED	p		
+si		71000000000	71000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		71000000000	71000000000	MOBILE	p		
+si		71000000000	71000000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+si		74000000000	74000000000	-		5.561	Point-to-Point,  VLBI observations,  Space research
+si		74000000000	74000000000	BROADCASTING	p		
+si		74000000000	74000000000	BROADCASTING-SATELLITE	p		
+si		74000000000	74000000000	FIXED	p		
+si		74000000000	74000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		74000000000	74000000000	MOBILE	p		
+si		74000000000	74000000000	Space Research (space-to-Earth)	s		
+si		75000000000	75000000000	-			TLPR,  LPR
+si		75000000000	75000000000		p		
+si		75500000000	75500000000	-		5.561	Point-to-Point,  VLBI observations,  Amateur,  Space research
+si		75500000000	75500000000	BROADCASTING	p		
+si		75500000000	75500000000	BROADCASTING-SATELLITE	p		
+si		75500000000	75500000000	FIXED	p		
+si		75500000000	75500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		75500000000	75500000000	MOBILE	p		
+si		75500000000	75500000000	Space Research (space-to-Earth)	s		
+si		76000000000	76000000000	-		5.149	Radiolocation (military),  Spectral line observations,  Amateur,  Amateur-satellite,  Space research
+si		76000000000	76000000000	Amateur	s		
+si		76000000000	76000000000	Amateur-Satellite	s		
+si		76000000000	76000000000	RADIO ASTRONOMY	p		
+si		76000000000	76000000000	RADIOLOCATION	p		
+si		76000000000	76000000000	Space Research (space-to-Earth)	s		
+si		76000000000	76000000000	-			Railway applications,  TTT
+si		76000000000	76000000000		p		
+si		77000000000	77000000000	-			Automotive SRR
+si		77000000000	77000000000		p		
+si		77000000000	77000000000	-			Defence systems
+si		77000000000	77000000000		p		
+si		77500000000	77500000000	-		5.149	Spectral line observations,  Amateur,  Amateur-satellite,  Space research
+si		77500000000	77500000000	AMATEUR	p		
+si		77500000000	77500000000	AMATEUR-SATELLITE	p		
+si		77500000000	77500000000	Radio Astronomy	s		
+si		77500000000	77500000000	Space Research (space-to-Earth)	s		
+si		78000000000	78000000000	-		5.149, 5.560	Spectral line observations,  Amateur,  Amateur-satellite,  Space research
+si		78000000000	78000000000	Amateur	s		
+si		78000000000	78000000000	Amateur-Satellite	s		
+si		78000000000	78000000000	Radio Astronomy	s		
+si		78000000000	78000000000	RADIOLOCATION	p		
+si		78000000000	78000000000	Space Research (space-to-Earth)	s		
+si		79000000000	79000000000	-		5.149	Defence systems,  Radiolocation (military),  Spectral line observations,  Amateur,  Amateur-satellite,  Space research
+si		79000000000	79000000000	Amateur	s		
+si		79000000000	79000000000	Amateur-Satellite	s		
+si		79000000000	79000000000	RADIO ASTRONOMY	p		
+si		79000000000	79000000000	RADIOLOCATION	p		
+si		79000000000	79000000000	Space Research (space-to-Earth)	s		
+si		81000000000	81000000000	-		5.149, 5.561A	Defence systems,  Satellite systems (military),  Spectral line observations,  Amateur,  Amateur-satellite,  Space research
+si		81000000000	81000000000	Amateur	s		
+si		81000000000	81000000000	Amateur-Satellite	s		
+si		81000000000	81000000000	FIXED 	p	5.338A	
+si		81000000000	81000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+si		81000000000	81000000000	MOBILE	p		
+si		81000000000	81000000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+si		81000000000	81000000000	RADIO ASTRONOMY	p		
+si		81000000000	81000000000	Space Research (space-to-Earth)	s		
+si		84000000000	84000000000	-		5.149	Point-to-Point,  Spectral line observations
+si		84000000000	84000000000	FIXED 	p	5.338A	
+si		84000000000	84000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+si		84000000000	84000000000	MOBILE	p		
+si		84000000000	84000000000	RADIO ASTRONOMY	p		
+si		86000000000	86000000000	-		5.340	Spectral line observations,  Passive sensors (satellite),  Space research
+si		86000000000	86000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		86000000000	86000000000	RADIO ASTRONOMY	p		
+si		86000000000	86000000000	SPACE RESEARCH (PASSIVE)	p		
+si		92000000000	92000000000	-			Defence systems
+si		92000000000	92000000000		p		
+si		92000000000	92000000000	-		5.149	Point-to-Point,  Radiolocation (military),  Spectral line observations
+si		92000000000	92000000000	FIXED 	p	5.338A	
+si		92000000000	92000000000	MOBILE	p		
+si		92000000000	92000000000	RADIO ASTRONOMY	p		
+si		92000000000	92000000000	RADIOLOCATION	p		
+si		94000000000	94000000000	-		5.562, 5.562A	Point-to-Point,  Radiolocation (military),  Active sensors (satellite),  Space research
+si		94000000000	94000000000	EARTH EXPLORATION-SATELLITE (ACTIVE)	p		
+si		94000000000	94000000000	Radio Astronomy	s		
+si		94000000000	94000000000	RADIOLOCATION	p		
+si		94000000000	94000000000	SPACE RESEARCH (ACTIVE)	p		
+si		94100000000	94100000000	-		5.149	Radiolocation (military),  Spectral line observations,  Point-to-Point
+si		94100000000	94100000000	FIXED	p		
+si		94100000000	94100000000	MOBILE	p		
+si		94100000000	94100000000	RADIO ASTRONOMY	p		
+si		94100000000	94100000000	RADIOLOCATION	p		
+si		95000000000	95000000000	-		5.149, 5.554	Radiolocation (military),  Spectral line observations
+si		95000000000	95000000000	FIXED	p		
+si		95000000000	95000000000	MOBILE	p		
+si		95000000000	95000000000	RADIO ASTRONOMY	p		
+si		95000000000	95000000000	RADIOLOCATION	p		
+si		95000000000	95000000000	RADIONAVIGATION	p		
+si		95000000000	95000000000	RADIONAVIGATION-SATELLITE	p		
+si		100000000000	100000000000	-		5.340, 5.341	Spectral line observations,  Passive sensors (satellite),  Space research
+si		100000000000	100000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		100000000000	100000000000	RADIO ASTRONOMY	p		
+si		100000000000	100000000000	SPACE RESEARCH (PASSIVE)	p		
+si		102000000000	102000000000	-		5.149, 5.341	Spectral line observations
+si		102000000000	102000000000	FIXED	p		
+si		102000000000	102000000000	MOBILE	p		
+si		102000000000	102000000000	RADIO ASTRONOMY	p		
+si		105000000000	105000000000	-		5.149, 5.341	
+si		105000000000	105000000000	FIXED	p		
+si		105000000000	105000000000	MOBILE	p		
+si		105000000000	105000000000	RADIO ASTRONOMY	p		
+si		105000000000	105000000000	SPACE RESEARCH (PASSIVE) 	p	5.562B	
+si		109500000000	109500000000	-		5.340, 5.341	Spectral line observations
+si		109500000000	109500000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		109500000000	109500000000	RADIO ASTRONOMY	p		
+si		109500000000	109500000000	SPACE RESEARCH (PASSIVE)	p		
+si		111800000000	111800000000	-		5.149, 5.341	
+si		111800000000	111800000000	FIXED	p		
+si		111800000000	111800000000	MOBILE	p		
+si		111800000000	111800000000	RADIO ASTRONOMY	p		
+si		111800000000	111800000000	SPACE RESEARCH (PASSIVE) 	p	5.562B	
+si		114250000000	114250000000	-		5.340, 5.341	Spectral line observations
+si		114250000000	114250000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		114250000000	114250000000	RADIO ASTRONOMY	p		
+si		114250000000	114250000000	SPACE RESEARCH (PASSIVE)	p		
+si		116000000000	116000000000	-		5.341	Passive sensors (satellite)
+si		116000000000	116000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		116000000000	116000000000	INTER-SATELLITE 	p	5.562C	
+si		116000000000	116000000000	SPACE RESEARCH (PASSIVE)	p		
+si		119980000000	119980000000	-		5.138, 5.341	Passive sensors (satellite)
+si		119980000000	119980000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		119980000000	119980000000	INTER-SATELLITE 	p	5.562C	
+si		119980000000	119980000000	SPACE RESEARCH (PASSIVE)	p		
+si		122000000000	122000000000	-			Non-specific SRDs,  ISM
+si		122000000000	122000000000		p		
+si		122250000000	122250000000	-		5.138	Amateur
+si		122250000000	122250000000	Amateur	s		
+si		122250000000	122250000000	FIXED	p		
+si		122250000000	122250000000	INTER-SATELLITE	p		
+si		122250000000	122250000000	MOBILE 	p	5.558	
+si		123000000000	123000000000	-		5.149, 5.554	
+si		123000000000	123000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		123000000000	123000000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+si		123000000000	123000000000	Radio Astronomy	s		
+si		123000000000	123000000000	RADIONAVIGATION	p		
+si		123000000000	123000000000	RADIONAVIGATION-SATELLITE	p		
+si		130000000000	130000000000	-		5.149	Spectral line observations
+si		130000000000	130000000000	EARTH EXPLORATION-SATELLITE (ACTIVE) 	p	5.562E	
+si		130000000000	130000000000	FIXED	p		
+si		130000000000	130000000000	INTER-SATELLITE	p		
+si		130000000000	130000000000	MOBILE 	p	5.558	
+si		130000000000	130000000000	RADIO ASTRONOMY	p		
+si		134000000000	134000000000	-			Amateur
+si		134000000000	134000000000	AMATEUR	p		
+si		134000000000	134000000000	AMATEUR-SATELLITE	p		
+si		134000000000	134000000000	Radio Astronomy	s		
+si		136000000000	136000000000	-		5.149	Spectral line observations,  Amateur
+si		136000000000	136000000000	Amateur	s		
+si		136000000000	136000000000	Amateur-Satellite	s		
+si		136000000000	136000000000	RADIO ASTRONOMY	p		
+si		136000000000	136000000000	RADIOLOCATION	p		
+si		141000000000	141000000000	-		5.149	Spectral line observations
+si		141000000000	141000000000	FIXED	p		
+si		141000000000	141000000000	MOBILE	p		
+si		141000000000	141000000000	RADIO ASTRONOMY	p		
+si		141000000000	141000000000	RADIOLOCATION	p		
+si		148500000000	148500000000	-		5.340	Passive sensors (satellite)
+si		148500000000	148500000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		148500000000	148500000000	RADIO ASTRONOMY	p		
+si		148500000000	148500000000	SPACE RESEARCH (PASSIVE)	p		
+si		151500000000	151500000000	-		5.149	Spectral line observations
+si		151500000000	151500000000	FIXED	p		
+si		151500000000	151500000000	MOBILE	p		
+si		151500000000	151500000000	RADIO ASTRONOMY	p		
+si		151500000000	151500000000	RADIOLOCATION	p		
+si		155500000000	155500000000	-		5.149, 5.562G	Spectral line observations
+si		155500000000	155500000000	EARTH EXPLORATION-SATELLITE (PASSIVE) 	p	5.562F	
+si		155500000000	155500000000	FIXED	p		
+si		155500000000	155500000000	MOBILE	p		
+si		155500000000	155500000000	RADIO ASTRONOMY	p		
+si		155500000000	155500000000	SPACE RESEARCH (PASSIVE) 	p	5.562B	
+si		158500000000	158500000000	-			
+si		158500000000	158500000000	FIXED	p		
+si		158500000000	158500000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		158500000000	158500000000	MOBILE	p		
+si		158500000000	158500000000	MOBILE-SATELLITE (SPACE-TO-EARTH)	p		
+si		164000000000	164000000000	-		5.340	Passive sensors (satellite)
+si		164000000000	164000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		164000000000	164000000000	RADIO ASTRONOMY	p		
+si		164000000000	164000000000	SPACE RESEARCH (PASSIVE)	p		
+si		167000000000	167000000000	-		5.149	
+si		167000000000	167000000000	FIXED	p		
+si		167000000000	167000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		167000000000	167000000000	INTER-SATELLITE	p		
+si		167000000000	167000000000	MOBILE 	p	5.558	
+si		174500000000	174500000000	-			
+si		174500000000	174500000000	FIXED	p		
+si		174500000000	174500000000	INTER-SATELLITE	p		
+si		174500000000	174500000000	MOBILE 	p	5.558	
+si		174800000000	174800000000	-			Passive sensors (satellite)
+si		174800000000	174800000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		174800000000	174800000000	INTER-SATELLITE 	p	5.562H	
+si		174800000000	174800000000	SPACE RESEARCH (PASSIVE)	p		
+si		182000000000	182000000000	-		5.340	Passive sensors (satellite)
+si		182000000000	182000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		182000000000	182000000000	RADIO ASTRONOMY	p		
+si		182000000000	182000000000	SPACE RESEARCH (PASSIVE)	p		
+si		185000000000	185000000000	-			Passive sensors (satellite)
+si		185000000000	185000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		185000000000	185000000000	INTER-SATELLITE 	p	5.562H	
+si		185000000000	185000000000	SPACE RESEARCH (PASSIVE)	p		
+si		190000000000	190000000000	-		5.340	Passive sensors (satellite)
+si		190000000000	190000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		190000000000	190000000000	SPACE RESEARCH (PASSIVE)	p		
+si		191800000000	191800000000	-		5.149, 5.341, 5.554	
+si		191800000000	191800000000	FIXED	p		
+si		191800000000	191800000000	INTER-SATELLITE	p		
+si		191800000000	191800000000	MOBILE 	p	5.558	
+si		191800000000	191800000000	MOBILE-SATELLITE	p		
+si		191800000000	191800000000	RADIONAVIGATION	p		
+si		191800000000	191800000000	RADIONAVIGATION-SATELLITE	p		
+si		200000000000	200000000000	-		5.340, 5.341, 5.563A	Passive sensors (satellite),  Spectral line observations
+si		200000000000	200000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		200000000000	200000000000	RADIO ASTRONOMY	p		
+si		200000000000	200000000000	SPACE RESEARCH (PASSIVE)	p		
+si		209000000000	209000000000	-		5.149, 5.341	Spectral line observations
+si		209000000000	209000000000	FIXED	p		
+si		209000000000	209000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+si		209000000000	209000000000	MOBILE	p		
+si		209000000000	209000000000	RADIO ASTRONOMY	p		
+si		217000000000	217000000000	-		5.149, 5.341	
+si		217000000000	217000000000	FIXED	p		
+si		217000000000	217000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+si		217000000000	217000000000	MOBILE	p		
+si		217000000000	217000000000	RADIO ASTRONOMY	p		
+si		217000000000	217000000000	SPACE RESEARCH (PASSIVE) 	p	5.562B	
+si		226000000000	226000000000	-		5.340	Passive sensors (satellite),  Spectral line observations
+si		226000000000	226000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		226000000000	226000000000	RADIO ASTRONOMY	p		
+si		226000000000	226000000000	SPACE RESEARCH (PASSIVE)	p		
+si		231500000000	231500000000	-			
+si		231500000000	231500000000	FIXED	p		
+si		231500000000	231500000000	MOBILE	p		
+si		231500000000	231500000000	Radiolocation	s		
+si		232000000000	232000000000	-			
+si		232000000000	232000000000	FIXED	p		
+si		232000000000	232000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		232000000000	232000000000	MOBILE	p		
+si		232000000000	232000000000	Radiolocation	s		
+si		235000000000	235000000000	-		5.563A, 5.563B	
+si		235000000000	235000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		235000000000	235000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		235000000000	235000000000	SPACE RESEARCH (PASSIVE)	p		
+si		238000000000	238000000000	-			
+si		238000000000	238000000000	FIXED	p		
+si		238000000000	238000000000	FIXED-SATELLITE (SPACE-TO-EARTH)	p		
+si		238000000000	238000000000	MOBILE	p		
+si		238000000000	238000000000	RADIOLOCATION	p		
+si		238000000000	238000000000	RADIONAVIGATION	p		
+si		238000000000	238000000000	RADIONAVIGATION-SATELLITE	p		
+si		240000000000	240000000000	-			
+si		240000000000	240000000000	FIXED	p		
+si		240000000000	240000000000	MOBILE	p		
+si		240000000000	240000000000	RADIOLOCATION	p		
+si		241000000000	241000000000	-		5.138, 5.149	Amateur,  Spectral line observations
+si		241000000000	241000000000	Amateur	s		
+si		241000000000	241000000000	Amateur-Satellite	s		
+si		241000000000	241000000000	RADIO ASTRONOMY	p		
+si		241000000000	241000000000	RADIOLOCATION	p		
+si		244000000000	244000000000	-			Non-specific SRDs,  ISM
+si		244000000000	244000000000		p		
+si		248000000000	248000000000	-		5.149	Amateur
+si		248000000000	248000000000	AMATEUR	p		
+si		248000000000	248000000000	AMATEUR-SATELLITE	p		
+si		248000000000	248000000000	Radio Astronomy	s		
+si		250000000000	250000000000	-		5.340, 5.563A	Passive sensors (satellite)
+si		250000000000	250000000000	EARTH EXPLORATION-SATELLITE (PASSIVE)	p		
+si		250000000000	250000000000	RADIO ASTRONOMY	p		
+si		250000000000	250000000000	SPACE RESEARCH (PASSIVE)	p		
+si		252000000000	252000000000	-		5.149, 5.554	Spectral line observations
+si		252000000000	252000000000	FIXED	p		
+si		252000000000	252000000000	MOBILE	p		
+si		252000000000	252000000000	MOBILE-SATELLITE (EARTH-TO-SPACE)	p		
+si		252000000000	252000000000	RADIO ASTRONOMY	p		
+si		252000000000	252000000000	RADIONAVIGATION	p		
+si		252000000000	252000000000	RADIONAVIGATION-SATELLITE	p		
+si		265000000000	265000000000	-		5.149, 5.563A	
+si		265000000000	265000000000	FIXED	p		
+si		265000000000	265000000000	FIXED-SATELLITE (EARTH-TO-SPACE)	p		
+si		265000000000	265000000000	MOBILE	p		
+si		265000000000	265000000000	RADIO ASTRONOMY	p		
+si		275000000000	275000000000	-		5.565	
+si		275000000000	275000000000	NOT ALLOCATED	p		

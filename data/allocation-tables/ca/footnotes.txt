@@ -1,3 +1,4 @@
+ref	description
 C1	(CAN-14) Users of frequencies below 8.3 kHz shall ensure that no harmful interference is caused to the services to which the bands above 8.3 kHz are allocated.
 C2	(CAN-14) Scientific researchers using frequencies below 8.3 kHz are urged to advise the Department in order that such research may be afforded all practicable protection from harmful interference.
 C3	Additional allocation: In the band 2065-2107 kHz, the fixed service is also allocated on a primary basis provided that no harmful interference is caused to the maritime mobile service, stations of the fixed service communicate only within Canada=s national borders, and they employ a mean power not exceeding 50 watts.

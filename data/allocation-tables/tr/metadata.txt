@@ -1,0 +1,4 @@
+name	value
+iso2	tr
+name_en	Turkey
+parentRegions	itu1, eu

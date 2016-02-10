@@ -1,0 +1,4 @@
+name	value
+iso2	se
+name_en	Sweden
+parentRegions	itu1, eu

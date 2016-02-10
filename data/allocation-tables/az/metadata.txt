@@ -1,0 +1,4 @@
+name	value
+iso2	az
+name_en	Azerbaijan
+parentRegions	itu1, eu

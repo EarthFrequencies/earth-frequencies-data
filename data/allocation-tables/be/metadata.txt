@@ -1,0 +1,4 @@
+name	value
+iso2	be
+name_en	Belgium
+parentRegions	itu1, eu
