@@ -1,3 +1,4 @@
+channel	frequency
 1	26.965
 2	26.975
 3	26.985

@@ -1,3 +1,4 @@
+channel	frequency
 1	26.965 MHz
 2	26.975 MHz
 3	26.985 MHz
