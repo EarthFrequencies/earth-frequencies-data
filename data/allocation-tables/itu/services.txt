@@ -1,31 +1,32 @@
-Aeronautical Mobile
-Aeronautical Mobile-Satellite
-Aeronautical Radionavigation
-Amateur
-Amateur-Satellite
-Broadcasting
-Broadcasting-Satellite
-Earth Exploration-Satellite
-Fixed
-Fixed-Satellite
-Inter-Satellite
-Land Mobile
-Land Mobile Satellite
-Maritime Mobile
-Maritime Mobile Satellite
-Maritime Radionavigation
-Meteorological
-Meteorological Aids
-Meteorological-Satellite
-Mobile
-Mobile-Satellite
-Radio Astronomy
-Radiodetermination-Satellite
-Radiolocation
-Radiolocation-Satellite
-Radionavigation
-Radionavigation-Satellite
-Space Operation
-Space Research
-Standard Frequency And Time Signal
-Standard Frequency And Time Signal-Satellite
+name	name-en	name-pt
+Aeronautical Mobile	Aeronautical Mobile	Móvel Aeronáutico
+Aeronautical Mobile-Satellite	Aeronautical Mobile-Satellite	Móvel Aeronáutico Por Satélite 
+Aeronautical Radionavigation	Aeronautical Radionavigation	Radionavegação Aeronáutica
+Amateur	Amateur	Radioamador
+Amateur-Satellite	Amateur-Satellite	Radioamador por Satélite
+Broadcasting	Broadcasting	Radiodifusão
+Broadcasting-Satellite	Broadcasting-Satellite	Radiodifusão por Satélite
+Earth Exploration-Satellite	Earth Exploration-Satellite	Exploração da Terra por Satélite
+Fixed	Fixed	Fixo
+Fixed-Satellite	Fixed-Satellite	Fixo por Satélite
+Inter-Satellite	Inter-Satellite	Entre Satélites 
+Land Mobile	Land Mobile	Móvel Terrestre
+Land Mobile Satellite	Land Mobile Satellite	Móvel Terrestre por Satélite 
+Maritime Mobile	Maritime Mobile	Móvel Marítimo
+Maritime Mobile Satellite	Maritime Mobile Satellite	Móvel Marítimo por Satélite 
+Maritime Radionavigation	Maritime Radionavigation	Radionavegação Marítima
+Meteorological	Meteorological	Meteorologia
+Meteorological Aids	Meteorological Aids	Auxílios à Meteorologia
+Meteorological-Satellite	Meteorological-Satellite	Meteorologia por Satélite 
+Mobile	Mobile	Móvel
+Mobile-Satellite	Mobile-Satellite	Móvel por Satélite
+Radio Astronomy	Radio Astronomy	Radioastronomia
+Radiodetermination-Satellite	Radiodetermination-Satellite	Radiodeterminação por Satélite
+Radiolocation	Radiolocation	Radiolocalização
+Radiolocation-Satellite	Radiolocation-Satellite	Radiolocalização por Satélite
+Radionavigation	Radionavigation	Radionavegação
+Radionavigation-Satellite	Radionavigation-Satellite	Radionavegação por Satélite
+Space Operation	Space Operation	Operação Espacial
+Space Research	Space Research	Pesquisa Espacial 
+Standard Frequency And Time Signal	Standard Frequency And Time Signal	Freqüência Padrão e Sinais Horários
+Standard Frequency And Time Signal-Satellite	Standard Frequency And Time Signal-Satellite	Freqüência Padrão e Sinais Horários por Satélite

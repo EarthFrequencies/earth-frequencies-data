@@ -10,6 +10,9 @@ Allocation Charts by Region
   - http://www.acma.gov.au/webwr/radcomm/frequency_planning/spectrum_plan/aust_rf_spectrum_allocations_chart.pdf
 - bb
   - http://www.telecoms.gov.bb/website/Documents/Spectrum%20Management%20Handbook%20TU.doc
+- bh
+  - http://www.tra.org.bh/media/document/The%202009%20National%20Frequency%20Plan.pdf
+  - http://www.tra.org.bh/en/media/spectrum-management/frequency-plans.html
 - br
   - http://www.anatel.gov.br/grandeseventos/en/spectrum.html
   - http://www.teleco.com.br/en/en_freq_no_brasil.asp  
@@ -39,14 +42,23 @@ Allocation Charts by Region
   - http://www.tele.soumu.go.jp/e/adm/freq/search/share/plan.htm
 - ke
   - http://www.ictregulationtoolkit.org/Documents/Document/Document/3759
+- ly
+  - http://cim.gov.ly/uploads/LNFP_PC_english.pdf
 - md
   - http://www.cept.org/files/1050/Tools%20and%20Services/EFIS%20-%20ECO%20Frequency%20Information%20System/National%20frequency%20tables/Moldova%20national%20table.pdf  
 - mx
   - http://www.cft.gob.mx/wb/Cofetel_2008/Cofe_imagenes_del_cnaf_2007
+  - http://www.cft.gob.mx/wb/Cofetel_2008/Cofe_cnaf_4
+- nz
+  - http://www.rsm.govt.nz/about-rsm/spectrum-policy
+- pk
+  -  http://www.pta.gov.pk/media/Pakistan_Table_of_Frequency_Allocations.pdf
 - pl
   - http://www.cept.org/files/1050/Tools%20and%20Services/EFIS%20-%20ECO%20Frequency%20Information%20System/National%20frequency%20tables/Poland_NFAT_2005.pdf
-- ro
- - See EU (CEPT)
+- ro  
+  - See EU (CEPT)
+- sa
+  - http://www.citc.gov.sa/English/RulesandSystems/Bylaws/Documents/SM%20002%20E-NFP.pdf
 - th
   - https://www.nbtc.go.th/wps/portal/Eng/Home/FrequencyManagements/FreqAllocation/
 - us
@@ -86,6 +98,9 @@ Other references
 - http://www.spectrumwiki.com/Links.aspx
 - http://www.infocellar.com/networks/wireless/spectrum.htm
 - https://www.itu.int/osg/spu/stn/spectrum/spectrum_resources/ITU_SURVEY_ON_RADIO_SPECTRUM_MANAGEMENT_17_01_07_Final.pdf
-
+- http://oasforum.oas.org/citelituv3.nsf/ensearchform?openform
+- http://www.aptafis.org/
+- http://www.efis.dk
+- http://www.cept.org/eco/eco-tools-and-services/efis-eco-frequency-information-system/national-frequency-tables
   
   
