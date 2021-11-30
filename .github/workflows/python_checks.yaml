@@ -1,0 +1,28 @@
+defaults:
+  run:
+    shell: bash
+name: Precommit checks
+on: [push]
+jobs:
+  PrecommitChecks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - 
+        name: Install poetry
+        run: curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
+      - name: Print cwd
+        run: pwd
+      - name: ls
+        run: echo "$(ls)"
+      - name: Add poetry to system path
+        run: echo "$HOME/.poetry/bin" >> $GITHUB_PATH
+      - name: Install python libraries
+        run: |
+          cd python
+          poetry install --no-dev
+      - name: precommit checks
+        run: |
+          cd python
+          poetry run ./scripts/checks

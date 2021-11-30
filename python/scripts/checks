@@ -1,0 +1,16 @@
+#!/usr/bin/bash
+set -e
+LIB_NAME="frequencies_converter"
+# flake8
+echo "Running flake8"
+flake8 $LIB_NAME
+# pylint linter
+echo "Running pylint"
+pylint $LIB_NAME
+# mypy
+echo "Running mypy"
+mypy $LIB_NAME
+# black
+black --check $LIB_NAME
+# pytest
+pytest $LIB_NAME
