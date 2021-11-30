@@ -30,3 +30,8 @@ once part of this project has been moved out to its own project:
 
 https://github.com/ajmas/EarthFrequenciesViewer
 
+
+License
+-------
+
+Except where otherwise noted, all data here is under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/legalcode) license.
