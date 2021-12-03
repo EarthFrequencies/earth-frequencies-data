@@ -19,6 +19,21 @@ and in all cases you should be aware of local regulation of the air waves.
 If you find errors, please open a bug report in the project's issue tracker,
 or provide a pull-request with the fix.
 
+## Converter
+Right now, the converter used for converting the data is found in `python/`.
+
+You will first need to install the necessary libraries.
+```bash
+$ cd python
+$ pip install .
+```
+
+To run:
+```bash
+./scripts/run_converter.sh
+```
+
+
 ## Contributions
 
 Contributions are welcome and are appreciated.
