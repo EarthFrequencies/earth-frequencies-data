@@ -55,5 +55,5 @@ this should be verified and taken into account.
 Given this project is focusing purely on the data, the viewer that was
 once part of this project has been moved out to its own project:
 
-https://github.com/ajmas/EarthFrequenciesViewer
+https://github.com/EarthFrequencies/earth-frequencies-webui
 
