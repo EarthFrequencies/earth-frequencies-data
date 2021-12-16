@@ -2,7 +2,9 @@ defaults:
   run:
     shell: bash
 name: Precommit checks
-on: [push]
+
+on: [ push, pull_request ]
+
 jobs:
   PrecommitChecks:
     runs-on: ubuntu-latest
