@@ -3,11 +3,7 @@ defaults:
     shell: bash
 name: Precommit checks
 
-on:
-push:
-  branches: [ main ]
-pull_request:
-  branches: [ main ]
+on: [ push, pull_request ]
 
 jobs:
   PrecommitChecks:
