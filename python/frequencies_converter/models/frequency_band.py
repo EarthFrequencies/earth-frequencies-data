@@ -1,11 +1,16 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+import copy
 
 from mashumaro import DataClassJSONMixin
 
 
-@dataclass
+@dataclass(frozen=True)
 class FrequencyBand(DataClassJSONMixin):
-    lower_frequency: float
-    upper_frequency: float
+    # Units are in Hz
+    lower: int
+    upper: int
+
+    def copy(self) -> FrequencyBand:
+        return copy.deepcopy(self)

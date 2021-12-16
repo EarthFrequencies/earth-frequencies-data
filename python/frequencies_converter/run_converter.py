@@ -8,6 +8,7 @@ def run_conversion(output_directory: str = "build/rest"):
     convert_allocations_to_json(
         parent_input_directory=str(config.DATA_DIR),
         parent_output_directory=output_directory,
+        merge_entries=True,
     )
 
 
