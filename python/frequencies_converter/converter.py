@@ -5,7 +5,6 @@ import os
 from pathlib import Path
 from typing import List
 
-from frequencies_converter.merge_intervals import group_entries
 from frequencies_converter.config import ALLOCATION_FILENAME
 from frequencies_converter.models.allocation_table import (
     AllocationTable,
@@ -16,7 +15,6 @@ from frequencies_converter import config
 def convert_allocations_to_json(
     parent_input_directory: str,
     parent_output_directory: str,
-    merge_entries: bool = False,
 ) -> None:
     """
     Main converter that converts allocations from csv files into
@@ -30,9 +28,7 @@ def convert_allocations_to_json(
         parent_input_directory: The parent directory for the input csv files
         parent_output_directory: The parent directory for the output json files.
     """
-    allocation_tables = get_allocations_from_csv_files(
-        parent_input_directory, merge_entries=merge_entries
-    )
+    allocation_tables = get_allocations_from_csv_files(parent_input_directory)
     write_allocations_to_json_files(
         allocation_tables=allocation_tables, parent_directory=parent_output_directory
     )
@@ -49,9 +45,7 @@ def get_allocation_csv_dirs(parent_dir: str) -> List[Path]:
     return allocation_dirs
 
 
-def get_allocations_from_csv_files(
-    parent_directory: str, merge_entries: bool = False
-) -> List[AllocationTable]:
+def get_allocations_from_csv_files(parent_directory: str) -> List[AllocationTable]:
     directories = get_allocation_csv_dirs(str(parent_directory))
     parent_directory_substring = str(parent_directory) + "/"
 
@@ -61,13 +55,6 @@ def get_allocations_from_csv_files(
         allocation_tables.append(
             AllocationTable.from_data_file_directory(str(path), name=name)
         )
-
-    # TODO (jrmlhermitte): refactor and move out of here before merging.
-    if merge_entries:
-        # Merge table entries
-        for allocation_table in allocation_tables:
-            allocation_table.entries = group_entries(allocation_table.entries)
-
     return allocation_tables
 
 
