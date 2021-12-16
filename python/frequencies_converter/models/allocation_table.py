@@ -7,19 +7,20 @@ from typing import Dict, List, Optional
 import pandas as pd
 from mashumaro import DataClassJSONMixin
 
-from frequencies_converter.models.frequency_entry import FrequencyEntry
+from frequencies_converter.models.frequency_allocation_block import (
+    FrequencyAllocationBlock,
+)
 from frequencies_converter import config
 
 
 @dataclass
 class AllocationTable(DataClassJSONMixin):
+    allocation_blocks: List[FrequencyAllocationBlock]
     name: str
-    entries: List[FrequencyEntry]
-    metadata: Optional[Dict[str, str]]
-    parent_region: str
     region: str
-    sub_region: Optional[str]
-    year: Optional[int]
+    year: int
+    meta: Optional[Dict[str, str]] = None
+    parent_region: Optional[str] = None
 
     @staticmethod
     def from_data_file_directory(path: str, name: str) -> AllocationTable:
@@ -32,13 +33,10 @@ class AllocationTable(DataClassJSONMixin):
         else:
             region = "N/A"
         # TODO (jrmlhermitte): get parent region somehow
-        parent_region = "ITU1"
+        parent_region = None
         # TODO (jrmlhermitte): pass through year
-        year = None
-        # TODO (jrmlhermitte): pass through subregion.
-        # for example, us has a us-govt and non-govt sub region
-        sub_region = None
-        entries = FrequencyEntry.from_csv_file(str(allocations_file))
+        year = 1973
+        entries = FrequencyAllocationBlock.from_csv_file(str(allocations_file))
         metadata_file = Path(path) / Path(config.METADATA_FILENAME)
         metadata: Optional[Dict]
         if metadata_file.exists():
@@ -47,11 +45,10 @@ class AllocationTable(DataClassJSONMixin):
             metadata = None
         return AllocationTable(
             name=name,
-            entries=entries,
-            metadata=metadata,
+            allocation_blocks=entries,
+            meta=metadata,
             parent_region=parent_region,
             region=region,
-            sub_region=sub_region,
             year=year,
         )
 
@@ -77,16 +74,15 @@ class AllocationTable(DataClassJSONMixin):
     def to_data_file_directory(self, directory: str) -> None:
         allocation_directory = Path(directory)
         allocation_directory.mkdir(parents=True, exist_ok=True)
-        if self.metadata:
+        if self.meta:
             metadata_path = allocation_directory / config.METADATA_FILENAME
-            _write_metadata(self.metadata, metadata_path)
+            _write_metadata(self.meta, metadata_path)
         allocation_data_file = allocation_directory / config.ALLOCATION_FILENAME
-        FrequencyEntry.list_to_csv_file(
+        FrequencyAllocationBlock.list_to_csv_file(
             filename=str(allocation_data_file),
-            entries=self.entries,
+            entries=self.allocation_blocks,
             parent_region=self.parent_region,
             region=self.region,
-            sub_region=self.sub_region,
             year=self.year,
         )
 
