@@ -1,4 +1,4 @@
-Region	Activity	lower_frequency	upper_frequency	Category	Service	Footnotes
+region	activity	lower_frequency	upper_frequency	category	service	footnotes
 US	Federal Government	0	9000		-	5.53,5.54
 US	Federal Government	9000	14000		-	US2
 US	Federal Government	9000	14000	p	Radionavigation	US18
@@ -1726,8 +1726,8 @@ US	Non-Federal-Government	156247500	156762500		-	US77,US266,NG124
 US	Non-Federal-Government	156247500	156762500	p	Maritime Mobile	US106,US226,NG117
 US	Non-Federal-Government	156762500	156837500		-	5.226,US266	
 US	Non-Federal-Government	156762500	156837500	p	Maritime Mobile (distress, urgency, safety, and calling)	
-US	Non-Federal-Government	156837500	157037500		-	5.226,US77,US266	
-US	Non-Federal-Government	156837500	157037500	p	Maritime Mobile		
+US	Non-Federal-Government	156837500	157037500		-	5.226,US77,US266
+US	Non-Federal-Government	156837500	157037500	p	Maritime Mobile	
 US	Non-Federal-Government	157037500	157187500		-	5.226,US214,US266
 US	Non-Federal-Government	157187500	157450000		-	5.226,NG111
 US	Non-Federal-Government	157187500	157450000	p	Mobile except aeronautical mobile	US266
@@ -1830,7 +1830,7 @@ US	Non-Federal-Government	793000000	805000000	p	Mobile
 US	Non-Federal-Government	805000000	806000000	p	Broadcasting	
 US	Non-Federal-Government	805000000	806000000	p	Fixed	
 US	Non-Federal-Government	805000000	806000000	p	Mobile	
-US	Non-Federal-Government	805000000	806000000		-	NG159	
+US	Non-Federal-Government	805000000	806000000		-	NG159
 US	Non-Federal-Government	854000000	894000000		-	US116,US268
 US	Non-Federal-Government	854000000	894000000	p	Fixed	
 US	Non-Federal-Government	854000000	894000000	p	Land Mobile	
