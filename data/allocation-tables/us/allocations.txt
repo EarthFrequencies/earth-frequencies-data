@@ -1,4 +1,4 @@
-region	activity	lower_frequency	upper_frequency	category	service	footnotes
+Region	Activity	lower_frequency	upper_frequency	Category	Service	Footnotes
 US	Federal Government	0	9000		-	5.53,5.54
 US	Federal Government	9000	14000		-	US2
 US	Federal Government	9000	14000	p	Radionavigation	US18
@@ -1002,7 +1002,7 @@ US	Federal Government	50200000000	50400000000	p	Earth Exploration-Satellite (pas
 US	Federal Government	50200000000	50400000000	p	Space Research (passive)	
 US	Federal Government	50400000000	51400000000	p	Fixed	
 US	Federal Government	50400000000	51400000000	p	Fixed-Satellite (Earth-to-space)	
-US	Federal Government	50400000000	51400000000		-	G117	
+US	Federal Government	50400000000	51400000000		-	G117
 US	Federal Government	50400000000	51400000000	p	Mobile	
 US	Federal Government	50400000000	51400000000	p	Mobile-Satellite (Earth-to-space)	
 US	Federal Government	51400000000	52600000000	p	Fixed	
@@ -1354,7 +1354,7 @@ US	Non-Federal-Government	525000	535000		-	US239
 US	Non-Federal-Government	525000	535000	p	Aeronautical Radionavigation (radiobeacons) 	US18
 US	Non-Federal-Government	525000	535000	p	Mobile	US221
 US	Non-Federal-Government	535000	1605000	p	Broadcasting	
-US	Non-Federal-Government	535000	1605000		-	NG1 NG5	
+US	Non-Federal-Government	535000	1605000		-	NG1 NG5
 US	Non-Federal-Government	1605000	1705000		-	US299,NG1,NG5
 US	Non-Federal-Government	1605000	1705000	p	Broadcasting	5.89
 US	Non-Federal-Government	1705000	1800000		-	US240
@@ -1724,7 +1724,7 @@ US	Non-Federal-Government	154000000	156247500	p	Fixed
 US	Non-Federal-Government	154000000	156247500	p	Land Mobile	NG112
 US	Non-Federal-Government	156247500	156762500		-	US77,US266,NG124
 US	Non-Federal-Government	156247500	156762500	p	Maritime Mobile	US106,US226,NG117
-US	Non-Federal-Government	156762500	156837500		-	5.226,US266	
+US	Non-Federal-Government	156762500	156837500		-	5.226,US266
 US	Non-Federal-Government	156762500	156837500	p	Maritime Mobile (distress, urgency, safety, and calling)	
 US	Non-Federal-Government	156837500	157037500		-	5.226,US77,US266
 US	Non-Federal-Government	156837500	157037500	p	Maritime Mobile	
