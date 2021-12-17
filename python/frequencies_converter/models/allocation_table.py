@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import copy
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, List, Optional
@@ -21,6 +22,9 @@ class AllocationTable(DataClassJSONMixin):
     year: int
     meta: Optional[Dict[str, str]] = None
     parent_region: Optional[str] = None
+
+    def copy(self) -> AllocationTable:
+        return copy.deepcopy(self)
 
     @staticmethod
     def from_data_file_directory(path: str, name: str) -> AllocationTable:
