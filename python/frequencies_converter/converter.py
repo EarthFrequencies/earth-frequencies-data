@@ -2,9 +2,11 @@
 This is the entry point for the converter.
 """
 import os
+import json
 from pathlib import Path
 from typing import List
 
+from frequencies_converter.aggregation import group_entries
 from frequencies_converter.config import ALLOCATION_FILENAME
 from frequencies_converter.models.allocation_table import (
     AllocationTable,
@@ -15,6 +17,7 @@ from frequencies_converter import config
 def convert_allocations_to_json(
     parent_input_directory: str,
     parent_output_directory: str,
+    merge_entries: bool = False,
 ) -> None:
     """
     Main converter that converts allocations from csv files into
@@ -29,6 +32,8 @@ def convert_allocations_to_json(
         parent_output_directory: The parent directory for the output json files.
     """
     allocation_tables = get_allocations_from_csv_files(parent_input_directory)
+    if merge_entries:
+        allocation_tables = desegment_intervals(allocation_tables)
     write_allocations_to_json_files(
         allocation_tables=allocation_tables, parent_directory=parent_output_directory
     )
@@ -58,6 +63,19 @@ def get_allocations_from_csv_files(parent_directory: str) -> List[AllocationTabl
     return allocation_tables
 
 
+def desegment_intervals(
+    allocation_tables: List[AllocationTable],
+) -> List[AllocationTable]:
+    output_allocation_tables = []
+    # Merge table entries
+    for allocation_table in allocation_tables:
+        print(f"Merging entries for: {allocation_table.name}")
+        new_table = allocation_table.copy()
+        new_table.allocation_blocks = group_entries(allocation_table.allocation_blocks)
+        output_allocation_tables.append(new_table)
+    return output_allocation_tables
+
+
 def write_allocations_to_csv_files(
     allocation_tables: List[AllocationTable], parent_directory: str
 ) -> None:
@@ -71,7 +89,8 @@ def write_allocation_to_json_file(
     allocation_table: AllocationTable, output_filename: str
 ) -> None:
     with open(output_filename, "w", encoding="utf-8") as file:
-        json_data = allocation_table.to_json()
+        dict_data = allocation_table.to_dict(by_alias=True)
+        json_data = json.dumps(dict_data)
         assert isinstance(json_data, str)
         file.write(json_data)
 

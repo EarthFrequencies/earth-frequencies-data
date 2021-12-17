@@ -44,14 +44,14 @@ def make_frequency_entries() -> List[FrequencyAllocationBlock]:
     return [
         FrequencyAllocationBlock(
             band=FrequencyBand(lower=1000, upper=2000),
-            allocations=[FrequencyAllocation(service="some_service", primary=True)],
+            allocations=[FrequencyAllocation(service="some_service", primary=False)],
         ),
         FrequencyAllocationBlock(
             band=FrequencyBand(lower=2000, upper=5000),
             allocations=[
                 FrequencyAllocation(
                     service="some_service",
-                    primary=True,
+                    primary=False,
                 )
             ],
         ),

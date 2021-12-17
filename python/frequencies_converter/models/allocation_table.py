@@ -1,11 +1,15 @@
 from __future__ import annotations
 
-from dataclasses import dataclass
+import copy
+from dataclasses import dataclass, field
+
 from pathlib import Path
 from typing import Dict, List, Optional
 
 import pandas as pd
-from mashumaro import DataClassJSONMixin
+from mashumaro import DataClassJSONMixin, field_options, DataClassDictMixin
+from mashumaro.config import BaseConfig, TO_DICT_ADD_BY_ALIAS_FLAG
+
 
 from frequencies_converter.models.frequency_allocation_block import (
     FrequencyAllocationBlock,
@@ -14,13 +18,27 @@ from frequencies_converter import config
 
 
 @dataclass
-class AllocationTable(DataClassJSONMixin):
-    allocation_blocks: List[FrequencyAllocationBlock]
+class AllocationTable(DataClassJSONMixin, DataClassDictMixin):
+    allocation_blocks: List[FrequencyAllocationBlock] = field(
+        metadata=field_options(alias="allocationBlocks")
+    )
     name: str
     region: str
     year: int
     meta: Optional[Dict[str, str]] = None
-    parent_region: Optional[str] = None
+    parent_region: Optional[str] = field(
+        default=None, metadata=field_options(alias="parentRegion")
+    )
+
+    # pylint: disable=too-few-public-methods
+    class Config(BaseConfig):
+        serialize_by_alias = True
+        code_generation_options = [TO_DICT_ADD_BY_ALIAS_FLAG]  # type: ignore
+
+    # pylint: enable=too-few-public-methods
+
+    def copy(self) -> AllocationTable:
+        return copy.deepcopy(self)
 
     @staticmethod
     def from_data_file_directory(path: str, name: str) -> AllocationTable:

@@ -1,4 +1,4 @@
-Region	Sub-Table	lower_frequency	upper_frequency	Service	Footnotes
+region	sub-Table	lower_frequency	upper_frequency	service	footnotes
 US	Non-Federal-Government	0	9000	-	5.53  5.54
 US	Non-Federal-Government	9000	14000	-	US2
 US	Non-Federal-Government	9000	14000	RADIONAVIGATION	US18
