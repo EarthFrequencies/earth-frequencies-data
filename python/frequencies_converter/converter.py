@@ -1,6 +1,7 @@
 """
 This is the entry point for the converter.
 """
+import base64
 import os
 from pathlib import Path
 from typing import List
@@ -76,6 +77,24 @@ def write_allocation_to_json_file(
         file.write(json_data)
 
 
+def write_allocation_to_proto_file(
+    allocation_table: AllocationTable, output_filename: str
+) -> None:
+    with open(output_filename, "wb") as file:
+        proto_data = allocation_table.to_protobuf().SerializeToString()
+        assert isinstance(proto_data, bytes)
+        file.write(proto_data)
+
+def write_allocation_to_b64_file(
+    allocation_table: AllocationTable, output_filename: str
+) -> None:
+    with open(output_filename, "wb") as file:
+        proto_bytes = allocation_table.to_protobuf().SerializeToString()
+        proto_b64 = base64.b64encode(proto_bytes)
+        assert isinstance(proto_b64, bytes)
+        file.write(proto_b64)
+
+
 def write_allocations_to_json_files(
     allocation_tables: List[AllocationTable], parent_directory: str
 ) -> None:
@@ -84,6 +103,10 @@ def write_allocations_to_json_files(
         new_path.mkdir(exist_ok=True, parents=True)
         output_filename = str(new_path / Path(config.JSON_INDEX_FILENAME))
         write_allocation_to_json_file(allocation_table, output_filename)
+        output_filename = str(new_path / Path(config.PROTO_INDEX_FILENAME))
+        write_allocation_to_proto_file(allocation_table, output_filename)
+        output_filename = str(new_path / Path(config.PROTO_B64_INDEX_FILENAME))
+        write_allocation_to_b64_file(allocation_table, output_filename)
 
 
 if __name__ == "__main__":

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+import json
 from pathlib import Path
 from typing import Dict, List, Optional
 
@@ -11,6 +12,7 @@ from frequencies_converter.models.frequency_allocation_block import (
     FrequencyAllocationBlock,
 )
 from frequencies_converter import config
+from frequencies_converter.protos import frequencies_pb2
 
 
 @dataclass
@@ -85,6 +87,19 @@ class AllocationTable(DataClassJSONMixin):
             region=self.region,
             year=self.year,
         )
+
+    def to_protobuf(self) -> frequencies_pb2.FrequencyAllocations:
+        allocation_block_protos = [
+            allocation_block.to_proto()
+            for allocation_block in self.allocation_blocks]
+        meta_bytes = json.dumps(self.meta).encode()
+        return frequencies_pb2.FrequencyAllocations(
+            allocation_blocks=allocation_block_protos,
+            name=self.name,
+            region=self.region,
+            meta=meta_bytes,
+            year=self.year,
+            parent_region=self.parent_region)
 
     @staticmethod
     def list_to_data_file_directory(

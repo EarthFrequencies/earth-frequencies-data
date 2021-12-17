@@ -9,3 +9,5 @@ DATA_DIR = Path(__file__).parent.parent.parent / Path("data/allocation-tables")
 ALLOCATION_FILENAME = "allocations.txt"
 METADATA_FILENAME = "metadata.txt"
 JSON_INDEX_FILENAME = "index.json"
+PROTO_INDEX_FILENAME = "index.proto"
+PROTO_B64_INDEX_FILENAME = "index.proto.b64"

@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+package frequencies;
+
+
+message FrequencyBand {
+    double lower = 1;
+    double upper = 2;
+}
+  
+message FrequencyAllocation {
+    string service = 1;
+    bool primary = 2;
+    repeated string footnotes = 3;
+}
+  
+
+message FrequencyAllocationBlock {
+    FrequencyBand band = 1;
+    repeated FrequencyAllocation allocations = 2;
+}
+  
+message FrequencyAllocations {
+    string name = 1;
+    string region = 2;
+    optional string parent_region = 3;
+    uint32 year = 4;
+    bytes meta = 5; 
+    repeated FrequencyAllocationBlock allocation_blocks = 6;
+}

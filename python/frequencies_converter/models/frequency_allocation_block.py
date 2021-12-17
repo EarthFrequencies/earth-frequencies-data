@@ -9,6 +9,7 @@ from mashumaro import DataClassJSONMixin
 
 from frequencies_converter.models.frequency_allocation import FrequencyAllocation
 from frequencies_converter.models.frequency_band import FrequencyBand
+from frequencies_converter.protos import frequencies_pb2
 
 
 @dataclass
@@ -27,6 +28,15 @@ class FrequencyAllocationBlock(DataClassJSONMixin):
             }
             rows.append(row)
         return rows
+
+    def to_proto(self) -> frequencies_pb2.FrequencyAllocationBlock:
+        band_proto = self.band.to_proto()
+        allocations_proto = [allocation.to_proto() for allocation in self.allocations]
+        return frequencies_pb2.FrequencyAllocationBlock(
+            band=band_proto,
+            allocations=allocations_proto,
+        )
+
 
     @classmethod
     def from_csv_file(cls, filename: str) -> List[FrequencyAllocationBlock]:
