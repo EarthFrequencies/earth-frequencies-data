@@ -2,6 +2,7 @@
 This is the entry point for the converter.
 """
 import os
+import json
 from pathlib import Path
 from typing import List
 
@@ -88,7 +89,8 @@ def write_allocation_to_json_file(
     allocation_table: AllocationTable, output_filename: str
 ) -> None:
     with open(output_filename, "w", encoding="utf-8") as file:
-        json_data = allocation_table.to_json()
+        dict_data = allocation_table.to_dict(by_alias=True)
+        json_data = json.dumps(dict_data)
         assert isinstance(json_data, str)
         file.write(json_data)
 
