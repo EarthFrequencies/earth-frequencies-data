@@ -1,4 +1,4 @@
-Region	Sub-table	lower_frequency	upper_frequency	Category	Service	Footnotes
+region	sub-table	lower_frequency	upper_frequency	category	service	footnotes
 ITU Region 1		0	9000		-	5.53,5.54
 ITU Region 1		9000	14000	p	Radionavigation	
 ITU Region 1		14000	19950		-	5.55,5.56

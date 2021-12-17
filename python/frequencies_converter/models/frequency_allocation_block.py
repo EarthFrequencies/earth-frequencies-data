@@ -22,7 +22,7 @@ class FrequencyAllocationBlock(DataClassJSONMixin):
             row = {
                 "lower_frequency": self.band.lower,
                 "upper_frequency": self.band.upper,
-                "Service": allocation.service,
+                "service": allocation.service,
                 "primary": allocation.primary,
             }
             rows.append(row)
@@ -52,12 +52,19 @@ class FrequencyAllocationBlock(DataClassJSONMixin):
         # footnotes=_get_optional_csv_string(row, "footnotes"),
         # region=_get_string(row, "region"),
         # sub_table=_get_optional_string(row, "sub-table"),
+        service_name = _get_optional_string(row, "service") or ""
+        # Convention is all caps means primary service otherwise it's secondary.
+        primary = bool(
+            len(service_name) > 0
+            and service_name != "-"
+            and service_name == service_name.upper()
+        )
         allocation = FrequencyAllocation(
-            service=_get_optional_string(row, "Service") or "",
+            service=service_name,
             # TODO (jrmlhermitte): fill this in. Note for US frequencies
             #  primary or not is determined by the name casing
             # (uppercase is primary).
-            primary=True,
+            primary=primary,
         )
         return FrequencyAllocationBlock(
             band=band,

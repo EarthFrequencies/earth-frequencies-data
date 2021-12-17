@@ -1,4 +1,4 @@
-Region	Sub-table	lower_frequency	upper_frequency	Category	Service	Footnotes
+region	sub-table	lower_frequency	upper_frequency	category	service	footnotes
 ca		0	8300		-	C1,C2
 ca		0	8300		(not allocated)	
 ca		8300	9000	p	Meteorological Aids	5.54A
