@@ -1,11 +1,11 @@
 #!/usr/bin/env python
-import fire
 from pathlib import Path
+import fire
 from frequencies_converter.converter import convert_allocations_to_json
-from frequencies_converter import config
 
+def run_conversion(output_directory: str = "build/rest",
+    input_directory: str = "../data/allocation-tables"):
 
-def run_conversion(output_directory: str = "build/rest", input_directory: str = "../data/allocation-tables"):
     output_directory=str(Path(output_directory).resolve())
     input_directory=str(Path(input_directory).resolve())
 
@@ -17,7 +17,6 @@ def run_conversion(output_directory: str = "build/rest", input_directory: str = 
         parent_output_directory=output_directory,
         merge_entries=True,
     )
-
 
 if __name__ == "__main__":
     fire.Fire(run_conversion)
