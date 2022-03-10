@@ -4,8 +4,10 @@ import fire
 from frequencies_converter.converter import convert_allocations_to_json
 
 
-def run_conversion(output_directory: str = "build/rest",
-                   input_directory: str = "../data/allocation-tables"):
+def run_conversion(
+    output_directory: str = "build/rest",
+    input_directory: str = "../data/allocation-tables",
+):
 
     output_directory = str(Path(output_directory).resolve())
     input_directory = str(Path(input_directory).resolve())
