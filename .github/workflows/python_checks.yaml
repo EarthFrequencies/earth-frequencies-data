@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v2
-      - 
+      -
         name: Install poetry
         run: curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
       - name: Print cwd
@@ -26,5 +26,5 @@ jobs:
           poetry install --no-dev
       - name: precommit checks
         run: |
-          cd python
+          cd scripts/python
           poetry run ./scripts/checks
