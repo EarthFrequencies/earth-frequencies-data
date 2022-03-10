@@ -43,7 +43,7 @@ class AllocationTable(DataClassJSONMixin, DataClassDictMixin):
     @staticmethod
     def from_data_file_directory(path: str, name: str) -> AllocationTable:
         allocations_file = path / Path(config.ALLOCATION_FILENAME)
-        print(allocations_file)
+        print("processing: " + allocations_file)
         df = pd.read_csv(str(allocations_file), sep="\t")
         # TODO (jrmlhermitte): group by region and return multiple allocation tables
         if len(df) > 0:

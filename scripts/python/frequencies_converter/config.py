@@ -1,7 +1,7 @@
 from pathlib import Path
 
 
-DATA_DIR = Path(__file__).parent.parent.parent / Path("data/allocation-tables")
+DATA_DIR = Path(__file__).parent.parent.parent / Path("../data/allocation-tables")
 
 # TODO (jrmlhermitte): These should be renamed to .tsv
 #  (tab separated values).

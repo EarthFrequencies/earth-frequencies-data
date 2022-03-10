@@ -24,7 +24,7 @@ Right now, the converter used for converting the data is found in `python/`.
 
 You will first need to install the necessary libraries (note the '.' in the pip command):
 ```bash
-$ cd python
+$ cd scripts/python
 $ pip install .
 ```
 
